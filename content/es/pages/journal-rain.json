@@ -10,20 +10,40 @@
   "dateLabel": "Septiembre de 2026",
   "minutes": 5,
   "excerpt": "Una breve explicación de las tormentas de Singapur y un plan para convivir con ellas.",
-  "related": ["civic-district", "marina-bay", "botanic-gardens"],
+  "related": [
+    "civic-district",
+    "marina-bay",
+    "botanic-gardens"
+  ],
   "body": [
-    { "p": "Pasa unos días en Singapur en abril o en noviembre y notarás una pauta. La mañana es luminosa y sin viento. A mediodía el cielo se ha vuelto blanco de calima y calor. Hacia las tres o las cuatro, las nubes se apilan en torres, la luz se vuelve gris amarillenta y la lluvia llega de golpe, tan fuerte que rebota en el asfalto. Una hora después, todo ha pasado." },
-    { "h2": "El calor hace la tormenta" },
-    { "p": "La causa es el propio sol. Desde primera hora calienta el suelo y el mar, y el aire cálido y muy húmedo que hay sobre ellos asciende. Al subir se enfría, la humedad se condensa y, a media tarde, las nubes han crecido lo bastante como para convertirse en tormentas. Por eso son más frecuentes después de las horas de más calor, y por eso los meses entre monzones, con poco viento que mezcle el aire, son los que más tormentas tienen." },
-    { "h2": "Los monzones" },
-    { "p": "Dos veces al año, los vientos dominantes de la región cambian de dirección. Aproximadamente de diciembre a principios de marzo, el monzón del nordeste trae una racha húmeda, a menudo con lluvias más largas y constantes, seguida de una fase más seca y ventilada. Aproximadamente de junio a septiembre, el monzón del suroeste es en general más seco, pero trae la turbonada de Sumatra: una línea de tormentas que se forma de noche sobre el estrecho de Malaca y barre la isla antes del amanecer, con fuertes rachas de viento." },
-    { "h2": "Cómo planificarse" },
-    { "ul": [
-      "**Camina por la mañana.** Casi todos los meses, el mejor tiempo del día se da entre las 7:00 y las 10:00.",
-      "**Deja la tarde abierta.** Ten a mano un plan bajo techo: un museo, un hawker centre, una pasarela cubierta.",
-      "**Tómate en serio los rayos.** Singapur tiene uno de los índices de actividad eléctrica más altos del mundo. Cuando oigas truenos, aléjate de los espacios abiertos, del agua y de los puentes.",
-      "**No canceles por una previsión.** Un «70 % de probabilidad de tormenta» suele significar una hora de lluvia intensa en algún punto de la isla."
-    ] },
-    { "p": "Y también tiene su encanto. Resguárdate bajo un five-foot way durante un aguacero, con el agua cayendo de las tejas como una cortina y la calle vacía de repente, y entenderás por qué la ciudad se construyó así." }
+    {
+      "p": "Pasa unos días en Singapur en abril o en noviembre y notarás una pauta. La mañana es luminosa y sin viento. A mediodía el cielo se ha vuelto blanco de calima y calor. Hacia las tres o las cuatro, las nubes se apilan en torres, la luz se vuelve gris amarillenta y la lluvia llega de golpe, tan fuerte que rebota en el asfalto. Una hora después, todo ha pasado."
+    },
+    {
+      "h2": "El calor hace la tormenta"
+    },
+    {
+      "p": "La causa es el propio sol. Desde primera hora calienta el suelo y el mar, y el aire cálido y muy húmedo que hay sobre ellos asciende. Al subir se enfría, la humedad se condensa y, a media tarde, las nubes han crecido lo bastante como para convertirse en tormentas. Por eso son más frecuentes después de las horas de más calor, y por eso los meses entre monzones, con poco viento que mezcle el aire, son los que más tormentas tienen."
+    },
+    {
+      "h2": "Los monzones"
+    },
+    {
+      "p": "Dos veces al año, los vientos dominantes de la región cambian de dirección. Aproximadamente de diciembre a principios de marzo, el monzón del nordeste trae una racha húmeda, a menudo con lluvias más largas y constantes, seguida de una fase más seca y ventilada. Aproximadamente de junio a septiembre, el monzón del suroeste es en general más seco, pero trae la turbonada de Sumatra: una línea de tormentas que se forma de noche sobre el estrecho de Malaca y barre la isla antes del amanecer, con fuertes rachas de viento."
+    },
+    {
+      "h2": "Cómo planificarse"
+    },
+    {
+      "ul": [
+        "**Camina por la mañana.** Casi todos los meses, el mejor tiempo del día se da entre las 7:00 y las 10:00.",
+        "**Deja la tarde abierta.** Ten a mano un plan bajo techo: un museo, un hawker centre, una pasarela cubierta.",
+        "**Tómate en serio los rayos.** Singapur tiene uno de los índices de actividad eléctrica más altos del mundo. Cuando oigas truenos, aléjate de los espacios abiertos, del agua y de los puentes.",
+        "**No canceles por una previsión.** Un «70 % de probabilidad de tormenta» suele significar una hora de lluvia intensa en algún punto de la isla."
+      ]
+    },
+    {
+      "p": "Y también tiene su encanto. Resguárdate bajo un five-foot way durante un aguacero, con el agua cayendo de las tejas como una cortina y la calle vacía de repente, y entenderás por qué la ciudad se construyó así."
+    }
   ]
 }

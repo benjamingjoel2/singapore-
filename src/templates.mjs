@@ -125,7 +125,7 @@ function header(ctx) {
   const nav = [['hawker-guide', ui.nav.hawker], ['stopover-planner', ui.nav.stopover], ['shade-walks', ui.nav.walks], ['journeys', ui.nav.journeys], ['stays', ui.nav.stays], ['journal', ui.nav.journal], ['about', ui.nav.about]];
   return `<header class="hdr" id="hdr">
 <div class="hdr__left">
-<a class="logo" href="${url('home')}" aria-label="${esc(cfg.brand.name)} — ${esc(ui.home)}"><span>${esc(l1)}</span><span>${esc(l2)}</span></a>
+<a class="logo" href="${url('home')}"><span>${esc(l1)}</span> <span>${esc(l2)}</span></a>
 <nav class="hdr__nav" aria-label="${esc(ui.menu)}">
 <a class="cell cell--top" href="${url('home', 'neighbourhoods')}">${esc(ui.nav.neighbourhoods)}</a>
 <ul>${nav.map(([id, label]) => `<li><a class="cell" href="${url(id)}"${pg.id === id ? ' aria-current="page"' : ''}>${esc(label)}</a></li>`).join('')}</ul>
@@ -274,7 +274,7 @@ function home(ctx) {
   return `${hero(ctx, d.hero, { inner: false, after: `<nav class="strip" aria-label="${esc(d.stripLabel)}">${stripItems}</nav>` })}
 <section class="statement"><p class="kicker">${esc(d.statement.kicker)}</p><p class="rv">${md(d.statement.text)}</p></section>
 <section class="collage">
-<figure class="collage__a rv" style="margin:0">${img(d.collage.imageA, { sizes: '(min-width:900px) 66vw, 100vw' })}<figcaption><h3>${esc(d.collage.title)}</h3><p class="small" style="margin:0;max-width:60ch">${md(d.collage.caption)}</p></figcaption></figure>
+<figure class="collage__a rv" style="margin:0">${img(d.collage.imageA, { sizes: '(min-width:900px) 66vw, 100vw' })}<figcaption><h2>${esc(d.collage.title)}</h2><p class="small" style="margin:0;max-width:60ch">${md(d.collage.caption)}</p></figcaption></figure>
 <div class="collage__notes rv">${ctx.paras(d.collage.notes)}</div>
 <figure class="collage__b rv rv-img" style="margin:0">${img(d.collage.imageB, { sizes: '(min-width:900px) 34vw, 100vw' })}</figure>
 </section>
@@ -294,7 +294,7 @@ ${journalRail(ctx)}`;
 /* ─────────── PLACE ─────────── */
 function place(ctx) {
   const { data: d, ui, url, img, md, paras } = ctx;
-  const info = `<dl class="infobar">${d.info.map((i) => `<div><dt>${esc(i.label)}</dt><dd>${esc(i.value)}</dd></div>`).join('')}<a class="cta" href="${url('enquire')}">${esc(ui.place.enquireAbout)} ${ARROW.replace('<svg', '<svg width="16" height="16"')}</a></dl>`;
+  const info = `<div class="infobar">${d.info.map((i) => `<dl><dt>${esc(i.label)}</dt><dd>${esc(i.value)}</dd></dl>`).join('')}<a class="cta" href="${url('enquire')}">${esc(ui.place.enquireAbout)} ${ARROW.replace('<svg', '<svg width="16" height="16"')}</a></div>`;
   const rows = d.rows.map((r) => `<article class="row rv${r.image ? '' : ' row--text'}">
 <div class="row__head"><h3>${boxed(r.title, 'bx--plain')}</h3>${r.meta?.length ? `<p class="row__meta mono">${r.meta.map(esc).join('<span aria-hidden="true">/</span>')}</p>` : ''}</div>
 ${r.image ? `<div class="row__media">${img(r.image, { sizes: '(min-width:900px) 28vw, 100vw' })}</div>` : ''}
@@ -437,7 +437,7 @@ function about(ctx) {
   return `${hero(ctx, d.hero)}
 <section class="statement"><p class="kicker">${esc(d.statement.kicker)}</p><p class="rv">${md(d.statement.text)}</p></section>
 <section class="collage">
-<figure class="collage__a rv" style="margin:0">${img(d.collage.imageA, { sizes: '(min-width:900px) 66vw, 100vw' })}<figcaption><h3>${esc(d.collage.title)}</h3><p class="small" style="margin:0;max-width:60ch">${md(d.collage.caption)}</p></figcaption></figure>
+<figure class="collage__a rv" style="margin:0">${img(d.collage.imageA, { sizes: '(min-width:900px) 66vw, 100vw' })}<figcaption><h2>${esc(d.collage.title)}</h2><p class="small" style="margin:0;max-width:60ch">${md(d.collage.caption)}</p></figcaption></figure>
 <div class="collage__notes rv">${paras(d.collage.notes)}</div>
 <figure class="collage__b rv rv-img" style="margin:0">${img(d.collage.imageB, { sizes: '(min-width:900px) 34vw, 100vw' })}</figure>
 </section>

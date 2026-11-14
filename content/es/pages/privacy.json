@@ -9,38 +9,98 @@
   "tocLabel": "Contenido",
   "intro": "Esta política explica qué datos personales recoge {brand} cuando usted utiliza {url} o se pone en contacto con nosotros, por qué los recogemos, durante cuánto tiempo los conservamos y qué derechos le asisten. Cumplimos la Personal Data Protection Act 2012 (PDPA) de Singapur y, para los visitantes de la Unión Europea y el Reino Unido, los principios del Reglamento General de Protección de Datos (RGPD).",
   "sections": [
-    { "h": "Quiénes somos", "p": ["{brand} es un servicio de planificación de viajes a Singapur. Somos la organización responsable de sus datos personales.", "Dirección: {address}.", "Correo electrónico: [{email}](mailto:{email}). Es también el contacto de nuestro delegado de protección de datos."] },
-    { "h": "Qué datos recogemos", "p": ["Solo recogemos lo necesario para responderle y planificar su viaje:"], "ul": [
-      "**Datos de la consulta** que nos facilita a través del formulario o por correo electrónico: su nombre, dirección de correo electrónico, país de residencia, fechas aproximadas, número de viajeros, intereses y su mensaje.",
-      "**Datos de la reserva**, si decide seguir adelante con un viaje: nombres de los viajeros, fechas de nacimiento y datos del pasaporte cuando los exija un hotel, una aerolínea o una autoridad, horarios de vuelo, necesidades alimentarias o de accesibilidad que decida comunicarnos y justificantes de pago.",
-      "**Datos técnicos** que nuestro proveedor de alojamiento registra automáticamente cuando usted visita el sitio, como la dirección IP, el tipo de navegador y las páginas solicitadas, que se conservan en los registros del servidor por motivos de seguridad y resolución de incidencias."
-    ], "p2": ["No utilizamos rastreadores publicitarios, cookies de analítica ni píxeles de redes sociales. Le rogamos que no nos envíe información sensible, como datos de salud, salvo que sea necesaria para su viaje y usted haya decidido facilitarla."] },
-    { "h": "Cómo los utilizamos", "ul": [
-      "Para responder a su consulta y preparar una propuesta (nuestro interés legítimo en responderle y la aplicación, a petición suya, de medidas precontractuales).",
-      "Para reservar y gestionar su viaje con hoteles, guías y otros proveedores (ejecución de un contrato).",
-      "Para cumplir obligaciones legales, contables y fiscales (obligación legal).",
-      "Para mantener el sitio web seguro y en funcionamiento (interés legítimo)."
-    ], "p2": ["No enviamos correos comerciales salvo que usted haya solicitado recibirlos, y nunca vendemos datos personales."] },
-    { "h": "Con quién los compartimos", "p": ["Solo compartimos datos personales cuando es necesario:"], "ul": [
-      "**Proveedores de viaje**, como hoteles, guías y empresas de transporte, para que puedan prestar los servicios que usted ha reservado.",
-      "**Prestadores de servicios** que tratan datos por cuenta nuestra: nuestro proveedor de alojamiento web (Vercel Inc.), nuestro proveedor de correo electrónico y nuestras herramientas de contabilidad. Solo pueden utilizar los datos para prestarnos su servicio.",
-      "**Autoridades**, cuando la ley lo exija."
-    ] },
-    { "h": "Transferencias internacionales", "p": ["Algunos de nuestros prestadores de servicios almacenan datos fuera de Singapur, incluidos los Estados Unidos y la Unión Europea. Cuando los datos salen de Singapur, adoptamos medidas para garantizar que reciban un nivel de protección comparable al de la PDPA, por ejemplo mediante garantías contractuales."] },
-    { "h": "Cuánto tiempo los conservamos", "ul": [
-      "Consultas que no dan lugar a una reserva: hasta 24 meses después de nuestro último contacto; transcurrido ese plazo, se eliminan.",
-      "Registros de reservas: durante el tiempo que exijan las normas fiscales y contables de Singapur, actualmente cinco años desde el final del ejercicio fiscal del viaje.",
-      "Registros del servidor: durante un breve periodo fijado por nuestro proveedor de alojamiento, normalmente no más de 30 días."
-    ] },
-    { "h": "Cómo los protegemos", "p": ["El sitio se sirve únicamente a través de una conexión cifrada (HTTPS). El acceso a las consultas y a los registros de reservas se limita a las personas que lo necesitan para planificar su viaje. Ningún método de transmisión o almacenamiento es completamente seguro, pero adoptamos medidas razonables para proteger sus datos y, cuando la ley lo exija, le notificaremos a usted y a las autoridades cualquier violación de la seguridad de los datos."] },
-    { "h": "Sus derechos", "p": ["Puede solicitarnos en cualquier momento:"], "ul": [
-      "acceder a los datos personales que conservamos sobre usted y saber cómo se han utilizado;",
-      "rectificar los datos inexactos o incompletos;",
-      "retirar su consentimiento al uso de sus datos (lo que puede impedirnos seguir planificando su viaje);",
-      "suprimir sus datos cuando ya no necesitemos conservarlos, o limitar el modo en que los utilizamos;",
-      "recibir sus datos en un formato portable, cuando proceda."
-    ], "p2": ["Escriba a [{email}](mailto:{email}). Le responderemos en un plazo de 30 días. Si no está satisfecho con nuestra respuesta, puede dirigirse a la Personal Data Protection Commission de Singapur o, si reside en la UE o en el Reino Unido, a la autoridad de protección de datos de su país."] },
-    { "h": "Menores", "p": ["Nuestros servicios están dirigidos a adultos que planifican un viaje. Solo tratamos datos de menores cuando un progenitor o tutor los facilita como parte de una reserva familiar."] },
-    { "h": "Cambios en esta política", "p": ["Podemos actualizar esta política periódicamente. La fecha que figura al principio indica cuándo se modificó por última vez. Los cambios significativos se destacarán en esta página."] }
+    {
+      "h": "Quiénes somos",
+      "p": [
+        "{brand} es un servicio de planificación de viajes a Singapur. Somos la organización responsable de sus datos personales.",
+        "Dirección: {address}.",
+        "Correo electrónico: [{email}](mailto:{email}). Es también el contacto de nuestro delegado de protección de datos."
+      ]
+    },
+    {
+      "h": "Qué datos recogemos",
+      "p": [
+        "Solo recogemos lo necesario para responderle y planificar su viaje:"
+      ],
+      "ul": [
+        "**Datos de la consulta** que nos facilita a través del formulario o por correo electrónico: su nombre, dirección de correo electrónico, país de residencia, fechas aproximadas, número de viajeros, intereses y su mensaje.",
+        "**Datos de la reserva**, si decide seguir adelante con un viaje: nombres de los viajeros, fechas de nacimiento y datos del pasaporte cuando los exija un hotel, una aerolínea o una autoridad, horarios de vuelo, necesidades alimentarias o de accesibilidad que decida comunicarnos y justificantes de pago.",
+        "**Datos técnicos** que nuestro proveedor de alojamiento registra automáticamente cuando usted visita el sitio, como la dirección IP, el tipo de navegador y las páginas solicitadas, que se conservan en los registros del servidor por motivos de seguridad y resolución de incidencias."
+      ],
+      "p2": [
+        "No utilizamos rastreadores publicitarios, cookies de analítica ni píxeles de redes sociales. Le rogamos que no nos envíe información sensible, como datos de salud, salvo que sea necesaria para su viaje y usted haya decidido facilitarla."
+      ]
+    },
+    {
+      "h": "Cómo los utilizamos",
+      "ul": [
+        "Para responder a su consulta y preparar una propuesta (nuestro interés legítimo en responderle y la aplicación, a petición suya, de medidas precontractuales).",
+        "Para reservar y gestionar su viaje con hoteles, guías y otros proveedores (ejecución de un contrato).",
+        "Para cumplir obligaciones legales, contables y fiscales (obligación legal).",
+        "Para mantener el sitio web seguro y en funcionamiento (interés legítimo)."
+      ],
+      "p2": [
+        "No enviamos correos comerciales salvo que usted haya solicitado recibirlos, y nunca vendemos datos personales."
+      ]
+    },
+    {
+      "h": "Con quién los compartimos",
+      "p": [
+        "Solo compartimos datos personales cuando es necesario:"
+      ],
+      "ul": [
+        "**Proveedores de viaje**, como hoteles, guías y empresas de transporte, para que puedan prestar los servicios que usted ha reservado.",
+        "**Prestadores de servicios** que tratan datos por cuenta nuestra: nuestro proveedor de alojamiento web (Vercel Inc.), nuestro proveedor de correo electrónico y nuestras herramientas de contabilidad. Solo pueden utilizar los datos para prestarnos su servicio.",
+        "**Autoridades**, cuando la ley lo exija."
+      ]
+    },
+    {
+      "h": "Transferencias internacionales",
+      "p": [
+        "Algunos de nuestros prestadores de servicios almacenan datos fuera de Singapur, incluidos los Estados Unidos y la Unión Europea. Cuando los datos salen de Singapur, adoptamos medidas para garantizar que reciban un nivel de protección comparable al de la PDPA, por ejemplo mediante garantías contractuales."
+      ]
+    },
+    {
+      "h": "Cuánto tiempo los conservamos",
+      "ul": [
+        "Consultas que no dan lugar a una reserva: hasta 24 meses después de nuestro último contacto; transcurrido ese plazo, se eliminan.",
+        "Registros de reservas: durante el tiempo que exijan las normas fiscales y contables de Singapur, actualmente cinco años desde el final del ejercicio fiscal del viaje.",
+        "Registros del servidor: durante un breve periodo fijado por nuestro proveedor de alojamiento, normalmente no más de 30 días."
+      ]
+    },
+    {
+      "h": "Cómo los protegemos",
+      "p": [
+        "El sitio se sirve únicamente a través de una conexión cifrada (HTTPS). El acceso a las consultas y a los registros de reservas se limita a las personas que lo necesitan para planificar su viaje. Ningún método de transmisión o almacenamiento es completamente seguro, pero adoptamos medidas razonables para proteger sus datos y, cuando la ley lo exija, le notificaremos a usted y a las autoridades cualquier violación de la seguridad de los datos."
+      ]
+    },
+    {
+      "h": "Sus derechos",
+      "p": [
+        "Puede solicitarnos en cualquier momento:"
+      ],
+      "ul": [
+        "acceder a los datos personales que conservamos sobre usted y saber cómo se han utilizado;",
+        "rectificar los datos inexactos o incompletos;",
+        "retirar su consentimiento al uso de sus datos (lo que puede impedirnos seguir planificando su viaje);",
+        "suprimir sus datos cuando ya no necesitemos conservarlos, o limitar el modo en que los utilizamos;",
+        "recibir sus datos en un formato portable, cuando proceda."
+      ],
+      "p2": [
+        "Escriba a [{email}](mailto:{email}). Le responderemos en un plazo de 30 días. Si no está satisfecho con nuestra respuesta, puede dirigirse a la Personal Data Protection Commission de Singapur o, si reside en la UE o en el Reino Unido, a la autoridad de protección de datos de su país."
+      ]
+    },
+    {
+      "h": "Menores",
+      "p": [
+        "Nuestros servicios están dirigidos a adultos que planifican un viaje. Solo tratamos datos de menores cuando un progenitor o tutor los facilita como parte de una reserva familiar."
+      ]
+    },
+    {
+      "h": "Cambios en esta política",
+      "p": [
+        "Podemos actualizar esta política periódicamente. La fecha que figura al principio indica cuándo se modificó por última vez. Los cambios significativos se destacarán en esta página."
+      ]
+    }
   ]
 }

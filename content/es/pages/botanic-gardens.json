@@ -12,13 +12,26 @@
     "sub": "Un jardín victoriano con una selva dentro, abierto desde las 5:00 y en su mejor momento antes de las 8:00."
   },
   "info": [
-    { "label": "MRT más cercano", "value": "Botanic Gardens, Napier" },
-    { "label": "Mejores horas", "value": "6:30–9:30" },
-    { "label": "Paseo por el jardín", "value": "Unos 3–4 km, 2 horas" }
+    {
+      "label": "MRT más cercano",
+      "value": "Botanic Gardens, Napier"
+    },
+    {
+      "label": "Mejores horas",
+      "value": "6:30–9:30"
+    },
+    {
+      "label": "Paseo por el jardín",
+      "value": "Unos 3–4 km, 2 horas"
+    }
   ],
   "intro": {
     "heading": "El jardín que cambió una economía",
-    "chips": ["UNESCO 2015", "Orquídeas", "Selva"],
+    "chips": [
+      "UNESCO 2015",
+      "Orquídeas",
+      "Selva"
+    ],
     "text": [
       "Fundado en 1859, el Botanic Gardens fue inscrito en 2015 como el primer Patrimonio Mundial de la UNESCO de Singapur, reconocido como ejemplo excepcional de jardín botánico colonial británico en el trópico. Fue aquí, a finales del siglo XIX, donde su director, Henry Ridley, desarrolló el método de sangrado del árbol del caucho que transformó la economía de toda la región.",
       "Hoy es el parque favorito de la ciudad: corredores al amanecer, grupos de taichí en el césped, familias los domingos. La entrada al jardín es gratuita. Ven temprano, cuando la luz es baja y los caminos están a la sombra, y prevé salir antes de las 10:00."
@@ -27,7 +40,10 @@
   "rows": [
     {
       "title": "La selva",
-      "meta": ["Bosque original", "Pasarela"],
+      "meta": [
+        "Bosque original",
+        "Pasarela"
+      ],
       "text": [
         "Cerca del extremo de Tanglin sobreviven unas pocas hectáreas de selva primaria, más antigua que el propio jardín. Una pasarela te lleva bajo árboles que ya estaban aquí antes de la colonia. Es el lugar más fácil de la ciudad para pisar selva de verdad."
       ]
@@ -35,7 +51,10 @@
     {
       "title": "National Orchid Garden",
       "image": "botanic-2",
-      "meta": ["Con entrada", "Invernadero frío"],
+      "meta": [
+        "Con entrada",
+        "Invernadero frío"
+      ],
       "text": [
         "La mayor exposición de orquídeas tropicales del mundo, con híbridos bautizados en honor de jefes de Estado de visita. Un pequeño invernadero refrigerado alberga las especies de alta montaña. Es la única parte del jardín con entrada de pago."
       ]
@@ -43,14 +62,20 @@
     {
       "title": "Swan Lake y el Bandstand",
       "image": "botanic-1",
-      "meta": ["Paisaje histórico", "Luz de la mañana"],
+      "meta": [
+        "Paisaje histórico",
+        "Luz de la mañana"
+      ],
       "text": [
         "El núcleo histórico del jardín: Swan Lake, con sus cisnes mudos, el Bandstand octogonal sobre su loma y praderas dispuestas al estilo del jardín paisajista inglés. A primera hora, a veces la niebla se posa sobre el agua."
       ]
     },
     {
       "title": "The Learning Forest",
-      "meta": ["Pasarela elevada", "Humedal"],
+      "meta": [
+        "Pasarela elevada",
+        "Humedal"
+      ],
       "text": [
         "Una zona más reciente en el extremo de Bukit Timah, con una pasarela por un bosque pantanoso de agua dulce y otra elevada entre las copas de los árboles. Recibe menos visitas y por las mañanas es muy tranquila."
       ]
@@ -62,9 +87,18 @@
     "title": "De Tanglin Gate a Bukit Timah Gate",
     "text": "El jardín de punta a punta, de sur a norte, por la selva, junto a Swan Lake y el Orchid Garden, hasta la estación de MRT. Casi todo el recorrido bajo los árboles.",
     "facts": [
-      { "label": "Inicio", "value": "MRT Napier, Tanglin Gate" },
-      { "label": "Final", "value": "MRT Botanic Gardens" },
-      { "label": "Mejor hora", "value": "6:30" }
+      {
+        "label": "Inicio",
+        "value": "MRT Napier, Tanglin Gate"
+      },
+      {
+        "label": "Final",
+        "value": "MRT Botanic Gardens"
+      },
+      {
+        "label": "Mejor hora",
+        "value": "6:30"
+      }
     ],
     "cta": "Ver el paseo"
   },
@@ -74,15 +108,44 @@
       "Dentro del jardín hay cafeterías, pero el mejor desayuno está a un corto paseo, en un hawker centre de barrio."
     ],
     "items": [
-      { "name": "Adam Road Food Centre", "text": "Nasi lemak y prata, a diez minutos de Bukit Timah Gate." },
-      { "name": "Dempsey Hill", "text": "Antiguos cuarteles convertidos en restaurantes y galerías, a un corto paseo de Tanglin Gate." },
-      { "name": "Dentro del jardín", "text": "Algunas cafeterías cerca de las entradas principales para un café o un refresco." }
+      {
+        "name": "Adam Road Food Centre",
+        "text": "Nasi lemak y prata, a diez minutos de Bukit Timah Gate."
+      },
+      {
+        "name": "Dempsey Hill",
+        "text": "Antiguos cuarteles convertidos en restaurantes y galerías, a un corto paseo de Tanglin Gate."
+      },
+      {
+        "name": "Dentro del jardín",
+        "text": "Algunas cafeterías cerca de las entradas principales para un café o un refresco."
+      }
     ]
   },
   "faq": [
-    { "q": "¿Cuál es el horario?", "a": ["El jardín abre muy temprano y cierra tarde por la noche, todos los días; el National Orchid Garden tiene un horario más reducido. Confírmalo en la web del jardín antes de ir."] },
-    { "q": "¿Es adecuado para niños?", "a": ["Sí. El Jacob Ballas Children's Garden, en el extremo norte, tiene juegos de agua, casas en los árboles y una pequeña granja. Tiene su propio horario y cierra algunos días."] },
-    { "q": "¿Qué hago si hay tormenta?", "a": ["Hay refugios repartidos por todo el jardín. Cuando los rayos estén cerca, aléjate del césped abierto y de los árboles aislados, y espera a que pase bajo un refugio o en el centro de visitantes."] }
+    {
+      "q": "¿Cuál es el horario?",
+      "a": [
+        "El jardín abre muy temprano y cierra tarde por la noche, todos los días; el National Orchid Garden tiene un horario más reducido. Confírmalo en la web del jardín antes de ir."
+      ]
+    },
+    {
+      "q": "¿Es adecuado para niños?",
+      "a": [
+        "Sí. El Jacob Ballas Children's Garden, en el extremo norte, tiene juegos de agua, casas en los árboles y una pequeña granja. Tiene su propio horario y cierra algunos días."
+      ]
+    },
+    {
+      "q": "¿Qué hago si hay tormenta?",
+      "a": [
+        "Hay refugios repartidos por todo el jardín. Cuando los rayos estén cerca, aléjate del césped abierto y de los árboles aislados, y espera a que pase bajo un refugio o en el centro de visitantes."
+      ]
+    }
   ],
-  "related": ["nature-reserves", "tiong-bahru", "southern-ridges", "marina-bay"]
+  "related": [
+    "nature-reserves",
+    "tiong-bahru",
+    "southern-ridges",
+    "marina-bay"
+  ]
 }

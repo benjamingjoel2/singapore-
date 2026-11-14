@@ -1,0 +1,86 @@
+{
+  "meta": {
+    "title": "Guide des hawker centres : où manger quoi, et les usages | Five Foot Way",
+    "description": "Où manger chicken rice, laksa, satay et nasi lemak, horaires des stands, la règle du paquet de mouchoirs, le plateau à rapporter et ce que signifie l'UNESCO."
+  },
+  "hero": {
+    "kicker": "Notre guide phare",
+    "title": "Le guide des hawker centres",
+    "image": "hawker-1",
+    "sub": "Quel centre pour quel plat, quand y aller, et les petites politesses qui vous feront passer pour un habitué."
+  },
+  "statement": {
+    "kicker": "Pourquoi c'est important",
+    "text": "Les hawker centres sont les salles à manger communes de Singapour : des halles couvertes, ouvertes sur les côtés, où des dizaines de petits stands familiaux cuisinent chacun un ou deux plats, et où un juge et un livreur peuvent partager la même table. C'est bon marché, rapide, rafraîchi par des ventilateurs et, dans les meilleurs cas, aussi bon que n'importe quelle table de la ville."
+  },
+  "unesco": {
+    "title": "Ce que signifie l'inscription à l'UNESCO",
+    "image": "hawker-2",
+    "facts": [
+      { "label": "Inscription", "value": "Décembre 2020" },
+      { "label": "Liste", "value": "Patrimoine culturel immatériel" },
+      { "label": "Hawker centres", "value": "Plus de 100" }
+    ],
+    "text": [
+      "En décembre 2020, l'UNESCO a inscrit la **culture des hawkers à Singapour** sur la Liste représentative du patrimoine culturel immatériel de l'humanité. Il s'agit d'une liste de pratiques vivantes (savoir-faire artisanaux, fêtes, traditions culinaires), et non de bâtiments. Ce qui a été reconnu, ce n'est ni une halle ni un plat en particulier, mais toute une culture : les hawkers et leur savoir-faire, les recettes transmises de génération en génération, et l'habitude de manger ensemble, toutes communautés confondues.",
+      "L'histoire qui se cache derrière est très concrète. Autrefois, les marchands ambulants cuisinaient sur les trottoirs de la vieille ville. De la fin des années 1960 aux années 1980, le gouvernement les a installés dans des centres construits à cet effet, avec eau courante, évacuation et licences, à proximité des logements publics. Cette décision a permis à la plupart des Singapouriens de continuer à manger des plats cuisinés bon marché, près de chez eux.",
+      "L'inscription s'accompagne d'une inquiétude : beaucoup de hawkers ont aujourd'hui soixante ou soixante-dix ans, le travail est long et pénible dans la chaleur, et de moins en moins d'enfants veulent prendre la relève. Choisir un stand familial, patienter dans la file et rapporter son plateau sont de petites façons de soutenir une culture que l'on s'efforce activement de protéger."
+    ]
+  },
+  "centres": {
+    "title": "Quel centre pour quel plat",
+    "text": "Notre sélection, par quartier. Les horaires ci-dessous concernent le centre dans son ensemble ; chaque stand a ses propres horaires et jours de repos, et les plus courus sont vite dévalisés. Voyez-y un point de départ, pas un horaire officiel.",
+    "filterLabel": "Filtrer par moment de la journée",
+    "filters": [
+      { "key": "breakfast", "label": "Petit-déjeuner" },
+      { "key": "lunch", "label": "Déjeuner" },
+      { "key": "dinner", "label": "Dîner" },
+      { "key": "late", "label": "Tard le soir" }
+    ],
+    "items": [
+      { "name": "Maxwell Food Centre", "area": "Chinatown / Tanjong Pagar", "near": "chinatown", "tags": ["breakfast", "lunch", "dinner"], "knownFor": "Chicken rice hainanais, soupe de poisson, rojak", "hours": "Affluence maximale de 11 h 30 à 14 h ; la plupart des stands ouverts du matin au soir", "closed": "Certains stands ferment un jour par semaine ; fermetures périodiques pour nettoyage", "text": ["La première étape évidente, à quelques pas de la station de MRT Chinatown. Les célèbres stands de chicken rice ont la queue à midi ; venez à 10 h 30 ou après 14 h."] },
+      { "name": "Chinatown Complex Food Centre", "area": "Chinatown", "near": "chinatown", "tags": ["breakfast", "lunch", "dinner"], "knownFor": "Riz en marmite de terre, viandes rôties, dim sum, bière artisanale", "hours": "Du matin à tard le soir, selon les stands", "closed": "Fermetures périodiques de tout le centre pour nettoyage", "text": ["Le plus grand hawker centre de Singapour, au-dessus du marché frais. Faites un tour complet avant de choisir."] },
+      { "name": "Amoy Street Food Centre", "area": "Telok Ayer", "near": "chinatown", "tags": ["breakfast", "lunch"], "knownFor": "Nouilles, riz au curry, prawn mee", "hours": "Petit-déjeuner et déjeuner en semaine", "closed": "Beaucoup de stands fermés le week-end", "text": ["Envahi par les employés de bureau dès midi. Venez à 11 h 30 ou après 13 h 30."] },
+      { "name": "Tiong Bahru Market", "area": "Tiong Bahru", "near": "tiong-bahru", "tags": ["breakfast", "lunch"], "knownFor": "Chwee kueh, lor mee, pau, kopi", "hours": "Idéal du petit matin à la fin de matinée", "closed": "Certains stands ferment le lundi ; fermetures périodiques pour nettoyage", "text": ["Le centre du petit-déjeuner. Beaucoup de stands sont dévalisés ou ferment dès le début de l'après-midi."] },
+      { "name": "Tekka Centre", "area": "Little India", "near": "little-india", "tags": ["breakfast", "lunch"], "knownFor": "Biryani, thosai, soupe de mouton, jus frais", "hours": "Du matin au soir, affluence maximale en fin de matinée", "closed": "Jours de repos variables selon les stands ; fermetures périodiques pour nettoyage", "text": ["Les stands entourent le marché frais du rez-de-chaussée. Les files devant les biryanis vous indiquent où aller."] },
+      { "name": "Lau Pa Sat", "area": "Raffles Place", "near": "civic-district", "tags": ["lunch", "dinner", "late"], "knownFor": "Satay (le soir, dans la rue attenante), Hokkien mee", "hours": "Horaires étendus ; rue des satays à partir du soir", "closed": "Rarement fermé ; la rue des satays dépend du jour", "text": ["Une halle de marché victorienne en fonte au cœur du quartier d'affaires. Les grills à satay s'installent sur Boon Tat Street le soir, plus tôt le week-end."] },
+      { "name": "Old Airport Road Food Centre", "area": "Dakota", "near": "katong", "tags": ["lunch", "dinner"], "knownFor": "Char kway teow, lor mee, satay bee hoon, rojak", "hours": "De la fin de matinée à la nuit", "closed": "Jours de repos variables selon les stands", "text": ["Un favori des habitants, à un court trajet de Katong. Plusieurs de ses stands passent pour les meilleurs de la ville dans leur spécialité."] },
+      { "name": "East Coast Lagoon Food Village", "area": "East Coast Park", "near": "katong", "tags": ["dinner", "late"], "knownFor": "Satay, fruits de mer, raie grillée", "hours": "De l'après-midi à tard le soir", "closed": "Jours de repos variables selon les stands", "text": ["En plein air, au bord de la plage, avec la brise marine. Idéal pour un dîner tôt au coucher du soleil."] },
+      { "name": "Adam Road Food Centre", "area": "Botanic Gardens", "near": "botanic-gardens", "tags": ["breakfast", "lunch", "late"], "knownFor": "Nasi lemak, prata, mee rebus", "hours": "Du petit matin à tard dans la nuit", "closed": "Jours de repos variables selon les stands", "text": ["À dix minutes des Botanic Gardens. Un bon petit-déjeuner après une balade à l'aube."] },
+      { "name": "Changi Village Hawker Centre", "area": "Changi Village", "near": "pulau-ubin", "tags": ["breakfast", "lunch", "dinner"], "knownFor": "Nasi lemak, satay bee hoon, jus frais", "hours": "Du matin au soir", "closed": "Fermetures périodiques pour nettoyage", "text": ["À côté de l'embarcadère pour Pulau Ubin et à dix minutes de l'aéroport."] },
+      { "name": "Golden Mile Food Centre", "area": "Beach Road", "near": "kampong-glam", "tags": ["lunch", "dinner"], "knownFor": "Army stew, stands malais et thaïs, ondeh ondeh", "hours": "De la fin de matinée au soir", "closed": "Jours de repos variables selon les stands", "text": ["À quelques pas de Kampong Glam, moins fréquenté par les touristes."] },
+      { "name": "Newton Food Centre", "area": "Newton", "near": "botanic-gardens", "tags": ["dinner", "late"], "knownFor": "Fruits de mer, satay, carrot cake", "hours": "Du soir jusque tard dans la nuit", "closed": "Jours de repos variables selon les stands", "text": ["Célèbre et photogénique, c'est le seul endroit où nous conseillons de vérifier les prix avant de commander des fruits de mer vendus au poids."] }
+    ],
+    "note": "**Fermetures pour nettoyage :** chaque hawker centre ferme quelques jours plusieurs fois par an pour être nettoyé, et certains plus longtemps pour rénovation. La National Environment Agency publie le calendrier. Les horaires des stands changent, et les hawkers prennent des congés, surtout autour du Nouvel An chinois et de Hari Raya. Vérifiez avant de traverser la ville pour un seul stand."
+  },
+  "manners": {
+    "kicker": "Les usages locaux",
+    "title": "Quatre habitudes pour passer pour un habitué",
+    "text": "Personne ne vous en voudra si vous vous trompez. Mais elles font partie de la culture reconnue par l'UNESCO, et les respecter rend la halle plus agréable pour tout le monde.",
+    "items": [
+      { "title": "« Choper » une place", "image": "hawker-2", "text": "Un paquet de mouchoirs posé sur une table signifie qu'elle est prise : quelqu'un l'a « chopée » avant d'aller commander. Ne le déplacez pas. En groupe, une personne garde la table pendant que les autres font la queue ; seul, partagez une table d'un signe de tête." },
+      { "title": "Une file par plat", "image": "hawker-3", "text": "Chaque stand fait une chose, et la fait bien. Commandez à plusieurs stands, indiquez votre numéro de table s'il y en a un, et payez à chaque stand. Beaucoup acceptent désormais la carte et le paiement par QR code, mais gardez un peu d'espèces pour les stands plus anciens." },
+      { "title": "Rapporter son plateau", "image": "journal-2", "text": "Depuis 2021, rapporter plateaux et vaisselle aux points de retour est la règle, et non plus une simple politesse. Les points de retour halal et non halal sont séparés : utilisez celui qui correspond au stand où vous avez acheté." },
+      { "title": "Savoir commander", "image": "hawker-1", "text": "Apprenez le code du café : le kopi est un café au lait concentré sucré, le kopi-o un café noir sucré, le kopi-c un café au lait concentré non sucré, et kosong signifie sans sucre. Peng veut dire glacé. Un « kopi-o kosong peng » est donc un café noir glacé sans sucre." }
+    ]
+  },
+  "dishesTitle": "Dix plats pour commencer",
+  "dishes": [
+    { "name": "Chicken rice hainanais", "text": ["Poulet poché, riz cuit dans le bouillon de volaille avec gingembre et pandan, sauce pimentée et sauce soja sucrée. Le plat national officieux."] },
+    { "name": "Laksa", "text": ["Nouilles de riz dans un bouillon au curry et au lait de coco épicé, avec crevettes et coques. Le laksa de Katong est coupé court pour se manger à la cuillère."] },
+    { "name": "Char kway teow", "text": ["Larges nouilles de riz sautées à feu vif avec sauce soja sucrée, saindoux, coques, saucisse chinoise et œuf. Fumé, riche, et pas vraiment léger."] },
+    { "name": "Nasi lemak", "text": ["Riz au lait de coco avec sambal, anchois frits, cacahuètes, œuf et, le plus souvent, poulet frit. Un petit-déjeuner malais qui se savoure à toute heure."] },
+    { "name": "Satay", "text": ["Brochettes de poulet, de mouton ou de bœuf marinés, grillées au charbon de bois et servies avec sauce aux cacahuètes, concombre et galettes de riz."] },
+    { "name": "Roti prata", "text": ["Galette feuilletée cuite sur la plaque, nature ou à l'œuf, avec du curry pour la tremper. L'en-cas de fin de soirée par excellence."] },
+    { "name": "Chwee kueh", "text": ["Petits gâteaux de riz vapeur moelleux, garnis de radis confit sauté et de piment. Un petit-déjeuner typique de Tiong Bahru."] },
+    { "name": "Hokkien mee", "text": ["Nouilles jaunes et vermicelles de riz mijotés dans un riche bouillon de crevettes, avec un filet de citron vert et du sambal."] },
+    { "name": "Biryani", "text": ["Riz parfumé en couches avec du poulet ou du mouton épicé, à déguster de préférence le matin au Tekka Centre."] },
+    { "name": "Ice kachang", "text": ["Glace pilée sur un lit de haricots, de gelées et de maïs doux, nappée de sirops et de lait concentré non sucré. Le remède aux après-midi brûlants."] }
+  ],
+  "faq": [
+    { "q": "La cuisine des hawkers est-elle sûre ?", "a": ["Les stands sont titulaires d'une licence et inspectés, et chacun affiche sa note d'hygiène. Comme partout, un stand populaire au fort débit est bon signe."] },
+    { "q": "Et pour les végétariens ?", "a": ["Cherchez les stands signalés comme végétariens (souvent végétariens bouddhistes, ce qui exclut aussi l'oignon et l'ail) et les stands du sud de l'Inde à Tekka. Renseignez-vous sur la sauce de poisson et le saindoux, présents dans de nombreux plats."] },
+    { "q": "Trouve-t-on de la nourriture halal ?", "a": ["Les stands certifiés halal affichent un certificat. Beaucoup de stands malais et indo-musulmans sont halal ; les stands chinois ne le sont généralement pas, sauf certification."] },
+    { "q": "Tout est-il climatisé ?", "a": ["Non. La plupart des hawker centres sont ouverts sur les côtés et rafraîchis par des ventilateurs de plafond. Aux heures les plus chaudes, choisissez des centres bien ventilés, ou un moment plus frais de la journée."] }
+  ]
+}

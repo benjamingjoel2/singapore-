@@ -12,13 +12,26 @@
     "sub": "Un jardín construido sobre terreno ganado al mar, con dos invernaderos climatizados que lo convierten en el mejor sitio para pasar un mediodía caluroso."
   },
   "info": [
-    { "label": "MRT más cercano", "value": "Gardens by the Bay, Bayfront, Marina Bay" },
-    { "label": "Mejores horas", "value": "Cúpulas, 12:00–15:00; paseo marítimo, a partir de las 18:00" },
-    { "label": "Vuelta por el paseo marítimo", "value": "Unos 3,5 km" }
+    {
+      "label": "MRT más cercano",
+      "value": "Gardens by the Bay, Bayfront, Marina Bay"
+    },
+    {
+      "label": "Mejores horas",
+      "value": "Cúpulas, 12:00–15:00; paseo marítimo, a partir de las 18:00"
+    },
+    {
+      "label": "Vuelta por el paseo marítimo",
+      "value": "Unos 3,5 km"
+    }
   ],
   "intro": {
     "heading": "La ciudad nueva, a la hora adecuada",
-    "chips": ["Invernaderos", "Frente marítimo", "Atardecer"],
+    "chips": [
+      "Invernaderos",
+      "Frente marítimo",
+      "Atardecer"
+    ],
     "text": [
       "Todo lo que ves en torno a Marina Bay se levanta sobre terreno ganado al mar desde los años setenta. La propia bahía quedó cerrada por la presa de Marina Barrage en 2008 y hoy es un embalse de agua dulce. Es el Singapur de postal, y lo incluimos porque de verdad merece la pena, solo que no a las horas que elige casi todo el mundo.",
       "Nuestro consejo es sencillo. Ve a los invernaderos climatizados en las horas de más calor, recorre el paseo marítimo a partir de las 18:00, cuando se levanta la brisa, y aprovecha el Bay East Garden, al otro lado del agua, para disfrutar de la vista sin multitudes."
@@ -28,21 +41,30 @@
     {
       "title": "Cloud Forest",
       "image": "marina-1",
-      "meta": ["Invernadero climatizado", "Con entrada"],
+      "meta": [
+        "Invernadero climatizado",
+        "Con entrada"
+      ],
       "text": [
         "Una montaña dentro de un invernadero, cubierta de orquídeas, helechos y plantas carnívoras, con una cascada interior y una pasarela elevada. Se mantiene fresco y húmedo como una zona de montaña tropical, lo que en una tarde a 33 °C se agradece como un regalo."
       ]
     },
     {
       "title": "Flower Dome",
-      "meta": ["Invernadero climatizado", "Plantas mediterráneas"],
+      "meta": [
+        "Invernadero climatizado",
+        "Plantas mediterráneas"
+      ],
       "text": [
         "El mayor de los dos invernaderos reúne plantas de los climas mediterráneos del mundo: olivos centenarios, baobabs, suculentas y una exposición floral que va cambiando en el centro. Fresco y seco, combina bien con el Cloud Forest."
       ]
     },
     {
       "title": "Supertree Grove de día",
-      "meta": ["Jardines gratuitos", "Sombra"],
+      "meta": [
+        "Jardines gratuitos",
+        "Sombra"
+      ],
       "text": [
         "La entrada a los jardines exteriores es gratuita. A la luz del día se entiende para qué sirven realmente los Supertrees: son jardines verticales de helechos, bromelias y trepadoras, y algunos recogen agua de lluvia y expulsan el aire de los invernaderos. Los jardines históricos que los rodean cuentan las tradiciones botánicas china, malaya, india y colonial de Singapur."
       ]
@@ -50,7 +72,10 @@
     {
       "title": "El paseo marítimo y Marina Barrage",
       "image": "marina-2",
-      "meta": ["Paseo al atardecer", "Pícnics"],
+      "meta": [
+        "Paseo al atardecer",
+        "Pícnics"
+      ],
       "text": [
         "El paseo que rodea la bahía forma un circuito llano de unos tres kilómetros y medio, mejor a partir de las 18:00. En el extremo este, la cubierta verde de Marina Barrage es donde los singapurenses vuelan cometas y hacen pícnics al atardecer."
       ]
@@ -62,9 +87,18 @@
     "title": "La bahía a partir de las seis",
     "text": "Empieza en el Asian Civilisations Museum, sigue el agua junto al Esplanade, cruza el Helix Bridge y termina en los Gardens para cenar. El sol está bajo, sopla la brisa y el pavimento ya se ha enfriado.",
     "facts": [
-      { "label": "Inicio", "value": "MRT Raffles Place" },
-      { "label": "Longitud", "value": "Unos 3,5 km" },
-      { "label": "Mejor hora", "value": "18:00–20:00" }
+      {
+        "label": "Inicio",
+        "value": "MRT Raffles Place"
+      },
+      {
+        "label": "Longitud",
+        "value": "Unos 3,5 km"
+      },
+      {
+        "label": "Mejor hora",
+        "value": "18:00–20:00"
+      }
     ],
     "cta": "Ver los paseos a la sombra"
   },
@@ -74,15 +108,44 @@
       "El hawker centre junto a los Gardens es más práctico que famoso; para cenar mejor, vuelve a pie a la calle del satay de Lau Pa Sat, en el distrito financiero, o coge el MRT una parada hasta el Esplanade."
     ],
     "items": [
-      { "name": "Satay by the Bay", "text": "Hawker centre dentro de los Gardens. Práctico después de las cúpulas." },
-      { "name": "Lau Pa Sat", "text": "Satay a la parrilla en plena calle desde el anochecer. A 20 minutos a pie o dos paradas de MRT." },
-      { "name": "Makansutra Gluttons Bay", "text": "Puestos al aire libre junto al Esplanade, frente al agua." }
+      {
+        "name": "Satay by the Bay",
+        "text": "Hawker centre dentro de los Gardens. Práctico después de las cúpulas."
+      },
+      {
+        "name": "Lau Pa Sat",
+        "text": "Satay a la parrilla en plena calle desde el anochecer. A 20 minutos a pie o dos paradas de MRT."
+      },
+      {
+        "name": "Makansutra Gluttons Bay",
+        "text": "Puestos al aire libre junto al Esplanade, frente al agua."
+      }
     ]
   },
   "faq": [
-    { "q": "¿Necesito entradas?", "a": ["Los jardines exteriores son gratuitos. El Cloud Forest, el Flower Dome y algunas otras atracciones dentro de los Gardens son de pago; compra las entradas por internet para evitar la cola."] },
-    { "q": "¿Merece la pena quedarse al espectáculo de luces?", "a": ["El espectáculo de luces de los Supertrees se celebra dos veces cada noche y es gratuito. Hay mucha gente y la arboleda no tiene sombra, pero a esas horas ya ha refrescado. Lo mencionamos, pero no organizamos tu viaje en torno a él."] },
-    { "q": "¿Y si llueve?", "a": ["Ve a los invernaderos. Son la mejor opción para días de lluvia en esta parte de la ciudad, y las tormentas rara vez duran más de una o dos horas."] }
+    {
+      "q": "¿Necesito entradas?",
+      "a": [
+        "Los jardines exteriores son gratuitos. El Cloud Forest, el Flower Dome y algunas otras atracciones dentro de los Gardens son de pago; compra las entradas por internet para evitar la cola."
+      ]
+    },
+    {
+      "q": "¿Merece la pena quedarse al espectáculo de luces?",
+      "a": [
+        "El espectáculo de luces de los Supertrees se celebra dos veces cada noche y es gratuito. Hay mucha gente y la arboleda no tiene sombra, pero a esas horas ya ha refrescado. Lo mencionamos, pero no organizamos tu viaje en torno a él."
+      ]
+    },
+    {
+      "q": "¿Y si llueve?",
+      "a": [
+        "Ve a los invernaderos. Son la mejor opción para días de lluvia en esta parte de la ciudad, y las tormentas rara vez duran más de una o dos horas."
+      ]
+    }
   ],
-  "related": ["civic-district", "botanic-gardens", "changi", "southern-ridges"]
+  "related": [
+    "civic-district",
+    "botanic-gardens",
+    "changi",
+    "southern-ridges"
+  ]
 }

@@ -1,0 +1,441 @@
+{
+  "meta": {
+    "title": "Stopover-Planer Singapur: 8 Stunden bis 4 Tage, ehrlich | Five Foot Way",
+    "description": "Geben Sie Ihren Aufenthalt ein und erhalten Sie einen realistischen Plan mit Einreise, Transfer und Changi-Zeiten – und ein ehrliches „Bleiben Sie im Transit“, wenn es zu knapp ist."
+  },
+  "hero": {
+    "kicker": "Unser Leit-Werkzeug",
+    "title": "Der Stopover-Planer",
+    "image": "changi-1",
+    "sub": "Von acht Stunden bis vier Tage. Wir übernehmen die Rechnerei, damit Sie Ihren Flug nicht verpassen."
+  },
+  "intro": {
+    "kicker": "So funktioniert es",
+    "text": "Die meisten Ratschläge zum Zwischenstopp vergessen die Rechnung. Bevor Sie irgendetwas von Singapur sehen, müssen Sie das Flugzeug verlassen, durch die Einreise und quer über die Insel; dann müssen Sie zurück, durch die Sicherheitskontrolle und rechtzeitig am Gate sein. Dieser Planer rechnet all das zuerst ein und füllt die verbleibende Zeit dann mit Schatten, Essen und den kühleren Stunden."
+  },
+  "planner": {
+    "title": "Ihr Zwischenstopp, Stunde für Stunde",
+    "text": "Stellen Sie mit dem Schieberegler die Dauer Ihres Aufenthalts ein und wählen Sie Landezeit und Reisemonat. Der Plan geht von Handgepäck oder durchgechecktem Gepäck aus, von einem Reisepass, mit dem Sie nach Singapur einreisen dürfen, und von drei Stunden Puffer vor dem Abflug. Wenn Ihre Airline oder Ihr Ticket etwas anderes vorgibt, richten Sie sich danach."
+  },
+  "activities": {
+    "land": {
+      "t": "Landung in Changi",
+      "d": "Folgen Sie den Schildern zur Einreise (Arrival Immigration) oder zum Transfer, wenn Sie im Transitbereich bleiben."
+    },
+    "immigration": {
+      "t": "Einreise und raus",
+      "d": "Füllen Sie Ihre SG Arrival Card schon vor der Landung aus. Rechnen Sie mit etwa einer Stunde vom Gate bis zum Ausgang, zu Spitzenzeiten länger."
+    },
+    "airsideIntro": {
+      "t": "Im Transitbereich bleiben",
+      "d": "Keine Einreise, keine Schlangen. Suchen Sie zuerst den Transferschalter für Ihren Anschlussflug, dann geht es auf Erkundung."
+    },
+    "toCity": {
+      "t": "In die Stadt",
+      "d": "MRT ab den Terminals (je nach Linie mit Umstieg in Tanah Merah oder Expo) oder ein Taxi, etwa 30 Minuten."
+    },
+    "toKatong": {
+      "t": "Mit dem Taxi nach Katong",
+      "d": "Etwa 20 Minuten. Das sehenswerte Viertel, das dem Flughafen am nächsten liegt."
+    },
+    "back": {
+      "t": "Zurück nach Changi",
+      "d": "Taxi oder MRT. Brechen Sie jetzt auf, auch wenn es gerade schön ist."
+    },
+    "backAt": {
+      "t": "Zurück am Flughafen",
+      "d": "Einchecken oder durch Ausreise und Sicherheitskontrolle. Die Gates schließen lange vor dem Abflug."
+    },
+    "depart": {
+      "t": "Ihr Abflug",
+      "d": ""
+    },
+    "sleep": {
+      "t": "Schlafen",
+      "d": "Ein Hotel nahe Ihren Plänen für den Morgen oder ein Transithotel am Flughafen, wenn Sie nicht nach Singapur einreisen."
+    },
+    "airside": [
+      {
+        "t": "Gärten zwischen den Gates",
+        "d": "Gehen Sie im Transitbereich von Terminal zu Terminal, um die Gärten zu finden, darunter den Schmetterlingsgarten in Terminal 3. Prüfen Sie, welche geöffnet sind: Manche ziehen wegen Renovierungen um.",
+        "dur": 1.5
+      },
+      {
+        "t": "Eine richtige Mahlzeit",
+        "d": "Die Food Courts im Transitbereich servieren laksa, chicken rice und kaya toast zu vernünftigen Preisen.",
+        "dur": 1
+      },
+      {
+        "t": "Ausruhen",
+        "d": "Überall in den Terminals gibt es kostenlose Ruhezonen mit Liegesesseln; Transithotels vermieten Zimmer im Stundenblock.",
+        "dur": 2
+      },
+      {
+        "t": "Schwimmen oder duschen",
+        "d": "In einigen Terminals gibt es gegen Gebühr einen Pool auf dem Dach und Duschen. Prüfen Sie, was in Ihrem Terminal geöffnet ist.",
+        "dur": 1
+      },
+      {
+        "t": "Bummeln und schauen",
+        "d": "Jedes Terminal hat eigene Kunstinstallationen und stille Ecken. Behalten Sie die Anzeigetafeln im Blick.",
+        "dur": 1.5
+      }
+    ],
+    "jewel": [
+      {
+        "t": "Hinüber ins Jewel",
+        "d": "Auf der öffentlichen Seite mit Terminal 1 verbunden. Folgen Sie ab der Ankunftshalle den Schildern.",
+        "dur": 0.5
+      },
+      {
+        "t": "Der Rain Vortex",
+        "d": "Der Indoor-Wasserfall stürzt durch das Glasdach in das Waldtal. Spazieren Sie über die Terrassen ringsum.",
+        "dur": 1
+      },
+      {
+        "t": "Mittag- oder Abendessen im Jewel",
+        "d": "Lokale Food Halls in den Untergeschossen. Bestellen Sie etwas, das es bei Ihnen zu Hause nicht gibt.",
+        "dur": 1
+      },
+      {
+        "t": "Canopy Park oder eine Pause",
+        "d": "Die Gärten auf der obersten Ebene kosten Eintritt; ansonsten suchen Sie sich einen Platz neben dem Wasserfall.",
+        "dur": 1
+      }
+    ],
+    "pools": {
+      "morning": [
+        {
+          "t": "Frühstück im Tiong Bahru Market",
+          "d": "Oben chwee kueh und kopi, dann eine Runde durch die Wohnblocks der 1930er-Jahre, solange die Luft noch kühl ist.",
+          "dur": 2,
+          "meal": true
+        },
+        {
+          "t": "Botanischer Garten im Morgengrauen",
+          "d": "Durch das Tanglin Gate hinein und durch den Regenwald zum Swan Lake. Kostenlos und vor neun Uhr am schönsten.",
+          "dur": 2.5
+        },
+        {
+          "t": "Chinatown vor dem Andrang",
+          "d": "Frühstück im Maxwell Food Centre, dann die Tempel und die Five-foot ways von Telok Ayer.",
+          "dur": 2.5
+        },
+        {
+          "t": "Southern Ridges",
+          "d": "Henderson Waves und der Forest Walk, bevor die Sonne steigt. Ziel ist HarbourFront.",
+          "dur": 3
+        }
+      ],
+      "late": [
+        {
+          "t": "Kampong Glam",
+          "d": "Die Sultan Mosque, die Stoffläden der Arab Street und die Haji Lane, unter den Arkaden.",
+          "dur": 2
+        },
+        {
+          "t": "Peranakan Museum",
+          "d": "Die schönste Sammlung von Peranakan-Perlenstickerei, -Porzellan und -Schmuck, angenehm kühl.",
+          "dur": 1.5
+        },
+        {
+          "t": "Little India",
+          "d": "Tekka Centre, die Girlandenstände und der Sri Veeramakaliamman Temple.",
+          "dur": 2
+        }
+      ],
+      "midday": [
+        {
+          "t": "Hawker-Mittagessen",
+          "d": "Lau Pa Sat oder Maxwell, vor 12 oder nach 13:30 Uhr, um dem Büroandrang zu entgehen.",
+          "dur": 1,
+          "meal": true
+        },
+        {
+          "t": "Cloud Forest und Flower Dome",
+          "d": "Die gekühlten Gewächshäuser der Gardens by the Bay: der beste Ort der Stadt zur heißesten Stunde.",
+          "dur": 2
+        },
+        {
+          "t": "National Gallery Singapore",
+          "d": "Südostasiatische Kunst im ehemaligen Supreme Court und in der City Hall. Klimatisiert und groß genug für einen langen Nachmittag.",
+          "dur": 2
+        },
+        {
+          "t": "Asian Civilisations Museum",
+          "d": "Am Fluss, mit der Ladung des Tang-Schiffswracks aus dem 9. Jahrhundert.",
+          "dur": 1.5
+        }
+      ],
+      "afternoon": [
+        {
+          "t": "Unter Dach, wenn das Gewitter kommt",
+          "d": "Die unterirdische Verbindung von City Hall zur Esplanade und die Kolonnaden des Civic District halten Sie trocken.",
+          "dur": 1.5
+        },
+        {
+          "t": "Tee und eine ruhige Stunde",
+          "d": "Ein Kopitiam in Tiong Bahru oder ein Teehaus in Chinatown, während der Regen vorüberzieht.",
+          "dur": 1
+        },
+        {
+          "t": "Joo Chiat und Katong",
+          "d": "Die Peranakan-Reihenhäuser der Koon Seng Road, sobald die Hitze nachlässt, und laksa an der East Coast Road.",
+          "dur": 2.5
+        }
+      ],
+      "evening": [
+        {
+          "t": "Uferpromenade der Marina Bay",
+          "d": "Die Promenadenrunde vom Asian Civilisations Museum zu den Gardens, wenn die Brise auffrischt.",
+          "dur": 1.5
+        },
+        {
+          "t": "Satay in der Boon Tat Street",
+          "d": "Die Grills werden abends neben dem Lau Pa Sat aufgebaut.",
+          "dur": 1.5,
+          "meal": true
+        },
+        {
+          "t": "Night Safari",
+          "d": "Nur abends, in Mandai. Etwa 40 Minuten mit dem Taxi aus der Stadt.",
+          "dur": 3
+        },
+        {
+          "t": "Abendessen an der Old Airport Road",
+          "d": "Eines der besten Hawker Centres der Stadt, auf dem Rückweg Richtung Changi.",
+          "dur": 1.5,
+          "meal": true
+        }
+      ],
+      "late_evening": [
+        {
+          "t": "Kampong Glam bei Nacht",
+          "d": "Die beleuchtete Moschee, teh tarik und murtabak in den Fußgängerstraßen.",
+          "dur": 1.5
+        },
+        {
+          "t": "Am Fluss entlang",
+          "d": "Von Boat Quay nach Clarke Quay, vorbei an den beleuchteten Shophouses am Wasser.",
+          "dur": 1
+        }
+      ],
+      "night": [
+        {
+          "t": "Später Imbiss",
+          "d": "Prata in einem rund um die Uhr geöffneten Lokal oder ein spät geöffnetes Hawker Centre wie Adam Road.",
+          "dur": 1,
+          "meal": true
+        },
+        {
+          "t": "Ausruhen",
+          "d": "Wenn Sie nicht schlafen: Die öffentlichen Bereiche des Jewel sind rund um die Uhr geöffnet.",
+          "dur": 2
+        }
+      ]
+    },
+    "shortPools": {
+      "morning": [
+        {
+          "t": "Katong laksa zum Frühstück",
+          "d": "Eine Schale an der East Coast Road, dann die Peranakan-Reihenhäuser der Koon Seng Road.",
+          "dur": 2,
+          "meal": true
+        },
+        {
+          "t": "Changi Village",
+          "d": "Nasi lemak im Hawker Centre und der Bohlenweg an der Küste. Zehn Minuten von den Terminals.",
+          "dur": 2
+        }
+      ],
+      "late": [
+        {
+          "t": "Joo Chiat Road",
+          "d": "Die Shophouse-Arkaden, kueh-Läden und gefliesten Fassaden, alles überdacht.",
+          "dur": 1.5
+        }
+      ],
+      "midday": [
+        {
+          "t": "Mittagessen an der Old Airport Road",
+          "d": "Ein großes Hawker Centre der Einheimischen zwischen Katong und der Stadt.",
+          "dur": 1,
+          "meal": true
+        },
+        {
+          "t": "Jewel und der Rain Vortex",
+          "d": "Zurück Richtung Flughafen, ein klimatisierter Garten mit Wasserfall.",
+          "dur": 1.5
+        }
+      ],
+      "afternoon": [
+        {
+          "t": "East Coast Park",
+          "d": "Meeresbrise unter den Bäumen, ein kurzer Spaziergang von Marine Parade.",
+          "dur": 1.5
+        },
+        {
+          "t": "Jewel",
+          "d": "Schutz vor dem Gewitter neben dem Rain Vortex.",
+          "dur": 1.5
+        }
+      ],
+      "evening": [
+        {
+          "t": "Satay an der East Coast Lagoon",
+          "d": "Am Meer, zwanzig Minuten von Changi.",
+          "dur": 1.5,
+          "meal": true
+        },
+        {
+          "t": "Changi Village",
+          "d": "Abendessen im Hawker Centre und ein Spaziergang am Ufer.",
+          "dur": 1.5
+        }
+      ],
+      "late_evening": [
+        {
+          "t": "Lichtshow im Jewel",
+          "d": "Die abendliche Licht- und Tonshow am Rain Vortex, danach zum Check-in.",
+          "dur": 1
+        }
+      ]
+    },
+    "free": {
+      "t": "Freie Zeit",
+      "d": "Ruhen Sie sich während der Hitze im Hotel aus, gehen Sie schwimmen oder kehren Sie zu einem Lieblingsort von vorhin zurück.",
+      "dur": 2
+    }
+  },
+  "rules": {
+    "title": "Einreise, Transit und die Regeln, die man gern vergisst",
+    "text": "Zusammengefasst nach Stand Ende 2026 aus offiziellen Quellen. Regeln ändern sich: Prüfen Sie vor der Reise immer die Angaben der Immigration & Checkpoints Authority (ICA) und Ihrer Airline. Jeder Punkt hier steht in unserer Liste der zu prüfenden Fakten.",
+    "groups": [
+      {
+        "title": "Einreise nach Singapur",
+        "items": [
+          {
+            "q": "Brauche ich die SG Arrival Card?",
+            "a": [
+              "Ja, wenn Sie den Flughafen verlassen. Alle Reisenden, die nach Singapur einreisen, mit Ausnahme von Staatsbürgern, Personen mit Daueraufenthalt und manchen Pass-Inhabern, müssen die SG Arrival Card innerhalb von drei Tagen vor der Ankunft online einreichen. Sie ist auf der offiziellen Website und in der App der ICA kostenlos. Ignorieren Sie Websites, die dafür Gebühren verlangen."
+            ]
+          },
+          {
+            "q": "Brauche ich ein Visum?",
+            "a": [
+              "Das hängt von Ihrem Pass ab. Viele Staatsangehörige können für einen kurzen Besuch ohne Visum einreisen, andere müssen es vorab beantragen. Prüfen Sie die Visabestimmungen der ICA nach Staatsangehörigkeit, bevor Sie einen langen Zwischenstopp buchen."
+            ]
+          },
+          {
+            "q": "Wie lange dauert die Einreise?",
+            "a": [
+              "Viele Passinhaber können die automatischen Gates nutzen und sind in wenigen Minuten durch. Rechnen Sie zu Stoßzeiten mit bis zu einer Stunde von der Flugzeugtür bis zum Ausgang."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Im Transit bleiben",
+        "items": [
+          {
+            "q": "Kann ich ohne Visum im Transitbereich bleiben?",
+            "a": [
+              "In der Regel ja: Wenn Sie im Transitbereich bleiben und einen bestätigten Anschlussflug haben, brauchen die meisten Reisenden kein Visum. Fragen Sie bei Ihrer Airline nach, wenn Ihr Gepäck nicht durchgecheckt ist oder Sie das Terminal wechseln."
+            ]
+          },
+          {
+            "q": "Was ist mit meinem aufgegebenen Gepäck?",
+            "a": [
+              "Ist Ihr Gepäck bis zum Endziel durchgecheckt, können Sie den Flughafen ohne es verlassen. Andernfalls müssen Sie es abholen, durch den Zoll gehen und erneut einchecken, was Zeit kostet. Gepäckaufbewahrungen gibt es in den Terminals."
+            ]
+          },
+          {
+            "q": "Wie früh muss ich zurück sein?",
+            "a": [
+              "Unser Planer sieht vor, dass Sie zweieinhalb Stunden vor dem Abflug wieder in Changi sind. Airlines schließen Check-in und Gates früher, als viele erwarten; richten Sie sich nach den Zeiten Ihrer Airline, wenn diese strenger sind."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Was Sie nicht mitbringen sollten",
+        "items": [
+          {
+            "q": "Kaugummi",
+            "a": [
+              "Die Einfuhr von Kaugummi ist verboten, mit Ausnahme kleiner Mengen bestimmter zahnmedizinischer oder medizinischer Kaugummis für den Eigenbedarf. Lassen Sie ihn zu Hause."
+            ]
+          },
+          {
+            "q": "E-Zigaretten und Vapes",
+            "a": [
+              "Vapes und E-Zigaretten dürfen in Singapur weder eingeführt noch besessen, benutzt oder gekauft werden, und die Kontrollen sind deutlich strenger geworden, mit hohen Geldstrafen und für Ausländer der Möglichkeit eines Wiedereinreiseverbots. Bringen Sie sie nicht mit, auch nicht im Transitgepäck, das Sie geschlossen lassen wollen."
+            ]
+          },
+          {
+            "q": "Medikamente",
+            "a": [
+              "Manche Medikamente, darunter bestimmte Schlafmittel, starke Schmerzmittel und ADHS-Medikamente, dürfen Sie nur mit Genehmigung der Health Sciences Authority einführen. Führen Sie Rezepte mit, bewahren Sie die Medikamente in der Originalverpackung auf und lesen Sie die Hinweise der HSA für Reisende."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Unterwegs",
+        "items": [
+          {
+            "q": "Alkohol in der Öffentlichkeit",
+            "a": [
+              "Alkohol an öffentlichen Orten ist zwischen 22:30 und 7 Uhr verboten. Geschäfte dürfen in dieser Zeit keinen Alkohol zum Mitnehmen verkaufen. In den Liquor Control Zones von Geylang und Little India gelten strengere Zeiten."
+            ]
+          },
+          {
+            "q": "Rauchen",
+            "a": [
+              "Rauchen ist nur in ausgewiesenen, gelb markierten Raucherbereichen erlaubt. Auf den meisten Straßen, in Parks und auf überdachten Gehwegen gilt Rauchverbot."
+            ]
+          },
+          {
+            "q": "Bezahlen und unterwegs sein",
+            "a": [
+              "Kontaktlose Bankkarten funktionieren in MRT und Bussen. Taxis und Fahrdienst-Apps sind leicht zu finden. Bargeld ist an älteren Hawker-Ständen und auf dem Bumboat nach Pulau Ubin weiterhin nützlich."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "changi": {
+    "image": "changi-2",
+    "kicker": "Zeiten in Changi",
+    "title": "Wo die Zeit bleibt",
+    "text": "Die Werte, mit denen unser Planer rechnet. Sie sind bewusst vorsichtig: Eine verspätete Bahn, eine Schlange an der Sicherheitskontrolle oder ein Gewitter sollten Sie nie einen Flug kosten.",
+    "facts": [
+      {
+        "label": "Gate bis Ausgang",
+        "value": "Etwa 1 Stunde"
+      },
+      {
+        "label": "Changi bis Stadt",
+        "value": "30–45 Min."
+      },
+      {
+        "label": "Zurück vor dem Abflug",
+        "value": "2,5 Stunden"
+      },
+      {
+        "label": "Kürzester Stadtplan",
+        "value": "11 Stunden"
+      }
+    ],
+    "cta": "Changi und Jewel"
+  },
+  "checklist": [
+    "Prüfen Sie auf der [ICA-Website](https://www.ica.gov.sg), ob Sie mit Ihrem Pass ohne Visum nach Singapur einreisen dürfen.",
+    "Reichen Sie die **SG Arrival Card** innerhalb der drei Tage vor Ihrer Landung auf der offiziellen Website oder in der App der ICA ein (kostenlos).",
+    "Vergewissern Sie sich, dass Ihr Gepäck bis zum Endziel durchgecheckt ist.",
+    "Lassen Sie Vapes und E-Zigaretten zu Hause und klären Sie verschreibungspflichtige Medikamente mit der HSA.",
+    "Notieren Sie sich Ihr Abflugterminal und den Check-in-Schluss.",
+    "Stellen Sie einen Wecker für die Zeit, zu der Sie die Stadt verlassen müssen, und halten Sie sich daran."
+  ]
+}

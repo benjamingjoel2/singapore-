@@ -5,12 +5,34 @@
   },
   "title": "¿Lo planificamos juntos?",
   "image": "journeys-1",
-  "side": ["¿Prefieres el correo electrónico? Escríbenos directamente. Por favor, no envíes números de pasaporte ni datos de pago por correo ni a través de este formulario."],
+  "side": [
+    "¿Prefieres el correo electrónico? Escríbenos directamente. Por favor, no envíes números de pasaporte ni datos de pago por correo ni a través de este formulario."
+  ],
   "faqTitle": "Antes de escribirnos",
   "faq": [
-    { "q": "¿Cuánto cuesta un viaje?", "a": ["Depende de tus fechas, de los hoteles y de cuánto organicemos nosotros. Enviamos un presupuesto por escrito con cada plan; la primera respuesta no tiene coste."] },
-    { "q": "¿Podéis ayudarme solo con una escala?", "a": ["Sí. Prueba primero el [planificador de escalas](@stopover-planner) y escríbenos después si quieres que te organicemos un guía, un hotel cerca del aeropuerto o los traslados."] },
-    { "q": "¿Con cuánta antelación debo escribir?", "a": ["Para viajes en diciembre, en torno al Año Nuevo chino o durante grandes eventos, con dos o tres meses de antelación. En otras fechas, unas semanas suelen bastar."] },
-    { "q": "¿Atendéis por teléfono?", "a": ["Trabajamos por correo electrónico para que cada detalle quede por escrito y no se pierda nada. Respondemos en un plazo de dos días laborables."] }
+    {
+      "q": "¿Cuánto cuesta un viaje?",
+      "a": [
+        "Depende de tus fechas, de los hoteles y de cuánto organicemos nosotros. Enviamos un presupuesto por escrito con cada plan; la primera respuesta no tiene coste."
+      ]
+    },
+    {
+      "q": "¿Podéis ayudarme solo con una escala?",
+      "a": [
+        "Sí. Prueba primero el [planificador de escalas](@stopover-planner) y escríbenos después si quieres que te organicemos un guía, un hotel cerca del aeropuerto o los traslados."
+      ]
+    },
+    {
+      "q": "¿Con cuánta antelación debo escribir?",
+      "a": [
+        "Para viajes en diciembre, en torno al Año Nuevo chino o durante grandes eventos, con dos o tres meses de antelación. En otras fechas, unas semanas suelen bastar."
+      ]
+    },
+    {
+      "q": "¿Atendéis por teléfono?",
+      "a": [
+        "Trabajamos por correo electrónico para que cada detalle quede por escrito y no se pierda nada. Respondemos en un plazo de dos días laborables."
+      ]
+    }
   ]
 }

@@ -25,17 +25,49 @@
   },
   "principlesTitle": "En qué creemos",
   "principles": [
-    { "title": "Barrios antes que atracciones", "text": ["Un barrio al día, recorrido como es debido, vale más que cinco monumentos vistos desde un autocar."] },
-    { "title": "Contar con el clima", "text": ["Madrugar, rutas a la sombra, comidas largas y un plan para la tormenta. La comodidad forma parte de viajar bien; no es un lujo."] },
-    { "title": "Comer donde come Singapur", "text": ["Primero, los hawker centres. Son el corazón de la cocina de la ciudad y necesitan visitantes que se comporten como clientes habituales."] },
-    { "title": "Consejos honestos", "text": ["Si tu escala es demasiado corta, te diremos que te quedes en la zona de tránsito. Si un lugar está abarrotado o sobrevalorado en el momento en que piensas ir, te lo diremos."] }
+    {
+      "title": "Barrios antes que atracciones",
+      "text": [
+        "Un barrio al día, recorrido como es debido, vale más que cinco monumentos vistos desde un autocar."
+      ]
+    },
+    {
+      "title": "Contar con el clima",
+      "text": [
+        "Madrugar, rutas a la sombra, comidas largas y un plan para la tormenta. La comodidad forma parte de viajar bien; no es un lujo."
+      ]
+    },
+    {
+      "title": "Comer donde come Singapur",
+      "text": [
+        "Primero, los hawker centres. Son el corazón de la cocina de la ciudad y necesitan visitantes que se comporten como clientes habituales."
+      ]
+    },
+    {
+      "title": "Consejos honestos",
+      "text": [
+        "Si tu escala es demasiado corta, te diremos que te quedes en la zona de tránsito. Si un lugar está abarrotado o sobrevalorado en el momento en que piensas ir, te lo diremos."
+      ]
+    }
   ],
   "howTitle": "Cómo trabajamos",
   "how": [
-    { "title": "Nos escribes", "text": "A través del [formulario de consulta](@enquire) o por correo electrónico. Cuéntanos tus fechas, quién viaja y qué te gusta." },
-    { "title": "Te respondemos personalmente", "text": "En un plazo de dos días laborables, por correo electrónico, con preguntas y primeras ideas." },
-    { "title": "Te enviamos un plan", "text": "Un plan día a día con barrios, paseos, hawker centres y hoteles, junto con un presupuesto." },
-    { "title": "Reservamos y nos ocupamos de todo", "text": "En cuanto lo confirmas, hacemos las reservas y te enviamos una guía final antes del viaje." }
+    {
+      "title": "Nos escribes",
+      "text": "A través del [formulario de consulta](@enquire) o por correo electrónico. Cuéntanos tus fechas, quién viaja y qué te gusta."
+    },
+    {
+      "title": "Te respondemos personalmente",
+      "text": "En un plazo de dos días laborables, por correo electrónico, con preguntas y primeras ideas."
+    },
+    {
+      "title": "Te enviamos un plan",
+      "text": "Un plan día a día con barrios, paseos, hawker centres y hoteles, junto con un presupuesto."
+    },
+    {
+      "title": "Reservamos y nos ocupamos de todo",
+      "text": "En cuanto lo confirmas, hacemos las reservas y te enviamos una guía final antes del viaje."
+    }
   ],
   "bleed": {
     "image": "rain-1",

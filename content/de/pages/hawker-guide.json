@@ -1,0 +1,86 @@
+{
+  "meta": {
+    "title": "Hawker-Guide: welches Centre für welches Gericht | Five Foot Way",
+    "description": "Wo es chicken rice, laksa, satay und nasi lemak gibt, wann die Stände öffnen, die Taschentuch-Regel, Tablett-Rückgabe und was der UNESCO-Eintrag bedeutet."
+  },
+  "hero": {
+    "kicker": "Unser Leit-Guide",
+    "title": "Der Hawker-Centre-Guide",
+    "image": "hawker-1",
+    "sub": "Welches Centre für welches Gericht, wann Sie hingehen sollten, und die kleinen Höflichkeiten, mit denen Sie wie ein Stammgast wirken."
+  },
+  "statement": {
+    "kicker": "Warum das wichtig ist",
+    "text": "Hawker Centres sind Singapurs gemeinsame Esszimmer: überdachte, seitlich offene Hallen voller Garküchen, in denen Dutzende kleiner Familienstände jeweils ein oder zwei Gerichte kochen und in denen eine Richterin und ein Essenskurier am selben Tisch sitzen können. Sie sind günstig, schnell, ventilatorgekühlt und in ihren besten Momenten so gut wie alles andere in der Stadt."
+  },
+  "unesco": {
+    "title": "Was der UNESCO-Eintrag bedeutet",
+    "image": "hawker-2",
+    "facts": [
+      { "label": "Eingetragen", "value": "Dezember 2020" },
+      { "label": "Liste", "value": "Immaterielles Kulturerbe" },
+      { "label": "Hawker Centres", "value": "Mehr als 100" }
+    ],
+    "text": [
+      "Im Dezember 2020 nahm die UNESCO die **Hawker-Kultur in Singapur** in ihre Repräsentative Liste des immateriellen Kulturerbes der Menschheit auf. Diese Liste verzeichnet lebendige Praktiken wie Handwerk, Feste und Esstraditionen, keine Gebäude. Gewürdigt wurde also nicht eine bestimmte Halle oder ein bestimmtes Gericht, sondern die gesamte Kultur: die Hawker und ihr Können, die über Generationen weitergegebenen Rezepte und die Gewohnheit, über alle Gemeinschaften der Stadt hinweg gemeinsam zu essen.",
+      "Die Geschichte dahinter ist ganz praktisch. Früher kochten Straßenhändler auf den Gehwegen der Altstadt. Von Ende der 1960er- bis in die 1980er-Jahre siedelte die Regierung sie in eigens gebaute Centres mit fließendem Wasser, Abwasserleitungen und Lizenzen um, nahe den Sozialwohnungsblocks. Diese Entscheidung sorgte dafür, dass gekochtes Essen für die meisten Singapurer günstig und nah blieb.",
+      "Der Eintrag ist auch Ausdruck einer Sorge: Viele Hawker sind heute in ihren Sechzigern und Siebzigern, die Arbeit ist lang und heiß, und immer weniger Kinder wollen übernehmen. Einen Familienstand zu wählen, in der Schlange geduldig zu sein und das Tablett zurückzubringen sind kleine Beiträge zu einer Kultur, die aktiv geschützt wird."
+    ]
+  },
+  "centres": {
+    "title": "Welches Centre für welches Gericht",
+    "text": "Unsere kleine Auswahl, nach Vierteln. Die Zeiten unten beziehen sich auf das Centre als Ganzes; jeder Stand hat eigene Öffnungszeiten und Ruhetage, und beliebte Stände sind schnell ausverkauft. Verstehen Sie dies als Ausgangspunkt, nicht als Fahrplan.",
+    "filterLabel": "Nach Tageszeit filtern",
+    "filters": [
+      { "key": "breakfast", "label": "Frühstück" },
+      { "key": "lunch", "label": "Mittagessen" },
+      { "key": "dinner", "label": "Abendessen" },
+      { "key": "late", "label": "Spät" }
+    ],
+    "items": [
+      { "name": "Maxwell Food Centre", "area": "Chinatown / Tanjong Pagar", "near": "chinatown", "tags": ["breakfast", "lunch", "dinner"], "knownFor": "Hainanese chicken rice, Fischsuppe, rojak", "hours": "Am vollsten 11:30–14 Uhr; die meisten Stände von morgens bis abends", "closed": "Manche Stände haben einen Ruhetag pro Woche; regelmäßige Schließungen zur Reinigung", "text": ["Die naheliegende erste Station, ein kurzer Spaziergang von der MRT Chinatown. An den berühmten Chicken-Rice-Ständen gibt es mittags Schlangen; kommen Sie um 10:30 Uhr oder nach 14 Uhr."] },
+      { "name": "Chinatown Complex Food Centre", "area": "Chinatown", "near": "chinatown", "tags": ["breakfast", "lunch", "dinner"], "knownFor": "Claypot rice, Grillfleisch, Dim Sum, Craft Beer", "hours": "Morgens bis spätabends, je nach Stand", "closed": "Regelmäßige Schließungen des gesamten Centres zur Reinigung", "text": ["Das größte Hawker Centre Singapurs, über dem Frischmarkt. Drehen Sie eine ganze Runde, bevor Sie wählen."] },
+      { "name": "Amoy Street Food Centre", "area": "Telok Ayer", "near": "chinatown", "tags": ["breakfast", "lunch"], "knownFor": "Nudeln, Curryreis, prawn mee", "hours": "Werktags Frühstück und Mittagessen", "closed": "Viele Stände am Wochenende geschlossen", "text": ["Ab Mittag voller Büroangestellter. Kommen Sie um 11:30 Uhr oder nach 13:30 Uhr."] },
+      { "name": "Tiong Bahru Market", "area": "Tiong Bahru", "near": "tiong-bahru", "tags": ["breakfast", "lunch"], "knownFor": "Chwee kueh, lor mee, pau, kopi", "hours": "Am besten vom frühen bis zum späten Vormittag", "closed": "Manche Stände ruhen montags; regelmäßige Schließungen zur Reinigung", "text": ["Das Frühstücks-Centre schlechthin. Viele Stände sind bis zum frühen Nachmittag ausverkauft oder geschlossen."] },
+      { "name": "Tekka Centre", "area": "Little India", "near": "little-india", "tags": ["breakfast", "lunch"], "knownFor": "Biryani, thosai, Hammelsuppe, frischer Saft", "hours": "Morgens bis abends, am vollsten am späten Vormittag", "closed": "Ruhetage je nach Stand; regelmäßige Schließungen zur Reinigung", "text": ["Essensstände umringen den Frischmarkt im Erdgeschoss. Die Schlangen vor den Biryani-Ständen zeigen Ihnen, wohin."] },
+      { "name": "Lau Pa Sat", "area": "Raffles Place", "near": "civic-district", "tags": ["lunch", "dinner", "late"], "knownFor": "Satay (abends draußen auf der Straße), Hokkien mee", "hours": "Lange Öffnungszeiten; Satay-Straße ab dem Abend", "closed": "Selten geschlossen; die Satay-Straße hängt vom Wochentag ab", "text": ["Eine viktorianische Markthalle aus Gusseisen im Finanzviertel. Die Satay-Grills werden abends auf der Boon Tat Street aufgebaut, am Wochenende früher."] },
+      { "name": "Old Airport Road Food Centre", "area": "Dakota", "near": "katong", "tags": ["lunch", "dinner"], "knownFor": "Char kway teow, lor mee, satay bee hoon, rojak", "hours": "Später Vormittag bis nachts", "closed": "Ruhetage je nach Stand", "text": ["Ein Liebling der Einheimischen, eine kurze Fahrt von Katong. Viele seiner Stände gelten als die besten für ihr jeweiliges Gericht."] },
+      { "name": "East Coast Lagoon Food Village", "area": "East Coast Park", "near": "katong", "tags": ["dinner", "late"], "knownFor": "Satay, Seafood, gegrillter Rochen", "hours": "Nachmittag bis spätabends", "closed": "Ruhetage je nach Stand", "text": ["Unter freiem Himmel am Strand, mit Meeresbrise. Am schönsten für ein frühes Abendessen zum Sonnenuntergang."] },
+      { "name": "Adam Road Food Centre", "area": "Botanic Gardens", "near": "botanic-gardens", "tags": ["breakfast", "lunch", "late"], "knownFor": "Nasi lemak, prata, mee rebus", "hours": "Frühmorgens bis spät in die Nacht", "closed": "Ruhetage je nach Stand", "text": ["Zehn Minuten vom Botanischen Garten. Ein gutes Frühstück nach einem Spaziergang im Morgengrauen."] },
+      { "name": "Changi Village Hawker Centre", "area": "Changi Village", "near": "pulau-ubin", "tags": ["breakfast", "lunch", "dinner"], "knownFor": "Nasi lemak, satay bee hoon, frische Säfte", "hours": "Morgens bis abends", "closed": "Regelmäßige Schließungen zur Reinigung", "text": ["Neben der Fähre nach Pulau Ubin und zehn Minuten vom Flughafen."] },
+      { "name": "Golden Mile Food Centre", "area": "Beach Road", "near": "kampong-glam", "tags": ["lunch", "dinner"], "knownFor": "Army stew, malaiische und thailändische Stände, ondeh ondeh", "hours": "Später Vormittag bis abends", "closed": "Ruhetage je nach Stand", "text": ["Ein kurzer Spaziergang von Kampong Glam, von Touristen weniger besucht."] },
+      { "name": "Newton Food Centre", "area": "Newton", "near": "botanic-gardens", "tags": ["dinner", "late"], "knownFor": "Seafood, satay, carrot cake", "hours": "Abends bis in die Nacht", "closed": "Ruhetage je nach Stand", "text": ["Berühmt und fotogen – und der einzige Ort, an dem wir empfehlen, vor der Bestellung von Seafood nach Gewicht die Preise zu prüfen."] }
+    ],
+    "note": "**Schließungen zur Reinigung:** Jedes Hawker Centre schließt mehrmals im Jahr für einige Tage zur Reinigung, manche auch länger für Renovierungen. Die National Environment Agency veröffentlicht den Zeitplan. Öffnungszeiten der Stände ändern sich, und Hawker machen Urlaub, besonders rund um das chinesische Neujahrsfest und Hari Raya. Prüfen Sie das, bevor Sie für einen einzigen Stand quer durch die Stadt fahren."
+  },
+  "manners": {
+    "kicker": "Gepflogenheiten",
+    "title": "Vier Gewohnheiten, mit denen Sie wie ein Stammgast wirken",
+    "text": "Niemand nimmt es Ihnen übel, wenn Sie etwas falsch machen. Aber sie gehören zu der Kultur, die die UNESCO gewürdigt hat, und wer sie beherzigt, sorgt dafür, dass die Halle für alle besser funktioniert.",
+    "items": [
+      { "title": "Einen Platz „chopen“", "image": "hawker-2", "text": "Eine Packung Taschentücher auf dem Tisch heißt: besetzt. Jemand hat den Platz „gechopt“ und ist bestellen gegangen. Legen Sie sie nicht weg. In der Gruppe hält eine Person den Tisch, während die anderen anstehen; allein teilen Sie sich mit einem Nicken einen Tisch." },
+      { "title": "Pro Gericht anstehen", "image": "hawker-3", "text": "Jeder Stand macht eine Sache richtig gut. Bestellen Sie an mehreren Ständen, nennen Sie Ihre Tischnummer, falls es eine gibt, und bezahlen Sie jeweils direkt. Viele nehmen inzwischen Karte und QR-Zahlung, für ältere Stände sollten Sie aber etwas Bargeld dabeihaben." },
+      { "title": "Das Tablett zurückbringen", "image": "journal-2", "text": "Seit 2021 ist es Vorschrift und nicht bloß Höflichkeit, Tabletts und Geschirr zu den Rückgabestellen zu bringen. Es gibt getrennte Rückgabestellen für halal und nicht halal: Nutzen Sie die, die zu dem Stand passt, bei dem Sie gekauft haben." },
+      { "title": "Richtig bestellen", "image": "hawker-1", "text": "Lernen Sie den Kaffee-Code: kopi ist Kaffee mit Kondensmilch, kopi-o ist schwarz mit Zucker, kopi-c mit Kondensmilch ungesüßt (evaporated milk), und kosong heißt ohne Zucker. Peng bedeutet mit Eis. „Kopi-o kosong peng“ ist also schwarzer Eiskaffee ohne Zucker." }
+    ]
+  },
+  "dishesTitle": "Zehn Gerichte für den Anfang",
+  "dishes": [
+    { "name": "Hainanese chicken rice", "text": ["Pochiertes Hähnchen, Reis, gekocht in Hühnerbrühe mit Ingwer und Pandan, dazu Chilisauce und dunkle Sojasauce. Das inoffizielle Nationalgericht."] },
+    { "name": "Laksa", "text": ["Reisnudeln in einer würzigen Kokos-Curry-Brühe mit Garnelen und Herzmuscheln. Katong laksa wird kurz geschnitten, damit man sie mit dem Löffel essen kann."] },
+    { "name": "Char kway teow", "text": ["Flache Reisnudeln, bei großer Hitze gebraten mit dunkler Sojasauce, Schmalz, Herzmuscheln, chinesischer Wurst und Ei. Rauchig, reichhaltig, nicht leicht."] },
+    { "name": "Nasi lemak", "text": ["Kokosreis mit Sambal, frittierten Sardellen, Erdnüssen, Ei und meist gebratenem Hähnchen. Ein malaiisches Frühstück, das zu jeder Stunde schmeckt."] },
+    { "name": "Satay", "text": ["Spieße aus mariniertem Hähnchen, Hammel oder Rind, über Holzkohle gegrillt und mit Erdnusssauce, Gurke und Reiskuchen serviert."] },
+    { "name": "Roti prata", "text": ["Blättriges, auf der Platte gebackenes Fladenbrot, pur oder mit Ei, mit Curry zum Dippen. Der Snack der Wahl spät in der Nacht."] },
+    { "name": "Chwee kueh", "text": ["Weiche, gedämpfte Reiskuchen mit gebratenem eingelegtem Rettich und Chili. Ein Frühstück wie in Tiong Bahru."] },
+    { "name": "Hokkien mee", "text": ["Gelbe Nudeln und Reisfadennudeln, geschmort in einer kräftigen Garnelenbrühe, mit einem Spritzer Limette und Sambal."] },
+    { "name": "Biryani", "text": ["Duftender Reis, geschichtet mit gewürztem Hähnchen oder Hammel, am besten morgens im Tekka Centre."] },
+    { "name": "Ice kachang", "text": ["Geschabtes Eis über Bohnen, Gelee und Mais, übergossen mit Sirup und Kondensmilch. Das Mittel gegen einen heißen Nachmittag."] }
+  ],
+  "faq": [
+    { "q": "Ist Hawker-Essen unbedenklich?", "a": ["Hawker-Stände sind lizenziert und werden kontrolliert, und jeder zeigt eine Hygienebewertung an. Wie überall sind beliebte Stände mit hohem Umsatz ein gutes Zeichen."] },
+    { "q": "Was gibt es für Vegetarier?", "a": ["Achten Sie auf als vegetarisch gekennzeichnete Stände (oft buddhistisch-vegetarisch, also auch ohne Zwiebeln und Knoblauch) und auf die südindischen Stände im Tekka. Fragen Sie nach Fischsauce und Schmalz, die in vielen Gerichten stecken."] },
+    { "q": "Halal-Essen?", "a": ["Halal-zertifizierte Stände hängen ein Zertifikat aus. Viele malaiische und indisch-muslimische Stände sind halal; chinesische Stände in der Regel nicht, sofern sie nicht zertifiziert sind."] },
+    { "q": "Ist alles klimatisiert?", "a": ["Nein. Die meisten Hawker Centres sind seitlich offen und werden von Deckenventilatoren gekühlt. Gehen Sie in den heißesten Stunden in Centres mit guter Querlüftung oder wählen Sie eine kühlere Tageszeit."] }
+  ]
+}

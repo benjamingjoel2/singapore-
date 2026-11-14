@@ -12,13 +12,26 @@
     "sub": "Selva primaria en una línea de autobús urbano: Bukit Timah, el bosque de MacRitchie y los manglares de Sungei Buloh."
   },
   "info": [
-    { "label": "Cómo llegar", "value": "MRT y un breve trayecto en autobús o a pie" },
-    { "label": "Mejores horas", "value": "Sal antes de las 7:30" },
-    { "label": "Lleva", "value": "Agua, repelente de insectos y un chubasquero ligero" }
+    {
+      "label": "Cómo llegar",
+      "value": "MRT y un breve trayecto en autobús o a pie"
+    },
+    {
+      "label": "Mejores horas",
+      "value": "Sal antes de las 7:30"
+    },
+    {
+      "label": "Lleva",
+      "value": "Agua, repelente de insectos y un chubasquero ligero"
+    }
   ],
   "intro": {
     "heading": "El bosque que sobrevivió a la ciudad",
-    "chips": ["Selva primaria", "Manglares", "Fauna"],
+    "chips": [
+      "Selva primaria",
+      "Manglares",
+      "Fauna"
+    ],
     "text": [
       "La mayor parte del bosque original de Singapur se taló en el siglo XIX para abrir plantaciones. Lo que sobrevivió, en torno a la colina de Bukit Timah y los embalses del centro de la isla, está hoy protegido, y alberga en unas pocas hectáreas más especies de árboles que muchos países en total. Macacos cangrejeros, colugos, varanos y cálaos viven a un corto trayecto en autobús de los centros comerciales.",
       "Son caminatas de verdad por un bosque caluroso y húmedo. Sal temprano, lleva más agua de la que crees necesitar, no te salgas de los senderos señalizados y no des nunca de comer a los monos: es ilegal y los vuelve agresivos."
@@ -28,7 +41,10 @@
     {
       "title": "Bukit Timah Nature Reserve",
       "image": "nature-1",
-      "meta": ["La colina más alta, 163 m", "Senderos empinados"],
+      "meta": [
+        "La colina más alta, 163 m",
+        "Senderos empinados"
+      ],
       "text": [
         "La colina más alta de Singapur está cubierta por una de las mayores manchas de selva primaria que quedan en la ciudad. El sendero principal a la cima es corto pero empinado, y los senderos laterales son pedregosos y se embarran tras la lluvia. Ve al amanecer, cuando el bosque bulle de pájaros y el aire todavía está fresco."
       ]
@@ -36,7 +52,10 @@
     {
       "title": "MacRitchie y el TreeTop Walk",
       "image": "nature-2",
-      "meta": ["Puente colgante", "Cerrado algunos días"],
+      "meta": [
+        "Puente colgante",
+        "Cerrado algunos días"
+      ],
       "text": [
         "Un circuito de senderos y pasarelas alrededor del MacRitchie Reservoir lleva al TreeTop Walk, un puente colgante que une los dos puntos más altos de la reserva, muy por encima del suelo del bosque. El circuito completo es largo, unos once kilómetros, así que cuenta con media jornada. El puente tiene horario restringido y cierra determinados días."
       ]
@@ -44,14 +63,20 @@
     {
       "title": "Sungei Buloh Wetland Reserve",
       "image": "nature-3",
-      "meta": ["Manglares", "Aves migratorias"],
+      "meta": [
+        "Manglares",
+        "Aves migratorias"
+      ],
       "text": [
         "En el extremo noroeste, frente a Malasia al otro lado del estrecho de Johor, las pasarelas del manglar y las marismas atraen a aves limícolas migratorias aproximadamente de septiembre a marzo. Cocodrilos marinos y varanos toman el sol en las orillas. Consulta la tabla de mareas: con la marea baja salen las aves y los peces del fango."
       ]
     },
     {
       "title": "Cómo comportarse en el bosque",
-      "meta": ["Normas", "Seguridad"],
+      "meta": [
+        "Normas",
+        "Seguridad"
+      ],
       "text": [
         "No te salgas de los senderos señalizados, guarda la comida fuera de la vista y no des de comer a los macacos ni te acerques a ellos. Los rayos son un riesgo real: cuando llega una tormenta, abandona las crestas y los puentes expuestos y espera en un refugio. Di a alguien adónde vas y a qué hora piensas volver."
       ]
@@ -63,9 +88,18 @@
     "title": "MacRitchie bajo el dosel",
     "text": "Pasarelas a orillas del embalse, senderos por el bosque hasta el TreeTop Walk y vuelta por el mismo camino si se forma una tormenta. Sombra casi todo el recorrido.",
     "facts": [
-      { "label": "Inicio", "value": "MacRitchie Reservoir Park" },
-      { "label": "Longitud", "value": "Circuito de unos 11 km" },
-      { "label": "Sal antes de las", "value": "7:30" }
+      {
+        "label": "Inicio",
+        "value": "MacRitchie Reservoir Park"
+      },
+      {
+        "label": "Longitud",
+        "value": "Circuito de unos 11 km"
+      },
+      {
+        "label": "Sal antes de las",
+        "value": "7:30"
+      }
     ],
     "cta": "Ver el paseo"
   },
@@ -75,15 +109,44 @@
       "En ninguna de las reservas hay mucho que comer. Come antes, lleva algo de picar y planea una buena comida para después."
     ],
     "items": [
-      { "name": "Beauty World", "text": "Cerca de Bukit Timah, un hawker centre en lo alto de un antiguo edificio de mercado." },
-      { "name": "Thomson Road", "text": "A un corto trayecto en autobús de MacRitchie, con varias cafeterías tradicionales." },
-      { "name": "Kranji", "text": "Para Sungei Buloh, lleva algo de comer: es una zona rural y hay pocas opciones." }
+      {
+        "name": "Beauty World",
+        "text": "Cerca de Bukit Timah, un hawker centre en lo alto de un antiguo edificio de mercado."
+      },
+      {
+        "name": "Thomson Road",
+        "text": "A un corto trayecto en autobús de MacRitchie, con varias cafeterías tradicionales."
+      },
+      {
+        "name": "Kranji",
+        "text": "Para Sungei Buloh, lleva algo de comer: es una zona rural y hay pocas opciones."
+      }
     ]
   },
   "faq": [
-    { "q": "¿Son seguras las reservas?", "a": ["Sí, si sigues las normas: no te salgas de los senderos, lleva agua, respeta la fauna y tómate en serio los rayos. Hay serpientes, pero rara vez se ven y casi nunca suponen un problema en los senderos principales."] },
-    { "q": "¿Necesito un guía?", "a": ["No para los senderos principales, que están bien señalizados. Un guía naturalista marca la diferencia si quieres ver fauna; podemos organizarlo a través de una [consulta](@enquire)."] },
-    { "q": "¿Qué ropa debo llevar?", "a": ["Ropa ligera de secado rápido, calzado cerrado con buen agarre, sombrero y repelente de insectos. Un chubasquero ligero o un paraguas pequeño caben en una mochila de día."] }
+    {
+      "q": "¿Son seguras las reservas?",
+      "a": [
+        "Sí, si sigues las normas: no te salgas de los senderos, lleva agua, respeta la fauna y tómate en serio los rayos. Hay serpientes, pero rara vez se ven y casi nunca suponen un problema en los senderos principales."
+      ]
+    },
+    {
+      "q": "¿Necesito un guía?",
+      "a": [
+        "No para los senderos principales, que están bien señalizados. Un guía naturalista marca la diferencia si quieres ver fauna; podemos organizarlo a través de una [consulta](@enquire)."
+      ]
+    },
+    {
+      "q": "¿Qué ropa debo llevar?",
+      "a": [
+        "Ropa ligera de secado rápido, calzado cerrado con buen agarre, sombrero y repelente de insectos. Un chubasquero ligero o un paraguas pequeño caben en una mochila de día."
+      ]
+    }
   ],
-  "related": ["botanic-gardens", "southern-ridges", "mandai", "pulau-ubin"]
+  "related": [
+    "botanic-gardens",
+    "southern-ridges",
+    "mandai",
+    "pulau-ubin"
+  ]
 }

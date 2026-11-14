@@ -17,9 +17,18 @@
     "title": "Qué significa la declaración de la UNESCO",
     "image": "hawker-2",
     "facts": [
-      { "label": "Inscripción", "value": "Diciembre de 2020" },
-      { "label": "Lista", "value": "Patrimonio Cultural Inmaterial" },
-      { "label": "Hawker centres", "value": "Más de 100" }
+      {
+        "label": "Inscripción",
+        "value": "Diciembre de 2020"
+      },
+      {
+        "label": "Lista",
+        "value": "Patrimonio Cultural Inmaterial"
+      },
+      {
+        "label": "Hawker centres",
+        "value": "Más de 100"
+      }
     ],
     "text": [
       "En diciembre de 2020, la UNESCO incluyó la **Hawker Culture in Singapore** en su Lista Representativa del Patrimonio Cultural Inmaterial de la Humanidad. Es una lista de prácticas vivas, como la artesanía, las fiestas o las tradiciones culinarias, no de edificios. Lo que se reconoció no es una nave ni un plato concretos, sino toda una cultura: los vendedores ambulantes (hawkers) y su oficio, las recetas que pasan de generación en generación y la costumbre de comer juntos que comparten todas las comunidades de la ciudad.",
@@ -32,24 +41,209 @@
     "text": "Nuestra selección, por barrios. Los horarios que figuran se refieren al centro en su conjunto; cada puesto tiene su propio horario y sus días de descanso, y los más populares agotan existencias. Úsalo como punto de partida, no como un horario fijo.",
     "filterLabel": "Filtrar por momento del día",
     "filters": [
-      { "key": "breakfast", "label": "Desayuno" },
-      { "key": "lunch", "label": "Comida" },
-      { "key": "dinner", "label": "Cena" },
-      { "key": "late", "label": "Tarde noche" }
+      {
+        "key": "breakfast",
+        "label": "Desayuno"
+      },
+      {
+        "key": "lunch",
+        "label": "Comida"
+      },
+      {
+        "key": "dinner",
+        "label": "Cena"
+      },
+      {
+        "key": "late",
+        "label": "Tarde noche"
+      }
     ],
     "items": [
-      { "name": "Maxwell Food Centre", "area": "Chinatown / Tanjong Pagar", "near": "chinatown", "tags": ["breakfast", "lunch", "dinner"], "knownFor": "Arroz con pollo hainanés, sopa de pescado, rojak", "hours": "Más concurrido de 11:30 a 14:00; la mayoría de los puestos, de mañana a tarde", "closed": "Algunos puestos cierran un día a la semana; cierres periódicos por limpieza", "text": ["La primera parada obvia, a un corto paseo del MRT Chinatown. Los famosos puestos de chicken rice tienen cola a la hora de comer; ve a las 10:30 o después de las 14:00."] },
-      { "name": "Chinatown Complex Food Centre", "area": "Chinatown", "near": "chinatown", "tags": ["breakfast", "lunch", "dinner"], "knownFor": "Arroz en cazuela de barro, asados, dim sum, cerveza artesanal", "hours": "De la mañana hasta la noche, según el puesto", "closed": "Cierres periódicos de todo el centro por limpieza", "text": ["El hawker centre más grande de Singapur, encima del mercado de abastos. Da una vuelta completa antes de elegir."] },
-      { "name": "Amoy Street Food Centre", "area": "Telok Ayer", "near": "chinatown", "tags": ["breakfast", "lunch"], "knownFor": "Fideos, arroz con curry, prawn mee", "hours": "Desayunos y comidas entre semana", "closed": "Muchos puestos cierran los fines de semana", "text": ["Se llena de oficinistas a partir de mediodía. Ven a las 11:30 o después de las 13:30."] },
-      { "name": "Tiong Bahru Market", "area": "Tiong Bahru", "near": "tiong-bahru", "tags": ["breakfast", "lunch"], "knownFor": "Chwee kueh, lor mee, pau, kopi", "hours": "Mejor desde primera hora hasta media mañana", "closed": "Algunos puestos descansan los lunes; cierres periódicos por limpieza", "text": ["El hawker centre de los desayunos. Muchos puestos agotan existencias o cierran a primera hora de la tarde."] },
-      { "name": "Tekka Centre", "area": "Little India", "near": "little-india", "tags": ["breakfast", "lunch"], "knownFor": "Biryani, thosai, sopa de cordero, zumos naturales", "hours": "De la mañana a la tarde, más concurrido a media mañana", "closed": "Los días de descanso varían según el puesto; cierres periódicos por limpieza", "text": ["Los puestos de comida rodean el mercado de abastos de la planta baja. Las colas del biryani te dicen adónde ir."] },
-      { "name": "Lau Pa Sat", "area": "Raffles Place", "near": "civic-district", "tags": ["lunch", "dinner", "late"], "knownFor": "Satay (por la noche, en la calle de al lado), Hokkien mee", "hours": "Horario amplio; la calle del satay, a partir del anochecer", "closed": "Rara vez cierra; la calle del satay depende del día", "text": ["Un mercado victoriano de hierro fundido en el distrito financiero. Las parrillas de satay se instalan en Boon Tat Street al anochecer, antes los fines de semana."] },
-      { "name": "Old Airport Road Food Centre", "area": "Dakota", "near": "katong", "tags": ["lunch", "dinner"], "knownFor": "Char kway teow, lor mee, satay bee hoon, rojak", "hours": "De media mañana a la noche", "closed": "Los días de descanso varían según el puesto", "text": ["Uno de los favoritos de los locales, a un corto trayecto de Katong. Muchos de sus puestos se cuentan entre los mejores para su plato."] },
-      { "name": "East Coast Lagoon Food Village", "area": "East Coast Park", "near": "katong", "tags": ["dinner", "late"], "knownFor": "Satay, marisco, raya a la barbacoa", "hours": "De la tarde hasta la noche", "closed": "Los días de descanso varían según el puesto", "text": ["Al aire libre, junto a la playa y con brisa marina. Ideal para una cena temprana al atardecer."] },
-      { "name": "Adam Road Food Centre", "area": "Botanic Gardens", "near": "botanic-gardens", "tags": ["breakfast", "lunch", "late"], "knownFor": "Nasi lemak, prata, mee rebus", "hours": "De primera hora de la mañana a altas horas de la noche", "closed": "Los días de descanso varían según el puesto", "text": ["A diez minutos del Botanic Gardens. Un buen desayuno después de un paseo al amanecer."] },
-      { "name": "Changi Village Hawker Centre", "area": "Changi Village", "near": "pulau-ubin", "tags": ["breakfast", "lunch", "dinner"], "knownFor": "Nasi lemak, satay bee hoon, zumos naturales", "hours": "De la mañana a la tarde", "closed": "Cierres periódicos por limpieza", "text": ["Junto al ferri de Pulau Ubin y a diez minutos del aeropuerto."] },
-      { "name": "Golden Mile Food Centre", "area": "Beach Road", "near": "kampong-glam", "tags": ["lunch", "dinner"], "knownFor": "Army stew, puestos malayos y tailandeses, ondeh ondeh", "hours": "De media mañana a la tarde", "closed": "Los días de descanso varían según el puesto", "text": ["A un corto paseo de Kampong Glam y menos frecuentado por los turistas."] },
-      { "name": "Newton Food Centre", "area": "Newton", "near": "botanic-gardens", "tags": ["dinner", "late"], "knownFor": "Marisco, satay, carrot cake", "hours": "De la tarde hasta bien entrada la noche", "closed": "Los días de descanso varían según el puesto", "text": ["Famoso y fotogénico, y el único sitio donde te aconsejamos comprobar los precios antes de pedir marisco vendido al peso."] }
+      {
+        "name": "Maxwell Food Centre",
+        "area": "Chinatown / Tanjong Pagar",
+        "near": "chinatown",
+        "tags": [
+          "breakfast",
+          "lunch",
+          "dinner"
+        ],
+        "knownFor": "Arroz con pollo hainanés, sopa de pescado, rojak",
+        "hours": "Más concurrido de 11:30 a 14:00; la mayoría de los puestos, de mañana a tarde",
+        "closed": "Algunos puestos cierran un día a la semana; cierres periódicos por limpieza",
+        "text": [
+          "La primera parada obvia, a un corto paseo del MRT Chinatown. Los famosos puestos de chicken rice tienen cola a la hora de comer; ve a las 10:30 o después de las 14:00."
+        ]
+      },
+      {
+        "name": "Chinatown Complex Food Centre",
+        "area": "Chinatown",
+        "near": "chinatown",
+        "tags": [
+          "breakfast",
+          "lunch",
+          "dinner"
+        ],
+        "knownFor": "Arroz en cazuela de barro, asados, dim sum, cerveza artesanal",
+        "hours": "De la mañana hasta la noche, según el puesto",
+        "closed": "Cierres periódicos de todo el centro por limpieza",
+        "text": [
+          "El hawker centre más grande de Singapur, encima del mercado de abastos. Da una vuelta completa antes de elegir."
+        ]
+      },
+      {
+        "name": "Amoy Street Food Centre",
+        "area": "Telok Ayer",
+        "near": "chinatown",
+        "tags": [
+          "breakfast",
+          "lunch"
+        ],
+        "knownFor": "Fideos, arroz con curry, prawn mee",
+        "hours": "Desayunos y comidas entre semana",
+        "closed": "Muchos puestos cierran los fines de semana",
+        "text": [
+          "Se llena de oficinistas a partir de mediodía. Ven a las 11:30 o después de las 13:30."
+        ]
+      },
+      {
+        "name": "Tiong Bahru Market",
+        "area": "Tiong Bahru",
+        "near": "tiong-bahru",
+        "tags": [
+          "breakfast",
+          "lunch"
+        ],
+        "knownFor": "Chwee kueh, lor mee, pau, kopi",
+        "hours": "Mejor desde primera hora hasta media mañana",
+        "closed": "Algunos puestos descansan los lunes; cierres periódicos por limpieza",
+        "text": [
+          "El hawker centre de los desayunos. Muchos puestos agotan existencias o cierran a primera hora de la tarde."
+        ]
+      },
+      {
+        "name": "Tekka Centre",
+        "area": "Little India",
+        "near": "little-india",
+        "tags": [
+          "breakfast",
+          "lunch"
+        ],
+        "knownFor": "Biryani, thosai, sopa de cordero, zumos naturales",
+        "hours": "De la mañana a la tarde, más concurrido a media mañana",
+        "closed": "Los días de descanso varían según el puesto; cierres periódicos por limpieza",
+        "text": [
+          "Los puestos de comida rodean el mercado de abastos de la planta baja. Las colas del biryani te dicen adónde ir."
+        ]
+      },
+      {
+        "name": "Lau Pa Sat",
+        "area": "Raffles Place",
+        "near": "civic-district",
+        "tags": [
+          "lunch",
+          "dinner",
+          "late"
+        ],
+        "knownFor": "Satay (por la noche, en la calle de al lado), Hokkien mee",
+        "hours": "Horario amplio; la calle del satay, a partir del anochecer",
+        "closed": "Rara vez cierra; la calle del satay depende del día",
+        "text": [
+          "Un mercado victoriano de hierro fundido en el distrito financiero. Las parrillas de satay se instalan en Boon Tat Street al anochecer, antes los fines de semana."
+        ]
+      },
+      {
+        "name": "Old Airport Road Food Centre",
+        "area": "Dakota",
+        "near": "katong",
+        "tags": [
+          "lunch",
+          "dinner"
+        ],
+        "knownFor": "Char kway teow, lor mee, satay bee hoon, rojak",
+        "hours": "De media mañana a la noche",
+        "closed": "Los días de descanso varían según el puesto",
+        "text": [
+          "Uno de los favoritos de los locales, a un corto trayecto de Katong. Muchos de sus puestos se cuentan entre los mejores para su plato."
+        ]
+      },
+      {
+        "name": "East Coast Lagoon Food Village",
+        "area": "East Coast Park",
+        "near": "katong",
+        "tags": [
+          "dinner",
+          "late"
+        ],
+        "knownFor": "Satay, marisco, raya a la barbacoa",
+        "hours": "De la tarde hasta la noche",
+        "closed": "Los días de descanso varían según el puesto",
+        "text": [
+          "Al aire libre, junto a la playa y con brisa marina. Ideal para una cena temprana al atardecer."
+        ]
+      },
+      {
+        "name": "Adam Road Food Centre",
+        "area": "Botanic Gardens",
+        "near": "botanic-gardens",
+        "tags": [
+          "breakfast",
+          "lunch",
+          "late"
+        ],
+        "knownFor": "Nasi lemak, prata, mee rebus",
+        "hours": "De primera hora de la mañana a altas horas de la noche",
+        "closed": "Los días de descanso varían según el puesto",
+        "text": [
+          "A diez minutos del Botanic Gardens. Un buen desayuno después de un paseo al amanecer."
+        ]
+      },
+      {
+        "name": "Changi Village Hawker Centre",
+        "area": "Changi Village",
+        "near": "pulau-ubin",
+        "tags": [
+          "breakfast",
+          "lunch",
+          "dinner"
+        ],
+        "knownFor": "Nasi lemak, satay bee hoon, zumos naturales",
+        "hours": "De la mañana a la tarde",
+        "closed": "Cierres periódicos por limpieza",
+        "text": [
+          "Junto al ferri de Pulau Ubin y a diez minutos del aeropuerto."
+        ]
+      },
+      {
+        "name": "Golden Mile Food Centre",
+        "area": "Beach Road",
+        "near": "kampong-glam",
+        "tags": [
+          "lunch",
+          "dinner"
+        ],
+        "knownFor": "Army stew, puestos malayos y tailandeses, ondeh ondeh",
+        "hours": "De media mañana a la tarde",
+        "closed": "Los días de descanso varían según el puesto",
+        "text": [
+          "A un corto paseo de Kampong Glam y menos frecuentado por los turistas."
+        ]
+      },
+      {
+        "name": "Newton Food Centre",
+        "area": "Newton",
+        "near": "botanic-gardens",
+        "tags": [
+          "dinner",
+          "late"
+        ],
+        "knownFor": "Marisco, satay, carrot cake",
+        "hours": "De la tarde hasta bien entrada la noche",
+        "closed": "Los días de descanso varían según el puesto",
+        "text": [
+          "Famoso y fotogénico, y el único sitio donde te aconsejamos comprobar los precios antes de pedir marisco vendido al peso."
+        ]
+      }
     ],
     "note": "**Cierres por limpieza:** todos los hawker centres cierran unos días por limpieza varias veces al año, y algunos durante más tiempo por obras de renovación. La National Environment Agency publica el calendario. Los horarios de los puestos cambian y los hawkers se toman vacaciones, sobre todo en torno al Año Nuevo chino y Hari Raya. Compruébalo antes de cruzar la ciudad por un solo puesto."
   },
@@ -58,29 +252,115 @@
     "title": "Cuatro hábitos para parecer un cliente habitual",
     "text": "A nadie le importará si te equivocas. Pero forman parte de la cultura que reconoció la UNESCO, y hacerlo bien hace que el hawker centre funcione mejor para todos.",
     "items": [
-      { "title": "Haz «chope» de un sitio", "image": "hawker-2", "text": "Un paquete de pañuelos sobre una mesa significa que está ocupada: alguien la ha «chopeado» y ha ido a pedir. No lo muevas. Si vais en grupo, uno guarda la mesa mientras los demás hacen cola; si vas solo, comparte mesa con un gesto de cabeza." },
-      { "title": "Haz cola plato a plato", "image": "hawker-3", "text": "Cada puesto hace bien una sola cosa. Pide en varios puestos, diles tu número de mesa si lo hay y paga en cada uno. Muchos aceptan ya tarjeta y pagos con código QR, pero lleva algo de efectivo para los puestos más antiguos." },
-      { "title": "Devuelve la bandeja", "image": "journal-2", "text": "Desde 2021, devolver bandejas y vajilla a los puntos de recogida es obligatorio, no una simple cortesía. Los puntos de recogida halal y no halal están separados: usa el que corresponda al puesto donde compraste." },
-      { "title": "Pide como un local", "image": "hawker-1", "text": "Aprende el código del café: kopi es café con leche condensada, kopi-o es solo con azúcar, kopi-c lleva leche evaporada y kosong significa sin azúcar. Peng quiere decir con hielo. «Kopi-o kosong peng» es un café solo con hielo y sin azúcar." }
+      {
+        "title": "Haz «chope» de un sitio",
+        "image": "hawker-2",
+        "text": "Un paquete de pañuelos sobre una mesa significa que está ocupada: alguien la ha «chopeado» y ha ido a pedir. No lo muevas. Si vais en grupo, uno guarda la mesa mientras los demás hacen cola; si vas solo, comparte mesa con un gesto de cabeza."
+      },
+      {
+        "title": "Haz cola plato a plato",
+        "image": "hawker-3",
+        "text": "Cada puesto hace bien una sola cosa. Pide en varios puestos, diles tu número de mesa si lo hay y paga en cada uno. Muchos aceptan ya tarjeta y pagos con código QR, pero lleva algo de efectivo para los puestos más antiguos."
+      },
+      {
+        "title": "Devuelve la bandeja",
+        "image": "journal-2",
+        "text": "Desde 2021, devolver bandejas y vajilla a los puntos de recogida es obligatorio, no una simple cortesía. Los puntos de recogida halal y no halal están separados: usa el que corresponda al puesto donde compraste."
+      },
+      {
+        "title": "Pide como un local",
+        "image": "hawker-1",
+        "text": "Aprende el código del café: kopi es café con leche condensada, kopi-o es solo con azúcar, kopi-c lleva leche evaporada y kosong significa sin azúcar. Peng quiere decir con hielo. «Kopi-o kosong peng» es un café solo con hielo y sin azúcar."
+      }
     ]
   },
   "dishesTitle": "Diez platos para empezar",
   "dishes": [
-    { "name": "Hainanese chicken rice", "text": ["Pollo escalfado, arroz cocido en caldo de pollo con jengibre y pandan, salsa de chile y soja oscura. El plato nacional oficioso."] },
-    { "name": "Laksa", "text": ["Fideos de arroz en un caldo especiado de curry y coco con gambas y berberechos. La laksa de Katong lleva los fideos cortos para comerla con cuchara."] },
-    { "name": "Char kway teow", "text": ["Fideos de arroz planos salteados a fuego vivo con soja oscura, manteca de cerdo, berberechos, salchicha china y huevo. Ahumado, contundente, nada ligero."] },
-    { "name": "Nasi lemak", "text": ["Arroz con coco acompañado de sambal, anchoas fritas, cacahuetes, huevo y, normalmente, pollo frito. Un desayuno malayo que sienta bien a cualquier hora."] },
-    { "name": "Satay", "text": ["Brochetas de pollo, cordero o ternera marinados y asados a la brasa de carbón, servidas con salsa de cacahuete, pepino y pastelitos de arroz."] },
-    { "name": "Roti prata", "text": ["Pan plano hojaldrado hecho a la plancha, solo o con huevo, con curry para mojar. El tentempié nocturno por excelencia."] },
-    { "name": "Chwee kueh", "text": ["Tiernos pastelitos de arroz al vapor cubiertos de rábano en conserva frito y chile. Un desayuno típico de Tiong Bahru."] },
-    { "name": "Hokkien mee", "text": ["Fideos amarillos y fideos finos de arroz guisados en un sabroso caldo de gambas, con un chorrito de lima y sambal."] },
-    { "name": "Biryani", "text": ["Arroz aromático en capas con pollo o cordero especiados; el mejor, en el Tekka Centre por la mañana."] },
-    { "name": "Ice kachang", "text": ["Hielo raspado sobre judías, gelatinas y maíz dulce, bañado en siropes y leche evaporada. El remedio para una tarde de calor."] }
+    {
+      "name": "Hainanese chicken rice",
+      "text": [
+        "Pollo escalfado, arroz cocido en caldo de pollo con jengibre y pandan, salsa de chile y soja oscura. El plato nacional oficioso."
+      ]
+    },
+    {
+      "name": "Laksa",
+      "text": [
+        "Fideos de arroz en un caldo especiado de curry y coco con gambas y berberechos. La laksa de Katong lleva los fideos cortos para comerla con cuchara."
+      ]
+    },
+    {
+      "name": "Char kway teow",
+      "text": [
+        "Fideos de arroz planos salteados a fuego vivo con soja oscura, manteca de cerdo, berberechos, salchicha china y huevo. Ahumado, contundente, nada ligero."
+      ]
+    },
+    {
+      "name": "Nasi lemak",
+      "text": [
+        "Arroz con coco acompañado de sambal, anchoas fritas, cacahuetes, huevo y, normalmente, pollo frito. Un desayuno malayo que sienta bien a cualquier hora."
+      ]
+    },
+    {
+      "name": "Satay",
+      "text": [
+        "Brochetas de pollo, cordero o ternera marinados y asados a la brasa de carbón, servidas con salsa de cacahuete, pepino y pastelitos de arroz."
+      ]
+    },
+    {
+      "name": "Roti prata",
+      "text": [
+        "Pan plano hojaldrado hecho a la plancha, solo o con huevo, con curry para mojar. El tentempié nocturno por excelencia."
+      ]
+    },
+    {
+      "name": "Chwee kueh",
+      "text": [
+        "Tiernos pastelitos de arroz al vapor cubiertos de rábano en conserva frito y chile. Un desayuno típico de Tiong Bahru."
+      ]
+    },
+    {
+      "name": "Hokkien mee",
+      "text": [
+        "Fideos amarillos y fideos finos de arroz guisados en un sabroso caldo de gambas, con un chorrito de lima y sambal."
+      ]
+    },
+    {
+      "name": "Biryani",
+      "text": [
+        "Arroz aromático en capas con pollo o cordero especiados; el mejor, en el Tekka Centre por la mañana."
+      ]
+    },
+    {
+      "name": "Ice kachang",
+      "text": [
+        "Hielo raspado sobre judías, gelatinas y maíz dulce, bañado en siropes y leche evaporada. El remedio para una tarde de calor."
+      ]
+    }
   ],
   "faq": [
-    { "q": "¿Es segura la comida de los hawker centres?", "a": ["Los puestos tienen licencia y pasan inspecciones, y cada uno muestra su calificación de higiene. Como en cualquier sitio, un puesto popular con mucha rotación es buena señal."] },
-    { "q": "¿Y para vegetarianos?", "a": ["Busca los puestos marcados como vegetarianos (a menudo vegetarianos budistas, que además excluyen la cebolla y el ajo) y los puestos del sur de la India de Tekka. Pregunta por la salsa de pescado y la manteca de cerdo, que aparecen en muchos platos."] },
-    { "q": "¿Comida halal?", "a": ["Los puestos con certificación halal muestran el certificado. Muchos puestos malayos e indomusulmanes son halal; los chinos, por lo general, no lo son salvo que estén certificados."] },
-    { "q": "¿Tienen todos aire acondicionado?", "a": ["No. La mayoría de los hawker centres están abiertos por los lados y se refrescan con ventiladores de techo. En las horas de más calor, ve a centros con buena ventilación cruzada o elige un momento más fresco del día."] }
+    {
+      "q": "¿Es segura la comida de los hawker centres?",
+      "a": [
+        "Los puestos tienen licencia y pasan inspecciones, y cada uno muestra su calificación de higiene. Como en cualquier sitio, un puesto popular con mucha rotación es buena señal."
+      ]
+    },
+    {
+      "q": "¿Y para vegetarianos?",
+      "a": [
+        "Busca los puestos marcados como vegetarianos (a menudo vegetarianos budistas, que además excluyen la cebolla y el ajo) y los puestos del sur de la India de Tekka. Pregunta por la salsa de pescado y la manteca de cerdo, que aparecen en muchos platos."
+      ]
+    },
+    {
+      "q": "¿Comida halal?",
+      "a": [
+        "Los puestos con certificación halal muestran el certificado. Muchos puestos malayos e indomusulmanes son halal; los chinos, por lo general, no lo son salvo que estén certificados."
+      ]
+    },
+    {
+      "q": "¿Tienen todos aire acondicionado?",
+      "a": [
+        "No. La mayoría de los hawker centres están abiertos por los lados y se refrescan con ventiladores de techo. En las horas de más calor, ve a centros con buena ventilación cruzada o elige un momento más fresco del día."
+      ]
+    }
   ]
 }

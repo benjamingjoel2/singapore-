@@ -12,13 +12,26 @@
     "sub": "Bird Paradise, el zoo, el parque fluvial y el Night Safari, junto al embalse, al borde del bosque central."
   },
   "info": [
-    { "label": "Cómo llegar", "value": "Autobús lanzadera desde el MRT Khatib" },
-    { "label": "Mejores horas", "value": "El zoo, a la apertura; el Night Safari, de noche" },
-    { "label": "Tiempo necesario", "value": "Un día entero, o un parque más la noche" }
+    {
+      "label": "Cómo llegar",
+      "value": "Autobús lanzadera desde el MRT Khatib"
+    },
+    {
+      "label": "Mejores horas",
+      "value": "El zoo, a la apertura; el Night Safari, de noche"
+    },
+    {
+      "label": "Tiempo necesario",
+      "value": "Un día entero, o un parque más la noche"
+    }
   ],
   "intro": {
     "heading": "Cuatro parques al borde del bosque",
-    "chips": ["Zoo", "Aves", "Noche"],
+    "chips": [
+      "Zoo",
+      "Aves",
+      "Noche"
+    ],
     "text": [
       "Mandai está en la orilla norte del embalse de Upper Seletar, lindando con la Central Catchment Nature Reserve. El Singapore Zoo abrió aquí en 1973 con un planteamiento poco habitual para la época: fosos y paisajismo en lugar de barrotes, bajo el dosel del bosque. Después llegaron el Night Safari, River Wonders y, por último, Bird Paradise, que se trasladó aquí desde el oeste de la isla en 2023.",
       "Es una excursión larga. Elige un parque de día y el Night Safari en lugar de intentar verlo todo. El zoo y Bird Paradise se disfrutan más justo a la hora de apertura, cuando los animales están activos y los caminos están frescos."
@@ -27,8 +40,11 @@
   "rows": [
     {
       "title": "Bird Paradise",
-      "image": "mandai-1",
-      "meta": ["Aviarios transitables", "De día"],
+      "image": null,
+      "meta": [
+        "Aviarios transitables",
+        "De día"
+      ],
       "text": [
         "Grandes aviarios que se recorren por dentro, cada uno ambientado como una región del mundo, de una selva del Sudeste Asiático a un humedal africano. Muchos caminos están cubiertos, lo que se agradece con calor y con lluvia."
       ]
@@ -36,35 +52,53 @@
     {
       "title": "Singapore Zoo",
       "image": "mandai-2",
-      "meta": ["Recintos abiertos", "Sombra del bosque"],
+      "meta": [
+        "Recintos abiertos",
+        "Sombra del bosque"
+      ],
       "text": [
         "Bajo los árboles centenarios junto al embalse, el zoo es una de las excursiones de día con más sombra de Singapur. Llega a la apertura, empieza por los primates y los orangutanes en semilibertad, y pásate a las zonas interiores o cubiertas después del mediodía."
       ]
     },
     {
       "title": "Night Safari",
-      "meta": ["Solo por la noche", "Tranvía y senderos"],
+      "meta": [
+        "Solo por la noche",
+        "Tranvía y senderos"
+      ],
       "text": [
         "Un parque que solo abre de noche, con un recorrido en tranvía y senderos a pie por hábitats iluminados como si fuera a la luz de la luna. Es muy popular y se llena a la apertura; llega algo más tarde para encontrar menos cola. No se permite hacer fotos con flash."
       ]
     },
     {
       "title": "River Wonders y la pasarela",
-      "meta": ["Acuarios interiores", "Pasarela gratuita"],
+      "meta": [
+        "Acuarios interiores",
+        "Pasarela gratuita"
+      ],
       "text": [
         "River Wonders es en gran parte cubierto y climatizado: un buen refugio en caso de tormenta. La Mandai Boardwalk, que bordea el bosque, es gratuita y está abierta a todo el mundo."
       ]
     }
   ],
   "bleed": {
-    "image": "mandai-2",
+    "image": null,
     "kicker": "Al borde del bosque",
     "title": "La pasarela de Mandai",
     "text": "Una pasarela corta y gratuita por el borde del bosque en Mandai, perfecta para la hora previa a la apertura del Night Safari.",
     "facts": [
-      { "label": "Inicio", "value": "Mandai Wildlife West" },
-      { "label": "Longitud", "value": "Circuito corto" },
-      { "label": "Mejor momento", "value": "Última hora de la tarde" }
+      {
+        "label": "Inicio",
+        "value": "Mandai Wildlife West"
+      },
+      {
+        "label": "Longitud",
+        "value": "Circuito corto"
+      },
+      {
+        "label": "Mejor momento",
+        "value": "Última hora de la tarde"
+      }
     ],
     "cta": "Ver el paseo"
   },
@@ -74,15 +108,44 @@
       "Dentro de los parques hay restaurantes y food courts, prácticos pero concurridos a la hora de comer. Para comer mejor, hazlo en la ciudad antes de una visita nocturna."
     ],
     "items": [
-      { "name": "Dentro de los parques", "text": "Food courts y restaurantes en cada parque." },
-      { "name": "Khatib y Yishun", "text": "Hawker centres de barrio cerca de la parada del autobús lanzadera." },
-      { "name": "Por la noche", "text": "Cena temprano en la ciudad y llega al Night Safari después de la primera avalancha." }
+      {
+        "name": "Dentro de los parques",
+        "text": "Food courts y restaurantes en cada parque."
+      },
+      {
+        "name": "Khatib y Yishun",
+        "text": "Hawker centres de barrio cerca de la parada del autobús lanzadera."
+      },
+      {
+        "name": "Por la noche",
+        "text": "Cena temprano en la ciudad y llega al Night Safari después de la primera avalancha."
+      }
     ]
   },
   "faq": [
-    { "q": "¿Puedo visitar más de un parque en un día?", "a": ["Sí, y se venden entradas combinadas. El plan más cómodo es un parque de día por la mañana, descanso por la tarde y el Night Safari de noche."] },
-    { "q": "¿Cuál es el horario?", "a": ["Cada parque tiene su propio horario, y el Night Safari solo abre por la noche. Los horarios cambian en festivos y eventos, así que compruébalos en la web de Mandai antes de ir."] },
-    { "q": "¿Cómo se llega?", "a": ["El autobús lanzadera Mandai Khatib sale del MRT Khatib, en la North-South Line. En taxi desde la ciudad se tarda una media hora."] }
+    {
+      "q": "¿Puedo visitar más de un parque en un día?",
+      "a": [
+        "Sí, y se venden entradas combinadas. El plan más cómodo es un parque de día por la mañana, descanso por la tarde y el Night Safari de noche."
+      ]
+    },
+    {
+      "q": "¿Cuál es el horario?",
+      "a": [
+        "Cada parque tiene su propio horario, y el Night Safari solo abre por la noche. Los horarios cambian en festivos y eventos, así que compruébalos en la web de Mandai antes de ir."
+      ]
+    },
+    {
+      "q": "¿Cómo se llega?",
+      "a": [
+        "El autobús lanzadera Mandai Khatib sale del MRT Khatib, en la North-South Line. En taxi desde la ciudad se tarda una media hora."
+      ]
+    }
   ],
-  "related": ["nature-reserves", "botanic-gardens", "pulau-ubin", "changi"]
+  "related": [
+    "nature-reserves",
+    "botanic-gardens",
+    "pulau-ubin",
+    "changi"
+  ]
 }

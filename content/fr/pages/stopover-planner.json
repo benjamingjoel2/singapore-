@@ -1,0 +1,441 @@
+{
+  "meta": {
+    "title": "Planificateur d'escale à Singapour : de 8 h à 4 jours | Five Foot Way",
+    "description": "Indiquez votre escale : un programme réaliste qui intègre immigration, trajets et délais à Changi, et un « restez en zone de transit » honnête si c'est trop court."
+  },
+  "hero": {
+    "kicker": "Notre outil phare",
+    "title": "Le planificateur d'escale",
+    "image": "changi-1",
+    "sub": "De huit heures à quatre jours. Nous faisons les soustractions pour que vous ne ratiez pas votre vol."
+  },
+  "intro": {
+    "kicker": "Comment ça marche",
+    "text": "La plupart des conseils pour une escale oublient l'arithmétique. Avant de voir quoi que ce soit de Singapour, il faut quitter l'avion, passer l'immigration et traverser l'île ; puis il faut revenir, passer la sécurité et être à la porte d'embarquement. Ce planificateur compte d'abord tout cela, puis remplit le temps restant avec de l'ombre, de bons plats et les heures les plus fraîches."
+  },
+  "planner": {
+    "title": "Votre escale, heure par heure",
+    "text": "Réglez le curseur sur la durée de votre escale, choisissez l'heure de votre atterrissage et le mois de votre voyage. Le programme suppose que vous voyagez avec un bagage cabine ou des bagages enregistrés jusqu'à destination, que votre passeport vous permet d'entrer à Singapour, et prévoit une marge de trois heures avant le départ. Si votre compagnie ou votre billet indique autre chose, suivez leurs consignes."
+  },
+  "activities": {
+    "land": {
+      "t": "Atterrissage à Changi",
+      "d": "Suivez les panneaux Arrival Immigration, ou Transfer si vous restez en zone de transit."
+    },
+    "immigration": {
+      "t": "Immigration et sortie",
+      "d": "Remplissez votre SG Arrival Card avant d'atterrir. Comptez environ une heure de la porte de l'avion au trottoir, davantage aux heures de pointe."
+    },
+    "airsideIntro": {
+      "t": "Restez en zone de transit",
+      "d": "Pas d'immigration, pas de files d'attente. Repérez d'abord le comptoir de transfert de votre prochain vol, puis partez explorer."
+    },
+    "toCity": {
+      "t": "Direction le centre-ville",
+      "d": "MRT depuis les terminaux (changement à Tanah Merah ou Expo selon la ligne), ou une trentaine de minutes en taxi."
+    },
+    "toKatong": {
+      "t": "Taxi pour Katong",
+      "d": "Environ 20 minutes. Le quartier intéressant le plus proche de l'aéroport."
+    },
+    "back": {
+      "t": "Retour vers Changi",
+      "d": "Taxi ou MRT. Partez maintenant, même si vous passez un bon moment."
+    },
+    "backAt": {
+      "t": "De retour à l'aéroport",
+      "d": "Enregistrez-vous ou passez l'immigration au départ et la sécurité. Les portes ferment bien avant le décollage."
+    },
+    "depart": {
+      "t": "Départ de votre vol",
+      "d": ""
+    },
+    "sleep": {
+      "t": "Dormir",
+      "d": "Un hôtel près de votre programme du lendemain matin, ou un hôtel de transit à l'aéroport si vous n'entrez pas à Singapour."
+    },
+    "airside": [
+      {
+        "t": "Des jardins entre les portes",
+        "d": "Passez d'un terminal à l'autre côté transit pour découvrir les jardins, dont le jardin aux papillons du Terminal 3. Vérifiez lesquels sont ouverts : certains changent au gré des travaux.",
+        "dur": 1.5
+      },
+      {
+        "t": "Un vrai repas",
+        "d": "Les food courts de la zone de transit servent laksa, chicken rice et kaya toast à des prix raisonnables.",
+        "dur": 1
+      },
+      {
+        "t": "Se reposer",
+        "d": "Des espaces de repos gratuits avec fauteuils inclinables sont répartis dans les terminaux ; les hôtels de transit louent des chambres par tranches de quelques heures.",
+        "dur": 2
+      },
+      {
+        "t": "Une baignade ou une douche",
+        "d": "Une piscine sur le toit et des douches sont accessibles moyennant paiement dans certains terminaux. Vérifiez ce qui est ouvert dans le vôtre.",
+        "dur": 1
+      },
+      {
+        "t": "Flâner et lécher les vitrines",
+        "d": "Chaque terminal a ses installations artistiques et ses recoins tranquilles. Gardez un œil sur les écrans.",
+        "dur": 1.5
+      }
+    ],
+    "jewel": [
+      {
+        "t": "Rejoindre Jewel à pied",
+        "d": "Relié au Terminal 1 côté public. Suivez les panneaux depuis le hall des arrivées.",
+        "dur": 0.5
+      },
+      {
+        "t": "Le Rain Vortex",
+        "d": "La cascade intérieure tombe du toit de verre dans la vallée forestière. Faites le tour des terrasses qui l'entourent.",
+        "dur": 1
+      },
+      {
+        "t": "Déjeuner ou dîner à Jewel",
+        "d": "Des halles de cuisine locale aux niveaux inférieurs. Commandez quelque chose que vous ne trouverez pas chez vous.",
+        "dur": 1
+      },
+      {
+        "t": "Canopy Park ou une pause",
+        "d": "Les jardins du dernier niveau sont payants ; sinon, trouvez un siège près de la cascade.",
+        "dur": 1
+      }
+    ],
+    "pools": {
+      "morning": [
+        {
+          "t": "Petit-déjeuner au Tiong Bahru Market",
+          "d": "Chwee kueh et kopi à l'étage, puis le tour des immeubles des années 1930 pendant que l'air est frais.",
+          "dur": 2,
+          "meal": true
+        },
+        {
+          "t": "Botanic Gardens à l'aube",
+          "d": "Entrez par Tanglin Gate et traversez la forêt tropicale jusqu'à Swan Lake. Gratuit, et à son meilleur avant 9 h.",
+          "dur": 2.5
+        },
+        {
+          "t": "Chinatown avant la foule",
+          "d": "Petit-déjeuner au Maxwell Food Centre, puis les temples et les five-foot ways de Telok Ayer.",
+          "dur": 2.5
+        },
+        {
+          "t": "Southern Ridges",
+          "d": "Henderson Waves et la Forest Walk avant que le soleil ne monte. Arrivée à HarbourFront.",
+          "dur": 3
+        }
+      ],
+      "late": [
+        {
+          "t": "Kampong Glam",
+          "d": "La Sultan Mosque, les boutiques de tissus d'Arab Street et Haji Lane, sous les arcades.",
+          "dur": 2
+        },
+        {
+          "t": "Peranakan Museum",
+          "d": "La plus belle collection de broderies perlées, porcelaines et bijoux peranakan, au frais.",
+          "dur": 1.5
+        },
+        {
+          "t": "Little India",
+          "d": "Le Tekka Centre, les étals de guirlandes et le Sri Veeramakaliamman Temple.",
+          "dur": 2
+        }
+      ],
+      "midday": [
+        {
+          "t": "Déjeuner au hawker centre",
+          "d": "Lau Pa Sat ou Maxwell, avant 12 h ou après 13 h 30 pour éviter la ruée des bureaux.",
+          "dur": 1,
+          "meal": true
+        },
+        {
+          "t": "Cloud Forest et Flower Dome",
+          "d": "Les serres climatisées de Gardens by the Bay : le meilleur endroit de la ville aux heures les plus chaudes.",
+          "dur": 2
+        },
+        {
+          "t": "National Gallery Singapore",
+          "d": "L'art d'Asie du Sud-Est dans l'ancienne Cour suprême et l'ancien hôtel de ville. Climatisée, et assez grande pour un long après-midi.",
+          "dur": 2
+        },
+        {
+          "t": "Asian Civilisations Museum",
+          "d": "Au bord de la rivière, avec la cargaison de l'épave Tang du IXe siècle.",
+          "dur": 1.5
+        }
+      ],
+      "afternoon": [
+        {
+          "t": "À l'abri pendant l'orage",
+          "d": "Le passage souterrain de City Hall à l'Esplanade et les colonnades du Civic District vous gardent au sec.",
+          "dur": 1.5
+        },
+        {
+          "t": "Un thé et une heure au ralenti",
+          "d": "Un kopitiam à Tiong Bahru ou une maison de thé à Chinatown, le temps que la pluie passe.",
+          "dur": 1
+        },
+        {
+          "t": "Joo Chiat et Katong",
+          "d": "Les maisons peranakan de Koon Seng Road une fois la chaleur retombée, et un laksa sur East Coast Road.",
+          "dur": 2.5
+        }
+      ],
+      "evening": [
+        {
+          "t": "Le front de mer de Marina Bay",
+          "d": "La boucle de la promenade, de l'Asian Civilisations Museum aux Gardens, quand la brise se lève.",
+          "dur": 1.5
+        },
+        {
+          "t": "Satay sur Boon Tat Street",
+          "d": "Les grills s'installent à côté de Lau Pa Sat le soir.",
+          "dur": 1.5,
+          "meal": true
+        },
+        {
+          "t": "Night Safari",
+          "d": "Le soir uniquement, à Mandai. Environ 40 minutes du centre en taxi.",
+          "dur": 3
+        },
+        {
+          "t": "Dîner à Old Airport Road",
+          "d": "L'un des meilleurs hawker centres de la ville, sur la route du retour vers Changi.",
+          "dur": 1.5,
+          "meal": true
+        }
+      ],
+      "late_evening": [
+        {
+          "t": "Kampong Glam à la nuit tombée",
+          "d": "La mosquée illuminée, teh tarik et murtabak dans les rues piétonnes.",
+          "dur": 1.5
+        },
+        {
+          "t": "Le long de la rivière",
+          "d": "De Boat Quay à Clarke Quay, les shophouses illuminées au bord de l'eau.",
+          "dur": 1
+        }
+      ],
+      "night": [
+        {
+          "t": "Souper",
+          "d": "Un prata dans une échoppe ouverte 24 h/24, ou un hawker centre ouvert tard comme Adam Road.",
+          "dur": 1,
+          "meal": true
+        },
+        {
+          "t": "Se reposer",
+          "d": "Si vous ne dormez pas, les espaces publics de Jewel restent ouverts jour et nuit.",
+          "dur": 2
+        }
+      ]
+    },
+    "shortPools": {
+      "morning": [
+        {
+          "t": "Laksa de Katong au petit-déjeuner",
+          "d": "Un bol sur East Coast Road, puis les maisons peranakan de Koon Seng Road.",
+          "dur": 2,
+          "meal": true
+        },
+        {
+          "t": "Changi Village",
+          "d": "Nasi lemak au hawker centre et promenade côtière. À dix minutes des terminaux.",
+          "dur": 2
+        }
+      ],
+      "late": [
+        {
+          "t": "Joo Chiat Road",
+          "d": "Les arcades de shophouses, les boutiques de kueh et les façades carrelées, le tout à couvert.",
+          "dur": 1.5
+        }
+      ],
+      "midday": [
+        {
+          "t": "Déjeuner à Old Airport Road",
+          "d": "Un grand hawker centre de quartier entre Katong et le centre-ville.",
+          "dur": 1,
+          "meal": true
+        },
+        {
+          "t": "Jewel et le Rain Vortex",
+          "d": "En revenant vers l'aéroport, un jardin climatisé avec une cascade.",
+          "dur": 1.5
+        }
+      ],
+      "afternoon": [
+        {
+          "t": "East Coast Park",
+          "d": "La brise marine sous les arbres, à quelques pas de Marine Parade.",
+          "dur": 1.5
+        },
+        {
+          "t": "Jewel",
+          "d": "À l'abri de l'orage, près du Rain Vortex.",
+          "dur": 1.5
+        }
+      ],
+      "evening": [
+        {
+          "t": "Satay à East Coast Lagoon",
+          "d": "Au bord de la mer, à vingt minutes de Changi.",
+          "dur": 1.5,
+          "meal": true
+        },
+        {
+          "t": "Changi Village",
+          "d": "Dîner au hawker centre et promenade le long du rivage.",
+          "dur": 1.5
+        }
+      ],
+      "late_evening": [
+        {
+          "t": "Le spectacle lumineux de Jewel",
+          "d": "Le spectacle son et lumière du soir sur le Rain Vortex, puis l'enregistrement.",
+          "dur": 1
+        }
+      ]
+    },
+    "free": {
+      "t": "Temps libre",
+      "d": "Reposez-vous à l'hôtel pendant la chaleur, baignez-vous, ou retournez à l'un de vos coups de cœur de la journée.",
+      "dur": 2
+    }
+  },
+  "rules": {
+    "title": "Entrée, transit et les règles qu'on oublie",
+    "text": "Résumé à jour fin 2026, d'après les sources officielles. Les règles changent : vérifiez toujours auprès de l'Immigration & Checkpoints Authority (ICA) et de votre compagnie aérienne avant de partir. Chaque point ci-dessous figure dans notre liste d'informations à vérifier.",
+    "groups": [
+      {
+        "title": "Entrer à Singapour",
+        "items": [
+          {
+            "q": "Ai-je besoin de la SG Arrival Card ?",
+            "a": [
+              "Oui, si vous quittez l'aéroport. Tous les voyageurs entrant à Singapour, à l'exception des citoyens singapouriens, des résidents permanents et de certains titulaires de titres de séjour, doivent soumettre la SG Arrival Card en ligne dans les trois jours précédant leur arrivée. Elle est gratuite sur le site et l'application officiels de l'ICA. Ignorez les sites qui la font payer."
+            ]
+          },
+          {
+            "q": "Ai-je besoin d'un visa ?",
+            "a": [
+              "Cela dépend de votre passeport. De nombreuses nationalités peuvent entrer sans visa pour un court séjour ; d'autres doivent en faire la demande à l'avance. Consultez les conditions de visa par nationalité sur le site de l'ICA avant de réserver une longue escale."
+            ]
+          },
+          {
+            "q": "Combien de temps prend l'immigration ?",
+            "a": [
+              "Les titulaires de nombreux passeports peuvent utiliser les portiques automatiques et passent en quelques minutes. Aux heures chargées, comptez jusqu'à une heure entre la porte de l'avion et le trottoir."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Rester en transit",
+        "items": [
+          {
+            "q": "Puis-je rester en zone de transit sans visa ?",
+            "a": [
+              "En général, oui : si vous restez dans la zone de transit et disposez d'un vol de correspondance confirmé, la plupart des voyageurs n'ont pas besoin de visa. Renseignez-vous auprès de votre compagnie si vos bagages ne sont pas enregistrés jusqu'à destination ou si vous changez de terminal."
+            ]
+          },
+          {
+            "q": "Et mes bagages enregistrés ?",
+            "a": [
+              "Si vos bagages sont enregistrés jusqu'à votre destination finale, vous pouvez quitter l'aéroport sans eux. Sinon, vous devez les récupérer, passer la douane et les enregistrer à nouveau, ce qui prend du temps. Des consignes à bagages se trouvent dans les terminaux."
+            ]
+          },
+          {
+            "q": "Combien de temps à l'avance dois-je être de retour ?",
+            "a": [
+              "Notre planificateur vous demande d'être de retour à Changi deux heures et demie avant le départ. Les compagnies ferment l'enregistrement et les portes plus tôt que beaucoup ne le pensent ; suivez les horaires de votre compagnie s'ils sont plus stricts."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Ce qu'il ne faut pas apporter",
+        "items": [
+          {
+            "q": "Le chewing-gum",
+            "a": [
+              "L'importation de chewing-gum est interdite, sauf petites quantités à usage personnel de certaines gommes dentaires ou médicinales. Laissez-le à la maison."
+            ]
+          },
+          {
+            "q": "Cigarettes électroniques et vapoteuses",
+            "a": [
+              "Il est illégal d'introduire, de détenir, d'utiliser ou d'acheter des vapoteuses et cigarettes électroniques à Singapour, et les contrôles se sont considérablement durcis, avec de lourdes amendes et, pour les étrangers, un risque d'interdiction de retour sur le territoire. Ne les emportez pas, même dans un bagage de transit que vous comptez garder fermé."
+            ]
+          },
+          {
+            "q": "Les médicaments",
+            "a": [
+              "Certains médicaments, dont certains somnifères, antalgiques puissants et traitements du TDAH, nécessitent une autorisation de la Health Sciences Authority avant d'être apportés. Gardez vos ordonnances et les emballages d'origine, et consultez les recommandations de la HSA pour les voyageurs."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Sur place",
+        "items": [
+          {
+            "q": "Boire de l'alcool en public",
+            "a": [
+              "La consommation d'alcool dans les lieux publics est interdite entre 22 h 30 et 7 h. Les commerces ne peuvent pas vendre d'alcool à emporter pendant ces heures. Des horaires plus stricts s'appliquent dans les Liquor Control Zones de Geylang et de Little India."
+            ]
+          },
+          {
+            "q": "Fumer",
+            "a": [
+              "Il n'est permis de fumer que dans les zones fumeurs désignées, signalées par des cadres jaunes au sol. La plupart des rues, des parcs et des passages couverts sont non-fumeurs."
+            ]
+          },
+          {
+            "q": "Payer et se déplacer",
+            "a": [
+              "Les cartes bancaires sans contact fonctionnent dans le MRT et les bus. Taxis et applications de VTC se trouvent facilement. Les espèces restent utiles dans les vieux stands de hawker centres et sur le bumboat de Pulau Ubin."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "changi": {
+    "image": "changi-2",
+    "kicker": "Les délais à Changi",
+    "title": "Où passe le temps",
+    "text": "Les chiffres qu'utilise notre planificateur. Ils sont volontairement prudents : un train en retard, une file au contrôle de sécurité ou un orage ne devraient jamais vous coûter un vol.",
+    "facts": [
+      {
+        "label": "De la porte au trottoir",
+        "value": "Environ 1 heure"
+      },
+      {
+        "label": "De Changi au centre",
+        "value": "30 à 45 min"
+      },
+      {
+        "label": "Retour avant le décollage",
+        "value": "2 h 30"
+      },
+      {
+        "label": "Programme en ville le plus court",
+        "value": "11 heures"
+      }
+    ],
+    "cta": "Changi et Jewel"
+  },
+  "checklist": [
+    "Vérifiez si votre passeport vous permet d'entrer à Singapour sans visa, sur le [site de l'ICA](https://www.ica.gov.sg).",
+    "Soumettez la **SG Arrival Card** dans les trois jours précédant votre atterrissage, sur le site ou l'application officiels de l'ICA (gratuit).",
+    "Assurez-vous que vos bagages sont enregistrés jusqu'à votre destination finale.",
+    "Laissez vapoteuses et cigarettes électroniques à la maison, et vérifiez vos médicaments sur ordonnance auprès de la HSA.",
+    "Notez votre terminal de départ et l'heure de clôture de l'enregistrement.",
+    "Programmez une alarme pour l'heure à laquelle vous devez quitter la ville, et respectez-la."
+  ]
+}

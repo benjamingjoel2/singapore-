@@ -9,16 +9,55 @@
   "tocLabel": "Contenido",
   "intro": "En resumen: {url} no utiliza cookies de seguimiento, analítica ni publicidad y, por eso, no muestra ningún banner de cookies. En esta página se explica con detalle lo que esto significa.",
   "sections": [
-    { "h": "Qué son las cookies", "p": ["Las cookies son pequeños archivos de texto que un sitio web almacena en su navegador. Entre las tecnologías similares se encuentran el almacenamiento local y los píxeles de seguimiento. Pueden ser imprescindibles para que un sitio funcione o utilizarse para medir visitas, recordar preferencias o mostrar publicidad."] },
-    { "h": "Qué utiliza este sitio", "p": ["Este sitio es un conjunto de páginas estáticas. No instala ninguna cookie propia. En concreto, no utiliza:"], "ul": [
-      "cookies de analítica o estadísticas;",
-      "cookies o píxeles de publicidad, retargeting o redes sociales;",
-      "vídeos, mapas o widgets de redes sociales incrustados que instalen cookies de terceros."
-    ], "p2": ["Las fuentes tipográficas y las imágenes se sirven desde nuestro propio dominio, no desde servicios de terceros. El idioma que usted elige forma parte de la dirección de cada página (por ejemplo, /es/ para el español), de modo que no es necesario almacenar nada para recordarlo."] },
-    { "h": "Nuestro proveedor de alojamiento", "p": ["El sitio está alojado por Vercel Inc. Para servir las páginas de forma segura y proteger el sitio frente a usos abusivos, la plataforma de alojamiento trata datos técnicos, como su dirección IP, en sus registros del servidor. Esto no implica instalar cookies de publicidad ni de analítica en su dispositivo. Consulte nuestra [Política de privacidad](@privacy) para saber cuánto tiempo se conservan los registros."] },
-    { "h": "El formulario de consulta", "p": ["Cuando usted envía el formulario de consulta, los datos que introduce nos llegan a través de una conexión cifrada para que podamos responder a su consulta. El formulario no instala cookies."] },
-    { "h": "Enlaces a otros sitios", "p": ["Enlazamos a sitios oficiales, como los de organismos públicos y atracciones de Singapur. Esos sitios tienen sus propias políticas de cookies, que se aplican en cuanto usted abandona {url}."] },
-    { "h": "Gestión de las cookies", "p": ["Puede bloquear o eliminar las cookies en cualquier momento desde la configuración de su navegador. Como este sitio no depende de las cookies, seguirá funcionando igual si lo hace."] },
-    { "h": "Cambios y contacto", "p": ["Si alguna vez introdujéramos cookies que no sean estrictamente necesarias, actualizaríamos esta política y le pediríamos su consentimiento antes de instalarlas. Para cualquier pregunta: [{email}](mailto:{email}), {brand}, {address}."] }
+    {
+      "h": "Qué son las cookies",
+      "p": [
+        "Las cookies son pequeños archivos de texto que un sitio web almacena en su navegador. Entre las tecnologías similares se encuentran el almacenamiento local y los píxeles de seguimiento. Pueden ser imprescindibles para que un sitio funcione o utilizarse para medir visitas, recordar preferencias o mostrar publicidad."
+      ]
+    },
+    {
+      "h": "Qué utiliza este sitio",
+      "p": [
+        "Este sitio es un conjunto de páginas estáticas. No instala ninguna cookie propia. En concreto, no utiliza:"
+      ],
+      "ul": [
+        "cookies de analítica o estadísticas;",
+        "cookies o píxeles de publicidad, retargeting o redes sociales;",
+        "vídeos, mapas o widgets de redes sociales incrustados que instalen cookies de terceros."
+      ],
+      "p2": [
+        "Las fuentes tipográficas y las imágenes se sirven desde nuestro propio dominio, no desde servicios de terceros. El idioma que usted elige forma parte de la dirección de cada página (por ejemplo, /es/ para el español), de modo que no es necesario almacenar nada para recordarlo."
+      ]
+    },
+    {
+      "h": "Nuestro proveedor de alojamiento",
+      "p": [
+        "El sitio está alojado por Vercel Inc. Para servir las páginas de forma segura y proteger el sitio frente a usos abusivos, la plataforma de alojamiento trata datos técnicos, como su dirección IP, en sus registros del servidor. Esto no implica instalar cookies de publicidad ni de analítica en su dispositivo. Consulte nuestra [Política de privacidad](@privacy) para saber cuánto tiempo se conservan los registros."
+      ]
+    },
+    {
+      "h": "El formulario de consulta",
+      "p": [
+        "Cuando usted envía el formulario de consulta, los datos que introduce nos llegan a través de una conexión cifrada para que podamos responder a su consulta. El formulario no instala cookies."
+      ]
+    },
+    {
+      "h": "Enlaces a otros sitios",
+      "p": [
+        "Enlazamos a sitios oficiales, como los de organismos públicos y atracciones de Singapur. Esos sitios tienen sus propias políticas de cookies, que se aplican en cuanto usted abandona {url}."
+      ]
+    },
+    {
+      "h": "Gestión de las cookies",
+      "p": [
+        "Puede bloquear o eliminar las cookies en cualquier momento desde la configuración de su navegador. Como este sitio no depende de las cookies, seguirá funcionando igual si lo hace."
+      ]
+    },
+    {
+      "h": "Cambios y contacto",
+      "p": [
+        "Si alguna vez introdujéramos cookies que no sean estrictamente necesarias, actualizaríamos esta política y le pediríamos su consentimiento antes de instalarlas. Para cualquier pregunta: [{email}](mailto:{email}), {brand}, {address}."
+      ]
+    }
   ]
 }

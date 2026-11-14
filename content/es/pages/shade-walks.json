@@ -1,0 +1,569 @@
+{
+  "meta": {
+    "title": "Paseos a la sombra y con lluvia por Singapur | Five Foot Way",
+    "description": "Trece paseos por barrios y naturaleza bajo five-foot ways, park connectors y arbolado, con horarios para evitar el calor de mediodía y las tormentas de la tarde."
+  },
+  "hero": {
+    "kicker": "Nuestros paseos estrella",
+    "title": "Paseos a la sombra y con lluvia",
+    "image": "walk-1",
+    "sub": "Rutas bajo five-foot ways, pasarelas cubiertas y arbolado, siempre con un refugio contra la tormenta a mano."
+  },
+  "intro": {
+    "kicker": "La idea",
+    "text": "Singapur se construyó para caminar con calor mucho antes del aire acondicionado. Los soportales de las shophouses, las galerías profundas y los árboles de lluvia plantados a lo largo de las antiguas carreteras se pensaron para protegerte del sol y de la lluvia. Nuestros paseos los siguen, empiezan cuando el aire está fresco y siempre saben dónde está el próximo refugio."
+  },
+  "clock": {
+    "title": "El tiempo en un día cualquiera",
+    "text": [
+      "Singapur está a unos 140 kilómetros al norte del ecuador. Hace calor y humedad todo el año, con temperaturas diurnas de entre 31 y 33 °C y noches que rara vez bajan de 24 °C. La pauta que importa para caminar es diaria, no estacional: mañanas frescas y luminosas, un sol implacable desde media mañana, tormentas que se forman por la tarde muchos meses del año y una noche más suave.",
+      "Empieza a caminar entre las 7:00 y las 9:00, o a partir de las 17:00. Pasa las horas centrales del día a cubierto, comiendo o en un museo. Cuando empiece a tronar, busca refugio: las tormentas suelen ser breves y muy intensas."
+    ],
+    "aria": "Guía hora a hora: lo mejor para caminar, de 6:00 a 10:00 y de 18:00 a 21:00; más calor, de 12:00 a 15:00; tormentas más probables de 15:00 a 18:00 en los meses entre monzones.",
+    "hours": [
+      "night",
+      "night",
+      "night",
+      "night",
+      "night",
+      "night",
+      "best",
+      "best",
+      "best",
+      "best",
+      "ok",
+      "ok",
+      "hot",
+      "hot",
+      "hot",
+      "storm",
+      "storm",
+      "storm",
+      "best",
+      "best",
+      "best",
+      "ok",
+      "ok",
+      "night"
+    ],
+    "legend": [
+      {
+        "code": "best",
+        "label": "Ideal para caminar"
+      },
+      {
+        "code": "ok",
+        "label": "Bien a la sombra"
+      },
+      {
+        "code": "hot",
+        "label": "Más calor: mejor a cubierto"
+      },
+      {
+        "code": "storm",
+        "label": "Franja de tormentas (entre monzones)"
+      },
+      {
+        "code": "night",
+        "label": "Noche"
+      }
+    ]
+  },
+  "seasonsTitle": "Las cuatro estaciones de la lluvia",
+  "seasons": [
+    {
+      "months": "De diciembre a principios de marzo",
+      "name": "Monzón del nordeste",
+      "text": [
+        "La fase húmeda, normalmente en diciembre y enero, trae rachas de lluvia más largas, a veces durante toda una tarde o un día entero. La fase seca que le sigue, a partir de febrero aproximadamente, suele ser la época más soleada y ventilada del año."
+      ]
+    },
+    {
+      "months": "De marzo a mayo",
+      "name": "Entre monzones",
+      "text": [
+        "Vientos flojos y variables, mañanas calurosas y sin viento, y tormentas por la tarde, a menudo repentinas e intensas. Organízate para estar a cubierto a media tarde."
+      ]
+    },
+    {
+      "months": "De junio a septiembre",
+      "name": "Monzón del suroeste",
+      "text": [
+        "En general, más seco. Las líneas de turbonada, bandas de tormentas que cruzan la isla con rapidez, suelen llegar antes del amanecer o a primera hora de la mañana. Algunos años puede haber calima por el humo de incendios en la región."
+      ]
+    },
+    {
+      "months": "De octubre a noviembre",
+      "name": "Entre monzones",
+      "text": [
+        "Como en la etapa de primavera: son habituales las tormentas por la tarde y al anochecer. Camina por la mañana."
+      ]
+    }
+  ],
+  "walksTitle": "Trece paseos",
+  "walksText": "Cada ruta indica el tipo de sombra que vas a tener. Las distancias y los tiempos corresponden a un ritmo tranquilo con paradas. Combina los paseos urbanos con una comida de la [guía de hawker centres](@hawker-guide).",
+  "walks": [
+    {
+      "id": "chinatown",
+      "title": "De Telok Ayer a Tanjong Pagar",
+      "image": "chinatown-2",
+      "distance": "Unos 3 km",
+      "time": "1 h 30 min",
+      "start": "MRT Telok Ayer",
+      "best": "7:30",
+      "intro": [
+        "El antiguo frente marítimo, las callejuelas de la colina y la calle más bonita de la ciudad, casi todo bajo five-foot ways."
+      ],
+      "route": [
+        {
+          "text": "Desde el MRT Telok Ayer, camina hacia el sur por **Telok Ayer Street** pasando junto al templo Thian Hock Keng.",
+          "shade": "five"
+        },
+        {
+          "text": "Atraviesa el **Amoy Street Food Centre** para tomar un kopi.",
+          "shade": "covered"
+        },
+        {
+          "text": "Sube las escaleras del **Ann Siang Hill Park** hasta Ann Siang Road y Club Street.",
+          "shade": "canopy"
+        },
+        {
+          "text": "Baja por **South Bridge Road** hasta el Sri Mariamman Temple y el Buddha Tooth Relic Temple.",
+          "shade": "five"
+        },
+        {
+          "text": "Desayuno o comida temprana en el **Maxwell Food Centre**.",
+          "shade": "covered"
+        },
+        {
+          "text": "Por **Neil Road** y alrededor de **Keong Saik Road** y Duxton Hill hasta el MRT Tanjong Pagar.",
+          "shade": "five"
+        }
+      ],
+      "bailout": "Los hawker centres de Amoy Street y Maxwell, y las estaciones de MRT de ambos extremos."
+    },
+    {
+      "id": "kampong-glam",
+      "title": "De Bugis a Bussorah",
+      "image": "kampong-glam-2",
+      "distance": "Unos 2 km",
+      "time": "1 hora",
+      "start": "MRT Bugis",
+      "best": "8:00 o 17:00",
+      "intro": [
+        "Un circuito compacto por los soportales del antiguo barrio malayo, con la mezquita en el centro."
+      ],
+      "route": [
+        {
+          "text": "Desde el MRT Bugis, toma la pasarela cubierta de **Victoria Street**.",
+          "shade": "covered"
+        },
+        {
+          "text": "Gira por **Arab Street** y sigue sus five-foot ways junto a las tiendas de telas.",
+          "shade": "five"
+        },
+        {
+          "text": "Por **Haji Lane**, tan estrecha que está a la sombra casi todo el día.",
+          "shade": "five"
+        },
+        {
+          "text": "Cruza **Bussorah Street**, flanqueada de palmeras, hasta la Sultan Mosque.",
+          "shade": "open"
+        },
+        {
+          "text": "Vuelve por **Baghdad Street** y **Kandahar Street** para tomar un té.",
+          "shade": "five"
+        }
+      ],
+      "bailout": "Los restaurantes en shophouses de Bussorah Street y Kandahar Street, o de vuelta al MRT Bugis y los centros comerciales de alrededor."
+    },
+    {
+      "id": "little-india",
+      "title": "De Tekka a Farrer Park",
+      "image": "little-india-2",
+      "distance": "Unos 2,5 km",
+      "time": "1 h 30 min",
+      "start": "MRT Little India",
+      "best": "7:30",
+      "intro": [
+        "Un paseo matinal hacia el norte por Serangoon Road, que empieza con un desayuno en el mercado de abastos."
+      ],
+      "route": [
+        {
+          "text": "Desayuno en el **Tekka Centre**, frente a la salida del MRT.",
+          "shade": "covered"
+        },
+        {
+          "text": "Entra en **Campbell Lane** y **Dunlop Street** para ver las tiendas de guirnaldas y de especias.",
+          "shade": "five"
+        },
+        {
+          "text": "Hacia el norte por los soportales de **Serangoon Road** hasta el Sri Veeramakaliamman Temple.",
+          "shade": "five"
+        },
+        {
+          "text": "Desvíate hasta la **House of Tan Teng Niah**, en Kerbau Road.",
+          "shade": "open"
+        },
+        {
+          "text": "Sigue por Serangoon Road hasta el **MRT Farrer Park**.",
+          "shade": "five"
+        }
+      ],
+      "bailout": "El Tekka Centre, los templos (con la vestimenta adecuada) y las estaciones de MRT de Little India y Farrer Park."
+    },
+    {
+      "id": "katong",
+      "title": "Joo Chiat de punta a punta",
+      "image": "katong-2",
+      "distance": "Unos 3 km",
+      "time": "1 h 30 min",
+      "start": "MRT Paya Lebar",
+      "best": "8:00 o 16:30",
+      "intro": [
+        "El mejor paseo para una escala corta: a veinte minutos de Changi, entre las shophouses más decoradas de Singapur."
+      ],
+      "route": [
+        {
+          "text": "Desde el MRT Paya Lebar, baja hacia el sur por **Joo Chiat Road** bajo los soportales.",
+          "shade": "five"
+        },
+        {
+          "text": "Gira por **Koon Seng Road** para ver las casas adosadas peranakan.",
+          "shade": "open"
+        },
+        {
+          "text": "Vuelve a Joo Chiat Road hasta **East Coast Road**.",
+          "shade": "five"
+        },
+        {
+          "text": "Laksa y kueh a lo largo de East Coast Road.",
+          "shade": "five"
+        },
+        {
+          "text": "Termina en el **MRT Marine Parade** o sigue por el paso subterráneo hasta East Coast Park.",
+          "shade": "park"
+        }
+      ],
+      "bailout": "Los cafés en shophouses de Joo Chiat Road, los centros comerciales de Katong en East Coast Road y las estaciones de MRT."
+    },
+    {
+      "id": "tiong-bahru",
+      "title": "Una vuelta por el barrio",
+      "image": "tiong-bahru-2",
+      "distance": "Unos 2 km",
+      "time": "1 hora",
+      "start": "MRT Tiong Bahru",
+      "best": "7:30",
+      "intro": [
+        "Desayuno, los bloques de antes de la guerra y los callejones traseros, bajo grandes árboles de lluvia y aleros profundos."
+      ],
+      "route": [
+        {
+          "text": "Desde el MRT Tiong Bahru, camina por **Tiong Bahru Road** bajo los árboles.",
+          "shade": "canopy"
+        },
+        {
+          "text": "Desayuno en la planta de arriba del **Tiong Bahru Market**.",
+          "shade": "covered"
+        },
+        {
+          "text": "Entre los bloques de antes de la guerra por **Seng Poh Road**, **Eng Hoon Street** y **Yong Siak Street**.",
+          "shade": "five"
+        },
+        {
+          "text": "Los murales de **Seng Poh Lane** y el templo del Dios Mono, **Qi Tian Gong**.",
+          "shade": "open"
+        },
+        {
+          "text": "Vuelve al MRT o sigue a pie hasta Outram Park.",
+          "shade": "canopy"
+        }
+      ],
+      "bailout": "El mercado, los cafés de los bajos y la estación de MRT."
+    },
+    {
+      "id": "civic-district",
+      "title": "De City Hall a Boat Quay",
+      "image": "civic-2",
+      "distance": "Unos 3 km",
+      "time": "1 h 30 min, más los museos",
+      "start": "MRT City Hall",
+      "best": "Cualquier hora; el paseo para los días de tormenta",
+      "intro": [
+        "Nuestra ruta para días de lluvia: bajo tierra, bajo columnatas y a lo largo del río."
+      ],
+      "route": [
+        {
+          "text": "Desde el MRT City Hall, sigue el **CityLink** subterráneo hasta el Esplanade.",
+          "shade": "covered"
+        },
+        {
+          "text": "Vuelve bordeando el **Padang** bajo los árboles hasta la National Gallery.",
+          "shade": "canopy"
+        },
+        {
+          "text": "Pasa junto al **Victoria Theatre** y el antiguo Parlamento.",
+          "shade": "covered"
+        },
+        {
+          "text": "Entra en el **Asian Civilisations Museum**.",
+          "shade": "covered"
+        },
+        {
+          "text": "Cruza el Cavenagh Bridge y sigue por los five-foot ways de **Boat Quay** hasta el MRT Raffles Place.",
+          "shade": "five"
+        }
+      ],
+      "bailout": "Cualquier edificio de la ruta. Elige un museo y espera a que escampe."
+    },
+    {
+      "id": "marina-bay",
+      "title": "La bahía a partir de las seis",
+      "image": "marina-2",
+      "distance": "Unos 3,5 km",
+      "time": "1 h 30 min",
+      "start": "MRT Raffles Place",
+      "best": "18:00",
+      "intro": [
+        "Una vuelta al atardecer alrededor del agua, cuando el pavimento se ha enfriado y se ha levantado la brisa."
+      ],
+      "route": [
+        {
+          "text": "Desde Raffles Place, camina hasta el río a la altura del **Fullerton** y sigue por el paseo marítimo.",
+          "shade": "open"
+        },
+        {
+          "text": "Pasa junto a los teatros del **Esplanade** y sigue por el paseo de la bahía.",
+          "shade": "open"
+        },
+        {
+          "text": "Cruza el **Helix Bridge**, parcialmente cubierto.",
+          "shade": "covered"
+        },
+        {
+          "text": "Sigue hasta **Gardens by the Bay** para cenar y ver el jardín de noche.",
+          "shade": "park"
+        }
+      ],
+      "bailout": "El Esplanade, los centros comerciales de la bahía y los invernaderos de los Gardens."
+    },
+    {
+      "id": "botanic-gardens",
+      "title": "De Tanglin Gate a Bukit Timah Gate",
+      "image": "botanic-2",
+      "distance": "Unos 3,5 km",
+      "time": "2 horas",
+      "start": "MRT Napier",
+      "best": "6:30",
+      "intro": [
+        "El jardín declarado por la UNESCO de punta a punta, a través de la selva y junto a los lagos."
+      ],
+      "route": [
+        {
+          "text": "Entra por **Tanglin Gate**, cerca del MRT Napier.",
+          "shade": "canopy"
+        },
+        {
+          "text": "Sigue la pasarela a través de la **selva**.",
+          "shade": "canopy"
+        },
+        {
+          "text": "**Swan Lake** y el Bandstand.",
+          "shade": "park"
+        },
+        {
+          "text": "El **National Orchid Garden** (de pago).",
+          "shade": "park"
+        },
+        {
+          "text": "A través del **Learning Forest** hasta el MRT Botanic Gardens.",
+          "shade": "canopy"
+        }
+      ],
+      "bailout": "Los refugios repartidos por el jardín, los centros de visitantes y la estación de MRT."
+    },
+    {
+      "id": "nature-reserves",
+      "title": "MacRitchie bajo el dosel",
+      "image": "nature-2",
+      "distance": "Circuito de unos 11 km",
+      "time": "3 h 30 min – 4 h 30 min",
+      "start": "MacRitchie Reservoir Park",
+      "best": "7:00",
+      "intro": [
+        "Senderos y pasarelas por el bosque alrededor del embalse hasta el TreeTop Walk. Una caminata de verdad, a la sombra densa del bosque."
+      ],
+      "route": [
+        {
+          "text": "Desde la entrada del parque, sigue la **pasarela** por la orilla del embalse.",
+          "shade": "canopy"
+        },
+        {
+          "text": "Senderos por el bosque hacia la **Jelutong Tower**.",
+          "shade": "canopy"
+        },
+        {
+          "text": "Cruza el **TreeTop Walk** (comprueba el horario del día).",
+          "shade": "open"
+        },
+        {
+          "text": "Vuelve por el **Sime Track** y las pasarelas.",
+          "shade": "canopy"
+        }
+      ],
+      "bailout": "Los refugios a lo largo de los senderos. Si hay rayos, abandona de inmediato el TreeTop Walk y las zonas expuestas."
+    },
+    {
+      "id": "southern-ridges",
+      "title": "De Kent Ridge a Mount Faber",
+      "image": "ridges-2",
+      "distance": "Unos 10 km",
+      "time": "3–4 horas",
+      "start": "MRT Kent Ridge",
+      "best": "7:00",
+      "intro": [
+        "La cresta completa de oeste a este, con el sol a la espalda en los puentes."
+      ],
+      "route": [
+        {
+          "text": "Desde el MRT Kent Ridge, sube al **Kent Ridge Park** y a su pasarela entre los árboles.",
+          "shade": "canopy"
+        },
+        {
+          "text": "Baja hasta **HortPark**: agua, aseos y sombra.",
+          "shade": "park"
+        },
+        {
+          "text": "Cruza el **Alexandra Arch** y sigue por el **Forest Walk**.",
+          "shade": "canopy"
+        },
+        {
+          "text": "Atraviesa **Henderson Waves** hasta Mount Faber.",
+          "shade": "open"
+        },
+        {
+          "text": "Baja por el bosque hasta el **MRT HarbourFront** o coge el teleférico.",
+          "shade": "canopy"
+        }
+      ],
+      "bailout": "HortPark y la cima de Mount Faber. Si hay tormenta, sal de los puentes."
+    },
+    {
+      "id": "pulau-ubin",
+      "title": "Del embarcadero a Chek Jawa",
+      "image": "ubin-1",
+      "distance": "Unos 12 km en bici",
+      "time": "Media jornada",
+      "start": "Embarcadero de Ubin",
+      "best": "Travesía a las 8:00",
+      "intro": [
+        "En bicicleta por tranquilos caminos de la isla hasta la pasarela del manglar, en el extremo oriental."
+      ],
+      "route": [
+        {
+          "text": "Bumboat desde la **Changi Point Ferry Terminal**; alquila una bici en el pueblo.",
+          "shade": "open"
+        },
+        {
+          "text": "Hacia el este por el camino principal, entre **casas kampong** y árboles frutales.",
+          "shade": "canopy"
+        },
+        {
+          "text": "Deja la bici y recorre a pie la **pasarela de Chek Jawa** y su torre.",
+          "shade": "open"
+        },
+        {
+          "text": "Vuelve al embarcadero pasando por los miradores de la **cantera**.",
+          "shade": "canopy"
+        }
+      ],
+      "bailout": "Los refugios de Chek Jawa y del pueblo. En temporada de tormentas, organízate para estar de vuelta en la isla principal a primera hora de la tarde."
+    },
+    {
+      "id": "mandai",
+      "title": "La pasarela de Mandai",
+      "image": null,
+      "distance": "Circuito corto",
+      "time": "Menos de 1 hora",
+      "start": "Mandai Wildlife West",
+      "best": "Última hora de la tarde",
+      "intro": [
+        "Una pasarela gratuita por el borde del bosque central: una hora tranquila antes de que abra el Night Safari."
+      ],
+      "route": [
+        {
+          "text": "Desde la plaza de llegada de Mandai, toma la **pasarela** que bordea el bosque.",
+          "shade": "canopy"
+        },
+        {
+          "text": "Atento a los varanos y a las aves del bosque cerca del agua.",
+          "shade": "canopy"
+        },
+        {
+          "text": "Vuelve a la plaza para cenar y entrar en el Night Safari.",
+          "shade": "covered"
+        }
+      ],
+      "bailout": "La plaza cubierta y las entradas de los parques."
+    },
+    {
+      "id": "changi",
+      "title": "Paseo costero de Changi Point",
+      "image": null,
+      "distance": "Unos 2,2 km",
+      "time": "1 hora",
+      "start": "Changi Village",
+      "best": "8:00 o 17:00",
+      "intro": [
+        "Una pasarela junto a la orilla bajo las casuarinas, a diez minutos de las terminales."
+      ],
+      "route": [
+        {
+          "text": "Empieza en el **Changi Village Hawker Centre**.",
+          "shade": "covered"
+        },
+        {
+          "text": "Pasa junto a la **terminal del ferri** y sube a la pasarela.",
+          "shade": "open"
+        },
+        {
+          "text": "Recorre el **Changi Point Coastal Walk** junto al mar.",
+          "shade": "canopy"
+        },
+        {
+          "text": "Vuelve al pueblo o coge un taxi al aeropuerto.",
+          "shade": "open"
+        }
+      ],
+      "bailout": "El hawker centre y la terminal del ferri."
+    }
+  ],
+  "tipsTitle": "Caminar con calor",
+  "tips": [
+    {
+      "q": "¿Qué debo llevar?",
+      "a": [
+        "Agua (rellénala en las fuentes de los parques y en los hawker centres), sombrero, protector solar, un paraguas plegable que sirva también de sombrilla y algo para sentarte si los bancos están mojados."
+      ]
+    },
+    {
+      "q": "¿Qué son los park connectors?",
+      "a": [
+        "Una red de caminos de más de 300 kilómetros que une los parques de la ciudad a lo largo de ríos, canales y corredores verdes. Casi todos tienen sombra y están señalizados, y se comparten con ciclistas: circula por la izquierda y atento a los timbres."
+      ]
+    },
+    {
+      "q": "¿Qué riesgo hay de rayos?",
+      "a": [
+        "Singapur tiene uno de los índices de actividad eléctrica más altos del mundo. Cuando oigas truenos, aléjate de los campos abiertos, las cimas, los puentes y el agua, y refúgiate en un edificio o en un refugio cubierto. Espera una media hora después del último trueno."
+      ]
+    },
+    {
+      "q": "¿Cómo reconozco un golpe de calor?",
+      "a": [
+        "Dolor de cabeza, mareo, náuseas, calambres y sudoración abundante. Para, ponte a la sombra o en un lugar con aire acondicionado, bebe agua y descansa. Si alguien está confuso o deja de sudar, pide ayuda médica."
+      ]
+    }
+  ]
+}

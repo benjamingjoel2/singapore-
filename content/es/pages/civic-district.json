@@ -12,13 +12,26 @@
     "sub": "Donde el Singapur colonial levantó sus tribunales y sus iglesias, y donde el Singapur independiente guarda hoy su arte."
   },
   "info": [
-    { "label": "MRT más cercano", "value": "City Hall, Esplanade, Raffles Place, Fort Canning" },
-    { "label": "Mejores horas", "value": "Museos a mediodía; el río al anochecer" },
-    { "label": "Paseo a la sombra", "value": "Unos 3 km, casi todo cubierto" }
+    {
+      "label": "MRT más cercano",
+      "value": "City Hall, Esplanade, Raffles Place, Fort Canning"
+    },
+    {
+      "label": "Mejores horas",
+      "value": "Museos a mediodía; el río al anochecer"
+    },
+    {
+      "label": "Paseo a la sombra",
+      "value": "Unos 3 km, casi todo cubierto"
+    }
   ],
   "intro": {
     "heading": "El barrio de los días de lluvia",
-    "chips": ["Museos", "Arquitectura colonial", "Ribera"],
+    "chips": [
+      "Museos",
+      "Arquitectura colonial",
+      "Ribera"
+    ],
     "text": [
       "Cuando Stamford Raffles trazó la ciudad en la década de 1820, reservó para el gobierno el terreno al norte del río. Dos siglos después, el Padang sigue siendo la explanada verde de su centro, enmarcada por el antiguo Tribunal Supremo y el City Hall (hoy la National Gallery), la St Andrew's Cathedral, el Victoria Theatre y el antiguo Parlamento.",
       "Este es el barrio al que enviamos a la gente cuando la previsión es mala. Los museos son excelentes y frescos, los edificios coloniales tienen galerías profundas y un centro comercial subterráneo une City Hall con el Esplanade, de modo que puedes cruzar medio barrio sin ver el cielo."
@@ -28,7 +41,10 @@
     {
       "title": "National Gallery Singapore",
       "image": "civic-1",
-      "meta": ["Arte del Sudeste Asiático", "Azotea"],
+      "meta": [
+        "Arte del Sudeste Asiático",
+        "Azotea"
+      ],
       "text": [
         "El antiguo Tribunal Supremo y el City Hall, unidos bajo una misma cubierta, albergan la mayor colección pública del mundo de arte moderno del Sudeste Asiático. Dedícale media jornada. Desde la azotea se ve el Padang con Marina Bay al fondo."
       ]
@@ -36,21 +52,30 @@
     {
       "title": "Asian Civilisations Museum y el río",
       "image": "civic-2",
-      "meta": ["Museo", "Paseo por la ribera"],
+      "meta": [
+        "Museo",
+        "Paseo por la ribera"
+      ],
       "text": [
         "En la orilla donde, según se cuenta, desembarcó Raffles, el Asian Civilisations Museum narra la historia de las rutas comerciales que hicieron Singapur. Su sala del Tang Shipwreck, con la carga de un dhow árabe del siglo IX, es una de las joyas. Fuera, el Cavenagh Bridge cruza hasta las shophouses de Boat Quay."
       ]
     },
     {
       "title": "Peranakan Museum y National Museum",
-      "meta": ["Cultura peranakan", "Historia de Singapur"],
+      "meta": [
+        "Cultura peranakan",
+        "Historia de Singapur"
+      ],
       "text": [
         "El Peranakan Museum, en un antiguo colegio de Armenian Street, tiene la mejor colección del mundo de abalorios, porcelana y joyería peranakan. A la vuelta de la esquina, el National Museum of Singapore recorre la historia de la ciudad desde el siglo XIV hasta hoy."
       ]
     },
     {
       "title": "Fort Canning Park",
-      "meta": ["Parque en colina", "Jardín de especias"],
+      "meta": [
+        "Parque en colina",
+        "Jardín de especias"
+      ],
       "text": [
         "La colina que hay detrás de los museos fue sede de los reyes malayos en el siglo XIV y residencia del gobernador colonial en el XIX. Hoy es un parque sombreado con un jardín de especias, excavaciones arqueológicas y el Battlebox, el centro de mando subterráneo de la rendición británica de 1942."
       ]
@@ -62,9 +87,18 @@
     "title": "De City Hall a Boat Quay, casi todo a cubierto",
     "text": "Bajo tierra de City Hall al Esplanade, por las columnatas del Padang y junto a los teatros hasta el río. En una tarde de tormenta, este es el paseo que hay que hacer.",
     "facts": [
-      { "label": "Inicio", "value": "MRT City Hall" },
-      { "label": "Final", "value": "MRT Raffles Place" },
-      { "label": "Cubierto", "value": "Unas dos terceras partes" }
+      {
+        "label": "Inicio",
+        "value": "MRT City Hall"
+      },
+      {
+        "label": "Final",
+        "value": "MRT Raffles Place"
+      },
+      {
+        "label": "Cubierto",
+        "value": "Unas dos terceras partes"
+      }
     ],
     "cta": "Ver el paseo"
   },
@@ -74,15 +108,44 @@
       "El barrio está rodeado de torres de oficinas, así que aquí la comida es un asunto serio. Los hawker centres se llenan de 12:00 a 13:30 entre semana; ve justo antes o justo después."
     ],
     "items": [
-      { "name": "Lau Pa Sat", "text": "Un mercado victoriano de hierro fundido en el distrito financiero. Por la noche, la calle de al lado se convierte en una parrilla de satay." },
-      { "name": "Hong Lim Market & Food Centre", "text": "A un corto paseo al otro lado del río, con varios puestos de fideos de toda la vida." },
-      { "name": "Frente marítimo del Esplanade", "text": "Makansutra Gluttons Bay, una pequeña hilera de puestos al aire libre junto a los teatros." }
+      {
+        "name": "Lau Pa Sat",
+        "text": "Un mercado victoriano de hierro fundido en el distrito financiero. Por la noche, la calle de al lado se convierte en una parrilla de satay."
+      },
+      {
+        "name": "Hong Lim Market & Food Centre",
+        "text": "A un corto paseo al otro lado del río, con varios puestos de fideos de toda la vida."
+      },
+      {
+        "name": "Frente marítimo del Esplanade",
+        "text": "Makansutra Gluttons Bay, una pequeña hilera de puestos al aire libre junto a los teatros."
+      }
     ]
   },
   "faq": [
-    { "q": "¿Son gratuitos los museos?", "a": ["Depende. Algunas galerías y museos ofrecen entrada gratuita a los residentes pero cobran a los visitantes; consulta la web de cada museo para conocer las entradas vigentes y los días de acceso gratuito."] },
-    { "q": "¿Cuál es el mejor plan para un día de lluvia?", "a": ["Empieza en la National Gallery, toma el paso subterráneo de City Hall al Esplanade y termina en el Asian Civilisations Museum. Puedes pasar el día entero sin paraguas."] },
-    { "q": "¿Hay algo que hacer por la noche?", "a": ["El Esplanade suele ofrecer espectáculos gratuitos en su escenario al aire libre, y el paseo por el río desde el Asian Civilisations Museum hasta Clarke Quay está en su mejor momento cuando cae la noche."] }
+    {
+      "q": "¿Son gratuitos los museos?",
+      "a": [
+        "Depende. Algunas galerías y museos ofrecen entrada gratuita a los residentes pero cobran a los visitantes; consulta la web de cada museo para conocer las entradas vigentes y los días de acceso gratuito."
+      ]
+    },
+    {
+      "q": "¿Cuál es el mejor plan para un día de lluvia?",
+      "a": [
+        "Empieza en la National Gallery, toma el paso subterráneo de City Hall al Esplanade y termina en el Asian Civilisations Museum. Puedes pasar el día entero sin paraguas."
+      ]
+    },
+    {
+      "q": "¿Hay algo que hacer por la noche?",
+      "a": [
+        "El Esplanade suele ofrecer espectáculos gratuitos en su escenario al aire libre, y el paseo por el río desde el Asian Civilisations Museum hasta Clarke Quay está en su mejor momento cuando cae la noche."
+      ]
+    }
   ],
-  "related": ["marina-bay", "chinatown", "kampong-glam", "botanic-gardens"]
+  "related": [
+    "marina-bay",
+    "chinatown",
+    "kampong-glam",
+    "botanic-gardens"
+  ]
 }

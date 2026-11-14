@@ -11,10 +11,26 @@
   },
   "stripLabel": "Empieza aquí",
   "strip": [
-    { "id": "hawker-guide", "label": "Guía de hawker centres", "image": "hawker-1" },
-    { "id": "stopover-planner", "label": "Planificador de escalas", "image": "changi-1" },
-    { "id": "shade-walks", "label": "Paseos a la sombra y con lluvia", "image": "walk-1" },
-    { "id": "pulau-ubin", "label": "Pulau Ubin", "image": "ubin-1" }
+    {
+      "id": "hawker-guide",
+      "label": "Guía de hawker centres",
+      "image": "hawker-1"
+    },
+    {
+      "id": "stopover-planner",
+      "label": "Planificador de escalas",
+      "image": "changi-1"
+    },
+    {
+      "id": "shade-walks",
+      "label": "Paseos a la sombra y con lluvia",
+      "image": "walk-1"
+    },
+    {
+      "id": "pulau-ubin",
+      "label": "Pulau Ubin",
+      "image": "ubin-1"
+    }
   ],
   "statement": {
     "kicker": "Five Foot Way",
@@ -35,25 +51,85 @@
     "title": "Pensado para el calor y la lluvia",
     "text": "Tres herramientas que creamos porque los consejos de siempre no funcionaban en una ciudad a un grado al norte del ecuador. Úsalas por separado o deja que las combinemos en un viaje.",
     "rows": [
-      { "id": "hawker-guide", "title": "Guía de hawker centres", "image": "hawker-2", "meta": "Nuestra guía estrella", "cta": "Abrir la guía", "text": "Qué hawker centre elegir para cada plato, cuándo abren y cierran los puestos, por qué un paquete de pañuelos significa que el sitio está ocupado y qué protege en realidad la declaración de la UNESCO." },
-      { "id": "stopover-planner", "title": "Planificador de escalas", "image": "changi-2", "meta": "De 8 horas a 4 días", "cta": "Planifica una escala", "text": "Introduce la duración de tu escala y obtén un plan realista que descuenta primero inmigración, trayectos y tiempos de Changi, y un honesto «quédate en la zona de tránsito» cuando el tiempo no da." },
-      { "id": "shade-walks", "title": "Paseos a la sombra y con lluvia", "image": "walk-2", "meta": "Trece rutas", "cta": "Ver los paseos", "text": "Paseos por barrios y bosques trazados bajo five-foot ways, park connectors y arbolado, con horarios pensados para esquivar el sol de mediodía y la tormenta de la tarde." },
-      { "id": "journeys", "title": "Viajes de ejemplo", "image": "journeys-2", "meta": "De 2 a 7 días", "cta": "Ver los viajes", "text": "Cuatro itinerarios en los que inspirarte: una escala de 48 horas, una semana de shophouses, un viaje centrado en la naturaleza y un viaje en familia, cada uno adaptado a tus fechas y a la temporada." }
+      {
+        "id": "hawker-guide",
+        "title": "Guía de hawker centres",
+        "image": "hawker-2",
+        "meta": "Nuestra guía estrella",
+        "cta": "Abrir la guía",
+        "text": "Qué hawker centre elegir para cada plato, cuándo abren y cierran los puestos, por qué un paquete de pañuelos significa que el sitio está ocupado y qué protege en realidad la declaración de la UNESCO."
+      },
+      {
+        "id": "stopover-planner",
+        "title": "Planificador de escalas",
+        "image": "changi-2",
+        "meta": "De 8 horas a 4 días",
+        "cta": "Planifica una escala",
+        "text": "Introduce la duración de tu escala y obtén un plan realista que descuenta primero inmigración, trayectos y tiempos de Changi, y un honesto «quédate en la zona de tránsito» cuando el tiempo no da."
+      },
+      {
+        "id": "shade-walks",
+        "title": "Paseos a la sombra y con lluvia",
+        "image": "walk-2",
+        "meta": "Trece rutas",
+        "cta": "Ver los paseos",
+        "text": "Paseos por barrios y bosques trazados bajo five-foot ways, park connectors y arbolado, con horarios pensados para esquivar el sol de mediodía y la tormenta de la tarde."
+      },
+      {
+        "id": "journeys",
+        "title": "Viajes de ejemplo",
+        "image": "journeys-2",
+        "meta": "De 2 a 7 días",
+        "cta": "Ver los viajes",
+        "text": "Cuatro itinerarios en los que inspirarte: una escala de 48 horas, una semana de shophouses, un viaje centrado en la naturaleza y un viaje en familia, cada uno adaptado a tus fechas y a la temporada."
+      }
     ]
   },
   "bands": [
-    { "anchor": "neighbourhoods", "title": "Shophouse", "kicker": "Los barrios", "kickerRight": "Seis barrios a pie", "text": "Fachadas en tonos pastel, patios de templos y hawker centres: la ciudad antigua, recorrida bajo sus propios soportales." },
-    { "anchor": "nature", "title": "Selva", "kicker": "Singapur verde", "kickerRight": "Jardines, selva e islas", "text": "Un jardín declarado por la UNESCO, selva primaria en una línea de autobús, rutas por la cresta sobre el puerto y la última isla kampong." }
+    {
+      "anchor": "neighbourhoods",
+      "title": "Shophouse",
+      "kicker": "Los barrios",
+      "kickerRight": "Seis barrios a pie",
+      "text": "Fachadas en tonos pastel, patios de templos y hawker centres: la ciudad antigua, recorrida bajo sus propios soportales."
+    },
+    {
+      "anchor": "nature",
+      "title": "Selva",
+      "kicker": "Singapur verde",
+      "kickerRight": "Jardines, selva e islas",
+      "text": "Un jardín declarado por la UNESCO, selva primaria en una línea de autobús, rutas por la cresta sobre el puerto y la última isla kampong."
+    }
   ],
   "steps": {
     "kicker": "Cómo funciona un día",
     "title": "Planificado contando con el calor y la lluvia",
     "text": "El clima de Singapur sigue un ritmo diario más que estacional. Todos nuestros planes lo siguen también.",
     "items": [
-      { "title": "7:00: a caminar", "image": "botanic-1", "link": "botanic-gardens", "text": "El aire es fresco y la luz, baja. Jardines, bosque y five-foot ways son de los vecinos y de los corredores." },
-      { "title": "11:00: a cubierto", "image": "civic-1", "link": "civic-district", "text": "Cuando el sol sube, refúgiate en un museo, en un invernadero climatizado o en una larga comida en un hawker centre." },
-      { "title": "15:00: espera la tormenta", "image": "rain-1", "link": "shade-walks", "text": "Muchos meses, por la tarde se forma una tormenta. Es intensa y suele ser breve. Ponte a cubierto." },
-      { "title": "18:00: a comer fuera", "image": "hawker-3", "link": "hawker-guide", "text": "El pavimento se ha enfriado y se ha levantado la brisa. Satay en la calle, un paseo junto al agua y una cena tardía." }
+      {
+        "title": "7:00: a caminar",
+        "image": "botanic-1",
+        "link": "botanic-gardens",
+        "text": "El aire es fresco y la luz, baja. Jardines, bosque y five-foot ways son de los vecinos y de los corredores."
+      },
+      {
+        "title": "11:00: a cubierto",
+        "image": "civic-1",
+        "link": "civic-district",
+        "text": "Cuando el sol sube, refúgiate en un museo, en un invernadero climatizado o en una larga comida en un hawker centre."
+      },
+      {
+        "title": "15:00: espera la tormenta",
+        "image": "rain-1",
+        "link": "shade-walks",
+        "text": "Muchos meses, por la tarde se forma una tormenta. Es intensa y suele ser breve. Ponte a cubierto."
+      },
+      {
+        "title": "18:00: a comer fuera",
+        "image": "hawker-3",
+        "link": "hawker-guide",
+        "text": "El pavimento se ha enfriado y se ha levantado la brisa. Satay en la calle, un paseo junto al agua y una cena tardía."
+      }
     ]
   },
   "monsoon": {
@@ -62,10 +138,22 @@
     "title": "La lluvia forma parte del plan",
     "text": "En Singapur no hay estación seca, solo distintas formas de mojarse. Planificamos en función de ellas en lugar de fingir que no existen.",
     "facts": [
-      { "label": "Dic. – principios de mar.", "value": "Monzón del nordeste" },
-      { "label": "Mar. – may.", "value": "Tormentas de tarde" },
-      { "label": "Jun. – sep.", "value": "Monzón del suroeste" },
-      { "label": "Oct. – nov.", "value": "Tormentas de tarde" }
+      {
+        "label": "Dic. – principios de mar.",
+        "value": "Monzón del nordeste"
+      },
+      {
+        "label": "Mar. – may.",
+        "value": "Tormentas de tarde"
+      },
+      {
+        "label": "Jun. – sep.",
+        "value": "Monzón del suroeste"
+      },
+      {
+        "label": "Oct. – nov.",
+        "value": "Tormentas de tarde"
+      }
     ]
   },
   "journeysTitle": "Viajes de ejemplo"
