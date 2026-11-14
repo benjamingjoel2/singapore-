@@ -157,22 +157,19 @@ function footer(ctx) {
   const { ui, url, cfg, placeIds } = ctx;
   const a = cfg.contact.address;
   const li = (id, label) => `<li><a href="${url(id)}">${esc(label ?? placeName(ctx, id))}</a></li>`;
-  return `<footer>
-<section class="contact" aria-label="${esc(ui.footer.getInTouch)}">
-<div><p class="kicker">${esc(ui.footer.getInTouch)}</p>
-<p class="contact__big"><a href="mailto:${cfg.contact.email}">${esc(cfg.contact.email)}</a><br><a class="link" href="${url('enquire')}">${esc(ui.footer.planVisit)} →</a></p></div>
-<address class="small" style="font-style:normal"><span class="kicker">${esc(ui.footer.address)}</span><br>${esc(cfg.brand.name)}<br>${esc(a.company)}<br>${esc(a.street)}<br>${esc(a.city)} ${esc(a.postcode)}</address>
-</section>
-<div class="ftr">
+  return `<footer class="ftr on-dark">
 <div class="ftr__grid">
-<div><p class="small" style="max-width:34ch">${esc(ui.footer.tagline)}</p></div>
+<div class="ftr__intro"><p class="ftr__tag">${esc(ui.footer.tagline)}</p>${btn(url('enquire'), ui.footer.planVisit)}</div>
+<nav class="ftr__cols" aria-label="${esc(ui.footer.explore)}">
 <div><h2>${esc(ui.footer.explore)}</h2><ul>${placeIds.city.map((id) => li(id)).join('')}${li('changi')}</ul></div>
 <div><h2>${esc(ui.footer.nature)}</h2><ul>${placeIds.green.map((id) => li(id)).join('')}</ul></div>
 <div><h2>${esc(ui.footer.plan)}</h2><ul>${li('hawker-guide', ui.nav.hawker)}${li('stopover-planner', ui.nav.stopover)}${li('shade-walks', ui.nav.walks)}${li('journeys', ui.nav.journeys)}${li('stays', ui.nav.stays)}${li('journal', ui.nav.journal)}${li('about', ui.nav.about)}${li('enquire', ui.nav.enquire)}</ul></div>
-<div><h2>${esc(ui.footer.legal)}</h2><ul>${li('privacy', ui.footer.privacy)}${li('terms', ui.footer.terms)}${li('cookies', ui.footer.cookies)}${li('credits', ui.footer.credits)}</ul></div>
+</nav>
 </div>
-<div class="ftr__legal"><span>© ${new Date().getFullYear()} ${esc(cfg.brand.legalName)}. ${esc(ui.footer.rights)}</span><nav class="lang" aria-label="${esc(ui.languageLabel)}" style="display:flex">${langLinks(ctx)}</nav></div>
-<p class="ftr__word" aria-hidden="true">${esc(cfg.brand.name)}</p>
+<div class="ftr__legal">
+<address><a href="mailto:${cfg.contact.email}">${esc(cfg.contact.email)}</a><br>${esc(cfg.brand.name)}, ${esc(a.company)}, ${esc(a.street)}, ${esc(a.city)} ${esc(a.postcode)}</address>
+<nav aria-label="${esc(ui.footer.legal)}"><ul>${li('privacy', ui.footer.privacy)}${li('terms', ui.footer.terms)}${li('cookies', ui.footer.cookies)}${li('credits', ui.footer.credits)}</ul><span>© ${new Date().getFullYear()} ${esc(cfg.brand.legalName)}. ${esc(ui.footer.rights)}</span></nav>
+<nav class="lang" aria-label="${esc(ui.languageLabel)}">${langLinks(ctx)}</nav>
 </div>
 </footer>`;
 }
@@ -193,17 +190,20 @@ function jsonld(ctx, canonical) {
 }
 
 /* ─────────── shared blocks ─────────── */
-function hero(ctx, h, { inner = true, after = '' } = {}) {
-  const pre = ctx.preloadHero(h.image, '(min-width:900px) calc(100vw - 80px), calc(100vw - 32px)');
-  ctx.headExtra = (ctx.headExtra ?? '') + pre;
-  // Paper & Ink: the title sits on paper, the photograph follows as a captioned plate
+function hero(ctx, h, { inner = true, after = '', image2 = null, links = '' } = {}) {
+  const sizes = '(min-width:900px) 40vw, calc(100vw - 32px)';
+  ctx.headExtra = (ctx.headExtra ?? '') + ctx.preloadHero(h.image, sizes);
+  // Collage hero: title and links on paper to the left, a tall captioned photograph to the right,
+  // with an optional second photograph overlapping its lower-left corner.
   return `<section class="hero${inner ? ' hero--inner' : ''}">
 <div class="hero__body">
 ${h.kicker ? `<p class="kicker muted hero__kicker">${esc(h.kicker)}</p>` : ''}
 <h1>${boxed(h.title)}</h1>
 ${h.sub ? `<p class="hero__sub">${ctx.md(h.sub)}</p>` : ''}
+${links ? `<div class="hero__links">${links}</div>` : ''}
 </div>
-<figure class="hero__media">${ctx.img(h.image, { eager: true, sizes: '(min-width:900px) calc(100vw - 80px), calc(100vw - 32px)' })}<figcaption>${esc(ctx.alt(h.image))}</figcaption></figure>
+<figure class="hero__media">${ctx.img(h.image, { eager: true, sizes })}<figcaption>${esc(ctx.alt(h.image))}</figcaption>
+${image2 ? `<span class="hero__inset">${ctx.img(image2, { sizes: '(min-width:900px) 18vw, 40vw' })}</span>` : ''}</figure>
 ${after}
 </section>`;
 }
@@ -260,7 +260,6 @@ ${cta ? `<div class="on-dark">${cta}</div>` : ''}</div></section>`;
 /* ─────────── HOME ─────────── */
 function home(ctx) {
   const { data: d, ui, url, img, md, placeIds } = ctx;
-  const stripItems = d.strip.map((s, i) => `<a href="${url(s.id)}"><span class="mono">0${i + 1}</span><b>${esc(s.label)}</b></a>`).join('');
   const rows = d.explore.rows.map((r) => `<a class="row rv" href="${url(r.id)}">
 <div class="row__head"><h3>${boxed(r.title, 'bx--plain')}</h3>${r.meta ? `<p class="mono muted">${esc(r.meta)}</p>` : ''}</div>
 <div class="row__media">${img(r.image, { sizes: '(min-width:900px) 28vw, 100vw' })}</div>
@@ -271,7 +270,8 @@ function home(ctx) {
 <p class="lead" style="max-width:56ch;margin-bottom:28px">${md(b.text)}</p>
 <div class="cards">${ids.map((id) => placeCard(ctx, id)).join('')}</div></section>`;
   const journeysData = placeData(ctx, 'journeys');
-  return `${hero(ctx, d.hero, { inner: false, after: `<nav class="strip" aria-label="${esc(d.stripLabel)}">${stripItems}</nav>` })}
+  const heroLinks = btn(url('enquire'), ui.planTrip) + btn(url(d.strip[1].id), d.strip[1].label, 'muted');
+  return `${hero(ctx, d.hero, { inner: false, image2: d.hero.image2 ?? 'katong-1', links: heroLinks })}
 <section class="statement"><p class="kicker">${esc(d.statement.kicker)}</p><p class="rv">${md(d.statement.text)}</p></section>
 <section class="collage">
 <figure class="collage__a rv" style="margin:0">${img(d.collage.imageA, { sizes: '(min-width:900px) 66vw, 100vw' })}<figcaption><h2>${esc(d.collage.title)}</h2><p class="small" style="margin:0;max-width:60ch">${md(d.collage.caption)}</p></figcaption></figure>
@@ -300,7 +300,8 @@ function place(ctx) {
 ${r.image ? `<div class="row__media">${img(r.image, { sizes: '(min-width:900px) 28vw, 100vw' })}</div>` : ''}
 <div class="row__foot"><div class="row__text">${paras(r.text)}</div></div></article>`).join('');
   const related = d.related.map((id) => { const p = placeData(ctx, id); return tile(ctx, { href: url(id), image: p.hero.image, tag: p.hero.kicker, title: p.nav }); });
-  return `${hero(ctx, d.hero, { after: info })}
+  const inset = d.rows.map((r) => r.image).find((k) => k && k !== d.hero.image);
+  return `${hero(ctx, d.hero, { after: info, image2: inset })}
 <section class="split" aria-labelledby="intro-h">
 <div class="split__l"><div><h2 id="intro-h">${boxed(d.intro.heading)}</h2>${d.intro.chips ? `<div class="chips" style="margin-top:18px">${d.intro.chips.map((c) => `<span class="chip">${esc(c)}</span>`).join('')}</div>` : ''}</div>${MOTIF}<div style="max-width:52ch">${paras(d.intro.text)}</div></div>
 <div class="split__r"><p class="kicker" style="padding:8px 0 4px">${esc(ui.place.inThisArea)}</p>${rows}</div>
