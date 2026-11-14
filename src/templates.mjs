@@ -194,16 +194,16 @@ function jsonld(ctx, canonical) {
 
 /* ─────────── shared blocks ─────────── */
 function hero(ctx, h, { inner = true, after = '' } = {}) {
-  const pre = ctx.preloadHero(h.image);
+  const pre = ctx.preloadHero(h.image, '(min-width:900px) calc(100vw - 80px), calc(100vw - 32px)');
   ctx.headExtra = (ctx.headExtra ?? '') + pre;
+  // Paper & Ink: the title sits on paper, the photograph follows as a captioned plate
   return `<section class="hero${inner ? ' hero--inner' : ''}">
-<div class="hero__media">${ctx.img(h.image, { eager: true, sizes: '100vw' })}</div>
-<div class="rain" aria-hidden="true"></div>
 <div class="hero__body">
-${h.kicker ? `<p class="kicker hero__kicker">${esc(h.kicker)}</p>` : ''}
+${h.kicker ? `<p class="kicker muted hero__kicker">${esc(h.kicker)}</p>` : ''}
 <h1>${boxed(h.title)}</h1>
 ${h.sub ? `<p class="hero__sub">${ctx.md(h.sub)}</p>` : ''}
 </div>
+<figure class="hero__media">${ctx.img(h.image, { eager: true, sizes: '(min-width:900px) calc(100vw - 80px), calc(100vw - 32px)' })}<figcaption>${esc(ctx.alt(h.image))}</figcaption></figure>
 ${after}
 </section>`;
 }
