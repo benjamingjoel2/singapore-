@@ -1,0 +1,569 @@
+{
+  "meta": {
+    "title": "Schattenspaziergänge: Singapur zu Fuß, ans Wetter angepasst | Five Foot Way",
+    "description": "Dreizehn Spaziergänge durch Viertel und Natur, entlang von Five-foot ways, Park Connectors und Blätterdach, zeitlich abgestimmt auf Mittagshitze und Gewitter."
+  },
+  "hero": {
+    "kicker": "Unsere Leit-Spaziergänge",
+    "title": "Spaziergänge für Sonne und Regen",
+    "image": "walk-1",
+    "sub": "Routen entlang von Five-foot ways, überdachten Wegen und Blätterdach, mit einem Unterschlupf vor dem Gewitter nie weit entfernt."
+  },
+  "intro": {
+    "kicker": "Die Idee",
+    "text": "Singapur war lange vor der Klimaanlage darauf ausgelegt, dass man auch in der Hitze zu Fuß gehen kann. Die Arkaden der Shophouses, die tiefen Veranden, die Regenbäume entlang der alten Straßen – all das sollte vor Sonne und Regen schützen. Unsere Spaziergänge folgen ihnen, beginnen, wenn die Luft kühl ist, und wissen immer, wo der nächste Unterschlupf liegt."
+  },
+  "clock": {
+    "title": "Das Wetter an einem typischen Tag",
+    "text": [
+      "Singapur liegt etwa 140 Kilometer nördlich des Äquators. Es ist das ganze Jahr über warm und feucht, mit Tagestemperaturen um 31 bis 33 °C und Nächten, die selten unter 24 °C fallen. Für Spaziergänge zählt der Tagesrhythmus, nicht die Jahreszeit: kühle, helle Morgen; ab dem späten Vormittag eine stechende Sonne; in vielen Monaten ein Gewitter, das sich am Nachmittag aufbaut; und ein milderer Abend.",
+      "Brechen Sie zwischen 7 und 9 Uhr oder nach 17 Uhr auf. Verbringen Sie die Mitte des Tages drinnen, beim Essen oder im Museum. Wenn es donnert, suchen Sie Schutz: Gewitter sind oft kurz und sehr heftig."
+    ],
+    "aria": "Stundenübersicht: am besten zum Gehen von 6 bis 10 Uhr und von 18 bis 21 Uhr; am heißesten von 12 bis 15 Uhr; Gewitter am wahrscheinlichsten von 15 bis 18 Uhr in den Monaten des Zwischenmonsuns.",
+    "hours": [
+      "night",
+      "night",
+      "night",
+      "night",
+      "night",
+      "night",
+      "best",
+      "best",
+      "best",
+      "best",
+      "ok",
+      "ok",
+      "hot",
+      "hot",
+      "hot",
+      "storm",
+      "storm",
+      "storm",
+      "best",
+      "best",
+      "best",
+      "ok",
+      "ok",
+      "night"
+    ],
+    "legend": [
+      {
+        "code": "best",
+        "label": "Ideal zum Gehen"
+      },
+      {
+        "code": "ok",
+        "label": "Im Schatten gut"
+      },
+      {
+        "code": "hot",
+        "label": "Am heißesten: drinnen bleiben"
+      },
+      {
+        "code": "storm",
+        "label": "Gewitterfenster (Zwischenmonsun)"
+      },
+      {
+        "code": "night",
+        "label": "Nacht"
+      }
+    ]
+  },
+  "seasonsTitle": "Die vier Regenzeiten",
+  "seasons": [
+    {
+      "months": "Dezember bis Anfang März",
+      "name": "Nordostmonsun",
+      "text": [
+        "Die nasse Phase, meist Dezember und Januar, bringt längere Regenperioden, manchmal einen ganzen Nachmittag oder Tag lang. Die anschließende trockene Phase, etwa ab Februar, ist oft die sonnigste und windigste Zeit des Jahres."
+      ]
+    },
+    {
+      "months": "März bis Mai",
+      "name": "Zwischenmonsun",
+      "text": [
+        "Schwache, wechselnde Winde, heiße, windstille Vormittage und Nachmittagsgewitter, oft plötzlich und heftig. Planen Sie, ab dem mittleren Nachmittag drinnen zu sein."
+      ]
+    },
+    {
+      "months": "Juni bis September",
+      "name": "Südwestmonsun",
+      "text": [
+        "Insgesamt trockener. Gewitterfronten, also Sturmbänder, die rasch über die Insel ziehen, kommen meist vor Sonnenaufgang oder am frühen Morgen. In manchen Jahren ist Rauchdunst von Bränden in der Region möglich."
+      ]
+    },
+    {
+      "months": "Oktober bis November",
+      "name": "Zwischenmonsun",
+      "text": [
+        "Wie der Zwischenmonsun im Frühjahr: Gewitter am Nachmittag und Abend sind häufig. Gehen Sie morgens."
+      ]
+    }
+  ],
+  "walksTitle": "Dreizehn Spaziergänge",
+  "walksText": "Jede Route ist nach der Art des Schattens gekennzeichnet, den Sie erwarten können. Strecken und Zeiten gelten für ein gemütliches Tempo mit Pausen. Verbinden Sie die Stadtspaziergänge mit einer Hawker-Mahlzeit aus dem [Hawker-Guide](@hawker-guide).",
+  "walks": [
+    {
+      "id": "chinatown",
+      "title": "Von Telok Ayer nach Tanjong Pagar",
+      "image": "chinatown-2",
+      "distance": "Etwa 3 km",
+      "time": "1,5 Stunden",
+      "start": "MRT Telok Ayer",
+      "best": "7:30 Uhr",
+      "intro": [
+        "Das alte Ufer, die Gassen am Hügel und die hübscheste Straße der Stadt, fast durchgehend unter Five-foot ways."
+      ],
+      "route": [
+        {
+          "text": "Von der MRT Telok Ayer südwärts die **Telok Ayer Street** entlang, vorbei am Tempel Thian Hock Keng.",
+          "shade": "five"
+        },
+        {
+          "text": "Durch das **Amoy Street Food Centre** auf einen kopi.",
+          "shade": "covered"
+        },
+        {
+          "text": "Die Stufen des **Ann Siang Hill Park** hinauf zur Ann Siang Road und Club Street.",
+          "shade": "canopy"
+        },
+        {
+          "text": "Die **South Bridge Road** hinunter zum Sri Mariamman Temple und zum Buddha Tooth Relic Temple.",
+          "shade": "five"
+        },
+        {
+          "text": "Frühstück oder frühes Mittagessen im **Maxwell Food Centre**.",
+          "shade": "covered"
+        },
+        {
+          "text": "Die **Neil Road** entlang und rund um die **Keong Saik Road** und Duxton Hill zur MRT Tanjong Pagar.",
+          "shade": "five"
+        }
+      ],
+      "bailout": "Amoy Street und Maxwell Food Centre sowie die MRT-Stationen an beiden Enden."
+    },
+    {
+      "id": "kampong-glam",
+      "title": "Von Bugis nach Bussorah",
+      "image": "kampong-glam-2",
+      "distance": "Etwa 2 km",
+      "time": "1 Stunde",
+      "start": "MRT Bugis",
+      "best": "8 Uhr oder 17 Uhr",
+      "intro": [
+        "Eine kompakte Runde durch die Arkaden des alten malaiischen Viertels, mit der Moschee als Herzstück."
+      ],
+      "route": [
+        {
+          "text": "Von der MRT Bugis über den überdachten Gehweg die **Victoria Street** entlang.",
+          "shade": "covered"
+        },
+        {
+          "text": "In die **Arab Street** einbiegen und ihren Five-foot ways vorbei an den Stoffläden folgen.",
+          "shade": "five"
+        },
+        {
+          "text": "Durch die **Haji Lane**, so schmal, dass sie fast den ganzen Tag im Schatten liegt.",
+          "shade": "five"
+        },
+        {
+          "text": "Über die palmengesäumte **Bussorah Street** zur Sultan Mosque.",
+          "shade": "open"
+        },
+        {
+          "text": "Zurück über **Baghdad Street** und **Kandahar Street** auf einen Tee.",
+          "shade": "five"
+        }
+      ],
+      "bailout": "Die Shophouse-Restaurants in der Bussorah und Kandahar Street oder zurück zur MRT Bugis und den Malls ringsum."
+    },
+    {
+      "id": "little-india",
+      "title": "Von Tekka nach Farrer Park",
+      "image": "little-india-2",
+      "distance": "Etwa 2,5 km",
+      "time": "1,5 Stunden",
+      "start": "MRT Little India",
+      "best": "7:30 Uhr",
+      "intro": [
+        "Ein Morgenspaziergang die Serangoon Road hinauf nach Norden, beginnend mit einem Frühstück am Frischmarkt."
+      ],
+      "route": [
+        {
+          "text": "Frühstück im **Tekka Centre**, gegenüber dem MRT-Ausgang.",
+          "shade": "covered"
+        },
+        {
+          "text": "In die **Campbell Lane** und **Dunlop Street** zu den Girlanden- und Gewürzläden.",
+          "shade": "five"
+        },
+        {
+          "text": "Nordwärts durch die Arkaden der **Serangoon Road** zum Sri Veeramakaliamman Temple.",
+          "shade": "five"
+        },
+        {
+          "text": "Abstecher zum **House of Tan Teng Niah** an der Kerbau Road.",
+          "shade": "open"
+        },
+        {
+          "text": "Weiter auf der Serangoon Road bis zur **MRT Farrer Park**.",
+          "shade": "five"
+        }
+      ],
+      "bailout": "Tekka Centre, die Tempel (angemessene Kleidung) und die MRT-Stationen Little India und Farrer Park."
+    },
+    {
+      "id": "katong",
+      "title": "Joo Chiat von Ende zu Ende",
+      "image": "katong-2",
+      "distance": "Etwa 3 km",
+      "time": "1,5 Stunden",
+      "start": "MRT Paya Lebar",
+      "best": "8 Uhr oder 16:30 Uhr",
+      "intro": [
+        "Der beste Spaziergang für einen kurzen Zwischenstopp: zwanzig Minuten von Changi, durch die prächtigsten Shophouses Singapurs."
+      ],
+      "route": [
+        {
+          "text": "Von der MRT Paya Lebar südwärts die **Joo Chiat Road** hinunter, unter den Arkaden.",
+          "shade": "five"
+        },
+        {
+          "text": "In die **Koon Seng Road** zu den Peranakan-Reihenhäusern.",
+          "shade": "open"
+        },
+        {
+          "text": "Zurück auf der Joo Chiat Road bis zur **East Coast Road**.",
+          "shade": "five"
+        },
+        {
+          "text": "Laksa und kueh entlang der East Coast Road.",
+          "shade": "five"
+        },
+        {
+          "text": "Ziel ist die **MRT Marine Parade**, oder weiter durch die Unterführung zum East Coast Park.",
+          "shade": "park"
+        }
+      ],
+      "bailout": "Shophouse-Cafés an der Joo Chiat Road, die Malls von Katong an der East Coast Road und die MRT-Stationen."
+    },
+    {
+      "id": "tiong-bahru",
+      "title": "Eine Runde durch die Siedlung",
+      "image": "tiong-bahru-2",
+      "distance": "Etwa 2 km",
+      "time": "1 Stunde",
+      "start": "MRT Tiong Bahru",
+      "best": "7:30 Uhr",
+      "intro": [
+        "Frühstück, die Vorkriegsblocks und die Hintergassen, unter großen Regenbäumen und tiefen Dachvorsprüngen."
+      ],
+      "route": [
+        {
+          "text": "Von der MRT Tiong Bahru unter den Bäumen die **Tiong Bahru Road** entlang.",
+          "shade": "canopy"
+        },
+        {
+          "text": "Frühstück im Obergeschoss des **Tiong Bahru Market**.",
+          "shade": "covered"
+        },
+        {
+          "text": "Durch die Vorkriegsblocks an der **Seng Poh Road**, **Eng Hoon Street** und **Yong Siak Street**.",
+          "shade": "five"
+        },
+        {
+          "text": "Die Wandbilder in der **Seng Poh Lane** und der Tempel des Affenkönigs, **Qi Tian Gong**.",
+          "shade": "open"
+        },
+        {
+          "text": "Zurück zur MRT oder weiter nach Outram Park.",
+          "shade": "canopy"
+        }
+      ],
+      "bailout": "Der Markt, die Cafés im Erdgeschoss und die MRT-Station."
+    },
+    {
+      "id": "civic-district",
+      "title": "Von City Hall nach Boat Quay",
+      "image": "civic-2",
+      "distance": "Etwa 3 km",
+      "time": "1,5 Stunden plus Museen",
+      "start": "MRT City Hall",
+      "best": "Jederzeit; der Spaziergang für Gewittertage",
+      "intro": [
+        "Unsere Route für schlechtes Wetter: unterirdisch, unter Kolonnaden und am Fluss entlang."
+      ],
+      "route": [
+        {
+          "text": "Von der MRT City Hall dem unterirdischen **CityLink** zur Esplanade folgen.",
+          "shade": "covered"
+        },
+        {
+          "text": "Zurück am Rand des **Padang** unter den Bäumen bis zur National Gallery.",
+          "shade": "canopy"
+        },
+        {
+          "text": "Vorbei am **Victoria Theatre** und am Old Parliament House.",
+          "shade": "covered"
+        },
+        {
+          "text": "Hinein ins **Asian Civilisations Museum**.",
+          "shade": "covered"
+        },
+        {
+          "text": "Über die Cavenagh Bridge und entlang der Five-foot ways von **Boat Quay** zur MRT Raffles Place.",
+          "shade": "five"
+        }
+      ],
+      "bailout": "Jedes Gebäude auf dieser Route. Suchen Sie sich ein Museum aus und warten Sie es ab."
+    },
+    {
+      "id": "marina-bay",
+      "title": "Die Bucht nach 18 Uhr",
+      "image": "marina-2",
+      "distance": "Etwa 3,5 km",
+      "time": "1,5 Stunden",
+      "start": "MRT Raffles Place",
+      "best": "18 Uhr",
+      "intro": [
+        "Eine Abendrunde ums Wasser, wenn das Pflaster abgekühlt ist und die Brise auffrischt."
+      ],
+      "route": [
+        {
+          "text": "Von Raffles Place zum Fluss am **Fullerton** und am Ufer entlang.",
+          "shade": "open"
+        },
+        {
+          "text": "Vorbei an den Theatern der **Esplanade** und über die Promenade an der Bucht.",
+          "shade": "open"
+        },
+        {
+          "text": "Über die teilweise überdachte **Helix Bridge**.",
+          "shade": "covered"
+        },
+        {
+          "text": "Weiter zu den **Gardens by the Bay**, zum Abendessen und für den Garten am Abend.",
+          "shade": "park"
+        }
+      ],
+      "bailout": "Die Esplanade, die Malls an der Bucht und die Gewächshäuser in den Gardens."
+    },
+    {
+      "id": "botanic-gardens",
+      "title": "Vom Tanglin Gate zum Bukit Timah Gate",
+      "image": "botanic-2",
+      "distance": "Etwa 3,5 km",
+      "time": "2 Stunden",
+      "start": "MRT Napier",
+      "best": "6:30 Uhr",
+      "intro": [
+        "Einmal der ganzen Länge nach durch den UNESCO-Garten, durch den Regenwald und vorbei an den Seen."
+      ],
+      "route": [
+        {
+          "text": "Eingang am **Tanglin Gate** nahe der MRT Napier.",
+          "shade": "canopy"
+        },
+        {
+          "text": "Über den Bohlenweg durch den **Regenwald**.",
+          "shade": "canopy"
+        },
+        {
+          "text": "**Swan Lake** und der Bandstand.",
+          "shade": "park"
+        },
+        {
+          "text": "Der **National Orchid Garden** (Ticket erforderlich).",
+          "shade": "park"
+        },
+        {
+          "text": "Durch den **Learning Forest** zur MRT Botanic Gardens.",
+          "shade": "canopy"
+        }
+      ],
+      "bailout": "Unterstände im ganzen Garten, die Besucherzentren und die MRT-Station."
+    },
+    {
+      "id": "nature-reserves",
+      "title": "MacRitchie unter dem Blätterdach",
+      "image": "nature-2",
+      "distance": "Rundweg, etwa 11 km",
+      "time": "3,5–4,5 Stunden",
+      "start": "MacRitchie Reservoir Park",
+      "best": "7 Uhr",
+      "intro": [
+        "Waldpfade und Bohlenwege rund um den Stausee bis zum TreeTop Walk. Eine echte Wanderung, im tiefen Schatten."
+      ],
+      "route": [
+        {
+          "text": "Vom Parkeingang dem **Bohlenweg** am Ufer des Stausees folgen.",
+          "shade": "canopy"
+        },
+        {
+          "text": "Auf Waldpfaden Richtung **Jelutong Tower**.",
+          "shade": "canopy"
+        },
+        {
+          "text": "Über den **TreeTop Walk** (Öffnungszeiten des Tages prüfen).",
+          "shade": "open"
+        },
+        {
+          "text": "Zurück über den **Sime Track** und die Bohlenwege.",
+          "shade": "canopy"
+        }
+      ],
+      "bailout": "Unterstände entlang der Pfade. Verlassen Sie bei Blitzen sofort den TreeTop Walk und ungeschützte Abschnitte."
+    },
+    {
+      "id": "southern-ridges",
+      "title": "Von Kent Ridge zum Mount Faber",
+      "image": "ridges-2",
+      "distance": "Etwa 10 km",
+      "time": "3–4 Stunden",
+      "start": "MRT Kent Ridge",
+      "best": "7 Uhr",
+      "intro": [
+        "Der ganze Höhenzug von West nach Ost, auf den Brücken mit der Sonne im Rücken."
+      ],
+      "route": [
+        {
+          "text": "Von der MRT Kent Ridge hinauf in den **Kent Ridge Park** und auf seinen Baumkronenpfad.",
+          "shade": "canopy"
+        },
+        {
+          "text": "Hinunter zum **HortPark**: Wasser, Toiletten, Schatten.",
+          "shade": "park"
+        },
+        {
+          "text": "Über den **Alexandra Arch** und den **Forest Walk** entlang.",
+          "shade": "canopy"
+        },
+        {
+          "text": "Über die **Henderson Waves** zum Mount Faber.",
+          "shade": "open"
+        },
+        {
+          "text": "Durch den Wald hinunter zur **MRT HarbourFront** oder mit der Seilbahn.",
+          "shade": "canopy"
+        }
+      ],
+      "bailout": "HortPark und der Gipfel des Mount Faber. Bei Gewitter die Brücken verlassen."
+    },
+    {
+      "id": "pulau-ubin",
+      "title": "Vom Anleger nach Chek Jawa",
+      "image": "ubin-1",
+      "distance": "Etwa 12 km mit dem Rad",
+      "time": "Ein halber Tag",
+      "start": "Anleger Ubin",
+      "best": "Überfahrt um 8 Uhr",
+      "intro": [
+        "Mit dem Fahrrad über ruhige Inselwege zum Mangrovensteg an der Ostspitze."
+      ],
+      "route": [
+        {
+          "text": "Mit dem Bumboat ab dem **Changi Point Ferry Terminal**; im Dorf ein Rad leihen.",
+          "shade": "open"
+        },
+        {
+          "text": "Ostwärts auf dem Hauptweg, vorbei an **Kampong-Häusern** und Obstbäumen.",
+          "shade": "canopy"
+        },
+        {
+          "text": "Das Rad abstellen und zu Fuß über den **Steg von Chek Jawa** und auf den Turm.",
+          "shade": "open"
+        },
+        {
+          "text": "Vorbei an den Aussichtspunkten über die **Steinbrüche** zurück zum Anleger.",
+          "shade": "canopy"
+        }
+      ],
+      "bailout": "Unterstände in Chek Jawa und im Dorf. In der Gewitterzeit bis zum frühen Nachmittag zurück auf der Hauptinsel sein."
+    },
+    {
+      "id": "mandai",
+      "title": "Der Mandai Boardwalk",
+      "image": null,
+      "distance": "Kurzer Rundweg",
+      "time": "Unter 1 Stunde",
+      "start": "Mandai Wildlife West",
+      "best": "Später Nachmittag",
+      "intro": [
+        "Ein kostenloser Bohlenweg am Rand des zentralen Regenwalds, eine ruhige Stunde, bevor die Night Safari öffnet."
+      ],
+      "route": [
+        {
+          "text": "Von der Ankunftsplaza in Mandai auf den **Bohlenweg** am Waldrand.",
+          "shade": "canopy"
+        },
+        {
+          "text": "Halten Sie nahe dem Wasser Ausschau nach Waranen und Waldvögeln.",
+          "shade": "canopy"
+        },
+        {
+          "text": "Zurück zur Plaza, zum Abendessen und zur Night Safari.",
+          "shade": "covered"
+        }
+      ],
+      "bailout": "Die überdachte Plaza und die Parkeingänge."
+    },
+    {
+      "id": "changi",
+      "title": "Küstenweg am Changi Point",
+      "image": null,
+      "distance": "Etwa 2,2 km",
+      "time": "1 Stunde",
+      "start": "Changi Village",
+      "best": "8 Uhr oder 17 Uhr",
+      "intro": [
+        "Ein Bohlenweg am Ufer unter Kasuarinen, zehn Minuten von den Terminals."
+      ],
+      "route": [
+        {
+          "text": "Start am **Changi Village Hawker Centre**.",
+          "shade": "covered"
+        },
+        {
+          "text": "Vorbei am **Fährterminal** und auf den Bohlenweg.",
+          "shade": "open"
+        },
+        {
+          "text": "Den **Changi Point Coastal Walk** am Meer entlang.",
+          "shade": "canopy"
+        },
+        {
+          "text": "Zurück ins Dorf oder mit dem Taxi zum Flughafen.",
+          "shade": "open"
+        }
+      ],
+      "bailout": "Das Hawker Centre und das Fährterminal."
+    }
+  ],
+  "tipsTitle": "Gehen in der Hitze",
+  "tips": [
+    {
+      "q": "Was sollte ich dabeihaben?",
+      "a": [
+        "Wasser (Nachfüllen an Trinkbrunnen in Parks und in Hawker Centres), einen Hut, Sonnencreme, einen kleinen Schirm, der auch als Sonnenschirm dient, und etwas zum Draufsetzen, falls die Bänke nass sind."
+      ]
+    },
+    {
+      "q": "Was sind Park Connectors?",
+      "a": [
+        "Ein über 300 Kilometer langes Wegenetz, das die Parks der Stadt entlang von Flüssen, Kanälen und Grünzügen verbindet. Die Wege sind überwiegend schattig, ausgeschildert und werden mit Radfahrern geteilt: Halten Sie sich links und achten Sie auf Klingeln."
+      ]
+    },
+    {
+      "q": "Wie hoch ist das Blitzrisiko?",
+      "a": [
+        "Singapur hat eine der höchsten Blitzdichten der Welt. Wenn Sie Donner hören, verlassen Sie offene Flächen, Hügelkuppen, Brücken und das Wasser und suchen Sie Schutz in einem Gebäude oder einem überdachten Unterstand. Warten Sie nach dem letzten Donner etwa eine halbe Stunde."
+      ]
+    },
+    {
+      "q": "Woran erkenne ich Hitzeerschöpfung?",
+      "a": [
+        "Kopfschmerzen, Schwindel, Übelkeit, Krämpfe und starkes Schwitzen. Halten Sie an, gehen Sie in den Schatten oder in einen klimatisierten Raum, trinken Sie Wasser und ruhen Sie sich aus. Wirkt jemand verwirrt oder hört auf zu schwitzen, rufen Sie medizinische Hilfe."
+      ]
+    }
+  ]
+}
