@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "title": "Condiciones de reserva | Five Foot Way",
+    "description": "Las condiciones que se aplican cuando usted planifica y reserva un viaje a Singapur con Five Foot Way."
+  },
+  "kicker": "Legal",
+  "title": "Condiciones de reserva",
+  "updated": "Última actualización: 14 de noviembre de 2026",
+  "tocLabel": "Contenido",
+  "intro": "Estas condiciones se aplican a todos los viajes planificados o reservados por {brand}, {address} ([{email}](mailto:{email})). Le rogamos que las lea antes de confirmar una reserva. Al confirmarla, usted las acepta en nombre de todas las personas que viajan con usted.",
+  "sections": [
+    { "h": "Nuestro servicio", "p": ["{brand} planifica viajes a Singapur y gestiona servicios prestados por terceros, como hoteles, guías, transporte y entradas a atracciones. Salvo que indiquemos otra cosa por escrito, actuamos como su agente en la gestión de dichos servicios; el hotel, el guía u otro proveedor es responsable de prestarlos conforme a sus propias condiciones, que le facilitaremos si las solicita."] },
+    { "h": "Consultas y presupuestos", "p": ["Nuestra primera respuesta y las ideas iniciales son gratuitas y no le comprometen a nada. Cuando nos pida una propuesta completa, le enviaremos un presupuesto por escrito en el que figurarán los servicios incluidos, el precio total, lo que no está incluido, el calendario de pagos y las condiciones de cancelación aplicables. Los precios de un presupuesto son válidos hasta la fecha que figure en él. Los precios que aparezcan en este sitio web, en su caso, son precios «desde» y solo quedan confirmados en un presupuesto por escrito."] },
+    { "h": "Reserva y pago", "p": ["Una reserva queda confirmada cuando usted acepta nuestro presupuesto por escrito y recibimos el depósito indicado en él. A continuación, le confirmamos la reserva por correo electrónico. El importe restante deberá abonarse antes de la fecha indicada en el presupuesto. Si no se abona a tiempo, podremos considerar que usted ha cancelado la reserva, en cuyo caso se aplicarán las condiciones de cancelación que figuran más abajo.", "Los pagos se realizan mediante transferencia bancaria o con tarjeta a través de un enlace de pago seguro. Nunca le pediremos los datos de su tarjeta por correo electrónico."] },
+    { "h": "Cambios por su parte", "p": ["Si desea modificar su reserva después de la confirmación, comuníquenoslo por escrito lo antes posible. Haremos todo lo posible por ayudarle. Cualquier coste adicional que cobren los proveedores, más un tiempo de gestión razonable por nuestra parte, se le repercutirá, y le indicaremos el importe antes de efectuar el cambio."] },
+    { "h": "Cancelación por su parte", "p": ["Puede cancelar en cualquier momento escribiéndonos. Los gastos de cancelación dependen de la antelación con la que cancele respecto al inicio del viaje y de las condiciones de los propios proveedores, y se detallan en su presupuesto por escrito. Cualquier importe que no se deba a los proveedores ni corresponda a trabajo ya realizado se le reembolsará en un plazo de 30 días."] },
+    { "h": "Cambios y cancelación por nuestra parte", "p": ["Ocasionalmente, nosotros o un proveedor podemos vernos obligados a modificar parte de su viaje, por ejemplo si un hotel deja de estar disponible o un lugar cierra. Le ofreceremos una alternativa equivalente y se lo comunicaremos lo antes posible. Si tenemos que introducir un cambio significativo antes de la salida, usted podrá aceptarlo, elegir una alternativa o cancelar y recibir el reembolso íntegro de las cantidades que nos haya abonado. No seremos responsables de indemnización alguna cuando el cambio se deba a acontecimientos ajenos a nuestro control."] },
+    { "h": "Acontecimientos ajenos a nuestro control", "p": ["No seremos responsables de incumplimientos o retrasos causados por acontecimientos que escapen a nuestro control razonable, como fenómenos meteorológicos graves, catástrofes naturales, epidemias, actuaciones de las autoridades, huelgas o alteraciones en aerolíneas y aeropuertos. Le ayudaremos a reorganizar sus planes siempre que sea posible."] },
+    { "h": "Sus responsabilidades", "ul": [
+      "Disponer de un pasaporte válido y de cualquier visado, documento de tránsito o de entrada que se exija, y cumplimentar la SG Arrival Card antes de la llegada.",
+      "Comprobar las normas de entrada e importación que le sean aplicables, incluidas las relativas a medicamentos, cigarrillos electrónicos y chicle.",
+      "Contratar un seguro de viaje que cubra la cancelación, los gastos médicos y los efectos personales. Se lo recomendamos encarecidamente.",
+      "Informarnos antes de reservar de cualquier problema de salud, necesidad de movilidad o requisito alimentario que afecte a su viaje.",
+      "Respetar las leyes locales, las normas de los parques y las instrucciones razonables de los guías y proveedores."
+    ] },
+    { "h": "Nuestra responsabilidad", "p": ["Planificaremos y organizaremos su viaje con una competencia y diligencia razonables. Nuestra responsabilidad frente a usted por cualquier pérdida derivada de nuestro propio servicio se limita al importe que nos haya abonado por dicho servicio, salvo en los casos en que la ley no permita limitarla, como en caso de muerte o lesiones personales causadas por nuestra negligencia. No somos responsables de los actos u omisiones de proveedores independientes, pero le ayudaremos a tramitar cualquier reclamación contra ellos."] },
+    { "h": "Reclamaciones", "p": ["Si algo sale mal durante su viaje, comuníqueselo de inmediato al proveedor y a nosotros para que podamos intentar solucionarlo sobre la marcha. Si sigue sin estar satisfecho, escriba a [{email}](mailto:{email}) en un plazo de 30 días desde su regreso, y le responderemos en un plazo de 30 días."] },
+    { "h": "Legislación y jurisdicción", "p": ["Estas condiciones se rigen por las leyes de Singapur, y los tribunales de Singapur son competentes para resolver cualquier controversia. Si usted reside en otro país, es posible que también le amparen los derechos que le otorga la legislación de consumo de dicho país."] }
+  ]
+}

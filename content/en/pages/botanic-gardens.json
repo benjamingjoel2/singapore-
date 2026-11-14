@@ -1,0 +1,88 @@
+{
+  "id": "botanic-gardens",
+  "nav": "Singapore Botanic Gardens",
+  "meta": {
+    "title": "Singapore Botanic Gardens: the UNESCO garden at dawn | Five Foot Way",
+    "description": "Singapore's first UNESCO World Heritage Site: a 160-year-old garden with a patch of original rainforest, the National Orchid Garden and early-morning walks."
+  },
+  "hero": {
+    "kicker": "UNESCO World Heritage Site",
+    "title": "Singapore Botanic Gardens",
+    "image": "botanic-1",
+    "sub": "A Victorian garden with a rainforest inside it, open from five in the morning and best before eight."
+  },
+  "info": [
+    { "label": "Nearest MRT", "value": "Botanic Gardens, Napier" },
+    { "label": "Best hours", "value": "6:30–9:30am" },
+    { "label": "Garden walk", "value": "About 3–4 km, 2 hours" }
+  ],
+  "intro": {
+    "heading": "The garden that changed an economy",
+    "chips": ["UNESCO 2015", "Orchids", "Rainforest"],
+    "text": [
+      "Founded in 1859, the Botanic Gardens were inscribed as Singapore's first UNESCO World Heritage Site in 2015, recognised as an exceptional example of a British tropical colonial botanic garden. It was here, in the late 19th century, that the director Henry Ridley developed the method of tapping rubber trees that transformed the economy of the whole region.",
+      "Today it is the city's favourite park: joggers at dawn, tai chi groups on the lawns, families on Sunday. Entry to the gardens is free. Come early, when the light is low and the paths are shaded, and plan to leave before ten."
+    ]
+  },
+  "rows": [
+    {
+      "title": "The rainforest",
+      "meta": ["Original forest", "Boardwalk"],
+      "text": [
+        "A few hectares of primary rainforest, older than the gardens themselves, survive near the Tanglin end. A boardwalk takes you under trees that were here before the colony. It is the easiest place in the city to stand in real rainforest."
+      ]
+    },
+    {
+      "title": "National Orchid Garden",
+      "image": "botanic-2",
+      "meta": ["Tickets required", "Cool house"],
+      "text": [
+        "The largest display of tropical orchids anywhere, including hybrids named after visiting heads of state. A small cooled house holds the high-altitude species. This is the one part of the gardens with an entry fee."
+      ]
+    },
+    {
+      "title": "Swan Lake and the Bandstand",
+      "image": "botanic-1",
+      "meta": ["Heritage landscape", "Morning light"],
+      "text": [
+        "The heritage core of the gardens: Swan Lake, with its mute swans, the octagonal Bandstand on its rise, and lawns laid out in the English landscape style. In the early morning, mist sometimes sits on the water."
+      ]
+    },
+    {
+      "title": "The Learning Forest",
+      "meta": ["Elevated walkway", "Wetland"],
+      "text": [
+        "A newer section at the Bukit Timah end, with a boardwalk through freshwater swamp forest and an elevated walkway among the treetops. It is less visited and very calm in the mornings."
+      ]
+    }
+  ],
+  "bleed": {
+    "image": "botanic-1",
+    "kicker": "Shade walk",
+    "title": "Tanglin Gate to the Bukit Timah Gate",
+    "text": "The length of the gardens from south to north, through the rainforest, past Swan Lake and the Orchid Garden, finishing at the MRT station. Almost entirely under trees.",
+    "facts": [
+      { "label": "Start", "value": "Napier MRT, Tanglin Gate" },
+      { "label": "Finish", "value": "Botanic Gardens MRT" },
+      { "label": "Best", "value": "6:30am" }
+    ],
+    "cta": "See the walk"
+  },
+  "eat": {
+    "title": "Breakfast at the edge of the gardens",
+    "text": [
+      "There are cafés inside the gardens, but the best breakfast is a short walk away at a neighbourhood hawker centre."
+    ],
+    "items": [
+      { "name": "Adam Road Food Centre", "text": "Nasi lemak and prata, ten minutes from the Bukit Timah Gate." },
+      { "name": "Dempsey Hill", "text": "Former army barracks turned restaurants and galleries, a short walk from Tanglin Gate." },
+      { "name": "Inside the gardens", "text": "A few cafés near the main gates for coffee and a cold drink." }
+    ]
+  },
+  "faq": [
+    { "q": "What are the opening hours?", "a": ["The gardens open very early in the morning and close late at night, every day; the National Orchid Garden has shorter hours. Confirm on the gardens' website before you go."] },
+    { "q": "Is it suitable for children?", "a": ["Yes. The Jacob Ballas Children's Garden, at the northern end, has water play, treehouses and a small farm. It has its own hours and is closed on some days."] },
+    { "q": "What happens in a thunderstorm?", "a": ["Shelters are dotted around the gardens. When lightning is close, stay away from open lawns and lone trees, and wait it out under a shelter or at the visitor centre."] }
+  ],
+  "related": ["nature-reserves", "tiong-bahru", "southern-ridges", "marina-bay"]
+}

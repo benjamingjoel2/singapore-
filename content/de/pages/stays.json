@@ -1,0 +1,68 @@
+{
+  "meta": {
+    "title": "Wohnen in Singapur: Shophouse-Hotels und ruhige Viertel | Five Foot Way",
+    "description": "Die Viertel, die wir für unsere Gäste auswählen: von Shophouse-Hotels in Chinatown bis zu ruhigen Straßen nahe dem Botanischen Garten und der Ostküste."
+  },
+  "hero": {
+    "kicker": "Unterkünfte",
+    "title": "Wo Sie wohnen",
+    "image": "stays-1",
+    "sub": "Erst das Viertel wählen, dann das Hotel. Wo Sie schlafen, entscheidet, wie früh Sie losgehen können."
+  },
+  "intro": {
+    "kicker": "Unser Ansatz",
+    "text": "Wir bringen unsere Gäste in kleinen Hotels in den alten Vierteln unter, nahe einer MRT-Station und einem Hawker Centre – so beginnt der frühe Spaziergang direkt vor der Tür, und die Mittagspause ist nur zehn Minuten entfernt. Die Hotels unten sind Platzhalter, solange wir unsere Partnerliste fertigstellen: Die Viertel und die Überlegungen dahinter sind echt."
+  },
+  "note": "**Dies sind Platzhalternamen.** Unsere Partnerhotels haben wir noch nicht veröffentlicht. Jede Karte beschreibt die Art von Unterkunft, die wir in diesem Viertel buchen. Fragen Sie uns über das [Anfrageformular](@enquire) nach aktuellen Empfehlungen.",
+  "listTitle": "Fünf Arten zu wohnen",
+  "listText": [
+    "Jede davon passt zu einem Viertel und einer Art von Reise. Konkrete Hotels mit aktuellen Preisen schlagen wir vor, sobald wir Ihre Reisedaten kennen."
+  ],
+  "items": [
+    {
+      "name": "Shophouse Hotel A",
+      "area": "Chinatown",
+      "type": "Shophouse-Hotel",
+      "image": "chinatown-1",
+      "text": [
+        "Eine restaurierte Shophouse-Zeile mit kleinen Zimmern, hohen Decken und einem Five-foot way vor der Tür. Drei Hawker Centres in zehn Minuten Entfernung und drei MRT-Linien in der Nähe. Für den ersten Besuch und kurze Aufenthalte."
+      ]
+    },
+    {
+      "name": "Terrace Hotel B",
+      "area": "Emerald Hill / Orchard",
+      "type": "Stadthaus-Hotel",
+      "image": "stays-1",
+      "text": [
+        "Peranakan-Reihenhäuser auf einem ruhigen Hügel, wenige Minuten von der Orchard Road. Praktisch für den Botanischen Garten im Morgengrauen."
+      ]
+    },
+    {
+      "name": "Boutique Hotel C",
+      "area": "Katong / Joo Chiat",
+      "type": "Boutique-Hotel",
+      "image": "stays-2",
+      "text": [
+        "Ein kleines Hotel in einem umgebauten Shophouse inmitten der Peranakan-Straßen, zwanzig Minuten von Changi. Für Zwischenstopps, späte Flüge und alle, die gern essen."
+      ]
+    },
+    {
+      "name": "Garden Hotel D",
+      "area": "Tanglin / Dempsey",
+      "type": "Gartenhotel",
+      "image": "stays-3",
+      "text": [
+        "Niedrige Gebäude zwischen alten Bäumen nahe dem Botanischen Garten, nachts ruhig. Für Wanderfreudige und Familien, die Platz und einen Pool wollen."
+      ]
+    },
+    {
+      "name": "Riverside Hotel E",
+      "area": "Robertson Quay",
+      "type": "Lagerhaus-Hotel",
+      "image": null,
+      "text": [
+        "Ein umgebautes Lagerhaus am ruhigen oberen Flusslauf, nahe dem Uferweg und dem Civic District. Für längere Aufenthalte in der Stadt."
+      ]
+    }
+  ]
+}

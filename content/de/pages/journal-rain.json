@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "title": "Warum der Regen um vier kommt | Five Foot Way Journal",
+    "description": "Was hinter Singapurs Nachmittagsgewittern, dem Monsunkalender und der Sumatra-Bö steckt – und wie man einen Tag darum herum plant."
+  },
+  "title": "Warum der Regen um vier kommt",
+  "kicker": "Wetter",
+  "image": "rain-1",
+  "date": "2026-09-12",
+  "dateLabel": "September 2026",
+  "minutes": 5,
+  "excerpt": "Eine kurze Erklärung der Gewitter in Singapur und ein Plan, wie man mit ihnen lebt.",
+  "related": ["civic-district", "marina-bay", "botanic-gardens"],
+  "body": [
+    { "p": "Wer im April oder November ein paar Tage in Singapur verbringt, erkennt bald ein Muster. Der Morgen ist hell und windstill. Zur Mittagszeit ist der Himmel weiß vor Dunst und Hitze. Gegen drei oder vier türmen sich die Wolken auf, das Licht wird gelbgrau, und dann setzt der Regen schlagartig ein, so heftig, dass er von der Straße zurückspritzt. Eine Stunde später ist alles vorbei." },
+    { "h2": "Hitze macht das Gewitter" },
+    { "p": "Die Ursache ist die Sonne selbst. Vom Morgen an heizt sie Boden und Meer auf, und die warme, sehr feuchte Luft darüber steigt nach oben. Dabei kühlt sie ab, die Feuchtigkeit kondensiert, und am Nachmittag sind die Wolken so hoch gewachsen, dass daraus Gewitter werden. Deshalb sind Gewitter nach der heißesten Zeit des Tages am häufigsten, und deshalb gibt es in den Monaten des Zwischenmonsuns, wenn kaum Wind die Luft durchmischt, die meisten davon." },
+    { "h2": "Die Monsune" },
+    { "p": "Zweimal im Jahr dreht die vorherrschende Windrichtung über der Region. Etwa von Dezember bis Anfang März bringt der Nordostmonsun zunächst eine nasse Phase, oft mit längerem, gleichmäßigerem Regen, gefolgt von einer trockeneren, windigeren Zeit. Etwa von Juni bis September ist der Südwestmonsun meist trockener, bringt aber die Sumatra-Bö: eine Gewitterfront, die sich nachts über der Straße von Malakka bildet und vor Sonnenaufgang mit kräftigen Böen über die Insel zieht." },
+    { "h2": "Wie man damit plant" },
+    { "ul": [
+      "**Gehen Sie morgens los.** In den meisten Monaten ist das Wetter zwischen 7 und 10 Uhr am besten.",
+      "**Halten Sie den Nachmittag flexibel.** Haben Sie einen Plan für drinnen in Reichweite: ein Museum, ein Hawker Centre, einen überdachten Gang.",
+      "**Nehmen Sie Blitze ernst.** Singapur hat eine der höchsten Blitzdichten der Welt. Verlassen Sie freie Flächen, Gewässer und Brücken, sobald Sie Donner hören.",
+      "**Sagen Sie nichts wegen einer Vorhersage ab.** „70 % Gewitterwahrscheinlichkeit“ bedeutet oft eine Stunde Starkregen, irgendwo auf der Insel."
+    ] },
+    { "p": "Es hat auch etwas Schönes. Stellen Sie sich während eines Wolkenbruchs unter einen Five-foot way, während das Wasser wie ein Vorhang von den Dachziegeln stürzt und die Straße plötzlich leer ist, und Sie verstehen, warum die Stadt so gebaut wurde, wie sie gebaut wurde." }
+  ]
+}

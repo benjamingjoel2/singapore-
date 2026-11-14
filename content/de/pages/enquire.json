@@ -1,0 +1,16 @@
+{
+  "meta": {
+    "title": "Anfrage | Singapur-Reise planen mit Five Foot Way",
+    "description": "Erzählen Sie uns von Ihrer Singapur-Reise oder Ihrem Zwischenstopp. Wir antworten persönlich innerhalb von zwei Werktagen per E-Mail."
+  },
+  "title": "Wollen wir es gemeinsam planen?",
+  "image": "journeys-1",
+  "side": ["Lieber per E-Mail? Schreiben Sie uns direkt. Bitte senden Sie keine Passnummern oder Zahlungsdaten per E-Mail oder über dieses Formular."],
+  "faqTitle": "Bevor Sie schreiben",
+  "faq": [
+    { "q": "Was kostet eine Reise?", "a": ["Das hängt von Ihren Reisedaten, den Hotels und dem Umfang unserer Leistungen ab. Zu jedem Plan schicken wir ein schriftliches Angebot; die erste Antwort ist kostenlos."] },
+    { "q": "Helfen Sie auch nur bei einem Zwischenstopp?", "a": ["Ja. Probieren Sie zuerst den [Stopover-Planer](@stopover-planner) aus und schreiben Sie uns dann, wenn wir einen Guide, ein Hotel in Flughafennähe oder Transfers organisieren sollen."] },
+    { "q": "Wie früh sollte ich anfragen?", "a": ["Für Reisen im Dezember, rund um das chinesische Neujahrsfest oder während großer Veranstaltungen zwei bis drei Monate im Voraus. Ansonsten reichen meist einige Wochen."] },
+    { "q": "Kann man Sie anrufen?", "a": ["Wir arbeiten per E-Mail, damit jedes Detail schriftlich festgehalten ist und nichts verloren geht. Wir antworten innerhalb von zwei Werktagen."] }
+  ]
+}

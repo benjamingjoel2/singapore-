@@ -1,0 +1,68 @@
+{
+  "meta": {
+    "title": "Where to stay in Singapore: shophouse hotels and quiet neighbourhoods | Five Foot Way",
+    "description": "The neighbourhoods we choose for our guests, from shophouse hotels in Chinatown to quieter streets near the Botanic Gardens and the east coast."
+  },
+  "hero": {
+    "kicker": "Stays",
+    "title": "Where to stay",
+    "image": "stays-1",
+    "sub": "Choose the neighbourhood first, then the hotel. Where you sleep decides how early you can walk."
+  },
+  "intro": {
+    "kicker": "Our approach",
+    "text": "We place guests in small hotels in the old neighbourhoods, close to an MRT station and a hawker centre, so that an early walk starts at the door and a midday rest is ten minutes away. The hotels below are placeholders while we finalise our partner list: the neighbourhoods and the reasoning are real."
+  },
+  "note": "**These are placeholder names.** We have not yet published our partner hotels. Each card describes the kind of stay we book in that neighbourhood. Ask us for current recommendations through the [enquiry form](@enquire).",
+  "listTitle": "Five kinds of stay",
+  "listText": [
+    "Each of these is matched to a neighbourhood and a kind of trip. We will suggest specific hotels, with current rates, once we know your dates."
+  ],
+  "items": [
+    {
+      "name": "Shophouse Hotel A",
+      "area": "Chinatown",
+      "type": "Shophouse hotel",
+      "image": "chinatown-1",
+      "text": [
+        "A restored row of shophouses with small rooms, high ceilings and a five-foot way at the door. Three hawker centres within ten minutes and three MRT lines nearby. For first visits and short stays."
+      ]
+    },
+    {
+      "name": "Terrace Hotel B",
+      "area": "Emerald Hill / Orchard",
+      "type": "Townhouse hotel",
+      "image": "stays-1",
+      "text": [
+        "Peranakan terrace houses on a quiet hill a few minutes from Orchard Road. Convenient for the Botanic Gardens at dawn."
+      ]
+    },
+    {
+      "name": "Boutique Hotel C",
+      "area": "Katong / Joo Chiat",
+      "type": "Boutique hotel",
+      "image": "stays-2",
+      "text": [
+        "A small hotel in a converted shophouse among the Peranakan streets, twenty minutes from Changi. For layovers, late flights and anyone who likes to eat."
+      ]
+    },
+    {
+      "name": "Garden Hotel D",
+      "area": "Tanglin / Dempsey",
+      "type": "Garden hotel",
+      "image": "stays-3",
+      "text": [
+        "Low-rise rooms among old trees near the Botanic Gardens, quiet at night. For walkers and families who want space and a pool."
+      ]
+    },
+    {
+      "name": "Riverside Hotel E",
+      "area": "Robertson Quay",
+      "type": "Warehouse hotel",
+      "image": null,
+      "text": [
+        "A converted riverside warehouse on the quiet upper river, close to the river walk and the Civic District. For longer city stays."
+      ]
+    }
+  ]
+}

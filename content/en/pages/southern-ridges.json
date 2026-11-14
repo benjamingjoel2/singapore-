@@ -1,0 +1,88 @@
+{
+  "id": "southern-ridges",
+  "nav": "The Southern Ridges",
+  "meta": {
+    "title": "The Southern Ridges: Henderson Waves and the Forest Walk | Five Foot Way",
+    "description": "Ten kilometres of hill parks and elevated walkways above the city, from Mount Faber to Kent Ridge, best walked at dawn."
+  },
+  "hero": {
+    "kicker": "Ridge walk",
+    "title": "The Southern Ridges",
+    "image": "ridges-1",
+    "sub": "A chain of green hills tied together with bridges, high above the port and the city."
+  },
+  "info": [
+    { "label": "Start", "value": "HarbourFront MRT or Kent Ridge MRT" },
+    { "label": "Best hours", "value": "6:30–9:30am, or 4:30pm onwards" },
+    { "label": "Walk", "value": "About 10 km, 3–4 hours" }
+  ],
+  "intro": {
+    "heading": "A walk in the air",
+    "chips": ["Bridges", "Hill parks", "Views"],
+    "text": [
+      "The Southern Ridges link five parks along the low hills of southern Singapore: Mount Faber, Telok Blangah Hill, HortPark, Kent Ridge and Labrador Nature Reserve's edges. Where roads cut through the ridge, bridges and elevated walkways carry you over, so you can walk for hours without touching a pavement.",
+      "Much of the route runs through secondary forest, which gives better shade than you might expect. The bridges themselves are exposed. Start early, or walk it in the late afternoon and finish at Mount Faber for sunset."
+    ]
+  },
+  "rows": [
+    {
+      "title": "Henderson Waves",
+      "image": "ridges-1",
+      "meta": ["Pedestrian bridge", "Lit at night"],
+      "text": [
+        "Singapore's highest pedestrian bridge rolls over Henderson Road in a series of timber ribs that curl up to form shaded benches. It links Mount Faber to Telok Blangah Hill. In the evening it is lit, and the views over the southern islands are at their best."
+      ]
+    },
+    {
+      "title": "The Forest Walk",
+      "image": "ridges-2",
+      "meta": ["Elevated walkway", "Canopy level"],
+      "text": [
+        "A steel walkway that runs through the treetops of Telok Blangah Hill, sometimes at the height of the canopy. You walk level with the birds and squirrels, and the forest provides real shade. A parallel earth trail runs below for those who prefer the ground."
+      ]
+    },
+    {
+      "title": "Alexandra Arch and HortPark",
+      "meta": ["Bridge", "Gardens"],
+      "text": [
+        "A leaf-shaped bridge leads to HortPark, a gardening park with themed plots, glasshouses and toilets, a good place for a break halfway along the route."
+      ]
+    },
+    {
+      "title": "Kent Ridge Park",
+      "meta": ["Canopy walk", "Wartime history"],
+      "text": [
+        "At the western end, a canopy walk winds through the forest of Kent Ridge, where one of the last battles before the fall of Singapore was fought in February 1942. The Reflections at Bukit Chandu museum tells that story."
+      ]
+    }
+  ],
+  "bleed": {
+    "image": "ridges-2",
+    "kicker": "Ridge walk",
+    "title": "Kent Ridge to Mount Faber",
+    "text": "West to east, so the morning sun is behind you on the exposed bridges, and you finish near the cable car and the MRT at HarbourFront.",
+    "facts": [
+      { "label": "Start", "value": "Kent Ridge MRT" },
+      { "label": "Finish", "value": "HarbourFront MRT" },
+      { "label": "Start by", "value": "7am" }
+    ],
+    "cta": "See the walk"
+  },
+  "eat": {
+    "title": "Breakfast at the bottom of the hill",
+    "text": [
+      "The ridges have very few places to eat along the way. Eat before you start, and carry water: there are drinking fountains in the parks, but not on the bridges."
+    ],
+    "items": [
+      { "name": "Telok Blangah food centres", "text": "Neighbourhood hawker centres below the hill, used by residents." },
+      { "name": "HortPark", "text": "Toilets, water and shade at the halfway point." },
+      { "name": "HarbourFront", "text": "Malls and food courts at the end of the walk, with air conditioning." }
+    ]
+  },
+  "faq": [
+    { "q": "Can I do only part of it?", "a": ["Easily. The most popular section is Mount Faber to Telok Blangah Hill via Henderson Waves, about 3 kilometres. Kent Ridge to HortPark is the quietest."] },
+    { "q": "Is it suitable in the rain?", "a": ["Light rain is pleasant under the forest. In a thunderstorm, get off the bridges and exposed sections at once; the nearest shelters are at HortPark and the Mount Faber summit."] },
+    { "q": "Is there a cable car?", "a": ["Yes, from Mount Faber down to HarbourFront and across to Sentosa. It is ticketed and makes a good finish for tired legs."] }
+  ],
+  "related": ["botanic-gardens", "nature-reserves", "tiong-bahru", "marina-bay"]
+}

@@ -1,0 +1,31 @@
+{
+  "meta": {
+    "title": "Una mañana en Pulau Ubin | Diario de Five Foot Way",
+    "description": "El primer bumboat desde Changi, una bici de alquiler, la pasarela de Chek Jawa y nasi lemak a la vuelta: una mañana en la isla kampong de Singapur."
+  },
+  "title": "Una mañana en Pulau Ubin",
+  "kicker": "Islas",
+  "image": "ubin-2",
+  "date": "2026-08-20",
+  "dateLabel": "Agosto de 2026",
+  "minutes": 5,
+  "excerpt": "El primer barco, una bicicleta a la que le falta una marcha y la mañana más tranquila de Singapur.",
+  "related": ["pulau-ubin", "changi", "katong"],
+  "body": [
+    { "p": "La mejor manera de conocer Pulau Ubin es subir al primer barco. La Changi Point Ferry Terminal es un pequeño cobertizo abierto junto al hawker centre, y las mañanas de diario los pasajeros son una mezcla de vecinos con bolsas de la compra, ciclistas, aficionados a las aves con teleobjetivos y algún que otro visitante. El barco sale cuando hay gente suficiente. A nadie parece importarle esperar." },
+    { "h2": "La travesía" },
+    { "p": "Dura unos diez minutos. El bumboat, una lancha de madera con bancos y toldo, cruza un canal lleno de barcos fondeados y, de repente, la ciudad queda atrás. Delante aparece una isla baja y verde, con un embarcadero, unos cuantos tejados y ni una sola torre." },
+    { "h2": "El pueblo" },
+    { "p": "El pueblo junto al embarcadero tiene un puñado de tiendas de bicicletas, un colmado, algunos restaurantes de marisco y un pequeño templo. Alquila una bici, comprueba los frenos y acuerda a qué hora la devolverás. Los caminos son tranquilos pero con cuestas en algunos tramos, y el calor aprieta enseguida en cuanto dejas la sombra." },
+    { "h2": "Chek Jawa" },
+    { "p": "En el extremo oriental, la pasarela de Chek Jawa atraviesa el manglar y se adentra en el mar. Con la marea baja, la orilla rebosa vida: cangrejos, peces del fango, estrellas de mar. Desde la torre mirador se contempla el dosel del bosque hasta Malasia. A primera hora de la mañana puede que lo tengas casi para ti solo." },
+    { "h2": "De vuelta antes de la tormenta" },
+    { "p": "En los meses entre monzones, organízate para estar de vuelta en la isla principal a primera hora de la tarde. Devuelve la bici, coge el barco y termina donde empezaste: en el Changi Village Hawker Centre, con un plato de nasi lemak y un zumo de lima bien frío, a diez minutos del aeropuerto." },
+    { "ul": [
+      "**Lleva efectivo** para el barco y el alquiler de la bici.",
+      "**Lleva agua** y protección solar; en los caminos la sombra va y viene.",
+      "**Respeta a los vecinos**: las casas del kampong son hogares, no piezas de museo.",
+      "**Llévate tu basura** de vuelta."
+    ] }
+  ]
+}

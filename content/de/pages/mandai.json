@@ -1,0 +1,88 @@
+{
+  "id": "mandai",
+  "nav": "Mandai",
+  "meta": {
+    "title": "Mandai: Bird Paradise, Singapore Zoo und Night Safari | Five Foot Way",
+    "description": "Die Tierparks am Rand des zentralen Regenwalds: Bird Paradise, Zoo und Night Safari erleben, ohne den ganzen Tag in der Sonne zu verbringen."
+  },
+  "hero": {
+    "kicker": "Tierparks",
+    "title": "Mandai",
+    "image": "mandai-1",
+    "sub": "Bird Paradise, der Zoo, der Flusspark und die Night Safari – am Stausee, wo der zentrale Regenwald beginnt."
+  },
+  "info": [
+    { "label": "Anreise", "value": "Shuttlebus ab MRT Khatib" },
+    { "label": "Beste Zeit", "value": "Zoo zur Öffnung, Night Safari nach Einbruch der Dunkelheit" },
+    { "label": "Zeitbedarf", "value": "Ein ganzer Tag oder ein Park plus der Abend" }
+  ],
+  "intro": {
+    "heading": "Vier Parks am Waldrand",
+    "chips": ["Zoo", "Vögel", "Nacht"],
+    "text": [
+      "Mandai liegt am Nordufer des Upper Seletar Reservoir und grenzt an das Central Catchment Nature Reserve. Der Singapore Zoo eröffnete hier 1973 mit einem damals ungewöhnlichen Konzept: Wassergräben und Landschaftsgestaltung statt Gitterstäben, unter einem Blätterdach aus Regenwald. Es folgten die Night Safari, dann River Wonders und schließlich Bird Paradise, das 2023 aus dem Westen der Insel hierher umzog.",
+      "Es ist ein großer Ausflug. Wählen Sie lieber einen Park für den Tag und dazu die Night Safari, statt alles sehen zu wollen. Zoo und Bird Paradise sind direkt zur Öffnung am schönsten, wenn die Tiere aktiv und die Wege noch kühl sind."
+    ]
+  },
+  "rows": [
+    {
+      "title": "Bird Paradise",
+      "image": "mandai-1",
+      "meta": ["Begehbare Volieren", "Tagsüber"],
+      "text": [
+        "Große begehbare Volieren, jede als eine Region der Welt gestaltet, vom südostasiatischen Regenwald bis zum afrikanischen Feuchtgebiet. Viele Wege sind überdacht, was bei Hitze und Regen hilft."
+      ]
+    },
+    {
+      "title": "Singapore Zoo",
+      "image": "mandai-2",
+      "meta": ["Offene Gehege", "Waldschatten"],
+      "text": [
+        "Unter den alten Bäumen am Stausee ist der Zoo einer der schattigeren Tagesausflüge in Singapur. Kommen Sie zur Öffnung, beginnen Sie bei den Primaten und den frei lebenden Orang-Utans und wechseln Sie nach Mittag nach drinnen oder in die überdachten Bereiche."
+      ]
+    },
+    {
+      "title": "Night Safari",
+      "meta": ["Nur abends", "Tram und Pfade"],
+      "text": [
+        "Ein Park, der erst nach Einbruch der Dunkelheit öffnet, mit einer Tramfahrt und Fußwegen durch Lebensräume, die wie im Mondlicht beleuchtet sind. Zur Öffnung ist es beliebt und voll; kommen Sie etwas später am Abend, dann sind die Schlangen kürzer. Fotografieren mit Blitz ist nicht erlaubt."
+      ]
+    },
+    {
+      "title": "River Wonders und der Bohlenweg",
+      "meta": ["Aquarien drinnen", "Kostenloser Bohlenweg"],
+      "text": [
+        "River Wonders liegt größtenteils drinnen und ist klimatisiert – eine gute Zuflucht bei Gewitter. Der Mandai Boardwalk am Waldrand entlang ist kostenlos und für alle zugänglich."
+      ]
+    }
+  ],
+  "bleed": {
+    "image": "mandai-2",
+    "kicker": "Waldrand",
+    "title": "Der Mandai Boardwalk",
+    "text": "Ein kurzer, kostenloser Bohlenweg am Waldrand in Mandai, ideal für eine Stunde, bevor die Night Safari öffnet.",
+    "facts": [
+      { "label": "Start", "value": "Mandai Wildlife West" },
+      { "label": "Länge", "value": "Kurzer Rundweg" },
+      { "label": "Beste Zeit", "value": "Später Nachmittag" }
+    ],
+    "cta": "Zum Spaziergang"
+  },
+  "eat": {
+    "title": "Mahlzeiten rund um die Parks planen",
+    "text": [
+      "In den Parks gibt es Restaurants und Food Courts, praktisch, aber mittags voll. Besser essen Sie vor einem Abendbesuch in der Stadt."
+    ],
+    "items": [
+      { "name": "In den Parks", "text": "Food Courts und Restaurants in jedem Park." },
+      { "name": "Khatib und Yishun", "text": "Hawker Centres der Nachbarschaft nahe der Shuttlebus-Haltestelle." },
+      { "name": "Abends", "text": "Essen Sie früh in der Stadt zu Abend und kommen Sie nach dem ersten Ansturm zur Night Safari." }
+    ]
+  },
+  "faq": [
+    { "q": "Kann ich an einem Tag mehr als einen Park besuchen?", "a": ["Ja, es gibt auch Kombitickets. Am angenehmsten ist ein Park am Vormittag, eine Pause am Nachmittag und die Night Safari nach Einbruch der Dunkelheit."] },
+    { "q": "Wie sind die Öffnungszeiten?", "a": ["Jeder Park hat eigene Öffnungszeiten, die Night Safari öffnet nur abends. An Feiertagen und bei Veranstaltungen ändern sich die Zeiten, prüfen Sie sie daher vor dem Besuch auf der Website von Mandai."] },
+    { "q": "Wie komme ich hin?", "a": ["Der Mandai Khatib Shuttle fährt ab der MRT-Station Khatib an der North-South Line. Ein Taxi aus der Stadt braucht etwa eine halbe Stunde."] }
+  ],
+  "related": ["nature-reserves", "botanic-gardens", "pulau-ubin", "changi"]
+}

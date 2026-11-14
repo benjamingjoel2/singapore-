@@ -1,0 +1,63 @@
+{
+  "meta": {
+    "title": "Singapur-Reisen als Beispiel: von 48 Stunden bis zu einer Woche | Five Foot Way",
+    "description": "Vier Beispielrouten für Singapur jenseits der Skyline: 48-Stunden-Stopover, Shophouse-Woche, Naturreise und Familienreise – geplant um Hitze und Regen."
+  },
+  "hero": {
+    "kicker": "Reiserouten",
+    "title": "Beispielreisen",
+    "image": "journeys-1",
+    "sub": "Vier Möglichkeiten, eine Reise zu gestalten. Übernehmen Sie eine davon oder erzählen Sie uns, was Ihnen gefällt, und wir stellen Ihre eigene zusammen."
+  },
+  "intro": {
+    "kicker": "Wie wir planen",
+    "text": "Jede der folgenden Reisen folgt denselben Regeln: früh gehen, mittags ruhen, mit dem Gewitter rechnen, spät essen. Ein Viertel pro Tag ist völlig genug. Jede Reise wird an Ihre Reisedaten, die Jahreszeit, Ihre Flüge und Ihr Tempo angepasst; ein Angebot erhalten Sie auf Anfrage."
+  },
+  "items": [
+    {
+      "id": "stopover-48", "title": "Der 48-Stunden-Stopover", "days": 2, "pace": "Zügig", "bestFor": "Erster Besuch, langer Zwischenstopp", "image": "journeys-2",
+      "summary": ["Zwei Tage, die die Stadt jenseits von Flughafen und Bucht zeigen: die Shophouse-Viertel, zwei Hawker Centres pro Tag, ein früher Spaziergang im Botanischen Garten und ein letzter Abend in Katong, zwanzig Minuten von Ihrem Flug."],
+      "plan": [
+        { "day": "1", "title": "Chinatown und der Civic District", "text": ["Landen, einchecken und am späten Nachmittag von Telok Ayer nach Tanjong Pagar spazieren. Abendessen im Maxwell. Am nächsten Morgen, falls Sie eine zweite Nacht bleiben, der Uferweg am Fluss."] },
+        { "day": "1", "title": "Mittags in die Museen", "text": ["Die National Gallery oder das Asian Civilisations Museum für die heißesten Stunden, Mittagessen im Lau Pa Sat."] },
+        { "day": "2", "title": "Botanischer Garten im Morgengrauen, Katong am Nachmittag", "text": ["Der Garten ab dem Tanglin Gate um 6:30 Uhr, Frühstück an der Adam Road, eine Pause, dann Joo Chiat und laksa vor einer kurzen Taxifahrt nach Changi."] }
+      ]
+    },
+    {
+      "id": "shophouse-week", "title": "Die Shophouse-Woche", "days": 6, "pace": "Gemächlich", "bestFor": "Architektur, Essen, Kultur", "image": "about-1",
+      "summary": ["Eine Woche in den alten Vierteln, mit Übernachtung in einem Shophouse-Hotel, einem Viertel pro Tag und langen Hawker-Mittagessen dazwischen. Ideal in der trockenen Phase des Nordostmonsuns, ab Februar."],
+      "plan": [
+        { "day": "1", "title": "Ankunft, Keong Saik in der Abenddämmerung", "text": ["Ankommen in einem Shophouse-Hotel in Chinatown und durch die Gassen schlendern, sobald die Hitze nachlässt."] },
+        { "day": "2", "title": "Chinatown und Tanjong Pagar", "text": ["Vormittags Tempel und Five-foot ways, mittags Chinatown Complex, nachmittags das Peranakan Museum."] },
+        { "day": "3", "title": "Tiong Bahru und der Fluss", "text": ["Frühstück auf dem Markt, die Vorkriegsblocks, ein Nachmittag am Fluss und im Asian Civilisations Museum."] },
+        { "day": "4", "title": "Kampong Glam und Little India", "text": ["Vormittags die Moschee und die Arab Street, mittags Tekka, in der Abenddämmerung die Tempel."] },
+        { "day": "5", "title": "Katong und Joo Chiat", "text": ["Die Peranakan-Reihenhäuser, kueh-Läden, am späten Nachmittag der East Coast Park und Satay am Meer."] },
+        { "day": "6", "title": "Abreise", "text": ["Ein letzter kopi, und auf dem Weg zum Flughafen nasi lemak in Changi Village."] }
+      ]
+    },
+    {
+      "id": "nature-first", "title": "Regenwald und Insel", "days": 5, "pace": "Aktiv", "bestFor": "Wanderer, Vogelbeobachter", "image": "nature-3",
+      "summary": ["Frühe Starts und grüne Orte: Bukit Timah im Morgengrauen, die Southern Ridges, die Mangroven von Sungei Buloh, ein Tag mit dem Rad auf Pulau Ubin und ein Abend bei der Night Safari."],
+      "plan": [
+        { "day": "1", "title": "Botanischer Garten", "text": ["Ankommen und im Licht des späten Nachmittags durch den Garten spazieren."] },
+        { "day": "2", "title": "Bukit Timah und MacRitchie", "text": ["Der Gipfel im Morgengrauen, mittags eine Pause, am nächsten Morgen die Bohlenwege von MacRitchie, wenn die Beine noch mitmachen."] },
+        { "day": "3", "title": "The Southern Ridges", "text": ["Von Kent Ridge zum Mount Faber vor zehn Uhr, Mittagessen in HarbourFront, ein ruhiger Nachmittag."] },
+        { "day": "4", "title": "Pulau Ubin", "text": ["Das erste Bumboat, mit dem Rad nach Chek Jawa, zurück vor den Gewittern. Abends die Night Safari."] },
+        { "day": "5", "title": "Sungei Buloh, dann Abreise", "text": ["Mangroven und Watvögel bei Ebbe (in der Zugvogelsaison), dann ein später Flug."] }
+      ]
+    },
+    {
+      "id": "family", "title": "Eine Familienwoche", "days": 7, "pace": "Entspannt", "bestFor": "Kinder jeden Alters", "image": "mandai-1",
+      "summary": ["Vormittags draußen, nachmittags im Pool oder in einem kühlen Museum, früh zu Abend essen in Hawker Centres, wo Kinder selbst aussuchen dürfen. Bird Paradise, der Zoo, ein Radtag auf Pulau Ubin und reichlich Erholung."],
+      "plan": [
+        { "day": "1", "title": "Ankommen und schwimmen", "text": ["Ein Hotel mit Pool und ein frühes Abendessen in einem nahen Hawker Centre."] },
+        { "day": "2", "title": "Gardens by the Bay", "text": ["Mittags der Cloud Forest, abends der Kindergarten und das Ufer."] },
+        { "day": "3", "title": "Mandai", "text": ["Der Zoo zur Öffnung, eine Pause, dann Bird Paradise oder die Night Safari."] },
+        { "day": "4", "title": "Botanischer Garten", "text": ["Vormittags der Jacob Ballas Children's Garden, ein gemütlicher Nachmittag."] },
+        { "day": "5", "title": "Pulau Ubin", "text": ["Bumboat, Fahrräder mit Kindersitz, Chek Jawa, nasi lemak in Changi Village."] },
+        { "day": "6", "title": "Chinatown und der Fluss", "text": ["Ein kurzer Spaziergang, ein langes Mittagessen, abends mit dem Boot auf dem Fluss."] },
+        { "day": "7", "title": "Abreise", "text": ["Vor dem Flug der Rain Vortex im Jewel."] }
+      ]
+    }
+  ]
+}

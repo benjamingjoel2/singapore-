@@ -1,0 +1,88 @@
+{
+  "id": "civic-district",
+  "nav": "Le Civic District",
+  "meta": {
+    "title": "Le Civic District : Padang, musées et Singapore River | Five Foot Way",
+    "description": "Monuments coloniaux, grands musées et bords de rivière, reliés par passages couverts et galeries climatisées : le quartier idéal les jours de pluie."
+  },
+  "hero": {
+    "kicker": "Musées et monuments",
+    "title": "Le Civic District",
+    "image": "civic-1",
+    "sub": "Là où la Singapour coloniale bâtit ses tribunaux et ses églises, et où la Singapour indépendante conserve aujourd'hui son art."
+  },
+  "info": [
+    { "label": "MRT les plus proches", "value": "City Hall, Esplanade, Raffles Place, Fort Canning" },
+    { "label": "Meilleurs horaires", "value": "Musées à midi ; la rivière au crépuscule" },
+    { "label": "Balade à l'ombre", "value": "Environ 3 km, en grande partie à couvert" }
+  ],
+  "intro": {
+    "heading": "Le quartier des jours de pluie",
+    "chips": ["Musées", "Architecture coloniale", "Bords de rivière"],
+    "text": [
+      "Lorsque Stamford Raffles traça la ville dans les années 1820, les terres au nord de la rivière furent réservées à l'administration. Deux siècles plus tard, le Padang reste la pelouse ouverte en son cœur, encadrée par l'ancienne Cour suprême et l'ancien hôtel de ville (devenus la National Gallery), la cathédrale St Andrew, le Victoria Theatre et l'ancien Parlement.",
+      "C'est le quartier où nous envoyons nos voyageurs quand la météo s'annonce mauvaise. Les musées sont excellents et climatisés, les bâtiments coloniaux ont de profondes vérandas, et une galerie marchande souterraine relie City Hall à l'Esplanade : on peut traverser la moitié du quartier sans voir le ciel."
+    ]
+  },
+  "rows": [
+    {
+      "title": "National Gallery Singapore",
+      "image": "civic-1",
+      "meta": ["Art d'Asie du Sud-Est", "Toit-terrasse"],
+      "text": [
+        "L'ancienne Cour suprême et l'ancien hôtel de ville, réunis sous une même canopée, abritent la plus grande collection publique au monde d'art moderne d'Asie du Sud-Est. Comptez une demi-journée. Le toit-terrasse donne sur le Padang et Marina Bay."
+      ]
+    },
+    {
+      "title": "Asian Civilisations Museum et la rivière",
+      "image": "civic-2",
+      "meta": ["Musée", "Promenade au bord de l'eau"],
+      "text": [
+        "Sur la berge où Raffles aurait débarqué, l'Asian Civilisations Museum raconte les routes commerciales qui ont fait Singapour. Sa galerie consacrée à l'épave Tang, avec la cargaison d'un boutre arabe du IXe siècle, est un temps fort. À l'extérieur, le Cavenagh Bridge mène aux shophouses de Boat Quay."
+      ]
+    },
+    {
+      "title": "Peranakan Museum et National Museum",
+      "meta": ["Culture peranakan", "Histoire de Singapour"],
+      "text": [
+        "Le Peranakan Museum, installé dans une ancienne école d'Armenian Street, possède la plus belle collection au monde de broderies perlées, porcelaines et bijoux peranakan. Juste à côté, le National Museum of Singapore retrace l'histoire de la ville du XIVe siècle à nos jours."
+      ]
+    },
+    {
+      "title": "Fort Canning Park",
+      "meta": ["Parc sur colline", "Jardin d'épices"],
+      "text": [
+        "La colline derrière les musées fut le siège des rois malais au XIVe siècle et la résidence du gouverneur colonial au XIXe. C'est aujourd'hui un parc ombragé, avec un jardin d'épices, des fouilles archéologiques et le Battlebox, le poste de commandement souterrain de la reddition britannique de 1942."
+      ]
+    }
+  ],
+  "bleed": {
+    "image": "civic-2",
+    "kicker": "Balade à l'ombre",
+    "title": "De City Hall à Boat Quay, presque toujours à couvert",
+    "text": "En souterrain de City Hall à l'Esplanade, le long des colonnades du Padang, devant les théâtres jusqu'à la rivière. Un après-midi d'orage, c'est la balade à faire.",
+    "facts": [
+      { "label": "Départ", "value": "MRT City Hall" },
+      { "label": "Arrivée", "value": "MRT Raffles Place" },
+      { "label": "À couvert", "value": "Environ les deux tiers" }
+    ],
+    "cta": "Voir la balade"
+  },
+  "eat": {
+    "title": "Déjeuners au hawker centre entre deux musées",
+    "text": [
+      "Les tours de bureaux encerclent le quartier : ici, le déjeuner est une affaire sérieuse. En semaine, les hawker centres se remplissent de 12 h à 13 h 30 ; venez juste avant ou juste après."
+    ],
+    "items": [
+      { "name": "Lau Pa Sat", "text": "Une halle de marché victorienne en fonte au cœur du quartier d'affaires. Le soir, la rue voisine se transforme en grill à satay." },
+      { "name": "Hong Lim Market & Food Centre", "text": "À quelques pas de l'autre côté de la rivière, avec plusieurs stands de nouilles établis de longue date." },
+      { "name": "Esplanade waterfront", "text": "Makansutra Gluttons Bay, une petite rangée de stands de hawkers en plein air à côté des théâtres." }
+    ]
+  },
+  "faq": [
+    { "q": "Les musées sont-ils gratuits ?", "a": ["Les politiques tarifaires varient. Certains musées et galeries sont gratuits pour les résidents mais payants pour les visiteurs ; consultez le site de chaque musée pour connaître les billets et les jours de gratuité en vigueur."] },
+    { "q": "Quel est le meilleur programme par temps de pluie ?", "a": ["Commencez par la National Gallery, empruntez le passage souterrain de City Hall à l'Esplanade, et terminez à l'Asian Civilisations Museum. Vous pouvez passer toute la journée sans parapluie."] },
+    { "q": "Y a-t-il quelque chose à faire le soir ?", "a": ["L'Esplanade propose souvent des spectacles gratuits sur sa scène extérieure, et la promenade au bord de la rivière, de l'Asian Civilisations Museum à Clarke Quay, est à son meilleur une fois la nuit tombée."] }
+  ],
+  "related": ["marina-bay", "chinatown", "kampong-glam", "botanic-gardens"]
+}

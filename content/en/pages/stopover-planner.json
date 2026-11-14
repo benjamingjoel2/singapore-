@@ -1,0 +1,441 @@
+{
+  "meta": {
+    "title": "Singapore stopover planner: 8 hours to 4 days, with an honest answer | Five Foot Way",
+    "description": "Enter your layover and get a realistic plan with immigration, transit and Changi timings built in, and an honest 'stay airside' when the layover is too short."
+  },
+  "hero": {
+    "kicker": "Signature tool",
+    "title": "The stopover planner",
+    "image": "changi-1",
+    "sub": "From eight hours to four days. We do the subtraction so you don't miss your flight."
+  },
+  "intro": {
+    "kicker": "How it works",
+    "text": "Most layover advice forgets the arithmetic. Before you see anything of Singapore you have to leave the plane, pass immigration and cross the island; then you have to come back, get through security and be at the gate. This planner counts all of that first, then fills what is left with the shade, the food and the cooler hours."
+  },
+  "planner": {
+    "title": "Your layover, hour by hour",
+    "text": "Move the slider to your layover length, choose the hour you land and the month you travel. The plan assumes carry-on bags or bags checked through, a passport that allows you to enter Singapore, and a three-hour cushion before departure. If your airline or ticket says otherwise, follow them."
+  },
+  "activities": {
+    "land": {
+      "t": "Land at Changi",
+      "d": "Follow the signs for Arrival Immigration, or for Transfer if you are staying airside."
+    },
+    "immigration": {
+      "t": "Immigration and out",
+      "d": "Have your SG Arrival Card done before you land. Allow about an hour from gate to kerb, longer at peak times."
+    },
+    "airsideIntro": {
+      "t": "Stay airside",
+      "d": "No immigration, no queues. Find the transfer desk for your next flight first, then explore."
+    },
+    "toCity": {
+      "t": "Into the city",
+      "d": "MRT from the terminals (change at Tanah Merah or Expo depending on the line), or a taxi of about 30 minutes."
+    },
+    "toKatong": {
+      "t": "Taxi to Katong",
+      "d": "About 20 minutes. The closest neighbourhood to the airport worth seeing."
+    },
+    "back": {
+      "t": "Head back to Changi",
+      "d": "Taxi or MRT. Leave now, even if you are enjoying yourself."
+    },
+    "backAt": {
+      "t": "Back at the airport",
+      "d": "Check in or go through departure immigration and security. Gates close well before departure."
+    },
+    "depart": {
+      "t": "Your flight leaves",
+      "d": ""
+    },
+    "sleep": {
+      "t": "Sleep",
+      "d": "A hotel near your morning plans, or a transit hotel at the airport if you are not entering Singapore."
+    },
+    "airside": [
+      {
+        "t": "Gardens between the gates",
+        "d": "Walk between terminals on the airside to find the gardens, including the butterfly garden in Terminal 3. Check which are open: some move with renovations.",
+        "dur": 1.5
+      },
+      {
+        "t": "A proper meal",
+        "d": "Airside food courts serve laksa, chicken rice and kaya toast at reasonable prices.",
+        "dur": 1
+      },
+      {
+        "t": "Rest",
+        "d": "Free rest zones with reclining chairs are dotted around the terminals; transit hotels rent rooms by the block of hours.",
+        "dur": 2
+      },
+      {
+        "t": "A swim or a shower",
+        "d": "A rooftop pool and shower facilities are available for a fee in some terminals. Check what is open in yours.",
+        "dur": 1
+      },
+      {
+        "t": "Wander and window-shop",
+        "d": "Each terminal has its own art installations and quiet corners. Keep an eye on the boards.",
+        "dur": 1.5
+      }
+    ],
+    "jewel": [
+      {
+        "t": "Walk into Jewel",
+        "d": "Linked to Terminal 1 on the public side. Follow the signs from arrivals.",
+        "dur": 0.5
+      },
+      {
+        "t": "The Rain Vortex",
+        "d": "The indoor waterfall falls through the glass roof into the forest valley. Walk the terraces around it.",
+        "dur": 1
+      },
+      {
+        "t": "Lunch or dinner in Jewel",
+        "d": "Local food halls in the basement levels. Order something you can't get at home.",
+        "dur": 1
+      },
+      {
+        "t": "Canopy Park or a rest",
+        "d": "The top-level gardens are ticketed; otherwise find a seat beside the falls.",
+        "dur": 1
+      }
+    ],
+    "pools": {
+      "morning": [
+        {
+          "t": "Breakfast at Tiong Bahru Market",
+          "d": "Chwee kueh and kopi upstairs, then a loop of the 1930s flats while the air is cool.",
+          "dur": 2,
+          "meal": true
+        },
+        {
+          "t": "Botanic Gardens at dawn",
+          "d": "Enter at Tanglin Gate, walk through the rainforest to Swan Lake. Free, and at its best before nine.",
+          "dur": 2.5
+        },
+        {
+          "t": "Chinatown before the crowds",
+          "d": "Maxwell Food Centre for breakfast, then the temples and the five-foot ways of Telok Ayer.",
+          "dur": 2.5
+        },
+        {
+          "t": "Southern Ridges",
+          "d": "Henderson Waves and the Forest Walk before the sun climbs. Finish at HarbourFront.",
+          "dur": 3
+        }
+      ],
+      "late": [
+        {
+          "t": "Kampong Glam",
+          "d": "The Sultan Mosque, Arab Street's textile shops and Haji Lane, under the arcades.",
+          "dur": 2
+        },
+        {
+          "t": "Peranakan Museum",
+          "d": "The finest collection of Peranakan beadwork, porcelain and jewellery, in the cool.",
+          "dur": 1.5
+        },
+        {
+          "t": "Little India",
+          "d": "Tekka Centre, the garland stalls and Sri Veeramakaliamman Temple.",
+          "dur": 2
+        }
+      ],
+      "midday": [
+        {
+          "t": "Hawker lunch",
+          "d": "Lau Pa Sat or Maxwell, before 12 or after 1:30 to avoid the office rush.",
+          "dur": 1,
+          "meal": true
+        },
+        {
+          "t": "Cloud Forest and Flower Dome",
+          "d": "The cooled conservatories at Gardens by the Bay: the best place in the city at the hottest hour.",
+          "dur": 2
+        },
+        {
+          "t": "National Gallery Singapore",
+          "d": "Southeast Asian art in the former Supreme Court and City Hall. Air-conditioned, and big enough for a long afternoon.",
+          "dur": 2
+        },
+        {
+          "t": "Asian Civilisations Museum",
+          "d": "On the river, with the ninth-century Tang Shipwreck cargo.",
+          "dur": 1.5
+        }
+      ],
+      "afternoon": [
+        {
+          "t": "Under cover for the storm",
+          "d": "The underground link from City Hall to the Esplanade and the colonnades of the Civic District keep you dry.",
+          "dur": 1.5
+        },
+        {
+          "t": "Tea and a slow hour",
+          "d": "A kopitiam in Tiong Bahru or a tea house in Chinatown while the rain passes.",
+          "dur": 1
+        },
+        {
+          "t": "Joo Chiat and Katong",
+          "d": "The Peranakan terraces of Koon Seng Road once the heat breaks, and laksa on East Coast Road.",
+          "dur": 2.5
+        }
+      ],
+      "evening": [
+        {
+          "t": "Marina Bay waterfront",
+          "d": "The promenade loop from the Asian Civilisations Museum to the Gardens as the breeze picks up.",
+          "dur": 1.5
+        },
+        {
+          "t": "Satay on Boon Tat Street",
+          "d": "The grills set up beside Lau Pa Sat in the evening.",
+          "dur": 1.5,
+          "meal": true
+        },
+        {
+          "t": "Night Safari",
+          "d": "Evenings only, at Mandai. About 40 minutes from the city by taxi.",
+          "dur": 3
+        },
+        {
+          "t": "Dinner at Old Airport Road",
+          "d": "One of the best hawker centres in the city, on the way back towards Changi.",
+          "dur": 1.5,
+          "meal": true
+        }
+      ],
+      "late_evening": [
+        {
+          "t": "Kampong Glam after dark",
+          "d": "The mosque lit up, teh tarik and murtabak on the pedestrian streets.",
+          "dur": 1.5
+        },
+        {
+          "t": "Along the river",
+          "d": "Boat Quay to Clarke Quay, the shophouses lit along the water.",
+          "dur": 1
+        }
+      ],
+      "night": [
+        {
+          "t": "Supper",
+          "d": "Prata at a 24-hour shop, or a late hawker centre such as Adam Road.",
+          "dur": 1,
+          "meal": true
+        },
+        {
+          "t": "Rest",
+          "d": "If you are not sleeping, Jewel's public areas stay open around the clock.",
+          "dur": 2
+        }
+      ]
+    },
+    "shortPools": {
+      "morning": [
+        {
+          "t": "Katong laksa breakfast",
+          "d": "A bowl on East Coast Road, then the Peranakan terraces of Koon Seng Road.",
+          "dur": 2,
+          "meal": true
+        },
+        {
+          "t": "Changi Village",
+          "d": "Nasi lemak at the hawker centre and the coastal boardwalk. Ten minutes from the terminals.",
+          "dur": 2
+        }
+      ],
+      "late": [
+        {
+          "t": "Joo Chiat Road",
+          "d": "The shophouse arcades, kueh shops and tiled façades, all under cover.",
+          "dur": 1.5
+        }
+      ],
+      "midday": [
+        {
+          "t": "Lunch at Old Airport Road",
+          "d": "A big local hawker centre between Katong and the city.",
+          "dur": 1,
+          "meal": true
+        },
+        {
+          "t": "Jewel and the Rain Vortex",
+          "d": "Back towards the airport, an air-conditioned garden with a waterfall.",
+          "dur": 1.5
+        }
+      ],
+      "afternoon": [
+        {
+          "t": "East Coast Park",
+          "d": "Sea breeze under the trees, a short walk from Marine Parade.",
+          "dur": 1.5
+        },
+        {
+          "t": "Jewel",
+          "d": "Shelter from the storm beside the Rain Vortex.",
+          "dur": 1.5
+        }
+      ],
+      "evening": [
+        {
+          "t": "Satay at East Coast Lagoon",
+          "d": "By the sea, twenty minutes from Changi.",
+          "dur": 1.5,
+          "meal": true
+        },
+        {
+          "t": "Changi Village",
+          "d": "Dinner at the hawker centre and a walk along the shore.",
+          "dur": 1.5
+        }
+      ],
+      "late_evening": [
+        {
+          "t": "Jewel light show",
+          "d": "The evening sound and light show on the Rain Vortex, then check-in.",
+          "dur": 1
+        }
+      ]
+    },
+    "free": {
+      "t": "Free time",
+      "d": "Rest at your hotel through the heat, swim, or go back to a favourite spot from earlier.",
+      "dur": 2
+    }
+  },
+  "rules": {
+    "title": "Entry, transit and the rules people forget",
+    "text": "Summarised as of late 2026, from official sources. Rules change: always check the Immigration & Checkpoints Authority (ICA) and your airline before you travel. Every item here is listed in our facts-to-verify file.",
+    "groups": [
+      {
+        "title": "Entering Singapore",
+        "items": [
+          {
+            "q": "Do I need the SG Arrival Card?",
+            "a": [
+              "Yes, if you are leaving the airport. All travellers entering Singapore, except Singapore citizens, permanent residents and some pass holders, must submit the SG Arrival Card online within three days before arrival. It is free on the official ICA website and app. Ignore sites that charge a fee."
+            ]
+          },
+          {
+            "q": "Do I need a visa?",
+            "a": [
+              "It depends on your passport. Many nationalities can enter without a visa for a short visit; others must apply in advance. Check the ICA's visa requirements by nationality before booking a long layover."
+            ]
+          },
+          {
+            "q": "How long does immigration take?",
+            "a": [
+              "Many passport holders can use the automated gates and are through in minutes. Allow up to an hour from the aircraft door to the kerb at busy times."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Staying in transit",
+        "items": [
+          {
+            "q": "Can I stay airside without a visa?",
+            "a": [
+              "Generally yes: if you stay within the transit area and have a confirmed onward flight, most travellers do not need a visa. Check with your airline if your bags are not checked through or if you change terminals."
+            ]
+          },
+          {
+            "q": "What about my checked bags?",
+            "a": [
+              "If your bags are checked through to your final destination, you can leave the airport without them. If not, you must collect them, clear customs and check in again, which adds time. Left-luggage counters are in the terminals."
+            ]
+          },
+          {
+            "q": "How early must I be back?",
+            "a": [
+              "Our planner asks you to be back at Changi two and a half hours before departure. Airlines close check-in and gates earlier than many people expect; follow your airline's times if they are stricter."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "What not to bring",
+        "items": [
+          {
+            "q": "Chewing gum",
+            "a": [
+              "Importing chewing gum is prohibited, except for small amounts for personal use of certain dental or medicinal gums. Leave it at home."
+            ]
+          },
+          {
+            "q": "E-cigarettes and vapes",
+            "a": [
+              "Vapes and e-cigarettes are illegal to bring in, possess, use or buy in Singapore, and enforcement has become much stricter, with heavy fines and, for foreigners, the possibility of being barred from re-entering. Do not bring them, even in transit luggage you plan to keep closed."
+            ]
+          },
+          {
+            "q": "Medicines",
+            "a": [
+              "Some medicines, including certain sleeping pills, strong painkillers and ADHD medications, need approval from the Health Sciences Authority before you bring them. Carry prescriptions in the original packaging and check the HSA's guidance for travellers."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Out and about",
+        "items": [
+          {
+            "q": "Drinking in public",
+            "a": [
+              "Drinking alcohol in public places is prohibited between 10:30pm and 7am. Shops cannot sell takeaway alcohol in those hours. Stricter hours apply in the Liquor Control Zones of Geylang and Little India."
+            ]
+          },
+          {
+            "q": "Smoking",
+            "a": [
+              "Smoking is allowed only in designated smoking areas, marked with yellow boxes. Most streets, parks and covered walkways are no-smoking."
+            ]
+          },
+          {
+            "q": "Paying and getting around",
+            "a": [
+              "Contactless bank cards work on the MRT and buses. Taxis and ride-hailing apps are easy to find. Cash is still useful at older hawker stalls and on the Pulau Ubin bumboat."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "changi": {
+    "image": "changi-2",
+    "kicker": "Changi timings",
+    "title": "Where the time goes",
+    "text": "The numbers our planner uses. They are cautious on purpose: a delayed train, a queue at security or a storm should never cost you a flight.",
+    "facts": [
+      {
+        "label": "Gate to kerb",
+        "value": "About 1 hour"
+      },
+      {
+        "label": "Changi to city",
+        "value": "30–45 min"
+      },
+      {
+        "label": "Back before take-off",
+        "value": "2.5 hours"
+      },
+      {
+        "label": "Shortest city plan",
+        "value": "11 hours"
+      }
+    ],
+    "cta": "Changi and Jewel"
+  },
+  "checklist": [
+    "Check whether your passport lets you enter Singapore without a visa, on the [ICA website](https://www.ica.gov.sg).",
+    "Submit the **SG Arrival Card** within the three days before you land, on the official ICA site or app (free).",
+    "Confirm your bags are checked through to your final destination.",
+    "Leave vapes and e-cigarettes at home, and check any prescription medicine with the HSA.",
+    "Save your departure terminal and the time check-in closes.",
+    "Set an alarm for the time you must leave the city, and keep to it."
+  ]
+}

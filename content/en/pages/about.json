@@ -1,0 +1,46 @@
+{
+  "meta": {
+    "title": "About Five Foot Way | A Singapore travel planner",
+    "description": "Why we plan Singapore trips around neighbourhoods, hawker centres and the weather, and how we work with you."
+  },
+  "hero": {
+    "kicker": "About",
+    "title": "The shaded city",
+    "image": "about-1",
+    "sub": "Why we named ourselves after a covered walkway."
+  },
+  "statement": {
+    "kicker": "What we do",
+    "text": "Five Foot Way plans trips to Singapore for travellers who want more than a skyline and a shopping street. We design days on foot, in the old neighbourhoods and the green places, around food, and around the city's heat and rain."
+  },
+  "collage": {
+    "imageA": "katong-1",
+    "imageB": "walk-1",
+    "title": "Human-scale Singapore",
+    "caption": "Singapore is famous for its towers. We prefer the two-storey city: the shophouse terraces, the hawker halls, the village on Pulau Ubin and the paths through the forest. They are where the city is most generous to people on foot.",
+    "notes": [
+      "We started Five Foot Way because the trips our friends were sold missed the things we love most about the city.",
+      "We are not a hotel, an airline or a tour bus. We plan, book and look after trips, and we are paid for that work, not by commissions that steer you to the wrong place."
+    ]
+  },
+  "principlesTitle": "What we believe",
+  "principles": [
+    { "title": "Neighbourhoods before attractions", "text": ["One district a day, walked properly, beats five landmarks seen from a coach."] },
+    { "title": "Plan for the weather", "text": ["Early starts, shaded routes, long lunches and a storm plan. Comfort is part of good travel, not a luxury."] },
+    { "title": "Eat where Singapore eats", "text": ["Hawker centres first. They are the heart of the city's food, and they need visitors who behave like regulars."] },
+    { "title": "Honest advice", "text": ["If your layover is too short, we will tell you to stay airside. If a place is crowded or overrated at the time you plan to go, we will say so."] }
+  ],
+  "howTitle": "How we work",
+  "how": [
+    { "title": "You write to us", "text": "Through the [enquiry form](@enquire) or by email. Tell us your dates, who is travelling and what you enjoy." },
+    { "title": "We reply personally", "text": "Within two working days, by email, with questions and first ideas." },
+    { "title": "We send a plan", "text": "A day-by-day plan with neighbourhoods, walks, hawker centres and hotels, and a quote." },
+    { "title": "We book and look after it", "text": "Once you confirm, we make the bookings and send you a final guide before you travel." }
+  ],
+  "bleed": {
+    "image": "rain-1",
+    "kicker": "Get in touch",
+    "title": "Tell us about your trip",
+    "text": "Dates, layover, interests, who is coming. We will reply by email."
+  }
+}

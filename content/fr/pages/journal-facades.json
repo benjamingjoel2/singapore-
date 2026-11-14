@@ -1,0 +1,33 @@
+{
+  "meta": {
+    "title": "Lire une façade de shophouse | Journal Five Foot Way",
+    "description": "Dater une shophouse de Singapour d'après sa façade : six styles, des premières façades sobres à l'Art déco, et ce que disent carreaux, volets et five-foot way."
+  },
+  "title": "Lire une façade de shophouse",
+  "kicker": "Architecture",
+  "image": "journal-1",
+  "date": "2026-10-02",
+  "dateLabel": "Octobre 2026",
+  "minutes": 6,
+  "excerpt": "Six styles en cent ans, et comment les distinguer depuis le trottoir.",
+  "related": ["chinatown", "katong", "kampong-glam"],
+  "body": [
+    { "p": "La shophouse repose sur une idée simple : un bâtiment étroit, de deux ou trois étages, avec une boutique ou un atelier au rez-de-chaussée et le logement familial au-dessus. Des milliers ont été construites à Singapour entre les années 1840 et 1960, alignées en rangées mitoyennes, chacune précédée de sa galerie couverte. Le plan n'a presque pas changé. Les façades, si, et une fois qu'on sait quoi regarder, on peut dater une rue depuis le trottoir d'en face." },
+    { "h2": "Le style primitif" },
+    { "p": "Les plus anciennes shophouses encore debout, du milieu du XIXe siècle, sont basses et sobres : deux niveaux, une ou deux petites fenêtres à l'étage, très peu de décor. On les trouve dans certaines parties de Chinatown et le long de la rivière. Leur simplicité est l'indice." },
+    { "h2": "Le premier style de transition et le style tardif" },
+    { "p": "Vers la fin du siècle, les shophouses s'élèvent à trois niveaux et gagnent des fenêtres, souvent dotées de volets en bois et surmontées d'impostes. Puis, dans les décennies autour de 1900, le décor s'impose en force : guirlandes de stuc, motifs chinois, pilastres et surtout carreaux de céramique vernissée. C'est ce style tardif que la plupart des gens ont en tête, et Joo Chiat comme Koon Seng Road en regorgent." },
+    { "h2": "Les carreaux" },
+    { "p": "Les carreaux éclatants qui encadrent portes et fenêtres étaient pour la plupart fabriqués en Angleterre, en Belgique puis au Japon, et expédiés vers l'Orient comme un décor à la mode et facile à laver. Les familles peranakan en raffolaient. Cherchez les motifs floraux, les paons et les fruits. Aujourd'hui, beaucoup de carreaux anciens sont récupérés lors des restaurations et revendus dans des boutiques spécialisées." },
+    { "h2": "Art déco et moderne" },
+    { "p": "Dans les années 1930, les goûts avaient changé. Les façades deviennent plus plates, avec des motifs géométriques, des ailettes verticales et l'année de construction moulée dans le parapet. Après la guerre, les dernières shophouses sont plus dépouillées encore, avec des brise-soleil horizontaux en béton et plus aucun ornement." },
+    { "h2": "Ce qu'il faut regarder en marchant" },
+    { "ul": [
+      "**Comptez les fenêtres** de l'étage : une ou deux suggèrent un bâtiment ancien, trois un bâtiment plus tardif.",
+      "**Levez les yeux vers le parapet** pour y chercher une date ou un nom de famille.",
+      "**Repérez la pintu pagar**, ces portes battantes à hauteur de taille placées devant la porte principale dans les rangées résidentielles.",
+      "**Observez le sol de la five-foot way** : des carreaux de ciment d'origine subsistent par endroits. Regardez où vous mettez les pieds, le niveau change d'une maison à l'autre."
+    ] },
+    { "p": "Les meilleures rues pour s'exercer sont Keong Saik Road et Club Street à Chinatown, Joo Chiat Road et Koon Seng Road à Katong, et Emerald Hill près d'Orchard. Parcourez-les tôt, quand le soleil rasant fait ressortir le relief des stucs." }
+  ]
+}

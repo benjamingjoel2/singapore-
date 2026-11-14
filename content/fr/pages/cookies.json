@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "title": "Politique relative aux cookies | Five Foot Way",
+    "description": "Five Foot Way n'utilise ni cookies de suivi ni cookies publicitaires. Cette page explique ce que le site enregistre sur votre appareil et pourquoi."
+  },
+  "kicker": "Mentions légales",
+  "title": "Politique relative aux cookies",
+  "updated": "Dernière mise à jour : 14 novembre 2026",
+  "tocLabel": "Sommaire",
+  "intro": "En bref : {url} n'utilise pas de cookies de suivi, de mesure d'audience ou de publicité, et n'affiche donc pas de bandeau cookies. Cette page explique en détail ce que cela signifie.",
+  "sections": [
+    { "h": "Qu'est-ce qu'un cookie ?", "p": ["Les cookies sont de petits fichiers texte qu'un site web enregistre dans votre navigateur. Parmi les technologies similaires figurent le stockage local et les pixels de suivi. Ils peuvent être indispensables au fonctionnement d'un site, ou servir à mesurer la fréquentation, mémoriser des préférences ou afficher de la publicité."] },
+    { "h": "Ce qu'utilise ce site", "p": ["Ce site est un ensemble de pages statiques. Il ne dépose aucun cookie qui lui soit propre. En particulier, il n'utilise pas :"], "ul": [
+      "de cookies de mesure d'audience ou de statistiques ;",
+      "de cookies ou pixels publicitaires, de reciblage ou de réseaux sociaux ;",
+      "de vidéos, cartes ou modules de réseaux sociaux intégrés qui déposent des cookies tiers."
+    ], "p2": ["Les polices et les images sont servies depuis notre propre domaine, et non par des services tiers. Votre choix de langue fait partie de l'adresse de chaque page (par exemple /fr/ pour le français) : rien n'a donc besoin d'être enregistré pour s'en souvenir."] },
+    { "h": "Notre hébergeur", "p": ["Le site est hébergé par Vercel Inc. Pour servir les pages de manière sécurisée et prévenir les abus, la plateforme d'hébergement traite des données techniques, telles que votre adresse IP, dans ses journaux de serveur. Cela n'implique le dépôt d'aucun cookie publicitaire ou de mesure d'audience sur votre appareil. Consultez notre [Politique de confidentialité](@privacy) pour connaître la durée de conservation des journaux."] },
+    { "h": "Le formulaire de demande", "p": ["Lorsque vous envoyez le formulaire de demande, les informations que vous saisissez nous sont transmises via une connexion chiffrée afin que nous puissions vous répondre. Le formulaire ne dépose pas de cookies."] },
+    { "h": "Liens vers d'autres sites", "p": ["Nous renvoyons vers des sites officiels, comme ceux des administrations et des sites touristiques de Singapour. Ces sites ont leur propre politique en matière de cookies, qui s'applique dès que vous quittez {url}."] },
+    { "h": "Gérer les cookies", "p": ["Vous pouvez à tout moment bloquer ou supprimer les cookies dans les paramètres de votre navigateur. Ce site ne reposant pas sur les cookies, il fonctionnera de la même manière."] },
+    { "h": "Modifications et contact", "p": ["Si nous devions un jour introduire des cookies qui ne sont pas strictement nécessaires, nous mettrions à jour cette politique et vous demanderions votre consentement avant de les déposer. Questions : [{email}](mailto:{email}), {brand}, {address}."] }
+  ]
+}

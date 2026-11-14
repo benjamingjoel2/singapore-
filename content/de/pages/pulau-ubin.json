@@ -1,0 +1,88 @@
+{
+  "id": "pulau-ubin",
+  "nav": "Pulau Ubin",
+  "meta": {
+    "title": "Pulau Ubin: die letzte Kampong-Insel, per Bumboat und Rad | Five Foot Way",
+    "description": "Zehn Minuten Bootsfahrt ab Changi Village zu Singapurs letzter ländlicher Insel: Kampong-Holzhäuser, alte Steinbrüche, Mangroven und der Steg von Chek Jawa."
+  },
+  "hero": {
+    "kicker": "Kampong-Insel",
+    "title": "Pulau Ubin",
+    "image": "ubin-1",
+    "sub": "Zehn Minuten mit dem Bumboat, sechzig Jahre zurück in der Zeit: ein Dorfanleger, Leihfahrräder und der Mangrovensaum der Insel."
+  },
+  "info": [
+    { "label": "Boot ab", "value": "Changi Point Ferry Terminal" },
+    { "label": "Beste Zeit", "value": "Ankunft bis 8 Uhr; Abfahrt vor den Nachmittagsgewittern" },
+    { "label": "Mitnehmen", "value": "Bargeld, Wasser, Sonnenschutz" }
+  ],
+  "intro": {
+    "heading": "Singapur, bevor es Stadt wurde",
+    "chips": ["Kampong", "Radfahren", "Mangroven"],
+    "text": [
+      "Pulau Ubin ist eine Granitinsel vor der Nordostküste Singapurs. Ihre Steinbrüche lieferten das Material für die frühen Bauten der Stadt, und ihr Kampong, ein Dorf aus Holzhäusern auf Stelzen, hatte einst Tausende Bewohner. Ein paar Dutzend sind geblieben. Die Insel hat keine MRT, keine Hochhäuser und fast keine Autos; man ist mit dem Fahrrad oder zu Fuß unterwegs.",
+      "Näher kommt man dem Singapur der 1960er-Jahre heute nirgends mehr, und dieses Erbe ist zerbrechlich. Kommen Sie früh, nehmen Sie Ihren Müll wieder mit und denken Sie daran, dass die Häuser, an denen Sie vorbeikommen, bewohnt sind."
+    ]
+  },
+  "rows": [
+    {
+      "title": "Die Überfahrt mit dem Bumboat",
+      "image": "ubin-1",
+      "meta": ["Changi Point", "Nur Bargeld"],
+      "text": [
+        "Die Bumboats legen am Changi Point Ferry Terminal vom frühen Morgen bis zum frühen Abend ab, sobald genug Fahrgäste an Bord sind, meist etwa ein Dutzend. Die Überfahrt dauert rund zehn Minuten. Nehmen Sie Bargeld für die Fahrt mit, bezahlt wird an Bord; informieren Sie sich vorab über den aktuellen Fahrpreis und das letzte Boot zurück."
+      ]
+    },
+    {
+      "title": "Das Dorf und die Fahrradverleihe",
+      "meta": ["Kampong-Häuser", "Fahrradverleih"],
+      "text": [
+        "Vom Anleger kommen Sie direkt in das kleine Dorf der Insel, mit Seafood-Restaurants, einem Lebensmittelladen und einer Reihe von Fahrradverleihen. Wählen Sie ein Rad mit funktionierenden Bremsen und vereinbaren Sie Preis und Rückgabezeit, bevor Sie losfahren. Die Insel ist stellenweise hügelig."
+      ]
+    },
+    {
+      "title": "Chek Jawa Wetlands",
+      "image": "ubin-2",
+      "meta": ["Bohlenweg", "Gezeitenzone"],
+      "text": [
+        "An der Ostspitze führt ein Bohlenweg durch die Mangroven und hinaus übers Meer, mit einem Aussichtsturm über dem Blätterdach. Bei Ebbe zeigt das Ufer Seesterne, Krabben und Seegras. Lassen Sie Ihr Rad am Parkplatz stehen und gehen Sie das letzte Stück zu Fuß."
+      ]
+    },
+    {
+      "title": "Steinbrüche und die Pfade im Westen",
+      "meta": ["Granitsteinbrüche", "Mountainbike-Park"],
+      "text": [
+        "Die alten Steinbrüche sind zu tiefen, grünen Seen vollgelaufen; aus Sicherheitsgründen sind sie eingezäunt, aber von Aussichtspunkten zu sehen. Der Ketam Mountain Bike Park auf der Westseite hat Trails in verschiedenen Schwierigkeitsgraden für erfahrene Fahrer."
+      ]
+    }
+  ],
+  "bleed": {
+    "image": "ubin-2",
+    "kicker": "Inselrunde",
+    "title": "Vom Anleger nach Chek Jawa und zurück",
+    "text": "Überwiegend auf ruhigen, baumgesäumten Wegen, mit dem Mangrovensteg am anderen Ende. Mit dem Rad ein entspannter halber Tag.",
+    "facts": [
+      { "label": "Start", "value": "Anleger Ubin" },
+      { "label": "Länge", "value": "Etwa 12 km mit dem Rad" },
+      { "label": "Rückfahrt bis", "value": "13 Uhr in der Gewitterzeit" }
+    ],
+    "cta": "Zur Route"
+  },
+  "eat": {
+    "title": "Nasi lemak vor dem Boot",
+    "text": [
+      "Das Changi Village Hawker Centre neben dem Fährterminal ist berühmt für nasi lemak: Kokosreis mit gebratenem Hähnchen, Ei, Sardellen und Sambal. Essen Sie dort vor der Überfahrt oder nach Ihrer Rückkehr."
+    ],
+    "items": [
+      { "name": "Changi Village Hawker Centre", "text": "Nasi lemak, satay bee hoon, frische Säfte. Direkt neben der Fähre." },
+      { "name": "Dorf auf Ubin", "text": "Ein paar Seafood-Restaurants am Anleger und kalte Getränke im Lebensmittelladen." },
+      { "name": "Zum Mitnehmen", "text": "Wasser und Snacks für die Tour: Abseits des Anlegers gibt es kaum etwas zu kaufen." }
+    ]
+  },
+  "faq": [
+    { "q": "Muss ich das Boot reservieren?", "a": ["Nein. Die Bumboats fahren nach Bedarf und legen ab, sobald sie voll sind. An Wochenendvormittagen kann es eine Schlange geben; unter der Woche warten Sie vielleicht, bis sich das Boot füllt, oder bezahlen die leeren Plätze mit, um sofort loszufahren."] },
+    { "q": "Kann ich Chek Jawa jederzeit besuchen?", "a": ["Der Bohlenweg ist täglich bei Tageslicht geöffnet. Die Gezeitenzone selbst ist nur bei geführten Touren während sehr niedriger Ebbe zugänglich; erkundigen Sie sich beim National Parks Board."] },
+    { "q": "Ist Pulau Ubin für Kinder geeignet?", "a": ["Ja, auf dem Fahrrad oder Tandem. Viele Verleihe haben Kindersitze und kleinere Räder. Tragen Sie Helme: Die Abfahrten sind steiler, als sie aussehen."] }
+  ],
+  "related": ["changi", "katong", "nature-reserves", "mandai"]
+}

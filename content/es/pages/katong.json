@@ -1,0 +1,88 @@
+{
+  "id": "katong",
+  "nav": "Katong y Joo Chiat",
+  "meta": {
+    "title": "Katong y Joo Chiat: casas peranakan y laksa | Five Foot Way",
+    "description": "Casas adosadas peranakan con azulejos, tiendas de kueh y laksa de Katong, a veinte minutos de Changi: el mejor barrio para una escala corta."
+  },
+  "hero": {
+    "kicker": "Barrio peranakan",
+    "title": "Katong y Joo Chiat",
+    "image": "katong-1",
+    "sub": "Casas adosadas pintadas, azulejos colocados a mano y el mejor cuenco de laksa que comerás camino del aeropuerto."
+  },
+  "info": [
+    { "label": "MRT más cercano", "value": "Marine Parade, Katong Park, Eunos, Paya Lebar" },
+    { "label": "Desde Changi", "value": "Unos 20 minutos en taxi" },
+    { "label": "Paseo a la sombra", "value": "Unos 3 km, 1 h 30 min" }
+  ],
+  "intro": {
+    "heading": "Donde la ciudad peranakan sigue viva",
+    "chips": ["Peranakan", "Casas adosadas", "Cerca de Changi"],
+    "text": [
+      "Katong fue en su día un barrio costero de plantaciones de cocoteros y villas de fin de semana, hasta que los rellenos de tierra de los años sesenta y setenta desplazaron la orilla un kilómetro hacia el sur. Aquí se asentaron las familias peranakan acomodadas, descendientes de comerciantes chinos emparentados con el mundo malayo, y su cultura de abalorios, kebaya, cocina nyonya y azulejos decorativos dio forma al barrio.",
+      "Es ante todo una zona residencial, no un museo, y ahí está su encanto. En las casas adosadas que todo el mundo fotografía vive gente. Camina sin hacer ruido, no subas a los umbrales y gasta tu dinero en las tiendas de kueh y los kopitiams que hacen del barrio lo que es."
+    ]
+  },
+  "rows": [
+    {
+      "title": "Koon Seng Road",
+      "image": "katong-1",
+      "meta": ["Casas adosadas", "Años veinte"],
+      "text": [
+        "Dos hileras de casas adosadas en tonos pastel, con guirnaldas de yeso, pintu pagar (medias puertas) talladas y azulejos vidriados alrededor de las ventanas. Son las casas de las postales. Son viviendas particulares: fotografíalas desde la acera y habla bajo por la mañana."
+      ]
+    },
+    {
+      "title": "Joo Chiat Road",
+      "image": "katong-2",
+      "meta": ["Shophouses", "Azulejos"],
+      "text": [
+        "La calle principal recorre aproximadamente un kilómetro entre Geylang Road y East Coast Road, flanqueada por shophouses de dos plantas cuyas fachadas están entre las más decoradas de Singapur. Fíjate en los azulejos: muchos se fabricaron en Europa o Japón y se enviaron a Oriente a principios del siglo XX."
+      ]
+    },
+    {
+      "title": "East Coast Road",
+      "meta": ["Laksa", "Kueh", "Tiendas peranakan"],
+      "text": [
+        "En la antigua carretera de la costa se hizo famosa la laksa de Katong, una sopa de fideos con curry de coco, cortados tan cortos que se comen con cuchara. Las tiendas de kueh venden los pequeños pasteles de arroz de colores vivos de la cocina peranakan, y algunas tiendas familiares todavía venden zapatillas bordadas con abalorios y kebayas."
+      ]
+    },
+    {
+      "title": "East Coast Park",
+      "meta": ["Brisa marina", "Bicicleta"],
+      "text": [
+        "Quince kilómetros de parque de playa a lo largo de la costa ganada al mar, con alquiler de bicicletas, barbacoas y un hawker centre junto al mar. Los pasos subterráneos desde Marine Parade hacen que se llegue fácilmente a pie. A última hora de la tarde, la brisa marina lo hace notablemente más fresco que el centro."
+      ]
+    }
+  ],
+  "bleed": {
+    "image": "katong-2",
+    "kicker": "Paseo a la sombra",
+    "title": "Joo Chiat de punta a punta",
+    "text": "De los soportales de las shophouses de Joo Chiat Road a las casas adosadas de Koon Seng Road, y bajando hasta East Coast Road para tomar una laksa. A un corto trayecto en taxi de Changi desde cualquiera de los dos extremos.",
+    "facts": [
+      { "label": "Inicio", "value": "MRT Paya Lebar" },
+      { "label": "Final", "value": "MRT Marine Parade" },
+      { "label": "Mejor hora", "value": "8:00, o a partir de las 16:30" }
+    ],
+    "cta": "Ver el paseo"
+  },
+  "eat": {
+    "title": "Laksa, kueh y cocina nyonya",
+    "text": [
+      "La cocina peranakan combina técnicas chinas con especias malayas: piensa en el ayam buah keluak, un guiso de pollo con una nuez negra y amarga que requiere días de preparación. Katong es el lugar para probarlo, junto con la laksa y los kueh."
+    ],
+    "items": [
+      { "name": "Tiendas de laksa de East Coast Road", "text": "Varios locales con muchos años de historia se disputan el título. Pide un cuenco pequeño en más de uno." },
+      { "name": "East Coast Lagoon Food Village", "text": "Satay y marisco junto a la playa. Mejor al atardecer." },
+      { "name": "Marine Parade Central", "text": "Un hawker centre de barrio frecuentado por vecinos más que por visitantes." }
+    ]
+  },
+  "faq": [
+    { "q": "¿Es Katong buena opción para una escala?", "a": ["Es la mejor para una escala corta. Está a unos veinte minutos de Changi en taxi, mucho más cerca que el centro, así que incluso una escala de diez horas da para un paseo y un cuenco de laksa. Prueba el [planificador de escalas](@stopover-planner)."] },
+    { "q": "¿Puedo entrar en una casa peranakan?", "a": ["La mayoría son viviendas particulares. El Peranakan Museum, en el Civic District, tiene la colección más rica, y algunas pequeñas galerías privadas de Katong abren con cita previa."] },
+    { "q": "¿Qué significa peranakan?", "a": ["Nacido en el lugar. En Singapur suele referirse a los chinos de los Estrechos, cuyas familias llevan siglos en la región y cuya cultura mezcla influencias chinas, malayas y europeas."] }
+  ],
+  "related": ["changi", "pulau-ubin", "kampong-glam", "little-india"]
+}

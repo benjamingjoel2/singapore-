@@ -1,0 +1,152 @@
+{
+  "id": "kampong-glam",
+  "nav": "Kampong Glam",
+  "meta": {
+    "title": "Kampong Glam: Sultan Mosque, Arab Street y Haji Lane | Five Foot Way",
+    "description": "El histórico barrio malayo y musulmán de Singapur: la cúpula dorada de la Sultan Mosque, las tiendas de telas de Arab Street y sus estrechas callejuelas pintadas."
+  },
+  "hero": {
+    "kicker": "Barrio de shophouses",
+    "title": "Kampong Glam",
+    "image": "kampong-glam-1",
+    "sub": "Un barrio real, una mezquita de cúpula dorada y el aroma del murtabak en la plancha a última hora de la tarde."
+  },
+  "info": [
+    {
+      "label": "MRT más cercano",
+      "value": "Bugis, Nicoll Highway"
+    },
+    {
+      "label": "Mejores horas",
+      "value": "8:00–11:00 y, después, 17:00–22:00"
+    },
+    {
+      "label": "Paseo a la sombra",
+      "value": "Unos 2 km, 1 hora"
+    }
+  ],
+  "intro": {
+    "heading": "El antiguo barrio malayo y árabe",
+    "chips": [
+      "Mezquita",
+      "Telas",
+      "Callejuelas"
+    ],
+    "text": [
+      "Kampong Glam debe su nombre al gelam, el árbol que antaño crecía en este tramo de costa. En la década de 1820 se reservó para la corte del sultán de Johor, y comerciantes malayos, bugis, árabes y javaneses se asentaron alrededor del palacio. Los nombres de las calles todavía los recuerdan: Arab Street, Baghdad Street, Bussorah Street, Kandahar Street.",
+      "Es un barrio pequeño, que se recorre fácilmente en una hora, pero que agradece un ritmo más lento. Ven por la mañana para las tiendas de telas y de ratán de Arab Street, y vuelve al anochecer, cuando la mezquita se ilumina y los restaurantes sacan las mesas a las calles peatonales."
+    ]
+  },
+  "rows": [
+    {
+      "title": "Sultan Mosque",
+      "image": "kampong-glam-1",
+      "meta": [
+        "Masjid Sultan",
+        "Abierta a visitantes fuera de las horas de oración"
+      ],
+      "text": [
+        "La primera mezquita se construyó aquí en la década de 1820. El edificio actual, con sus cúpulas doradas en forma de cebolla, se terminó en 1932. Los visitantes son bienvenidos fuera de las horas de oración; en la entrada se prestan túnicas a quien necesite cubrirse. Los viernes hacia el mediodía se llena de fieles, así que tenlo en cuenta al planificar."
+      ]
+    },
+    {
+      "title": "Arab Street y Bussorah Street",
+      "meta": [
+        "Telas",
+        "Ratán",
+        "Perfumes"
+      ],
+      "text": [
+        "En Arab Street se compran batik, songket y encaje por metros, además de cestas de ratán y, en algunas tiendas antiguas, perfumes attar mezclados al gusto. Bussorah Street, flanqueada de palmeras y cerrada al tráfico, enmarca la mezquita al fondo y es el lugar para sentarse por la noche."
+      ]
+    },
+    {
+      "title": "Haji Lane",
+      "image": "kampong-glam-2",
+      "meta": [
+        "Murales",
+        "Tiendas independientes"
+      ],
+      "text": [
+        "Apenas más ancha que un coche, Haji Lane está pintada de punta a punta y llena de pequeñas boutiques y bares. Los fines de semana y al atardecer se abarrota; una mañana entre semana, antes de que abran la mayoría de las tiendas, hacia las 11:00, se puede apreciar bien la arquitectura."
+      ]
+    },
+    {
+      "title": "El Malay Heritage Centre",
+      "meta": [
+        "Istana Kampong Gelam",
+        "Museo"
+      ],
+      "text": [
+        "El palacio construido para la familia del sultán en la década de 1840 alberga hoy el Malay Heritage Centre, rodeado de una amplia pradera que es uno de los pocos espacios verdes abiertos del barrio. Comprueba si está abierto antes de ir: cerró por una gran reforma y conviene confirmar las fechas de reapertura."
+      ]
+    }
+  ],
+  "bleed": {
+    "image": "kampong-glam-2",
+    "kicker": "Paseo a la sombra",
+    "title": "De Bugis a Bussorah bajo los soportales",
+    "text": "Un circuito corto desde el MRT Bugis por los soportales cubiertos de Arab Street y Baghdad Street, con la mezquita en el centro y una larga y tranquila parada para tomar té.",
+    "facts": [
+      {
+        "label": "Inicio",
+        "value": "MRT Bugis"
+      },
+      {
+        "label": "Longitud",
+        "value": "Unos 2 km"
+      },
+      {
+        "label": "Mejor hora",
+        "value": "8:00 o 17:00"
+      }
+    ],
+    "cta": "Ver el paseo"
+  },
+  "eat": {
+    "title": "Murtabak, nasi padang y teh tarik",
+    "text": [
+      "Los restaurantes que rodean la mezquita son en su mayoría negocios familiares indomusulmanes y malayos que llevan décadas aquí. El plato que hay que probar es el murtabak, un pan plano relleno y hecho a la plancha; para acompañarlo, teh tarik, té «estirado» de vaso a vaso hasta que hace espuma."
+    ],
+    "items": [
+      {
+        "name": "North Bridge Road",
+        "text": "La hilera de veteranos restaurantes de murtabak y biryani frente a la mezquita."
+      },
+      {
+        "name": "Golden Mile Food Centre",
+        "text": "A diez minutos a pie hacia el nordeste por Beach Road, un gran hawker centre con puestos malayos, tailandeses y chinos."
+      },
+      {
+        "name": "Noches de Ramadán",
+        "text": "Durante el mes del ayuno, la zona acoge un animado bazar gastronómico nocturno. Las fechas siguen el calendario islámico."
+      }
+    ]
+  },
+  "faq": [
+    {
+      "q": "¿Cómo debo vestir para visitar la Sultan Mosque?",
+      "a": [
+        "Con hombros y piernas cubiertos. En la entrada se prestan túnicas gratuitamente, y hay que descalzarse antes de pisar la alfombra. Los visitantes pueden ver la sala de oración desde la zona habilitada, pero no entrar en ella durante los rezos."
+      ]
+    },
+    {
+      "q": "¿Está tranquila la zona durante el Ramadán?",
+      "a": [
+        "Al contrario. De día hay más calma, pero las noches, tras la ruptura del ayuno, están entre las más animadas del año. Sé respetuoso y evita comer y beber justo delante de la mezquita durante las horas de luz."
+      ]
+    },
+    {
+      "q": "¿Cuánto tiempo necesito?",
+      "a": [
+        "En dos horas, a un ritmo tranquilo, ves la mezquita, Arab Street y Haji Lane. Añade una comida y se convierte en una velada."
+      ]
+    }
+  ],
+  "related": [
+    "little-india",
+    "civic-district",
+    "chinatown",
+    "katong"
+  ]
+}

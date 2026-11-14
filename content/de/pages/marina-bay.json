@@ -1,0 +1,88 @@
+{
+  "id": "marina-bay",
+  "nav": "Marina Bay & Gardens by the Bay",
+  "meta": {
+    "title": "Marina Bay und Gardens by the Bay, um die Hitze herum geplant | Five Foot Way",
+    "description": "Gekühlte Gewächshäuser für die Mittagszeit, die Uferpromenade für den Abend und der ruhigere Bay East Garden: Marina Bay erleben, ohne zu verwelken."
+  },
+  "hero": {
+    "kicker": "Gärten und Ufer",
+    "title": "Marina Bay & Gardens by the Bay",
+    "image": "marina-1",
+    "sub": "Ein Garten auf aufgeschüttetem Land, mit zwei gekühlten Gewächshäusern – der beste Ort für einen heißen Mittag."
+  },
+  "info": [
+    { "label": "Nächste MRT", "value": "Gardens by the Bay, Bayfront, Marina Bay" },
+    { "label": "Beste Zeit", "value": "Kuppeln 12–15 Uhr; Ufer ab 18 Uhr" },
+    { "label": "Runde am Ufer", "value": "Etwa 3,5 km" }
+  ],
+  "intro": {
+    "heading": "Die neue Stadt, zur richtigen Stunde",
+    "chips": ["Gewächshäuser", "Ufer", "Abend"],
+    "text": [
+      "Alles, was Sie rund um die Marina Bay sehen, steht auf Land, das seit den 1970er-Jahren dem Meer abgerungen wurde. Die Bucht selbst wurde 2008 durch die Marina Barrage abgedämmt und ist heute ein Süßwasserreservoir. Das ist das Singapur der Postkarten, und wir haben es dabei, weil es wirklich sehenswert ist – nur nicht zu den Zeiten, die die meisten wählen.",
+      "Unser Rat ist einfach: Gehen Sie in der Tageshitze in die gekühlten Gewächshäuser, spazieren Sie nach 18 Uhr, wenn die Brise auffrischt, am Ufer entlang, und nutzen Sie den Bay East Garden auf der anderen Seite des Wassers für die Aussicht ohne Gedränge."
+    ]
+  },
+  "rows": [
+    {
+      "title": "Cloud Forest",
+      "image": "marina-1",
+      "meta": ["Gekühltes Gewächshaus", "Ticket erforderlich"],
+      "text": [
+        "Ein Berg in einem Glashaus, umrankt von Orchideen, Farnen und Kannenpflanzen, mit einem Indoor-Wasserfall und einem Hochweg. Es wird kühl und feucht gehalten wie ein tropisches Hochland, was sich an einem Nachmittag mit 33 Grad wie ein Geschenk anfühlt."
+      ]
+    },
+    {
+      "title": "Flower Dome",
+      "meta": ["Gekühltes Gewächshaus", "Mittelmeerpflanzen"],
+      "text": [
+        "Das größere der beiden Glashäuser zeigt Pflanzen aus den mediterranen Klimazonen der Welt: jahrhundertealte Olivenbäume, Baobabs, Sukkulenten und in der Mitte eine wechselnde Blumenschau. Kühl und trocken – eine gute Ergänzung zum Cloud Forest."
+      ]
+    },
+    {
+      "title": "Supertree Grove bei Tag",
+      "meta": ["Kostenlose Gärten", "Schatten"],
+      "text": [
+        "Die Außengärten sind kostenlos zugänglich. Bei Tageslicht sieht man, wozu die Supertrees eigentlich da sind: vertikale Gärten aus Farnen, Bromelien und Kletterpflanzen, von denen einige Regenwasser sammeln und Abluft aus den Gewächshäusern ableiten. Die Heritage Gardens ringsum erzählen von den chinesischen, malaiischen, indischen und kolonialen Pflanzentraditionen Singapurs."
+      ]
+    },
+    {
+      "title": "Das Ufer und die Marina Barrage",
+      "image": "marina-2",
+      "meta": ["Abendspaziergang", "Picknick"],
+      "text": [
+        "Die Promenade rund um die Bucht ergibt eine ebene Runde von etwa dreieinhalb Kilometern, am schönsten nach 18 Uhr. Am östlichen Ende lassen die Singapurer auf dem begrünten Dach der Marina Barrage Drachen steigen und picknicken zum Sonnenuntergang."
+      ]
+    }
+  ],
+  "bleed": {
+    "image": "marina-2",
+    "kicker": "Abendspaziergang",
+    "title": "Die Bucht nach 18 Uhr",
+    "text": "Beginnen Sie am Asian Civilisations Museum, folgen Sie dem Wasser vorbei an der Esplanade und über die Helix Bridge und enden Sie zum Abendessen in den Gardens. Die Sonne steht tief, die Brise frischt auf, und das Pflaster hat sich abgekühlt.",
+    "facts": [
+      { "label": "Start", "value": "MRT Raffles Place" },
+      { "label": "Länge", "value": "Etwa 3,5 km" },
+      { "label": "Beste Zeit", "value": "18–20 Uhr" }
+    ],
+    "cta": "Zu den Schattenspaziergängen"
+  },
+  "eat": {
+    "title": "Satay an der Bucht",
+    "text": [
+      "Das Hawker Centre neben den Gardens ist eher praktisch als berühmt; für ein besseres Abendessen gehen Sie zurück zur Satay-Straße am Lau Pa Sat im Finanzviertel oder fahren eine MRT-Station bis zur Esplanade."
+    ],
+    "items": [
+      { "name": "Satay by the Bay", "text": "Hawker Centre in den Gardens. Praktisch nach den Kuppeln." },
+      { "name": "Lau Pa Sat", "text": "Satay, ab dem Abend direkt auf der Straße gegrillt. 20 Minuten zu Fuß oder zwei MRT-Stationen." },
+      { "name": "Makansutra Gluttons Bay", "text": "Stände unter freiem Himmel neben der Esplanade, mit Blick aufs Wasser." }
+    ]
+  },
+  "faq": [
+    { "q": "Brauche ich Tickets?", "a": ["Die Außengärten sind kostenlos. Cloud Forest, Flower Dome und einige weitere Attraktionen in den Gardens kosten Eintritt; kaufen Sie die Tickets online, um die Schlange zu umgehen."] },
+    { "q": "Lohnt es sich, für die abendliche Lichtshow zu bleiben?", "a": ["Die Lichtshow der Supertrees läuft zweimal pro Abend und ist kostenlos. Es ist voll, und im Hain gibt es keinen Schatten, aber bis dahin hat es sich abgekühlt. Wir erwähnen sie, planen Ihre Reise aber nicht darum herum."] },
+    { "q": "Was, wenn es regnet?", "a": ["Gehen Sie in die Gewächshäuser. Sie sind in diesem Teil der Stadt die beste Option bei Regen, und Gewitter dauern selten länger als ein, zwei Stunden."] }
+  ],
+  "related": ["civic-district", "botanic-gardens", "changi", "southern-ridges"]
+}

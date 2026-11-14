@@ -1,0 +1,151 @@
+{
+  "id": "little-india",
+  "nav": "Little India",
+  "meta": {
+    "title": "Little India: Serangoon Road, Tekka Centre and the temples | Five Foot Way",
+    "description": "Flower-garland stalls, spice shops and Singapore's most colourful shophouses, with Tekka Centre for breakfast and the five-foot ways for shade."
+  },
+  "hero": {
+    "kicker": "Shophouse neighbourhood",
+    "title": "Little India",
+    "image": "little-india-1",
+    "sub": "Jasmine garlands, spice sacks, temple drums and the brightest paintwork in the city."
+  },
+  "info": [
+    {
+      "label": "Nearest MRT",
+      "value": "Little India, Rochor, Farrer Park"
+    },
+    {
+      "label": "Best hours",
+      "value": "7–10am, then after 5pm"
+    },
+    {
+      "label": "Shade walk",
+      "value": "About 2.5 km, 1.5 hours"
+    }
+  ],
+  "intro": {
+    "heading": "Serangoon Road, all the senses at once",
+    "chips": [
+      "Temples",
+      "Wet market",
+      "Spice shops"
+    ],
+    "text": [
+      "In the 19th century this was cattle country: brick kilns and lime pits along the Rochor Canal, worked largely by Indian labourers and traders. The cattle are long gone, but the Tamil character of the district has only grown, and on a Sunday it becomes a meeting place for South Asian workers from across the island.",
+      "Little India is the least polished of the shophouse districts and the most alive. The five-foot ways are cluttered with shop goods, which makes them shady but slow. Walk early, eat at Tekka, and save the temple visits for the hours when the light is soft."
+    ]
+  },
+  "rows": [
+    {
+      "title": "Tekka Centre",
+      "meta": [
+        "Hawker centre",
+        "Wet market"
+      ],
+      "text": [
+        "The ground floor wraps a wet market and a ring of food stalls: biryani, thosai, appam, mutton soup and, for the curious, Indian rojak. Upstairs are tailors and sari shops. Arrive before nine to see the market at full volume."
+      ]
+    },
+    {
+      "title": "Sri Veeramakaliamman Temple",
+      "image": "little-india-2",
+      "meta": [
+        "Hindu temple",
+        "Serangoon Road"
+      ],
+      "text": [
+        "Dedicated to the goddess Kali, the temple was founded in the 1850s by the labourers who worked the kilns nearby. Its tower is a dense, painted mass of figures. Visit during the evening puja to hear the drums and bells, dressed modestly and with shoes off."
+      ]
+    },
+    {
+      "title": "House of Tan Teng Niah",
+      "meta": [
+        "Villa",
+        "Photography"
+      ],
+      "text": [
+        "A Chinese villa from 1900, painted in every colour available, standing on its own a short walk from the main road. It is a private building, seen from the outside, and best visited early before the crowds arrive with their cameras."
+      ]
+    },
+    {
+      "title": "Campbell Lane and Dunlop Street",
+      "image": null,
+      "meta": [
+        "Garland stalls",
+        "Spice shops"
+      ],
+      "text": [
+        "The lanes off Serangoon Road are where the garland makers thread jasmine and marigold, where the spice shops sell masala ground to order, and where the Indian Heritage Centre tells the story of the community in a building that glows at night."
+      ]
+    }
+  ],
+  "bleed": {
+    "image": "little-india-1",
+    "kicker": "Shade walk",
+    "title": "Tekka to Farrer Park on the five-foot ways",
+    "text": "Breakfast at Tekka, then north along Serangoon Road's arcades to the temples and the old villas, finishing at an MRT station with a covered link.",
+    "facts": [
+      {
+        "label": "Start",
+        "value": "Little India MRT"
+      },
+      {
+        "label": "Length",
+        "value": "About 2.5 km"
+      },
+      {
+        "label": "Best",
+        "value": "7:30am start"
+      }
+    ],
+    "cta": "See the walk"
+  },
+  "eat": {
+    "title": "Biryani for breakfast, thosai for supper",
+    "text": [
+      "South Indian vegetarian restaurants, North Indian tandoor kitchens and the 24-hour shops of Syed Alwi Road keep the district fed around the clock. Many restaurants serve on banana leaves; eat with your right hand if you like, but cutlery is always available."
+    ],
+    "items": [
+      {
+        "name": "Tekka Centre",
+        "text": "Biryani, thosai, mutton soup, fresh juice. Best in the morning."
+      },
+      {
+        "name": "Race Course Road",
+        "text": "Known for fish head curry restaurants. A sit-down lunch rather than a hawker meal."
+      },
+      {
+        "name": "Syed Alwi Road",
+        "text": "Late-night supper near the department store that never closes."
+      }
+    ]
+  },
+  "faq": [
+    {
+      "q": "When is Little India most festive?",
+      "a": [
+        "During Deepavali (October or November, by the Hindu calendar), when Serangoon Road is lit for weeks and bazaars fill the side streets. Thaipusam (January or February) brings a long procession of devotees from Serangoon Road towards Tank Road."
+      ]
+    },
+    {
+      "q": "Are there drinking restrictions?",
+      "a": [
+        "Yes. Little India is a Liquor Control Zone, with stricter rules on drinking in public places than the rest of the island, especially at weekends and on public holidays. Details are in our [facts to check](@stopover-planner#rules)."
+      ]
+    },
+    {
+      "q": "Is it busy on Sundays?",
+      "a": [
+        "Very. Sunday is the day off for many migrant workers, and the area is crowded from mid-afternoon. It is good-natured, but if you prefer space, come on a weekday."
+      ]
+    }
+  ],
+  "related": [
+    "kampong-glam",
+    "chinatown",
+    "katong",
+    "botanic-gardens"
+  ]
+}

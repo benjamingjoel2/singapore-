@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "title": "Why the rain comes at four | Five Foot Way Journal",
+    "description": "The science behind Singapore's afternoon thunderstorms, the monsoon calendar and the Sumatra squall, and how to plan a day around them."
+  },
+  "title": "Why the rain comes at four",
+  "kicker": "Weather",
+  "image": "rain-1",
+  "date": "2026-09-12",
+  "dateLabel": "September 2026",
+  "minutes": 5,
+  "excerpt": "A short explanation of Singapore's storms, and a plan for living with them.",
+  "related": ["civic-district", "marina-bay", "botanic-gardens"],
+  "body": [
+    { "p": "Spend a few days in Singapore in April or November and you will notice a pattern. The morning is bright and still. By lunchtime the sky has gone white with haze and heat. Around three or four, the clouds pile up into towers, the light turns yellow-grey, and then the rain arrives all at once, heavy enough to bounce off the road. An hour later it is over." },
+    { "h2": "Heat makes the storm" },
+    { "p": "The cause is the sun itself. From morning onwards, it heats the ground and the sea, and the warm, very humid air above them rises. As it rises it cools, the moisture condenses, and by mid-afternoon the clouds have grown tall enough to become thunderstorms. It is why storms are most common after the hottest part of the day, and why the inter-monsoon months, with little wind to mix the air, have the most of them." },
+    { "h2": "The monsoons" },
+    { "p": "Twice a year, the prevailing winds over the region change direction. From about December to early March, the Northeast Monsoon brings a wet spell, often with longer, steadier rain, followed by a drier, breezier phase. From about June to September, the Southwest Monsoon is generally drier, but brings the Sumatra squall: a line of storms that forms over the Strait of Malacca at night and sweeps across the island before dawn, with strong gusts." },
+    { "h2": "How to plan for it" },
+    { "ul": [
+      "**Walk in the morning.** In most months, the best weather of the day is between seven and ten.",
+      "**Keep the afternoon flexible.** Have an indoor plan within reach: a museum, a hawker centre, a covered walkway.",
+      "**Take lightning seriously.** Singapore has one of the highest rates of lightning in the world. Leave open ground, water and bridges when you hear thunder.",
+      "**Don't cancel for a forecast.** A '70% chance of thunderstorms' often means one hour of heavy rain, somewhere on the island."
+    ] },
+    { "p": "There is something to enjoy in it, too. Stand under a five-foot way during a downpour, with the water pouring off the roof tiles in a curtain and the street suddenly empty, and you understand why the city was built the way it was." }
+  ]
+}

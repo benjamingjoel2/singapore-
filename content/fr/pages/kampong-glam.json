@@ -1,0 +1,152 @@
+{
+  "id": "kampong-glam",
+  "nav": "Kampong Glam",
+  "meta": {
+    "title": "Kampong Glam : Sultan Mosque, Arab Street et Haji Lane | Five Foot Way",
+    "description": "Le quartier historique malais et musulman de Singapour : le dôme doré de la Sultan Mosque, les tissus d'Arab Street et les ruelles peintes alentour."
+  },
+  "hero": {
+    "kicker": "Quartier de shophouses",
+    "title": "Kampong Glam",
+    "image": "kampong-glam-1",
+    "sub": "Un quartier royal, une mosquée au dôme doré et, en fin d'après-midi, l'odeur du murtabak sur la plaque."
+  },
+  "info": [
+    {
+      "label": "MRT les plus proches",
+      "value": "Bugis, Nicoll Highway"
+    },
+    {
+      "label": "Meilleurs horaires",
+      "value": "8 h – 11 h, puis 17 h – 22 h"
+    },
+    {
+      "label": "Balade à l'ombre",
+      "value": "Environ 2 km, 1 heure"
+    }
+  ],
+  "intro": {
+    "heading": "Le vieux quartier malais et arabe",
+    "chips": [
+      "Mosquée",
+      "Tissus",
+      "Ruelles"
+    ],
+    "text": [
+      "Kampong Glam doit son nom au gelam, un arbre qui poussait autrefois sur cette portion de côte. Dans les années 1820, le quartier fut attribué à la maison du sultan de Johor, et des marchands malais, bugis, arabes et javanais s'installèrent autour du palais. Les plaques de rue en gardent la trace : Arab Street, Baghdad Street, Bussorah Street, Kandahar Street.",
+      "C'est un petit quartier, qui se parcourt facilement en une heure, mais qui récompense ceux qui prennent leur temps. Venez le matin pour les boutiques de tissus et de rotin d'Arab Street, puis revenez au crépuscule, quand la mosquée s'illumine et que les restaurants sortent leurs tables dans les rues piétonnes."
+    ]
+  },
+  "rows": [
+    {
+      "title": "Sultan Mosque",
+      "image": "kampong-glam-1",
+      "meta": [
+        "Masjid Sultan",
+        "Ouverte aux visiteurs hors des prières"
+      ],
+      "text": [
+        "La première mosquée fut bâtie ici dans les années 1820. L'édifice actuel, avec ses dômes à bulbe dorés, fut achevé en 1932. Les visiteurs sont les bienvenus en dehors des heures de prière ; des tuniques sont prêtées à l'entrée à ceux qui doivent se couvrir. Le vendredi vers midi, la mosquée est pleine de fidèles : organisez-vous en conséquence."
+      ]
+    },
+    {
+      "title": "Arab Street et Bussorah Street",
+      "meta": [
+        "Tissus",
+        "Rotin",
+        "Parfums"
+      ],
+      "text": [
+        "C'est sur Arab Street qu'on achète batik, songket et dentelle au mètre, ainsi que des paniers en rotin et, dans quelques vieilles boutiques, des parfums attar composés à la demande. Bussorah Street, bordée de palmiers et fermée à la circulation, encadre la mosquée à son extrémité : c'est là qu'il faut s'asseoir le soir."
+      ]
+    },
+    {
+      "title": "Haji Lane",
+      "image": "kampong-glam-2",
+      "meta": [
+        "Fresques murales",
+        "Boutiques indépendantes"
+      ],
+      "text": [
+        "À peine plus large qu'une voiture, Haji Lane est peinte d'un bout à l'autre et bordée de petites boutiques et de bars. Elle est bondée le week-end et au coucher du soleil ; un matin de semaine, avant que la plupart des boutiques n'ouvrent vers 11 h, on peut vraiment en apprécier l'architecture."
+      ]
+    },
+    {
+      "title": "Le Malay Heritage Centre",
+      "meta": [
+        "Istana Kampong Gelam",
+        "Musée"
+      ],
+      "text": [
+        "Le palais construit pour la famille du sultan dans les années 1840 abrite aujourd'hui le Malay Heritage Centre, au milieu d'une vaste pelouse qui est l'un des rares espaces verts ouverts du quartier. Vérifiez les horaires avant d'y aller : il a fermé pour une rénovation importante et ses dates de réouverture restent à confirmer."
+      ]
+    }
+  ],
+  "bleed": {
+    "image": "kampong-glam-2",
+    "kicker": "Balade à l'ombre",
+    "title": "De Bugis à Bussorah sous les arcades",
+    "text": "Une courte boucle depuis la station de MRT Bugis, sous les arcades couvertes d'Arab Street et de Baghdad Street, avec la mosquée en son centre et une longue pause pour le thé.",
+    "facts": [
+      {
+        "label": "Départ",
+        "value": "MRT Bugis"
+      },
+      {
+        "label": "Longueur",
+        "value": "Environ 2 km"
+      },
+      {
+        "label": "Idéal",
+        "value": "8 h ou 17 h"
+      }
+    ],
+    "cta": "Voir la balade"
+  },
+  "eat": {
+    "title": "Murtabak, nasi padang et teh tarik",
+    "text": [
+      "Les restaurants autour de la mosquée sont pour la plupart des adresses familiales indo-musulmanes et malaises installées là depuis des décennies. Le plat à goûter, c'est le murtabak, une galette farcie cuite sur la plaque ; on l'accompagne d'un teh tarik, un thé « tiré » jusqu'à devenir mousseux."
+    ],
+    "items": [
+      {
+        "name": "North Bridge Road",
+        "text": "La rangée de restaurants de murtabak et de biryani établis de longue date, face à la mosquée."
+      },
+      {
+        "name": "Golden Mile Food Centre",
+        "text": "À dix minutes à pied au nord-est par Beach Road, un grand hawker centre avec des stands malais, thaïs et chinois."
+      },
+      {
+        "name": "Les soirées du ramadan",
+        "text": "Pendant le mois de jeûne, le quartier accueille un marché de nuit très animé. Les dates suivent le calendrier musulman."
+      }
+    ]
+  },
+  "faq": [
+    {
+      "q": "Quelle tenue pour visiter la Sultan Mosque ?",
+      "a": [
+        "Couvrez épaules et jambes. Des tuniques sont prêtées gratuitement à l'entrée, et l'on se déchausse avant le tapis. Les visiteurs peuvent voir la salle de prière depuis l'espace prévu à cet effet, mais pas y entrer pendant les prières."
+      ]
+    },
+    {
+      "q": "Le quartier est-il calme pendant le ramadan ?",
+      "a": [
+        "Au contraire. La journée est plus calme, mais les soirées, après la rupture du jeûne, comptent parmi les plus animées de l'année. Évitez de manger et de boire juste devant la mosquée pendant la journée."
+      ]
+    },
+    {
+      "q": "Combien de temps prévoir ?",
+      "a": [
+        "Deux heures suffisent pour voir la mosquée, Arab Street et Haji Lane sans se presser. Ajoutez un repas et cela devient une soirée."
+      ]
+    }
+  ],
+  "related": [
+    "little-india",
+    "civic-district",
+    "chinatown",
+    "katong"
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "id": "marina-bay",
+  "nav": "Marina Bay & Gardens by the Bay",
+  "meta": {
+    "title": "Marina Bay et Gardens by the Bay, malgré la chaleur | Five Foot Way",
+    "description": "Serres climatisées à midi, front de mer le soir et le paisible Bay East Garden : comment découvrir Marina Bay sans fondre."
+  },
+  "hero": {
+    "kicker": "Jardins et front de mer",
+    "title": "Marina Bay & Gardens by the Bay",
+    "image": "marina-1",
+    "sub": "Un jardin construit sur des terres gagnées sur la mer, avec deux serres climatisées qui en font le meilleur refuge aux heures chaudes de midi."
+  },
+  "info": [
+    { "label": "MRT les plus proches", "value": "Gardens by the Bay, Bayfront, Marina Bay" },
+    { "label": "Meilleurs horaires", "value": "Serres 12 h – 15 h ; front de mer après 18 h" },
+    { "label": "Boucle du front de mer", "value": "Environ 3,5 km" }
+  ],
+  "intro": {
+    "heading": "La ville nouvelle, à la bonne heure",
+    "chips": ["Serres", "Front de mer", "En soirée"],
+    "text": [
+      "Tout ce que vous voyez autour de Marina Bay repose sur des terres gagnées sur la mer depuis les années 1970. La baie elle-même a été fermée par le Marina Barrage en 2008 et forme désormais un réservoir d'eau douce. C'est le Singapour des cartes postales, et nous l'incluons parce qu'il vaut vraiment le détour, simplement pas aux heures que choisissent la plupart des gens.",
+      "Notre conseil est simple. Allez dans les serres climatisées aux heures chaudes, longez le front de mer après 18 h quand la brise se lève, et profitez du Bay East Garden, de l'autre côté de l'eau, pour la vue sans la foule."
+    ]
+  },
+  "rows": [
+    {
+      "title": "Cloud Forest",
+      "image": "marina-1",
+      "meta": ["Serre climatisée", "Billet obligatoire"],
+      "text": [
+        "Une montagne sous verre, couverte d'orchidées, de fougères et de plantes carnivores, avec une cascade intérieure et une passerelle suspendue. L'atmosphère y est fraîche et humide comme dans les hautes terres tropicales, ce qui, par un après-midi à 33 °C, tient du cadeau."
+      ]
+    },
+    {
+      "title": "Flower Dome",
+      "meta": ["Serre climatisée", "Plantes méditerranéennes"],
+      "text": [
+        "La plus grande des deux serres rassemble des plantes des climats méditerranéens du monde entier : oliviers plusieurs fois centenaires, baobabs, plantes succulentes et, au centre, une exposition florale qui change au fil de l'année. Fraîche et sèche, elle se combine bien avec le Cloud Forest."
+      ]
+    },
+    {
+      "title": "Le Supertree Grove de jour",
+      "meta": ["Jardins gratuits", "Ombre"],
+      "text": [
+        "L'accès aux jardins extérieurs est gratuit. En plein jour, on comprend à quoi servent réellement les Supertrees : ce sont des jardins verticaux de fougères, de broméliacées et de plantes grimpantes, dont certains récupèrent l'eau de pluie et évacuent l'air des serres. Les jardins patrimoniaux qui les entourent racontent les traditions botaniques chinoises, malaises, indiennes et coloniales de Singapour."
+      ]
+    },
+    {
+      "title": "Le front de mer et le Marina Barrage",
+      "image": "marina-2",
+      "meta": ["Balade du soir", "Pique-niques"],
+      "text": [
+        "La promenade autour de la baie forme une boucle plate d'environ trois kilomètres et demi, à faire de préférence après 18 h. À l'extrémité est, le toit végétalisé du Marina Barrage est l'endroit où les Singapouriens font voler leurs cerfs-volants et pique-niquent au coucher du soleil."
+      ]
+    }
+  ],
+  "bleed": {
+    "image": "marina-2",
+    "kicker": "Balade du soir",
+    "title": "La baie après 18 h",
+    "text": "Partez de l'Asian Civilisations Museum, suivez l'eau devant l'Esplanade, traversez le Helix Bridge et terminez aux Gardens pour dîner. Le soleil est bas, la brise s'est levée et les pavés ont refroidi.",
+    "facts": [
+      { "label": "Départ", "value": "MRT Raffles Place" },
+      { "label": "Longueur", "value": "Environ 3,5 km" },
+      { "label": "Idéal", "value": "18 h – 20 h" }
+    ],
+    "cta": "Voir les balades à l'ombre"
+  },
+  "eat": {
+    "title": "Satay au bord de la baie",
+    "text": [
+      "Le hawker centre voisin des Gardens est pratique plutôt que réputé ; pour un meilleur dîner, revenez à pied jusqu'à la rue des satays de Lau Pa Sat, dans le quartier d'affaires, ou prenez le MRT une station jusqu'à l'Esplanade."
+    ],
+    "items": [
+      { "name": "Satay by the Bay", "text": "Hawker centre à l'intérieur des Gardens. Pratique après les serres." },
+      { "name": "Lau Pa Sat", "text": "Satay grillés dans la rue à partir du soir. À 20 minutes à pied ou deux stations de MRT." },
+      { "name": "Makansutra Gluttons Bay", "text": "Des stands en plein air à côté de l'Esplanade, face à l'eau." }
+    ]
+  },
+  "faq": [
+    { "q": "Faut-il des billets ?", "a": ["Les jardins extérieurs sont gratuits. Le Cloud Forest, le Flower Dome et quelques autres attractions des Gardens sont payants ; achetez vos billets en ligne pour éviter la file d'attente."] },
+    { "q": "Vaut-il la peine de rester pour le spectacle lumineux du soir ?", "a": ["Le spectacle lumineux des Supertrees a lieu deux fois par soir et il est gratuit. Il y a foule et le bosquet n'offre aucune ombre, mais à cette heure-là l'air s'est rafraîchi. Nous le mentionnons, sans pour autant construire votre voyage autour."] },
+    { "q": "Et s'il pleut ?", "a": ["Filez vers les serres. C'est la meilleure option par temps de pluie dans ce secteur de la ville, et les orages durent rarement plus d'une heure ou deux."] }
+  ],
+  "related": ["civic-district", "botanic-gardens", "changi", "southern-ridges"]
+}

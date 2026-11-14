@@ -1,0 +1,151 @@
+{
+  "id": "little-india",
+  "nav": "Little India",
+  "meta": {
+    "title": "Little India: Serangoon Road, Tekka Centre und die Tempel | Five Foot Way",
+    "description": "Blumengirlanden, Gewürzläden und Singapurs farbenfrohste Shophouses, dazu das Tekka Centre zum Frühstück und die Five-foot ways für Schatten."
+  },
+  "hero": {
+    "kicker": "Shophouse-Viertel",
+    "title": "Little India",
+    "image": "little-india-1",
+    "sub": "Jasmingirlanden, Gewürzsäcke, Tempeltrommeln und die leuchtendsten Fassadenfarben der Stadt."
+  },
+  "info": [
+    {
+      "label": "Nächste MRT",
+      "value": "Little India, Rochor, Farrer Park"
+    },
+    {
+      "label": "Beste Zeit",
+      "value": "7–10 Uhr, dann ab 17 Uhr"
+    },
+    {
+      "label": "Schattenspaziergang",
+      "value": "Etwa 2,5 km, 1,5 Stunden"
+    }
+  ],
+  "intro": {
+    "heading": "Serangoon Road, alle Sinne auf einmal",
+    "chips": [
+      "Tempel",
+      "Frischmarkt",
+      "Gewürzläden"
+    ],
+    "text": [
+      "Im 19. Jahrhundert war dies Viehland: Ziegelöfen und Kalkgruben entlang des Rochor Canal, betrieben vor allem von indischen Arbeitern und Händlern. Das Vieh ist längst verschwunden, der tamilische Charakter des Viertels aber ist nur stärker geworden, und sonntags wird es zum Treffpunkt für südasiatische Arbeiter aus der ganzen Insel.",
+      "Little India ist das am wenigsten herausgeputzte der Shophouse-Viertel und das lebendigste. Die Five-foot ways sind mit Waren der Läden vollgestellt, was sie schattig, aber langsam macht. Gehen Sie früh, essen Sie im Tekka und heben Sie sich die Tempelbesuche für die Stunden mit weichem Licht auf."
+    ]
+  },
+  "rows": [
+    {
+      "title": "Tekka Centre",
+      "meta": [
+        "Hawker Centre",
+        "Frischmarkt"
+      ],
+      "text": [
+        "Im Erdgeschoss umschließt ein Ring von Essensständen einen Frischmarkt: Biryani, thosai, appam, Hammelsuppe und, für Neugierige, indisches rojak. Oben finden Sie Schneider und Sari-Läden. Kommen Sie vor neun, um den Markt in voller Lautstärke zu erleben."
+      ]
+    },
+    {
+      "title": "Sri Veeramakaliamman Temple",
+      "image": "little-india-2",
+      "meta": [
+        "Hindu-Tempel",
+        "Serangoon Road"
+      ],
+      "text": [
+        "Der Göttin Kali geweiht, wurde der Tempel in den 1850er-Jahren von den Arbeitern der nahen Ziegelöfen gegründet. Sein Turm ist eine dichte, bemalte Masse aus Figuren. Besuchen Sie ihn während der abendlichen Puja, um die Trommeln und Glocken zu hören – in angemessener Kleidung und ohne Schuhe."
+      ]
+    },
+    {
+      "title": "House of Tan Teng Niah",
+      "meta": [
+        "Villa",
+        "Fotomotiv"
+      ],
+      "text": [
+        "Eine chinesische Villa von 1900, in allen erdenklichen Farben gestrichen, die ein paar Schritte von der Hauptstraße entfernt für sich steht. Es ist ein Privatgebäude, nur von außen zu sehen, und am besten früh zu besuchen, bevor die Menge mit ihren Kameras kommt."
+      ]
+    },
+    {
+      "title": "Campbell Lane und Dunlop Street",
+      "image": null,
+      "meta": [
+        "Girlandenstände",
+        "Gewürzläden"
+      ],
+      "text": [
+        "In den Gassen abseits der Serangoon Road fädeln die Girlandenmacher Jasmin und Tagetes auf, verkaufen die Gewürzläden frisch nach Wunsch gemahlenes Masala, und das Indian Heritage Centre erzählt die Geschichte der Gemeinschaft in einem Gebäude, das nachts leuchtet."
+      ]
+    }
+  ],
+  "bleed": {
+    "image": "little-india-1",
+    "kicker": "Schattenspaziergang",
+    "title": "Von Tekka nach Farrer Park über die Five-foot ways",
+    "text": "Frühstück im Tekka, dann nordwärts durch die Arkaden der Serangoon Road zu den Tempeln und alten Villen, bis zu einer MRT-Station mit überdachtem Zugang.",
+    "facts": [
+      {
+        "label": "Start",
+        "value": "MRT Little India"
+      },
+      {
+        "label": "Länge",
+        "value": "Etwa 2,5 km"
+      },
+      {
+        "label": "Beste Zeit",
+        "value": "Start um 7:30 Uhr"
+      }
+    ],
+    "cta": "Zum Spaziergang"
+  },
+  "eat": {
+    "title": "Biryani zum Frühstück, thosai zum Abendessen",
+    "text": [
+      "Südindische vegetarische Restaurants, nordindische Tandoor-Küchen und die rund um die Uhr geöffneten Läden der Syed Alwi Road versorgen das Viertel Tag und Nacht. Viele Restaurants servieren auf Bananenblättern; essen Sie ruhig mit der rechten Hand, Besteck gibt es aber immer."
+    ],
+    "items": [
+      {
+        "name": "Tekka Centre",
+        "text": "Biryani, thosai, Hammelsuppe, frischer Saft. Am besten morgens."
+      },
+      {
+        "name": "Race Course Road",
+        "text": "Bekannt für Restaurants mit Fischkopf-Curry. Eher ein Mittagessen am Tisch als eine Hawker-Mahlzeit."
+      },
+      {
+        "name": "Syed Alwi Road",
+        "text": "Spätes Essen in der Nacht, nahe dem Kaufhaus, das nie schließt."
+      }
+    ]
+  },
+  "faq": [
+    {
+      "q": "Wann ist Little India am festlichsten?",
+      "a": [
+        "Zu Deepavali (Oktober oder November, je nach Hindu-Kalender), wenn die Serangoon Road wochenlang erleuchtet ist und Basare die Seitenstraßen füllen. Thaipusam (Januar oder Februar) bringt eine lange Prozession von Gläubigen von der Serangoon Road zur Tank Road."
+      ]
+    },
+    {
+      "q": "Gibt es Einschränkungen beim Alkohol?",
+      "a": [
+        "Ja. Little India ist eine Liquor Control Zone mit strengeren Regeln für das Trinken in der Öffentlichkeit als im Rest der Insel, besonders an Wochenenden und Feiertagen. Einzelheiten finden Sie in unseren [Fakten zum Prüfen](@stopover-planner#rules)."
+      ]
+    },
+    {
+      "q": "Ist es sonntags voll?",
+      "a": [
+        "Sehr. Sonntag ist für viele Arbeitsmigranten der freie Tag, und ab dem Nachmittag ist das Viertel dicht gedrängt. Die Stimmung ist freundlich, aber wer es ruhiger mag, kommt besser unter der Woche."
+      ]
+    }
+  ],
+  "related": [
+    "kampong-glam",
+    "chinatown",
+    "katong",
+    "botanic-gardens"
+  ]
+}

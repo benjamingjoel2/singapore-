@@ -1,0 +1,31 @@
+{
+  "meta": {
+    "title": "A morning on Pulau Ubin | Five Foot Way Journal",
+    "description": "The first bumboat from Changi, a rented bicycle, the Chek Jawa boardwalk and nasi lemak on the way home: a morning on Singapore's kampong island."
+  },
+  "title": "A morning on Pulau Ubin",
+  "kicker": "Islands",
+  "image": "ubin-2",
+  "date": "2026-08-20",
+  "dateLabel": "August 2026",
+  "minutes": 5,
+  "excerpt": "The first boat, a bicycle with one gear too few, and the quietest morning in Singapore.",
+  "related": ["pulau-ubin", "changi", "katong"],
+  "body": [
+    { "p": "The best way to see Pulau Ubin is to be on the first boat. Changi Point Ferry Terminal is a small, open shed beside the hawker centre, and on weekday mornings the passengers are a mix of residents with shopping bags, cyclists, birdwatchers with long lenses and a few visitors. The boat leaves when it has enough people. Nobody seems to mind waiting." },
+    { "h2": "The crossing" },
+    { "p": "It takes about ten minutes. The bumboat, a wooden motorboat with bench seats and a canopy, crosses a channel busy with ships at anchor, and suddenly the city is behind you. Ahead is a low green island with a jetty, a few roofs and no towers at all." },
+    { "h2": "The village" },
+    { "p": "The village by the jetty has a handful of bicycle shops, a provision store, a few seafood restaurants and a shrine. Rent a bike, check the brakes, and agree what time you will bring it back. The lanes are quiet but hilly in places, and the heat builds quickly once you leave the shade." },
+    { "h2": "Chek Jawa" },
+    { "p": "At the eastern tip, the Chek Jawa boardwalk runs through mangroves and out over the sea. At low tide the shore below is full of life: crabs, mudskippers, sea stars. From the viewing tower you look over the canopy towards Malaysia. In the early morning you may have it almost to yourself." },
+    { "h2": "Back before the storm" },
+    { "p": "In the inter-monsoon months, plan to be back on the mainland by early afternoon. Return the bike, take the boat, and finish where you started: at Changi Village Hawker Centre, with a plate of nasi lemak and a cold lime juice, ten minutes from the airport." },
+    { "ul": [
+      "**Bring cash** for the boat and the bike rental.",
+      "**Carry water** and sun protection; shade is patchy on the lanes.",
+      "**Respect the residents**: the kampong houses are homes, not exhibits.",
+      "**Take your rubbish back** with you."
+    ] }
+  ]
+}

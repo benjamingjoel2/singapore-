@@ -1,0 +1,152 @@
+{
+  "id": "kampong-glam",
+  "nav": "Kampong Glam",
+  "meta": {
+    "title": "Kampong Glam: Sultan Mosque, Arab Street and Haji Lane | Five Foot Way",
+    "description": "Singapore's historic Malay and Muslim quarter: the golden dome of the Sultan Mosque, textile shops on Arab Street and the narrow, painted lanes around them."
+  },
+  "hero": {
+    "kicker": "Shophouse neighbourhood",
+    "title": "Kampong Glam",
+    "image": "kampong-glam-1",
+    "sub": "A royal quarter, a mosque with a golden dome, and the scent of murtabak on the griddle by late afternoon."
+  },
+  "info": [
+    {
+      "label": "Nearest MRT",
+      "value": "Bugis, Nicoll Highway"
+    },
+    {
+      "label": "Best hours",
+      "value": "8–11am, then 5–10pm"
+    },
+    {
+      "label": "Shade walk",
+      "value": "About 2 km, 1 hour"
+    }
+  ],
+  "intro": {
+    "heading": "The old Malay and Arab quarter",
+    "chips": [
+      "Mosque",
+      "Textiles",
+      "Small lanes"
+    ],
+    "text": [
+      "Kampong Glam takes its name from the gelam tree that once grew along this stretch of coast. In the 1820s it was set aside for the Sultan of Johor's household, and Malay, Bugis, Arab and Javanese traders settled around the palace. The names on the street signs still record them: Arab Street, Baghdad Street, Bussorah Street, Kandahar Street.",
+      "It is a small district, easily walked in an hour, but it rewards a slower pace. Come in the morning for the textile and rattan shops on Arab Street, and again at dusk, when the mosque is lit and the restaurants put their tables out on the pedestrianised streets."
+    ]
+  },
+  "rows": [
+    {
+      "title": "Sultan Mosque",
+      "image": "kampong-glam-1",
+      "meta": [
+        "Masjid Sultan",
+        "Open to visitors outside prayers"
+      ],
+      "text": [
+        "The first mosque here was built in the 1820s. The present building, with its golden onion domes, was completed in 1932. Visitors are welcome outside prayer times; robes are provided at the entrance for anyone who needs to cover up. On Fridays around midday it is busy with worshippers, so plan around that."
+      ]
+    },
+    {
+      "title": "Arab Street and Bussorah Street",
+      "meta": [
+        "Textiles",
+        "Rattan",
+        "Perfume"
+      ],
+      "text": [
+        "Arab Street is where you buy batik, songket and lace by the metre, as well as rattan baskets and, in a few old shops, attar perfumes blended to order. Bussorah Street, lined with palms and closed to traffic, frames the mosque at its end and is the place to sit in the evening."
+      ]
+    },
+    {
+      "title": "Haji Lane",
+      "image": "kampong-glam-2",
+      "meta": [
+        "Murals",
+        "Independent shops"
+      ],
+      "text": [
+        "Barely wider than a car, Haji Lane is painted from end to end and lined with small boutiques and bars. It is crowded at weekends and at sunset; on a weekday morning, before most shops open at around eleven, you can see the architecture properly."
+      ]
+    },
+    {
+      "title": "The Malay Heritage Centre",
+      "meta": [
+        "Istana Kampong Gelam",
+        "Museum"
+      ],
+      "text": [
+        "The palace built for the Sultan's family in the 1840s now houses the Malay Heritage Centre, set in a broad lawn that is one of the few open green spaces in the district. Check opening before you go: it closed for a major refresh and its reopening dates should be confirmed."
+      ]
+    }
+  ],
+  "bleed": {
+    "image": "kampong-glam-2",
+    "kicker": "Shade walk",
+    "title": "Bugis to Bussorah under the arcades",
+    "text": "A short loop from Bugis MRT through the covered arcades of Arab and Baghdad Streets, with the mosque at its centre and a long, slow stop for tea.",
+    "facts": [
+      {
+        "label": "Start",
+        "value": "Bugis MRT"
+      },
+      {
+        "label": "Length",
+        "value": "About 2 km"
+      },
+      {
+        "label": "Best",
+        "value": "8am or 5pm"
+      }
+    ],
+    "cta": "See the walk"
+  },
+  "eat": {
+    "title": "Murtabak, nasi padang and teh tarik",
+    "text": [
+      "The restaurants around the mosque are mostly family-run Indian-Muslim and Malay places that have been here for decades. Murtabak, a stuffed and griddled flatbread, is the dish to try; teh tarik, tea pulled until frothy, is what you drink with it."
+    ],
+    "items": [
+      {
+        "name": "North Bridge Road",
+        "text": "The row of long-established murtabak and biryani restaurants facing the mosque."
+      },
+      {
+        "name": "Golden Mile Food Centre",
+        "text": "Ten minutes' walk north-east on Beach Road, a large hawker centre with Malay, Thai and Chinese stalls."
+      },
+      {
+        "name": "Ramadan evenings",
+        "text": "During the fasting month the area hosts a busy evening food bazaar. Dates follow the Islamic calendar."
+      }
+    ]
+  },
+  "faq": [
+    {
+      "q": "What should I wear to visit the Sultan Mosque?",
+      "a": [
+        "Cover shoulders and legs. Robes are lent free at the entrance, and shoes come off before the carpet. Visitors can see the prayer hall from the designated area but not enter it during prayers."
+      ]
+    },
+    {
+      "q": "Is the area quiet during Ramadan?",
+      "a": [
+        "The opposite. Daytime is calmer, but evenings, after the breaking of the fast, are among the liveliest of the year. Be respectful about eating and drinking right outside the mosque in daylight hours."
+      ]
+    },
+    {
+      "q": "How long do I need?",
+      "a": [
+        "Two hours covers the mosque, Arab Street and Haji Lane at an easy pace. Add a meal and it becomes an evening."
+      ]
+    }
+  ],
+  "related": [
+    "little-india",
+    "civic-district",
+    "chinatown",
+    "katong"
+  ]
+}

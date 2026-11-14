@@ -1,0 +1,88 @@
+{
+  "id": "marina-bay",
+  "nav": "Marina Bay & Gardens by the Bay",
+  "meta": {
+    "title": "Marina Bay and Gardens by the Bay, planned around the heat | Five Foot Way",
+    "description": "Cooled conservatories for midday, the waterfront for the evening and the quieter Bay East Garden: how to see Marina Bay without wilting."
+  },
+  "hero": {
+    "kicker": "Gardens and waterfront",
+    "title": "Marina Bay & Gardens by the Bay",
+    "image": "marina-1",
+    "sub": "A garden built on reclaimed land, with two cooled glasshouses that make it the best place to spend a hot midday."
+  },
+  "info": [
+    { "label": "Nearest MRT", "value": "Gardens by the Bay, Bayfront, Marina Bay" },
+    { "label": "Best hours", "value": "Domes 12–3pm; waterfront after 6pm" },
+    { "label": "Waterfront loop", "value": "About 3.5 km" }
+  ],
+  "intro": {
+    "heading": "The new city, done at the right hour",
+    "chips": ["Conservatories", "Waterfront", "Evening"],
+    "text": [
+      "Everything you see around Marina Bay stands on land reclaimed from the sea since the 1970s. The bay itself was dammed by the Marina Barrage in 2008 and is now a freshwater reservoir. It is the Singapore of postcards, and we include it because it is genuinely worth seeing, just not at the hours most people choose.",
+      "Our advice is simple. Go to the cooled conservatories in the heat of the day, walk the waterfront after six when the breeze picks up, and use the Bay East Garden across the water for the view without the crowds."
+    ]
+  },
+  "rows": [
+    {
+      "title": "Cloud Forest",
+      "image": "marina-1",
+      "meta": ["Cooled conservatory", "Tickets required"],
+      "text": [
+        "A mountain inside a glasshouse, wrapped in orchids, ferns and pitcher plants, with an indoor waterfall and an elevated walkway. It is kept cool and moist like a tropical highland, which on a 33-degree afternoon feels like a gift."
+      ]
+    },
+    {
+      "title": "Flower Dome",
+      "meta": ["Cooled conservatory", "Mediterranean plants"],
+      "text": [
+        "The larger of the two glasshouses holds plants from the world's Mediterranean climates: olive trees hundreds of years old, baobabs, succulents, and a changing flower display in the centre. Cool and dry, it is a good pair with the Cloud Forest."
+      ]
+    },
+    {
+      "title": "Supertree Grove by day",
+      "meta": ["Free gardens", "Shade"],
+      "text": [
+        "The outdoor gardens are free to enter. In daylight you can see what the Supertrees are actually for: vertical gardens of ferns, bromeliads and climbers, some of which collect rainwater and vent air from the conservatories. The heritage gardens around them tell the story of Singapore's Chinese, Malay, Indian and colonial plant traditions."
+      ]
+    },
+    {
+      "title": "The waterfront and Marina Barrage",
+      "image": "marina-2",
+      "meta": ["Evening walk", "Picnics"],
+      "text": [
+        "The promenade around the bay makes a level loop of about three and a half kilometres, best after six. At the eastern end, the green roof of Marina Barrage is where Singaporeans fly kites and picnic at sunset."
+      ]
+    }
+  ],
+  "bleed": {
+    "image": "marina-2",
+    "kicker": "Evening walk",
+    "title": "The bay after six",
+    "text": "Start at the Asian Civilisations Museum, follow the water past the Esplanade and across the Helix Bridge, and finish at the Gardens for dinner. The sun is low, the breeze is up and the paving has cooled.",
+    "facts": [
+      { "label": "Start", "value": "Raffles Place MRT" },
+      { "label": "Length", "value": "About 3.5 km" },
+      { "label": "Best", "value": "6–8pm" }
+    ],
+    "cta": "See the shade walks"
+  },
+  "eat": {
+    "title": "Satay by the bay",
+    "text": [
+      "The hawker centre beside the Gardens is convenient rather than famous; for a better evening meal, walk back to Lau Pa Sat's satay street in the financial district, or take the MRT one stop to the Esplanade."
+    ],
+    "items": [
+      { "name": "Satay by the Bay", "text": "Hawker centre inside the Gardens. Convenient after the domes." },
+      { "name": "Lau Pa Sat", "text": "Satay grilled on the street from the evening. A 20-minute walk or two MRT stops." },
+      { "name": "Makansutra Gluttons Bay", "text": "Open-air stalls beside the Esplanade, facing the water." }
+    ]
+  },
+  "faq": [
+    { "q": "Do I need tickets?", "a": ["The outdoor gardens are free. The Cloud Forest, Flower Dome and some other attractions inside the Gardens are ticketed; buy online to avoid the queue."] },
+    { "q": "Is it worth staying for the evening light show?", "a": ["The Supertree light show runs twice nightly and is free. It is crowded and the grove is shadeless, but by then it has cooled down. We mention it, but we don't plan your trip around it."] },
+    { "q": "What if it rains?", "a": ["Head for the conservatories. They are the best wet-weather option in this part of the city, and storms rarely last more than an hour or two."] }
+  ],
+  "related": ["civic-district", "botanic-gardens", "changi", "southern-ridges"]
+}

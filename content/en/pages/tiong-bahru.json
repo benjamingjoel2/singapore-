@@ -1,0 +1,88 @@
+{
+  "id": "tiong-bahru",
+  "nav": "Tiong Bahru",
+  "meta": {
+    "title": "Tiong Bahru: art deco flats, the market and a slow morning | Five Foot Way",
+    "description": "Singapore's first public housing estate: curved 1930s flats, a hawker centre famous for breakfast, bakeries, bookshops and tree-shaded streets."
+  },
+  "hero": {
+    "kicker": "Heritage estate",
+    "title": "Tiong Bahru",
+    "image": "tiong-bahru-1",
+    "sub": "Curved balconies, spiral back stairs and the best breakfast market in town."
+  },
+  "info": [
+    { "label": "Nearest MRT", "value": "Tiong Bahru, Outram Park, Havelock" },
+    { "label": "Best hours", "value": "7–11am" },
+    { "label": "Shade walk", "value": "About 2 km, 1 hour" }
+  ],
+  "intro": {
+    "heading": "A 1930s housing estate that never lost its cool",
+    "chips": ["Art deco", "Breakfast", "Bookshops"],
+    "text": [
+      "Tiong Bahru means 'new cemetery' in a mix of Hokkien and Malay, a reminder of the burial ground that stood here before the Singapore Improvement Trust cleared it in the 1930s and built the colony's first public housing. The flats are in the Streamline Moderne style: rounded corners, horizontal ribbons of windows, spiral staircases at the back.",
+      "The estate is low-rise, tree-lined and walkable, and it is where Singapore comes for a slow weekend morning: kopi and chwee kueh at the market, a pastry at a bakery, an hour in an independent bookshop."
+    ]
+  },
+  "rows": [
+    {
+      "title": "The pre-war flats",
+      "image": "tiong-bahru-1",
+      "meta": ["Streamline Moderne", "Conserved 2003"],
+      "text": [
+        "The blocks between Tiong Bahru Road and Eng Hoon Street are the oldest, built between 1936 and 1941 and conserved since 2003. Walk the back lanes to see the spiral stairs and the light wells. The later post-war blocks, in a plainer style, surround them."
+      ]
+    },
+    {
+      "title": "Tiong Bahru Market",
+      "image": "tiong-bahru-2",
+      "meta": ["Wet market", "Hawker centre upstairs"],
+      "text": [
+        "A wet market downstairs, a hawker centre upstairs, and some of the most celebrated breakfast stalls in the city: chwee kueh (steamed rice cakes with preserved radish), lor mee, pau and kopi. Many stalls sell out or close by early afternoon."
+      ]
+    },
+    {
+      "title": "Qi Tian Gong and the side streets",
+      "meta": ["Monkey God temple", "Murals"],
+      "text": [
+        "Qi Tian Gong, a small temple to the Monkey God, sits at the edge of the estate. On the walls around Seng Poh Lane, murals by a local artist recall the old bird-singing corner, the fortune tellers and the market as it was."
+      ]
+    },
+    {
+      "title": "Bakeries and bookshops",
+      "meta": ["Morning", "Independent shops"],
+      "text": [
+        "Over the last two decades, small cafés, bakeries and independent shops have moved into the ground floors of the flats. It is a pleasant place to spend a rainy hour. Many open late morning and close one day a week, so check before you plan around a particular shop."
+      ]
+    }
+  ],
+  "bleed": {
+    "image": "tiong-bahru-2",
+    "kicker": "Shade walk",
+    "title": "A loop through the estate",
+    "text": "Out of the MRT, through the market for breakfast, and around the pre-war blocks under their deep eaves and big rain trees.",
+    "facts": [
+      { "label": "Start", "value": "Tiong Bahru MRT" },
+      { "label": "Length", "value": "About 2 km" },
+      { "label": "Best", "value": "7:30am" }
+    ],
+    "cta": "See the walk"
+  },
+  "eat": {
+    "title": "Go early, go hungry",
+    "text": [
+      "Tiong Bahru is the place where the hawker breakfast is at its best. Arrive by eight, find a seat, and order from several stalls rather than one."
+    ],
+    "items": [
+      { "name": "Tiong Bahru Market", "text": "Chwee kueh, lor mee, fishball noodles, kopi. Mornings." },
+      { "name": "Seng Poh Road kopitiams", "text": "Old-style coffee shops with dim sum in the morning and zi char in the evening." },
+      { "name": "ABC Brickworks Food Centre", "text": "A short taxi away, a neighbourhood centre with fewer visitors." }
+    ]
+  },
+  "faq": [
+    { "q": "Is the market open every day?", "a": ["The market itself opens daily, but individual stalls set their own rest days, and the whole centre closes for a few days of cleaning several times a year. Check the National Environment Agency's cleaning schedule before you go."] },
+    { "q": "Can I visit the WWII air-raid shelter?", "a": ["Block 78 contains one of the few surviving pre-war residential air-raid shelters. It is not open daily; it opens only for occasional guided tours, so check with the heritage board first."] },
+    { "q": "How do I combine it with other areas?", "a": ["Tiong Bahru is one stop from Outram Park and a fifteen-minute walk from Chinatown. A good morning is breakfast here, then Chinatown before the heat."] }
+  ],
+  "related": ["chinatown", "southern-ridges", "botanic-gardens", "civic-district"]
+}

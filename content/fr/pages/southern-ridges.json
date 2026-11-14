@@ -1,0 +1,88 @@
+{
+  "id": "southern-ridges",
+  "nav": "Les Southern Ridges",
+  "meta": {
+    "title": "Les Southern Ridges : Henderson Waves et Forest Walk | Five Foot Way",
+    "description": "Dix kilomètres de parcs perchés et de passerelles au-dessus de la ville, de Mount Faber à Kent Ridge, à parcourir de préférence à l'aube."
+  },
+  "hero": {
+    "kicker": "Balade sur les crêtes",
+    "title": "Les Southern Ridges",
+    "image": "ridges-1",
+    "sub": "Un chapelet de collines vertes reliées par des ponts, loin au-dessus du port et de la ville."
+  },
+  "info": [
+    { "label": "Départ", "value": "MRT HarbourFront ou MRT Kent Ridge" },
+    { "label": "Meilleurs horaires", "value": "6 h 30 – 9 h 30, ou à partir de 16 h 30" },
+    { "label": "Balade", "value": "Environ 10 km, 3 à 4 heures" }
+  ],
+  "intro": {
+    "heading": "Une balade dans les airs",
+    "chips": ["Ponts", "Parcs perchés", "Panoramas"],
+    "text": [
+      "Les Southern Ridges relient cinq parcs le long des collines basses du sud de Singapour : Mount Faber, Telok Blangah Hill, HortPark, Kent Ridge et les abords de la Labrador Nature Reserve. Là où les routes entaillent la crête, ponts et passerelles vous font passer au-dessus : on peut marcher des heures sans toucher un trottoir.",
+      "Une grande partie de l'itinéraire traverse une forêt secondaire, plus ombragée qu'on ne l'imagine. Les ponts, eux, sont exposés. Partez tôt, ou faites la balade en fin d'après-midi pour terminer à Mount Faber au coucher du soleil."
+    ]
+  },
+  "rows": [
+    {
+      "title": "Henderson Waves",
+      "image": "ridges-1",
+      "meta": ["Passerelle piétonne", "Illuminée la nuit"],
+      "text": [
+        "La plus haute passerelle piétonne de Singapour ondule au-dessus de Henderson Road en une série de nervures de bois qui s'enroulent pour former des bancs ombragés. Elle relie Mount Faber à Telok Blangah Hill. Le soir, elle s'illumine, et la vue sur les îles du sud est alors à son meilleur."
+      ]
+    },
+    {
+      "title": "La Forest Walk",
+      "image": "ridges-2",
+      "meta": ["Passerelle suspendue", "À hauteur de canopée"],
+      "text": [
+        "Une passerelle en acier qui serpente à travers les cimes de Telok Blangah Hill, parfois à hauteur de canopée. On marche au niveau des oiseaux et des écureuils, et la forêt offre une vraie ombre. Un sentier en terre court en contrebas pour ceux qui préfèrent le plancher des vaches."
+      ]
+    },
+    {
+      "title": "Alexandra Arch et HortPark",
+      "meta": ["Pont", "Jardins"],
+      "text": [
+        "Un pont en forme de feuille mène à HortPark, un parc dédié au jardinage avec parcelles thématiques, serres et toilettes : une bonne étape à mi-parcours."
+      ]
+    },
+    {
+      "title": "Kent Ridge Park",
+      "meta": ["Passerelle dans la canopée", "Histoire de la guerre"],
+      "text": [
+        "À l'extrémité ouest, une passerelle serpente dans la forêt de Kent Ridge, où se déroula en février 1942 l'une des dernières batailles avant la chute de Singapour. Le musée Reflections at Bukit Chandu raconte cette histoire."
+      ]
+    }
+  ],
+  "bleed": {
+    "image": "ridges-2",
+    "kicker": "Balade sur les crêtes",
+    "title": "De Kent Ridge à Mount Faber",
+    "text": "D'ouest en est, pour avoir le soleil du matin dans le dos sur les ponts exposés, et finir près du téléphérique et du MRT à HarbourFront.",
+    "facts": [
+      { "label": "Départ", "value": "MRT Kent Ridge" },
+      { "label": "Arrivée", "value": "MRT HarbourFront" },
+      { "label": "Partir avant", "value": "7 h" }
+    ],
+    "cta": "Voir la balade"
+  },
+  "eat": {
+    "title": "Petit-déjeuner au pied de la colline",
+    "text": [
+      "Il y a très peu d'endroits où manger sur les crêtes. Mangez avant de partir et emportez de l'eau : on trouve des fontaines dans les parcs, mais pas sur les ponts."
+    ],
+    "items": [
+      { "name": "Les hawker centres de Telok Blangah", "text": "Des hawker centres de quartier au pied de la colline, fréquentés par les habitants." },
+      { "name": "HortPark", "text": "Toilettes, eau et ombre à mi-parcours." },
+      { "name": "HarbourFront", "text": "Centres commerciaux et food courts climatisés au bout de la balade." }
+    ]
+  },
+  "faq": [
+    { "q": "Peut-on n'en faire qu'une partie ?", "a": ["Sans problème. La section la plus fréquentée va de Mount Faber à Telok Blangah Hill par Henderson Waves, soit environ 3 kilomètres. De Kent Ridge à HortPark, c'est la plus tranquille."] },
+    { "q": "Peut-on y aller sous la pluie ?", "a": ["Une pluie légère est agréable sous les arbres. En cas d'orage, quittez immédiatement les ponts et les sections exposées ; les abris les plus proches sont à HortPark et au sommet de Mount Faber."] },
+    { "q": "Y a-t-il un téléphérique ?", "a": ["Oui, de Mount Faber jusqu'à HarbourFront, puis vers Sentosa. Il est payant et constitue une belle fin de parcours pour les jambes fatiguées."] }
+  ],
+  "related": ["botanic-gardens", "nature-reserves", "tiong-bahru", "marina-bay"]
+}

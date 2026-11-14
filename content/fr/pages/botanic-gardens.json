@@ -1,0 +1,88 @@
+{
+  "id": "botanic-gardens",
+  "nav": "Singapore Botanic Gardens",
+  "meta": {
+    "title": "Singapore Botanic Gardens : le jardin UNESCO à l'aube | Five Foot Way",
+    "description": "Premier site de Singapour classé par l'UNESCO : un jardin de 160 ans avec une parcelle de forêt primaire, le National Orchid Garden et des balades à l'aube."
+  },
+  "hero": {
+    "kicker": "Patrimoine mondial de l'UNESCO",
+    "title": "Singapore Botanic Gardens",
+    "image": "botanic-1",
+    "sub": "Un jardin victorien qui abrite une forêt tropicale, ouvert dès 5 h du matin et à son meilleur avant 8 h."
+  },
+  "info": [
+    { "label": "MRT les plus proches", "value": "Botanic Gardens, Napier" },
+    { "label": "Meilleurs horaires", "value": "6 h 30 – 9 h 30" },
+    { "label": "Balade dans le jardin", "value": "Environ 3 à 4 km, 2 heures" }
+  ],
+  "intro": {
+    "heading": "Le jardin qui a changé une économie",
+    "chips": ["UNESCO 2015", "Orchidées", "Forêt tropicale"],
+    "text": [
+      "Fondés en 1859, les Botanic Gardens sont devenus en 2015 le premier site de Singapour inscrit au patrimoine mondial de l'UNESCO, en tant qu'exemple exceptionnel de jardin botanique colonial britannique sous les tropiques. C'est ici, à la fin du XIXe siècle, que le directeur Henry Ridley mit au point la méthode de saignée des hévéas qui allait transformer l'économie de toute la région.",
+      "C'est aujourd'hui le parc préféré des Singapouriens : joggeurs à l'aube, groupes de tai-chi sur les pelouses, familles le dimanche. L'entrée des jardins est gratuite. Venez tôt, quand la lumière est rasante et les allées à l'ombre, et prévoyez de repartir avant 10 h."
+    ]
+  },
+  "rows": [
+    {
+      "title": "La forêt tropicale",
+      "meta": ["Forêt originelle", "Passerelle"],
+      "text": [
+        "Quelques hectares de forêt primaire, plus anciens que les jardins eux-mêmes, subsistent du côté de Tanglin. Une passerelle vous mène sous des arbres qui étaient là avant la colonie. C'est l'endroit le plus accessible de la ville pour se retrouver dans une vraie forêt tropicale."
+      ]
+    },
+    {
+      "title": "National Orchid Garden",
+      "image": "botanic-2",
+      "meta": ["Billet obligatoire", "Serre fraîche"],
+      "text": [
+        "La plus grande collection d'orchidées tropicales au monde, dont des hybrides baptisés du nom de chefs d'État en visite. Une petite serre climatisée abrite les espèces d'altitude. C'est la seule partie des jardins dont l'entrée est payante."
+      ]
+    },
+    {
+      "title": "Swan Lake et le kiosque à musique",
+      "image": "botanic-1",
+      "meta": ["Paysage historique", "Lumière du matin"],
+      "text": [
+        "Le cœur historique des jardins : Swan Lake et ses cygnes tuberculés, le Bandstand octogonal sur sa butte et des pelouses dessinées dans le style paysager anglais. Tôt le matin, une brume flotte parfois sur l'eau."
+      ]
+    },
+    {
+      "title": "La Learning Forest",
+      "meta": ["Passerelle suspendue", "Zone humide"],
+      "text": [
+        "Une section plus récente côté Bukit Timah, avec une passerelle à travers une forêt marécageuse d'eau douce et un chemin suspendu à hauteur de cimes. Moins fréquentée, elle est très paisible le matin."
+      ]
+    }
+  ],
+  "bleed": {
+    "image": "botanic-1",
+    "kicker": "Balade à l'ombre",
+    "title": "De Tanglin Gate à Bukit Timah Gate",
+    "text": "Les jardins dans toute leur longueur, du sud au nord, à travers la forêt tropicale, devant Swan Lake et l'Orchid Garden, jusqu'à la station de MRT. Presque entièrement sous les arbres.",
+    "facts": [
+      { "label": "Départ", "value": "MRT Napier, Tanglin Gate" },
+      { "label": "Arrivée", "value": "MRT Botanic Gardens" },
+      { "label": "Idéal", "value": "6 h 30" }
+    ],
+    "cta": "Voir la balade"
+  },
+  "eat": {
+    "title": "Petit-déjeuner aux portes des jardins",
+    "text": [
+      "Il y a des cafés dans les jardins, mais le meilleur petit-déjeuner se trouve à quelques pas, dans un hawker centre de quartier."
+    ],
+    "items": [
+      { "name": "Adam Road Food Centre", "text": "Nasi lemak et prata, à dix minutes de Bukit Timah Gate." },
+      { "name": "Dempsey Hill", "text": "Une ancienne caserne transformée en restaurants et galeries, à quelques pas de Tanglin Gate." },
+      { "name": "Dans les jardins", "text": "Quelques cafés près des entrées principales, pour un café ou une boisson fraîche." }
+    ]
+  },
+  "faq": [
+    { "q": "Quels sont les horaires d'ouverture ?", "a": ["Les jardins ouvrent très tôt le matin et ferment tard le soir, tous les jours ; le National Orchid Garden a des horaires plus restreints. Vérifiez sur le site des jardins avant d'y aller."] },
+    { "q": "Est-ce adapté aux enfants ?", "a": ["Oui. Le Jacob Ballas Children's Garden, à l'extrémité nord, propose jeux d'eau, cabanes dans les arbres et une petite ferme. Il a ses propres horaires et ferme certains jours."] },
+    { "q": "Que faire en cas d'orage ?", "a": ["Des abris sont répartis dans les jardins. Quand la foudre est proche, éloignez-vous des pelouses dégagées et des arbres isolés, et attendez la fin de l'orage sous un abri ou au centre d'accueil des visiteurs."] }
+  ],
+  "related": ["nature-reserves", "tiong-bahru", "southern-ridges", "marina-bay"]
+}

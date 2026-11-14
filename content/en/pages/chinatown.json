@@ -1,0 +1,167 @@
+{
+  "id": "chinatown",
+  "nav": "Chinatown & Tanjong Pagar",
+  "meta": {
+    "title": "Chinatown and Tanjong Pagar on foot | Five Foot Way",
+    "description": "Shophouse lanes, temples and some of Singapore's best hawker centres, walked under the five-foot ways in the cool of the morning."
+  },
+  "hero": {
+    "kicker": "Shophouse neighbourhood",
+    "title": "Chinatown & Tanjong Pagar",
+    "image": "chinatown-1",
+    "sub": "Temple bells, kopi at seven, and a street grid built for the shade long before anyone said climate-ready."
+  },
+  "info": [
+    {
+      "label": "Nearest MRT",
+      "value": "Chinatown, Maxwell, Outram Park, Tanjong Pagar"
+    },
+    {
+      "label": "Best hours",
+      "value": "7–10am, then after 5pm"
+    },
+    {
+      "label": "Shade walk",
+      "value": "About 3 km, 1.5 hours"
+    }
+  ],
+  "intro": {
+    "heading": "Five-foot ways and temple courtyards",
+    "chips": [
+      "Shophouses",
+      "Temples",
+      "Hawker centres"
+    ],
+    "text": [
+      "Chinatown is the most visited of the shophouse districts and still the easiest place to see how the old city worked. The 1822 Jackson Plan set aside this bank of the Singapore River for Chinese settlers, and the 1820s rules that followed asked every shophouse to give up a covered walkway at its front: the five-foot way that gives this site its name.",
+      "Walk it early. Before ten the lanes belong to people buying breakfast, temple-goers and shopkeepers rolling up shutters. By midday the tour groups and the heat arrive together. Come back after five, when Tanjong Pagar's bars and Keong Saik's dining rooms light up and the air finally moves."
+    ]
+  },
+  "rows": [
+    {
+      "title": "Telok Ayer and Amoy Street",
+      "image": "chinatown-2",
+      "meta": [
+        "Shophouses",
+        "Places of worship"
+      ],
+      "text": [
+        "This was the waterfront before land reclamation pushed the sea out of sight. Thian Hock Keng, the Hokkien temple where sailors gave thanks for safe passage, stands a few doors from the Al-Abrar Mosque and the Nagore Dargah, a Tamil Muslim shrine. Behind them, Amoy Street's shophouses are now offices on top and small restaurants below."
+      ]
+    },
+    {
+      "title": "Ann Siang Hill and Club Street",
+      "meta": [
+        "Lanes",
+        "Small parks"
+      ],
+      "text": [
+        "A short climb from Telok Ayer, Ann Siang Hill is one of the few places in the old town with a gradient. Restored shophouses line Club Street and Ann Siang Road, once home to clan associations and guilds. A small park with stairs and boardwalks connects the hill to Amoy Street and makes a shaded short cut."
+      ]
+    },
+    {
+      "title": "South Bridge Road temples",
+      "image": "chinatown-3",
+      "meta": [
+        "Sri Mariamman Temple",
+        "Buddha Tooth Relic Temple"
+      ],
+      "text": [
+        "Sri Mariamman, Singapore's oldest Hindu temple, was founded in 1827 by settlers from South India, and its gopuram tower is crowded with painted deities. A block away, the Buddha Tooth Relic Temple is new (it opened in 2007) but built in a Tang dynasty style, with a rooftop orchid garden. Shoulders and knees covered for both; shoes off at Sri Mariamman."
+      ]
+    },
+    {
+      "title": "Keong Saik and Duxton",
+      "meta": [
+        "Evenings",
+        "Dining"
+      ],
+      "text": [
+        "Keong Saik Road curves past some of the prettiest façades in the city, painted in the pastel colours this site borrows. Once a red-light street, it is now lined with restaurants and small hotels. Duxton Hill, around the corner, is quieter: a ring of shophouses around a small green rise."
+      ]
+    },
+    {
+      "title": "Chinatown Complex and Smith Street",
+      "meta": [
+        "Hawker centre",
+        "Wet market"
+      ],
+      "text": [
+        "Chinatown Complex Food Centre, above a wet market on Smith Street, is the largest hawker centre in Singapore by number of stalls. It is concrete, fan-cooled and busy, and it is where Chinatown actually eats. Go up the escalator, walk one full lap before choosing, and look for the queues of locals rather than the laminated awards."
+      ]
+    }
+  ],
+  "bleed": {
+    "image": "chinatown-2",
+    "kicker": "Shade walk",
+    "title": "Telok Ayer to Tanjong Pagar in the shade",
+    "text": "Our route stays under five-foot ways for most of its length, with three hawker centres and two MRT stations as storm shelters along the way.",
+    "facts": [
+      {
+        "label": "Start",
+        "value": "Telok Ayer MRT"
+      },
+      {
+        "label": "Finish",
+        "value": "Tanjong Pagar MRT"
+      },
+      {
+        "label": "Covered",
+        "value": "Most of the way"
+      }
+    ],
+    "cta": "See the walk"
+  },
+  "eat": {
+    "title": "Three hawker centres within ten minutes",
+    "text": [
+      "Few places in the city put so many good hawker centres so close together. Each has its own rhythm: one for breakfast, one for lunch, one for the office crowd."
+    ],
+    "items": [
+      {
+        "name": "Maxwell Food Centre",
+        "text": "Hainanese chicken rice, fish soup, and the queues that go with them. Best before 11am or after 2pm."
+      },
+      {
+        "name": "Chinatown Complex Food Centre",
+        "text": "The biggest choice in one place: claypot rice, Hong Kong-style roast meats, craft beer stalls."
+      },
+      {
+        "name": "Amoy Street Food Centre",
+        "text": "A weekday lunch institution for the offices around it. Many stalls are closed at weekends."
+      }
+    ]
+  },
+  "faq": [
+    {
+      "q": "Can visitors go into the temples?",
+      "a": [
+        "Yes. Thian Hock Keng, Sri Mariamman and the Buddha Tooth Relic Temple all welcome visitors outside services. Cover shoulders and knees, take your shoes off where asked, and ask before photographing people at prayer."
+      ]
+    },
+    {
+      "q": "When is Chinatown at its busiest?",
+      "a": [
+        "The weeks before Chinese New Year (January or February, depending on the lunar calendar), when the street bazaar and light-up draw very large crowds. Weekday mornings are the calmest time all year."
+      ]
+    },
+    {
+      "q": "Where can I wait out a storm?",
+      "a": [
+        "The five-foot ways keep you dry in all but the windiest squalls. For longer storms, the hawker centres, Chinatown Point and the underground link at Chinatown MRT are all close by."
+      ]
+    },
+    {
+      "q": "Is it a good area to stay in?",
+      "a": [
+        "Yes, especially for a short stay: it is central, has three MRT lines, and the restored shophouse hotels around Keong Saik and Duxton are some of the most characterful in the city. See [Stays](@stays)."
+      ]
+    }
+  ],
+  "related": [
+    "tiong-bahru",
+    "civic-district",
+    "kampong-glam",
+    "little-india"
+  ]
+}

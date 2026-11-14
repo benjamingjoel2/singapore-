@@ -1,0 +1,89 @@
+{
+  "id": "nature-reserves",
+  "nav": "Les réserves naturelles",
+  "meta": {
+    "title": "Bukit Timah, MacRitchie, Sungei Buloh : la jungle en ville | Five Foot Way",
+    "description": "Forêt primaire, pont suspendu à hauteur de cimes et passerelles dans la mangrove, en MRT et en bus : quand et comment parcourir les réserves de Singapour."
+  },
+  "hero": {
+    "kicker": "Forêt tropicale et mangrove",
+    "title": "Les réserves naturelles",
+    "image": "nature-1",
+    "sub": "Une forêt primaire desservie par les bus de ville : Bukit Timah, la forêt de MacRitchie et les mangroves de Sungei Buloh."
+  },
+  "info": [
+    { "label": "Accès", "value": "MRT, puis un court trajet en bus ou à pied" },
+    { "label": "Meilleurs horaires", "value": "Partez avant 7 h 30" },
+    { "label": "À emporter", "value": "De l'eau, un répulsif anti-insectes, un coupe-pluie léger" }
+  ],
+  "intro": {
+    "heading": "La forêt qui a survécu à la ville",
+    "chips": ["Forêt primaire", "Mangroves", "Faune"],
+    "text": [
+      "L'essentiel de la forêt originelle de Singapour a été défriché au XIXe siècle pour les plantations. Ce qui a survécu, autour de la colline de Bukit Timah et des réservoirs du centre de l'île, est aujourd'hui protégé, et compte sur quelques hectares plus d'espèces d'arbres que bien des pays n'en ont au total. Macaques crabiers, colugos, varans et calaos vivent à quelques arrêts de bus des centres commerciaux.",
+      "Ce sont de vraies randonnées dans une forêt chaude et humide. Partez tôt, emportez plus d'eau que vous ne le pensez, restez sur les sentiers balisés et ne nourrissez jamais les singes : c'est illégal et cela les rend agressifs."
+    ]
+  },
+  "rows": [
+    {
+      "title": "Bukit Timah Nature Reserve",
+      "image": "nature-1",
+      "meta": ["Point culminant, 163 m", "Sentiers raides"],
+      "text": [
+        "La plus haute colline de Singapour est couverte par l'une des plus grandes parcelles de forêt primaire subsistant en ville. Le sentier principal vers le sommet est court mais raide, et les sentiers secondaires sont rocailleux et boueux après la pluie. Allez-y à l'aube, quand la forêt résonne du chant des oiseaux et que l'air est encore frais."
+      ]
+    },
+    {
+      "title": "MacRitchie et le TreeTop Walk",
+      "image": "nature-2",
+      "meta": ["Pont suspendu", "Fermé certains jours"],
+      "text": [
+        "Une boucle de sentiers forestiers et de passerelles autour du MacRitchie Reservoir mène au TreeTop Walk, un pont suspendu autoportant qui relie les deux points les plus hauts de la réserve, loin au-dessus du sol de la forêt. La boucle complète est longue, environ onze kilomètres : prévoyez une demi-journée. Le pont a des horaires restreints et ferme certains jours."
+      ]
+    },
+    {
+      "title": "Sungei Buloh Wetland Reserve",
+      "image": "nature-3",
+      "meta": ["Mangroves", "Oiseaux migrateurs"],
+      "text": [
+        "À l'extrême nord-ouest, face à la Malaisie de l'autre côté du détroit de Johor, passerelles dans la mangrove et vasières attirent les limicoles migrateurs de septembre à mars environ. Crocodiles marins et varans se prélassent sur les berges. Consultez l'horaire des marées : la marée basse fait sortir les oiseaux et les périophtalmes."
+      ]
+    },
+    {
+      "title": "Comment se comporter en forêt",
+      "meta": ["Règles", "Sécurité"],
+      "text": [
+        "Restez sur les sentiers balisés, gardez la nourriture hors de vue, et ne nourrissez ni n'approchez les macaques. La foudre est un vrai danger : quand un orage arrive, quittez les crêtes et les ponts exposés et attendez dans un abri. Prévenez quelqu'un de votre destination et de l'heure prévue de votre retour."
+      ]
+    }
+  ],
+  "bleed": {
+    "image": "nature-2",
+    "kicker": "Balade en forêt",
+    "title": "MacRitchie sous la canopée",
+    "text": "Des passerelles au bord du réservoir, des sentiers forestiers jusqu'au TreeTop Walk, et retour par le même chemin si un orage se prépare. À l'ombre presque tout du long.",
+    "facts": [
+      { "label": "Départ", "value": "MacRitchie Reservoir Park" },
+      { "label": "Longueur", "value": "Boucle d'environ 11 km" },
+      { "label": "Partir avant", "value": "7 h 30" }
+    ],
+    "cta": "Voir la balade"
+  },
+  "eat": {
+    "title": "Reprendre des forces après le sentier",
+    "text": [
+      "Aucune des réserves ne propose grand-chose à manger. Mangez avant, emportez des en-cas et prévoyez un vrai repas après."
+    ],
+    "items": [
+      { "name": "Beauty World", "text": "Près de Bukit Timah, un hawker centre au dernier étage d'un ancien bâtiment de marché." },
+      { "name": "Thomson Road", "text": "À quelques arrêts de bus de MacRitchie, avec plusieurs cafés à l'ancienne." },
+      { "name": "Kranji", "text": "Pour Sungei Buloh, emportez des en-cas : le secteur est rural et les options sont rares." }
+    ]
+  },
+  "faq": [
+    { "q": "Les réserves sont-elles sûres ?", "a": ["Oui, si vous respectez les règles : restez sur les sentiers, emportez de l'eau, respectez la faune et prenez la foudre au sérieux. Les serpents sont présents mais rarement visibles, et ne posent presque jamais de problème sur les sentiers principaux."] },
+    { "q": "Faut-il un guide ?", "a": ["Pas pour les sentiers principaux, bien balisés. Un guide naturaliste fait toute la différence si vous voulez observer la faune ; nous pouvons en réserver un sur simple [demande](@enquire)."] },
+    { "q": "Quelle tenue porter ?", "a": ["Des vêtements légers à séchage rapide, des chaussures fermées qui accrochent, un chapeau et un répulsif anti-insectes. Un coupe-pluie léger ou un petit parapluie tient dans un sac de journée."] }
+  ],
+  "related": ["botanic-gardens", "southern-ridges", "mandai", "pulau-ubin"]
+}

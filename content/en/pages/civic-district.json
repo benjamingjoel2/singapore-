@@ -1,0 +1,88 @@
+{
+  "id": "civic-district",
+  "nav": "The Civic District",
+  "meta": {
+    "title": "The Civic District: the Padang, museums and the Singapore River | Five Foot Way",
+    "description": "Colonial landmarks, Singapore's best museums and the riverside, connected by covered walkways and air-conditioned links that make it the city's best rainy-day quarter."
+  },
+  "hero": {
+    "kicker": "Museums and monuments",
+    "title": "The Civic District",
+    "image": "civic-1",
+    "sub": "Where colonial Singapore built its courts and churches, and where independent Singapore now keeps its art."
+  },
+  "info": [
+    { "label": "Nearest MRT", "value": "City Hall, Esplanade, Raffles Place, Fort Canning" },
+    { "label": "Best hours", "value": "Museums at midday; river at dusk" },
+    { "label": "Shade walk", "value": "About 3 km, mostly covered" }
+  ],
+  "intro": {
+    "heading": "The rainy-day quarter",
+    "chips": ["Museums", "Colonial architecture", "Riverside"],
+    "text": [
+      "When Stamford Raffles laid out the town in the 1820s, the land north of the river was reserved for government. Two centuries later, the Padang is still the open green at its heart, framed by the former Supreme Court and City Hall (now the National Gallery), St Andrew's Cathedral, the Victoria Theatre and the old Parliament House.",
+      "This is the district we send people to when the forecast is bad. The museums are excellent and cool, the colonial buildings have deep verandas, and an underground mall links City Hall to the Esplanade, so you can cross half the district without seeing the sky."
+    ]
+  },
+  "rows": [
+    {
+      "title": "National Gallery Singapore",
+      "image": "civic-1",
+      "meta": ["Southeast Asian art", "Rooftop"],
+      "text": [
+        "The former Supreme Court and City Hall, joined under a single canopy, hold the world's largest public collection of modern Southeast Asian art. Give it half a day. The rooftop looks over the Padang to Marina Bay."
+      ]
+    },
+    {
+      "title": "Asian Civilisations Museum and the river",
+      "image": "civic-2",
+      "meta": ["Museum", "Riverside walk"],
+      "text": [
+        "On the riverbank where Raffles is said to have landed, the Asian Civilisations Museum tells the story of the trade routes that made Singapore. Its Tang Shipwreck gallery, with cargo from a ninth-century Arab dhow, is a highlight. Outside, Cavenagh Bridge leads across to the shophouses of Boat Quay."
+      ]
+    },
+    {
+      "title": "Peranakan Museum and National Museum",
+      "meta": ["Peranakan culture", "Singapore history"],
+      "text": [
+        "The Peranakan Museum, in a former school on Armenian Street, has the finest collection of Peranakan beadwork, porcelain and jewellery anywhere. Around the corner, the National Museum of Singapore covers the city's history from the 14th century to the present."
+      ]
+    },
+    {
+      "title": "Fort Canning Park",
+      "meta": ["Hill park", "Spice garden"],
+      "text": [
+        "The hill behind the museums was the seat of Malay kings in the 14th century and the colonial governor's home in the 19th. Today it is a shaded park with a spice garden, archaeological digs and the Battlebox, the underground command centre of the British surrender in 1942."
+      ]
+    }
+  ],
+  "bleed": {
+    "image": "civic-2",
+    "kicker": "Shade walk",
+    "title": "City Hall to Boat Quay, mostly under cover",
+    "text": "Underground from City Hall to the Esplanade, along the colonnades of the Padang, past the theatres to the river. On a stormy afternoon this is the walk to do.",
+    "facts": [
+      { "label": "Start", "value": "City Hall MRT" },
+      { "label": "Finish", "value": "Raffles Place MRT" },
+      { "label": "Covered", "value": "About two thirds" }
+    ],
+    "cta": "See the walk"
+  },
+  "eat": {
+    "title": "Hawker lunches between museums",
+    "text": [
+      "Office towers surround the district, so lunch is serious business here. The hawker centres fill from 12 to 1.30pm on weekdays; go just before or after."
+    ],
+    "items": [
+      { "name": "Lau Pa Sat", "text": "A Victorian cast-iron market hall in the financial district. In the evening, the street beside it becomes a satay grill." },
+      { "name": "Hong Lim Market & Food Centre", "text": "A short walk across the river, with several long-established noodle stalls." },
+      { "name": "Esplanade waterfront", "text": "Makansutra Gluttons Bay, a small open-air hawker strip beside the theatres." }
+    ]
+  },
+  "faq": [
+    { "q": "Are the museums free?", "a": ["Admission policies differ. Some galleries and museums offer free entry to residents but charge visitors; check each museum's website for current tickets and free-entry days."] },
+    { "q": "What is the best wet-weather plan?", "a": ["Start at the National Gallery, take the underground link from City Hall to the Esplanade, and finish at the Asian Civilisations Museum. You can do the whole day without an umbrella."] },
+    { "q": "Is there anything at night?", "a": ["The Esplanade often has free performances on its outdoor stage, and the river walk from the Asian Civilisations Museum to Clarke Quay is at its best after dark."] }
+  ],
+  "related": ["marina-bay", "chinatown", "kampong-glam", "botanic-gardens"]
+}

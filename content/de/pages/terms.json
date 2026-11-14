@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "title": "Buchungsbedingungen | Five Foot Way",
+    "description": "Die Bedingungen, die gelten, wenn Sie eine Singapur-Reise mit Five Foot Way planen und buchen."
+  },
+  "kicker": "Rechtliches",
+  "title": "Buchungsbedingungen",
+  "updated": "Zuletzt aktualisiert: 14. November 2026",
+  "tocLabel": "Inhalt",
+  "intro": "Diese Bedingungen gelten für jede Reise, die von {brand}, {address} ([{email}](mailto:{email})) geplant oder gebucht wird. Bitte lesen Sie sie, bevor Sie eine Buchung bestätigen. Mit Ihrer Bestätigung erkennen Sie sie im Namen aller Mitreisenden an.",
+  "sections": [
+    { "h": "Unsere Leistung", "p": ["{brand} plant Reisen nach Singapur und vermittelt Leistungen Dritter, etwa Hotels, Guides, Transfers und Eintrittskarten. Sofern wir nicht schriftlich etwas anderes erklären, handeln wir bei der Vermittlung dieser Leistungen als Ihr Vermittler; für deren Erbringung ist das jeweilige Hotel, der Guide oder sonstige Leistungsträger nach dessen eigenen Bedingungen verantwortlich, die wir Ihnen auf Anfrage zur Verfügung stellen."] },
+    { "h": "Anfragen und Angebote", "p": ["Unsere erste Antwort und erste Ideen sind kostenlos und unverbindlich. Wenn Sie einen vollständigen Vorschlag wünschen, senden wir Ihnen ein schriftliches Angebot, das die enthaltenen Leistungen, den Gesamtpreis, nicht enthaltene Leistungen, den Zahlungsplan und die geltenden Stornobedingungen aufführt. Die Preise in einem Angebot gelten bis zu dem darin genannten Datum. Preise auf dieser Website sind, sofern angegeben, „ab“-Preise und werden erst in einem schriftlichen Angebot verbindlich bestätigt."] },
+    { "h": "Buchung und Zahlung", "p": ["Eine Buchung ist verbindlich, sobald Sie unser Angebot schriftlich annehmen und die darin genannte Anzahlung bei uns eingegangen ist. Anschließend bestätigen wir Ihnen die Buchung per E-Mail. Der Restbetrag ist bis zu dem im Angebot genannten Datum fällig. Wird der Restbetrag nicht fristgerecht gezahlt, können wir die Buchung als von Ihnen storniert behandeln; in diesem Fall gelten die nachstehenden Stornobedingungen.", "Zahlungen erfolgen per Banküberweisung oder per Karte über einen sicheren Zahlungslink. Wir fragen niemals per E-Mail nach Kartendaten."] },
+    { "h": "Änderungen durch Sie", "p": ["Wenn Sie Ihre Buchung nach der Bestätigung ändern möchten, teilen Sie uns dies bitte so früh wie möglich schriftlich mit. Wir werden unser Bestes tun, um zu helfen. Zusätzliche Kosten der Leistungsträger sowie ein angemessener Bearbeitungsaufwand werden an Sie weitergegeben; den Betrag nennen wir Ihnen, bevor wir die Änderung vornehmen."] },
+    { "h": "Stornierung durch Sie", "p": ["Sie können jederzeit schriftlich stornieren. Die Stornokosten richten sich danach, wie kurz vor Reisebeginn Sie stornieren, sowie nach den Bedingungen der Leistungsträger, und sind in Ihrem schriftlichen Angebot aufgeführt. Beträge, die weder an Leistungsträger geschuldet sind noch auf bereits erbrachte Arbeit entfallen, erstatten wir innerhalb von 30 Tagen."] },
+    { "h": "Änderungen und Stornierung durch uns", "p": ["Gelegentlich müssen wir oder ein Leistungsträger einen Teil Ihrer Reise ändern, etwa wenn ein Hotel nicht mehr verfügbar ist oder eine Sehenswürdigkeit schließt. Wir bieten Ihnen dann eine gleichwertige Alternative an und informieren Sie so bald wie möglich. Müssen wir vor der Abreise eine erhebliche Änderung vornehmen, können Sie diese annehmen, eine Alternative wählen oder stornieren und erhalten in diesem Fall alle an uns geleisteten Zahlungen vollständig zurück. Für Entschädigungen haften wir nicht, wenn die Änderung durch Ereignisse außerhalb unseres Einflussbereichs verursacht wird."] },
+    { "h": "Ereignisse außerhalb unseres Einflussbereichs", "p": ["Wir haften nicht für Ausfälle oder Verzögerungen, die durch Ereignisse außerhalb unseres zumutbaren Einflussbereichs verursacht werden, etwa Unwetter, Naturkatastrophen, Epidemien, behördliche Maßnahmen, Streiks oder Störungen bei Fluggesellschaften und Flughäfen. Wo möglich, helfen wir Ihnen, Ihre Pläne neu zu organisieren."] },
+    { "h": "Ihre Pflichten", "ul": [
+      "Sie verfügen über einen gültigen Reisepass sowie alle erforderlichen Visa-, Transit- oder Einreisedokumente und füllen vor der Ankunft die SG Arrival Card aus.",
+      "Sie prüfen die für Sie geltenden Einreise- und Einfuhrbestimmungen, einschließlich der Regeln zu Medikamenten, E-Zigaretten und Kaugummi.",
+      "Sie schließen eine Reiseversicherung ab, die Stornierung, medizinische Kosten und persönliche Gegenstände abdeckt. Wir empfehlen dies ausdrücklich.",
+      "Sie informieren uns vor der Buchung über gesundheitliche Einschränkungen, Mobilitätsbedürfnisse oder Ernährungsanforderungen, die Ihre Reise betreffen.",
+      "Sie beachten die örtlichen Gesetze, Parkordnungen und die angemessenen Anweisungen von Guides und Leistungsträgern."
+    ] },
+    { "h": "Unsere Haftung", "p": ["Wir planen und organisieren Ihre Reise mit angemessener Sachkenntnis und Sorgfalt. Unsere Haftung Ihnen gegenüber für Schäden aus unserer eigenen Leistung ist auf den Betrag begrenzt, den Sie uns für diese Leistung gezahlt haben, es sei denn, das Gesetz lässt eine solche Beschränkung nicht zu, etwa bei Tod oder Körperverletzung infolge unserer Fahrlässigkeit. Für Handlungen oder Unterlassungen unabhängiger Leistungsträger haften wir nicht, unterstützen Sie aber bei der Geltendmachung von Beschwerden gegen diese."] },
+    { "h": "Beschwerden", "p": ["Wenn während Ihrer Reise etwas schiefgeht, informieren Sie bitte umgehend den Leistungsträger und uns, damit wir versuchen können, das Problem vor Ort zu lösen. Sind Sie danach weiterhin unzufrieden, schreiben Sie innerhalb von 30 Tagen nach Ihrer Rückkehr an [{email}](mailto:{email}); wir antworten innerhalb von 30 Tagen."] },
+    { "h": "Anwendbares Recht und Gerichtsstand", "p": ["Diese Bedingungen unterliegen dem Recht Singapurs, und für alle Streitigkeiten sind die Gerichte Singapurs zuständig. Wenn Sie in einem anderen Land wohnen, können Ihnen zusätzlich Rechte nach dem Verbraucherschutzrecht dieses Landes zustehen."] }
+  ]
+}

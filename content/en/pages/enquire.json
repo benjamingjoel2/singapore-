@@ -1,0 +1,16 @@
+{
+  "meta": {
+    "title": "Enquire | Plan a Singapore trip with Five Foot Way",
+    "description": "Tell us about your Singapore trip or layover. We reply personally by email within two working days."
+  },
+  "title": "Shall we plan it together?",
+  "image": "journeys-1",
+  "side": ["Prefer email? Write to us directly. Please do not send passport numbers or payment details by email or through this form."],
+  "faqTitle": "Before you write",
+  "faq": [
+    { "q": "How much does a trip cost?", "a": ["It depends on your dates, hotels and how much we arrange. We send a written quote with every plan; there is no charge for the first reply."] },
+    { "q": "Can you help with just a layover?", "a": ["Yes. Try the [stopover planner](@stopover-planner) first, then write to us if you would like us to arrange a guide, a hotel near the airport or transfers."] },
+    { "q": "How soon should I enquire?", "a": ["For trips in December, around Chinese New Year or during major events, two to three months ahead. For other times, a few weeks is usually enough."] },
+    { "q": "Do you take phone calls?", "a": ["We work by email so that every detail is written down and nothing is lost. We reply within two working days."] }
+  ]
+}

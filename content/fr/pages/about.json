@@ -1,0 +1,46 @@
+{
+  "meta": {
+    "title": "À propos de Five Foot Way | Voyages sur mesure à Singapour",
+    "description": "Pourquoi nous construisons nos voyages à Singapour autour des quartiers, des hawker centres et de la météo, et comment nous travaillons avec vous."
+  },
+  "hero": {
+    "kicker": "À propos",
+    "title": "La ville à l'ombre",
+    "image": "about-1",
+    "sub": "Pourquoi nous avons pris le nom d'une galerie couverte."
+  },
+  "statement": {
+    "kicker": "Ce que nous faisons",
+    "text": "Five Foot Way organise des voyages à Singapour pour ceux qui attendent plus qu'une skyline et une rue commerçante. Nous concevons des journées à pied, dans les vieux quartiers et les espaces verts, autour de la cuisine, en composant avec la chaleur et la pluie."
+  },
+  "collage": {
+    "imageA": "katong-1",
+    "imageB": "walk-1",
+    "title": "Singapour à taille humaine",
+    "caption": "Singapour est célèbre pour ses tours. Nous lui préférons la ville à deux étages : les rangées de shophouses, les halles des hawker centres, le village de Pulau Ubin et les sentiers de la forêt. C'est là que la ville se montre la plus généreuse envers ceux qui marchent.",
+    "notes": [
+      "Nous avons créé Five Foot Way parce que les voyages vendus à nos amis passaient à côté de ce que nous aimons le plus dans cette ville.",
+      "Nous ne sommes ni un hôtel, ni une compagnie aérienne, ni un car de tourisme. Nous concevons, réservons et suivons des voyages, et c'est ce travail qui nous rémunère, pas des commissions qui vous orienteraient vers le mauvais endroit."
+    ]
+  },
+  "principlesTitle": "Ce en quoi nous croyons",
+  "principles": [
+    { "title": "Les quartiers avant les attractions", "text": ["Un quartier par jour, parcouru comme il se doit, vaut mieux que cinq monuments aperçus depuis un autocar."] },
+    { "title": "Composer avec la météo", "text": ["Départs matinaux, itinéraires ombragés, longs déjeuners et plan B en cas d'orage. Le confort fait partie du bon voyage, ce n'est pas un luxe."] },
+    { "title": "Manger là où mange Singapour", "text": ["Les hawker centres d'abord. Ils sont le cœur de la cuisine de la ville, et ils ont besoin de visiteurs qui se comportent en habitués."] },
+    { "title": "Des conseils honnêtes", "text": ["Si votre escale est trop courte, nous vous dirons de rester en zone de transit. Si un lieu est bondé ou surfait au moment où vous comptez y aller, nous vous le dirons."] }
+  ],
+  "howTitle": "Notre façon de travailler",
+  "how": [
+    { "title": "Vous nous écrivez", "text": "Via le [formulaire de demande](@enquire) ou par e-mail. Indiquez-nous vos dates, qui voyage et ce que vous aimez." },
+    { "title": "Nous vous répondons personnellement", "text": "Sous deux jours ouvrés, par e-mail, avec nos questions et de premières idées." },
+    { "title": "Nous vous envoyons un programme", "text": "Un programme jour par jour avec quartiers, balades, hawker centres et hôtels, accompagné d'un devis." },
+    { "title": "Nous réservons et vous accompagnons", "text": "Dès votre confirmation, nous effectuons les réservations et vous envoyons un guide final avant le départ." }
+  ],
+  "bleed": {
+    "image": "rain-1",
+    "kicker": "Nous contacter",
+    "title": "Parlez-nous de votre voyage",
+    "text": "Dates, escale, centres d'intérêt, qui vous accompagne. Nous vous répondrons par e-mail."
+  }
+}

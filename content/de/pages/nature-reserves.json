@@ -1,0 +1,89 @@
+{
+  "id": "nature-reserves",
+  "nav": "Die Naturschutzgebiete",
+  "meta": {
+    "title": "Bukit Timah, MacRitchie, Sungei Buloh: Regenwald in der Stadt | Five Foot Way",
+    "description": "Primärregenwald, eine Hängebrücke in den Baumkronen und Mangrovenstege, alles per MRT und Bus erreichbar. Wie und wann Sie Singapurs Naturschutzgebiete erwandern."
+  },
+  "hero": {
+    "kicker": "Regenwald und Mangroven",
+    "title": "Die Naturschutzgebiete",
+    "image": "nature-1",
+    "sub": "Primärregenwald an der Stadtbuslinie: Bukit Timah, der Wald um MacRitchie und die Mangroven von Sungei Buloh."
+  },
+  "info": [
+    { "label": "Erreichbar mit", "value": "MRT plus kurze Bus- oder Fußstrecke" },
+    { "label": "Beste Zeit", "value": "Start bis 7:30 Uhr" },
+    { "label": "Mitnehmen", "value": "Wasser, Insektenschutz, eine leichte Regenjacke" }
+  ],
+  "intro": {
+    "heading": "Der Wald, der die Stadt überlebt hat",
+    "chips": ["Primärregenwald", "Mangroven", "Tierwelt"],
+    "text": [
+      "Der größte Teil von Singapurs ursprünglichem Wald wurde im 19. Jahrhundert für Plantagen gerodet. Was rund um den Hügel Bukit Timah und die Stauseen in der Inselmitte überlebt hat, steht heute unter Schutz und beherbergt auf wenigen Hektar mehr Baumarten als manches Land insgesamt. Javaneraffen, Riesengleiter, Warane und Nashornvögel leben eine kurze Busfahrt von den Shoppingmalls entfernt.",
+      "Das sind richtige Wanderungen in heißem, feuchtem Wald. Brechen Sie früh auf, nehmen Sie mehr Wasser mit, als Sie glauben zu brauchen, bleiben Sie auf den markierten Wegen und füttern Sie niemals die Affen: Es ist verboten und macht sie aggressiv."
+    ]
+  },
+  "rows": [
+    {
+      "title": "Bukit Timah Nature Reserve",
+      "image": "nature-1",
+      "meta": ["Höchster Hügel, 163 m", "Steile Wege"],
+      "text": [
+        "Singapurs höchster Hügel ist von einem der größten verbliebenen Primärregenwälder der Stadt bedeckt. Der Hauptweg zum Gipfel ist kurz, aber steil, und die Nebenpfade sind steinig und nach Regen schlammig. Gehen Sie im Morgengrauen, wenn der Wald voller Vogelstimmen und die Luft noch kühl ist."
+      ]
+    },
+    {
+      "title": "MacRitchie und der TreeTop Walk",
+      "image": "nature-2",
+      "meta": ["Hängebrücke", "An manchen Tagen geschlossen"],
+      "text": [
+        "Eine Runde aus Waldpfaden und Bohlenwegen rund um das MacRitchie Reservoir führt zum TreeTop Walk, einer frei hängenden Brücke, die hoch über dem Waldboden die beiden höchsten Punkte des Schutzgebiets verbindet. Die ganze Runde ist lang, etwa elf Kilometer; planen Sie einen halben Tag ein. Die Brücke hat eingeschränkte Öffnungszeiten und ist an bestimmten Tagen geschlossen."
+      ]
+    },
+    {
+      "title": "Sungei Buloh Wetland Reserve",
+      "image": "nature-3",
+      "meta": ["Mangroven", "Zugvögel"],
+      "text": [
+        "Im äußersten Nordwesten, gegenüber Malaysia auf der anderen Seite der Straße von Johor, locken Mangrovenstege und Wattflächen etwa von September bis März ziehende Watvögel an. Leistenkrokodile und Warane sonnen sich an den Ufern. Werfen Sie einen Blick in den Gezeitenkalender: Bei Ebbe kommen die Vögel und die Schlammspringer heraus."
+      ]
+    },
+    {
+      "title": "Richtiges Verhalten im Wald",
+      "meta": ["Regeln", "Sicherheit"],
+      "text": [
+        "Bleiben Sie auf den markierten Wegen, halten Sie Essen außer Sicht und füttern Sie die Makaken nicht und nähern Sie sich ihnen nicht. Blitze sind eine echte Gefahr: Zieht ein Gewitter auf, verlassen Sie ungeschützte Grate und Brücken und warten Sie in einem Unterstand. Sagen Sie jemandem, wohin Sie gehen und wann Sie zurück sein wollen."
+      ]
+    }
+  ],
+  "bleed": {
+    "image": "nature-2",
+    "kicker": "Waldwanderung",
+    "title": "MacRitchie unter dem Blätterdach",
+    "text": "Bohlenwege am Ufer des Stausees, Waldpfade zum TreeTop Walk und auf demselben Weg zurück, falls sich ein Gewitter zusammenbraut. Fast durchgehend Schatten.",
+    "facts": [
+      { "label": "Start", "value": "MacRitchie Reservoir Park" },
+      { "label": "Länge", "value": "Rundweg, etwa 11 km" },
+      { "label": "Start bis", "value": "7:30 Uhr" }
+    ],
+    "cta": "Zum Spaziergang"
+  },
+  "eat": {
+    "title": "Stärkung nach dem Trail",
+    "text": [
+      "In keinem der Schutzgebiete gibt es viel zu essen. Essen Sie vorher, nehmen Sie Snacks mit und planen Sie danach eine richtige Mahlzeit ein."
+    ],
+    "items": [
+      { "name": "Beauty World", "text": "Nahe Bukit Timah, ein Hawker Centre im obersten Stock eines alten Marktgebäudes." },
+      { "name": "Thomson Road", "text": "Eine kurze Busfahrt von MacRitchie, mit mehreren Kaffeehäusern alter Schule." },
+      { "name": "Kranji", "text": "Für Sungei Buloh Snacks mitnehmen: Die Gegend ist ländlich, und es gibt kaum Essensmöglichkeiten." }
+    ]
+  },
+  "faq": [
+    { "q": "Sind die Schutzgebiete sicher?", "a": ["Ja, wenn Sie sich an die Regeln halten: auf den Wegen bleiben, Wasser dabeihaben, die Tiere respektieren und Blitze ernst nehmen. Schlangen gibt es, man sieht sie aber selten, und auf den Hauptwegen sind sie so gut wie nie ein Problem."] },
+    { "q": "Brauche ich einen Guide?", "a": ["Nicht für die Hauptwege, die gut ausgeschildert sind. Wenn Sie Tiere sehen möchten, macht ein Naturführer einen echten Unterschied; wir können über eine [Anfrage](@enquire) einen organisieren."] },
+    { "q": "Was sollte ich anziehen?", "a": ["Leichte, schnell trocknende Kleidung, geschlossene Schuhe mit gutem Profil, einen Hut und Insektenschutz. Eine leichte Regenjacke oder ein kleiner Schirm passt in jeden Tagesrucksack."] }
+  ],
+  "related": ["botanic-gardens", "southern-ridges", "mandai", "pulau-ubin"]
+}

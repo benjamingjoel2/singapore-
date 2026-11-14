@@ -1,0 +1,46 @@
+{
+  "meta": {
+    "title": "Über Five Foot Way | Reiseplanung für Singapur",
+    "description": "Warum wir Singapur-Reisen rund um Viertel, Hawker Centres und das Wetter planen – und wie wir mit Ihnen zusammenarbeiten."
+  },
+  "hero": {
+    "kicker": "Über uns",
+    "title": "Die schattige Stadt",
+    "image": "about-1",
+    "sub": "Warum wir uns nach einem überdachten Gehweg benannt haben."
+  },
+  "statement": {
+    "kicker": "Was wir tun",
+    "text": "Five Foot Way plant Singapur-Reisen für alle, die mehr wollen als eine Skyline und eine Einkaufsstraße. Wir gestalten Tage zu Fuß, in den alten Vierteln und an den grünen Orten, rund ums Essen und abgestimmt auf die Hitze und den Regen der Stadt."
+  },
+  "collage": {
+    "imageA": "katong-1",
+    "imageB": "walk-1",
+    "title": "Singapur im menschlichen Maßstab",
+    "caption": "Singapur ist berühmt für seine Hochhäuser. Wir mögen lieber die zweistöckige Stadt: die Shophouse-Zeilen, die Hawker-Hallen, das Dorf auf Pulau Ubin und die Pfade durch den Wald. Dort ist die Stadt am großzügigsten zu allen, die zu Fuß unterwegs sind.",
+    "notes": [
+      "Wir haben Five Foot Way gegründet, weil die Reisen, die unseren Freunden verkauft wurden, genau das verfehlten, was wir an dieser Stadt am meisten lieben.",
+      "Wir sind kein Hotel, keine Airline und kein Reisebus. Wir planen, buchen und betreuen Reisen und werden für diese Arbeit bezahlt – nicht über Provisionen, die Sie an den falschen Ort lenken."
+    ]
+  },
+  "principlesTitle": "Woran wir glauben",
+  "principles": [
+    { "title": "Viertel vor Sehenswürdigkeiten", "text": ["Ein Viertel pro Tag, richtig zu Fuß erkundet, ist besser als fünf Wahrzeichen, gesehen aus dem Reisebus."] },
+    { "title": "Mit dem Wetter planen", "text": ["Früh aufbrechen, schattige Routen, lange Mittagspausen und ein Plan für das Gewitter. Komfort gehört zum guten Reisen dazu und ist kein Luxus."] },
+    { "title": "Essen, wo Singapur isst", "text": ["Hawker Centres zuerst. Sie sind das Herz der Esskultur dieser Stadt und brauchen Besucher, die sich wie Stammgäste verhalten."] },
+    { "title": "Ehrliche Beratung", "text": ["Ist Ihr Zwischenstopp zu kurz, raten wir Ihnen, im Transitbereich zu bleiben. Ist ein Ort zu Ihrer Reisezeit überlaufen oder überbewertet, sagen wir es Ihnen."] }
+  ],
+  "howTitle": "So arbeiten wir",
+  "how": [
+    { "title": "Sie schreiben uns", "text": "Über das [Anfrageformular](@enquire) oder per E-Mail. Nennen Sie uns Ihre Reisedaten, wer mitreist und was Ihnen Freude macht." },
+    { "title": "Wir antworten persönlich", "text": "Innerhalb von zwei Werktagen per E-Mail, mit Rückfragen und ersten Ideen." },
+    { "title": "Wir schicken einen Plan", "text": "Einen Tag-für-Tag-Plan mit Vierteln, Spaziergängen, Hawker Centres und Hotels sowie ein Angebot." },
+    { "title": "Wir buchen und betreuen", "text": "Sobald Sie bestätigen, nehmen wir die Buchungen vor und schicken Ihnen vor der Abreise einen abschließenden Reiseleitfaden." }
+  ],
+  "bleed": {
+    "image": "rain-1",
+    "kicker": "Kontakt",
+    "title": "Erzählen Sie uns von Ihrer Reise",
+    "text": "Reisedaten, Zwischenstopp, Interessen, wer mitkommt. Wir antworten per E-Mail."
+  }
+}

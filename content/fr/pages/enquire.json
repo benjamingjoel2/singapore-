@@ -1,0 +1,16 @@
+{
+  "meta": {
+    "title": "Nous écrire | Préparer Singapour avec Five Foot Way",
+    "description": "Parlez-nous de votre voyage ou de votre escale à Singapour. Nous répondons personnellement par e-mail sous deux jours ouvrés."
+  },
+  "title": "Et si nous le préparions ensemble ?",
+  "image": "journeys-1",
+  "side": ["Vous préférez l'e-mail ? Écrivez-nous directement. Merci de ne jamais envoyer de numéro de passeport ni de coordonnées bancaires par e-mail ou via ce formulaire."],
+  "faqTitle": "Avant de nous écrire",
+  "faq": [
+    { "q": "Combien coûte un voyage ?", "a": ["Cela dépend de vos dates, des hôtels et de ce que nous organisons pour vous. Chaque programme est accompagné d'un devis écrit ; notre première réponse est gratuite."] },
+    { "q": "Pouvez-vous m'aider pour une simple escale ?", "a": ["Oui. Essayez d'abord le [planificateur d'escale](@stopover-planner), puis écrivez-nous si vous souhaitez que nous organisions un guide, un hôtel proche de l'aéroport ou des transferts."] },
+    { "q": "Combien de temps à l'avance dois-je vous écrire ?", "a": ["Pour un voyage en décembre, autour du Nouvel An chinois ou pendant un grand événement, deux à trois mois à l'avance. Le reste de l'année, quelques semaines suffisent en général."] },
+    { "q": "Peut-on vous joindre par téléphone ?", "a": ["Nous travaillons par e-mail afin que chaque détail soit consigné par écrit et que rien ne se perde. Nous répondons sous deux jours ouvrés."] }
+  ]
+}

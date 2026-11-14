@@ -1,0 +1,88 @@
+{
+  "id": "pulau-ubin",
+  "nav": "Pulau Ubin",
+  "meta": {
+    "title": "Pulau Ubin: la última isla kampong, en bumboat y bici | Five Foot Way",
+    "description": "Diez minutos en barco desde Changi Village hasta la última isla rural de Singapur: casas kampong de madera, viejas canteras, manglares y Chek Jawa."
+  },
+  "hero": {
+    "kicker": "La isla del kampong",
+    "title": "Pulau Ubin",
+    "image": "ubin-1",
+    "sub": "Diez minutos en bumboat y sesenta años atrás en el tiempo: un embarcadero de pueblo, bicicletas de alquiler y la orilla de manglares de la isla."
+  },
+  "info": [
+    { "label": "Barco desde", "value": "Changi Point Ferry Terminal" },
+    { "label": "Mejores horas", "value": "Llega antes de las 8:00; vete antes de las tormentas de la tarde" },
+    { "label": "Lleva", "value": "Efectivo, agua y protección solar" }
+  ],
+  "intro": {
+    "heading": "Singapur antes de la ciudad",
+    "chips": ["Kampong", "Bicicleta", "Manglares"],
+    "text": [
+      "Pulau Ubin es una isla de granito frente a la costa nordeste de Singapur. Sus canteras proporcionaron la piedra de los primeros edificios de la ciudad, y su kampong, un pueblo de casas de madera sobre pilotes, llegó a tener miles de habitantes. Hoy quedan unas pocas decenas. La isla no tiene MRT, ni rascacielos, y casi no tiene coches; se recorre en bicicleta o a pie.",
+      "Es lo más parecido que queda al Singapur de los años sesenta, y es frágil. Ve temprano, llévate tu basura de vuelta y recuerda que las casas por las que pasas son el hogar de alguien."
+    ]
+  },
+  "rows": [
+    {
+      "title": "La travesía en bumboat",
+      "image": "ubin-1",
+      "meta": ["Changi Point", "Solo efectivo"],
+      "text": [
+        "Los bumboats, lanchas de madera, salen de la Changi Point Ferry Terminal cuando reúnen suficientes pasajeros, normalmente una docena, desde primera hora de la mañana hasta el atardecer. La travesía dura unos diez minutos. Lleva efectivo para el billete, que se paga a bordo; consulta la tarifa vigente y la hora del último barco de vuelta antes de ir."
+      ]
+    },
+    {
+      "title": "El pueblo y las tiendas de bicicletas",
+      "meta": ["Casas kampong", "Alquiler de bicis"],
+      "text": [
+        "El embarcadero desemboca en el pequeño pueblo de la isla, con restaurantes de marisco, un colmado y una hilera de tiendas de alquiler de bicicletas. Elige una bici con los frenos en buen estado y acuerda el precio y la hora de devolución antes de salir. La isla tiene cuestas en algunos tramos."
+      ]
+    },
+    {
+      "title": "Chek Jawa Wetlands",
+      "image": "ubin-2",
+      "meta": ["Pasarela", "Zona intermareal"],
+      "text": [
+        "En el extremo oriental, una pasarela atraviesa el manglar y se adentra en el mar, con una torre mirador por encima del dosel. Con la marea baja, la orilla deja ver estrellas de mar, cangrejos y praderas marinas. Deja la bici en el aparcamiento y recorre a pie el último tramo."
+      ]
+    },
+    {
+      "title": "Las canteras y los senderos del oeste",
+      "meta": ["Canteras de granito", "Parque de bicicleta de montaña"],
+      "text": [
+        "Las viejas canteras se han inundado hasta formar lagos profundos y verdes, vallados por seguridad pero visibles desde los miradores. El Ketam Mountain Bike Park, en el lado oeste, tiene senderos de distintos niveles para ciclistas con experiencia."
+      ]
+    }
+  ],
+  "bleed": {
+    "image": "ubin-2",
+    "kicker": "Vuelta a la isla",
+    "title": "Del embarcadero a Chek Jawa, ida y vuelta",
+    "text": "Casi todo por caminos tranquilos bordeados de árboles, con la pasarela del manglar al final. En bicicleta lleva media mañana sin prisas.",
+    "facts": [
+      { "label": "Inicio", "value": "Embarcadero de Ubin" },
+      { "label": "Longitud", "value": "Unos 12 km en bici" },
+      { "label": "Vuelve antes de las", "value": "13:00 en temporada de tormentas" }
+    ],
+    "cta": "Ver la ruta"
+  },
+  "eat": {
+    "title": "Nasi lemak antes del barco",
+    "text": [
+      "El Changi Village Hawker Centre, junto a la terminal del ferri, es famoso por su nasi lemak: arroz con coco acompañado de pollo frito, huevo, anchoas y sambal. Come allí antes de cruzar o a la vuelta."
+    ],
+    "items": [
+      { "name": "Changi Village Hawker Centre", "text": "Nasi lemak, satay bee hoon, zumos naturales. Junto al ferri." },
+      { "name": "Pueblo de Ubin", "text": "Algunos restaurantes de marisco cerca del embarcadero y bebidas frías en el colmado." },
+      { "name": "Lleva contigo", "text": "Agua y algo de picar para el recorrido: lejos del embarcadero hay poco que comprar." }
+    ]
+  },
+  "faq": [
+    { "q": "¿Hay que reservar el barco?", "a": ["No. Los bumboats funcionan según la demanda y salen cuando se llenan. Los fines de semana por la mañana puede haber cola; entre semana quizá tengas que esperar a que se llene, o pagar los asientos vacíos para salir enseguida."] },
+    { "q": "¿Puedo visitar Chek Jawa a cualquier hora?", "a": ["La pasarela abre todos los días durante las horas de luz. La zona intermareal en sí solo se visita en paseos guiados con mareas muy bajas; consúltalo con el National Parks Board."] },
+    { "q": "¿Es Pulau Ubin buena idea con niños?", "a": ["Sí, en bicicleta o en tándem. Muchas tiendas alquilan sillitas y bicis más pequeñas. Usad casco: las bajadas son más empinadas de lo que parecen."] }
+  ],
+  "related": ["changi", "katong", "nature-reserves", "mandai"]
+}

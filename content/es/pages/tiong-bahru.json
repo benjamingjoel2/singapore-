@@ -1,0 +1,88 @@
+{
+  "id": "tiong-bahru",
+  "nav": "Tiong Bahru",
+  "meta": {
+    "title": "Tiong Bahru: pisos art déco, mercado y mañanas lentas | Five Foot Way",
+    "description": "El primer barrio de vivienda pública de Singapur: bloques curvos de los años treinta, un mercado famoso por sus desayunos, panaderías, librerías y calles arboladas."
+  },
+  "hero": {
+    "kicker": "Barrio histórico",
+    "title": "Tiong Bahru",
+    "image": "tiong-bahru-1",
+    "sub": "Balcones curvos, escaleras de caracol en la parte trasera y el mejor mercado de desayunos de la ciudad."
+  },
+  "info": [
+    { "label": "MRT más cercano", "value": "Tiong Bahru, Outram Park, Havelock" },
+    { "label": "Mejores horas", "value": "7:00–11:00" },
+    { "label": "Paseo a la sombra", "value": "Unos 2 km, 1 hora" }
+  ],
+  "intro": {
+    "heading": "Un barrio de viviendas de los años treinta que nunca ha perdido el estilo",
+    "chips": ["Art déco", "Desayuno", "Librerías"],
+    "text": [
+      "Tiong Bahru significa «cementerio nuevo» en una mezcla de hokkien y malayo, un recuerdo del camposanto que ocupaba este lugar antes de que el Singapore Improvement Trust lo despejara en los años treinta y construyera aquí la primera vivienda pública de la colonia. Los bloques siguen el estilo Streamline Moderne: esquinas redondeadas, bandas horizontales de ventanas y escaleras de caracol en la parte de atrás.",
+      "Es un barrio de edificios bajos, arbolado y fácil de recorrer a pie, y es adonde va Singapur a pasar una mañana de fin de semana sin prisa: kopi y chwee kueh en el mercado, un bollo en una panadería, una hora en una librería independiente."
+    ]
+  },
+  "rows": [
+    {
+      "title": "Los bloques de antes de la guerra",
+      "image": "tiong-bahru-1",
+      "meta": ["Streamline Moderne", "Protegidos desde 2003"],
+      "text": [
+        "Los bloques entre Tiong Bahru Road y Eng Hoon Street son los más antiguos, construidos entre 1936 y 1941 y protegidos desde 2003. Recorre los callejones traseros para ver las escaleras de caracol y los patios de luces. A su alrededor se levantan los bloques de posguerra, de estilo más sobrio."
+      ]
+    },
+    {
+      "title": "Tiong Bahru Market",
+      "image": "tiong-bahru-2",
+      "meta": ["Mercado de abastos", "Hawker centre en la planta de arriba"],
+      "text": [
+        "Un mercado de abastos en la planta baja, un hawker centre arriba y algunos de los puestos de desayuno más célebres de la ciudad: chwee kueh (pastelitos de arroz al vapor con rábano en conserva), lor mee, pau y kopi. Muchos puestos agotan existencias o cierran a primera hora de la tarde."
+      ]
+    },
+    {
+      "title": "Qi Tian Gong y las calles laterales",
+      "meta": ["Templo del Dios Mono", "Murales"],
+      "text": [
+        "Qi Tian Gong, un pequeño templo dedicado al Dios Mono, está en el borde del barrio. En las paredes de los alrededores de Seng Poh Lane, los murales de un artista local evocan el antiguo rincón de los pájaros cantores, los adivinos y el mercado de antaño."
+      ]
+    },
+    {
+      "title": "Panaderías y librerías",
+      "meta": ["Por la mañana", "Tiendas independientes"],
+      "text": [
+        "En las dos últimas décadas, pequeños cafés, panaderías y tiendas independientes se han instalado en los bajos de los bloques. Es un sitio agradable para pasar una hora de lluvia. Muchos abren a media mañana y cierran un día a la semana, así que compruébalo antes de organizar el día en torno a una tienda concreta."
+      ]
+    }
+  ],
+  "bleed": {
+    "image": "tiong-bahru-2",
+    "kicker": "Paseo a la sombra",
+    "title": "Una vuelta por el barrio",
+    "text": "Del MRT al mercado para desayunar, y luego alrededor de los bloques de antes de la guerra, bajo sus aleros profundos y sus grandes árboles de lluvia.",
+    "facts": [
+      { "label": "Inicio", "value": "MRT Tiong Bahru" },
+      { "label": "Longitud", "value": "Unos 2 km" },
+      { "label": "Mejor hora", "value": "7:30" }
+    ],
+    "cta": "Ver el paseo"
+  },
+  "eat": {
+    "title": "Ve temprano y con hambre",
+    "text": [
+      "Tiong Bahru es donde el desayuno de hawker centre está en su mejor momento. Llega antes de las 8:00, busca sitio y pide en varios puestos en lugar de en uno solo."
+    ],
+    "items": [
+      { "name": "Tiong Bahru Market", "text": "Chwee kueh, lor mee, fideos con albóndigas de pescado, kopi. Por las mañanas." },
+      { "name": "Kopitiams de Seng Poh Road", "text": "Cafeterías tradicionales con dim sum por la mañana y zi char por la noche." },
+      { "name": "ABC Brickworks Food Centre", "text": "A un corto trayecto en taxi, un hawker centre de barrio con menos visitantes." }
+    ]
+  },
+  "faq": [
+    { "q": "¿El mercado abre todos los días?", "a": ["El mercado abre a diario, pero cada puesto fija sus días de descanso, y el centro entero cierra unos días por limpieza varias veces al año. Consulta el calendario de limpiezas de la National Environment Agency antes de ir."] },
+    { "q": "¿Se puede visitar el refugio antiaéreo de la Segunda Guerra Mundial?", "a": ["El bloque 78 alberga uno de los pocos refugios antiaéreos residenciales de antes de la guerra que se conservan. No abre a diario, solo en visitas guiadas ocasionales, así que consúltalo antes con el organismo de patrimonio."] },
+    { "q": "¿Cómo lo combino con otras zonas?", "a": ["Tiong Bahru está a una parada de Outram Park y a quince minutos a pie de Chinatown. Una buena mañana: desayuno aquí y, después, Chinatown antes de que apriete el calor."] }
+  ],
+  "related": ["chinatown", "southern-ridges", "botanic-gardens", "civic-district"]
+}

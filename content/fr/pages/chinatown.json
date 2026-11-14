@@ -1,0 +1,167 @@
+{
+  "id": "chinatown",
+  "nav": "Chinatown & Tanjong Pagar",
+  "meta": {
+    "title": "Chinatown et Tanjong Pagar à pied | Five Foot Way",
+    "description": "Ruelles de shophouses, temples et quelques-uns des meilleurs hawker centres de Singapour, à parcourir sous les five-foot ways à la fraîche."
+  },
+  "hero": {
+    "kicker": "Quartier de shophouses",
+    "title": "Chinatown & Tanjong Pagar",
+    "image": "chinatown-1",
+    "sub": "Cloches des temples, kopi à sept heures, et un plan de rues pensé pour l'ombre bien avant qu'on parle d'adaptation au climat."
+  },
+  "info": [
+    {
+      "label": "MRT les plus proches",
+      "value": "Chinatown, Maxwell, Outram Park, Tanjong Pagar"
+    },
+    {
+      "label": "Meilleurs horaires",
+      "value": "7 h – 10 h, puis après 17 h"
+    },
+    {
+      "label": "Balade à l'ombre",
+      "value": "Environ 3 km, 1 h 30"
+    }
+  ],
+  "intro": {
+    "heading": "Five-foot ways et cours de temples",
+    "chips": [
+      "Shophouses",
+      "Temples",
+      "Hawker centres"
+    ],
+    "text": [
+      "Chinatown est le plus visité des quartiers de shophouses, et reste l'endroit idéal pour comprendre comment fonctionnait la vieille ville. Le plan Jackson de 1822 réserva cette rive de la Singapore River aux colons chinois, et les règles des années 1820 qui suivirent imposèrent à chaque shophouse de céder une galerie couverte sur sa façade : la « five-foot way » (galerie couverte) qui a donné son nom à ce site.",
+      "Parcourez-le tôt. Avant 10 h, les ruelles appartiennent à ceux qui achètent leur petit-déjeuner, aux fidèles des temples et aux commerçants qui relèvent leurs rideaux. À midi, les groupes de touristes et la chaleur arrivent ensemble. Revenez après 17 h, quand les bars de Tanjong Pagar et les salles de Keong Saik s'illuminent et que l'air se remet enfin à circuler."
+    ]
+  },
+  "rows": [
+    {
+      "title": "Telok Ayer et Amoy Street",
+      "image": "chinatown-2",
+      "meta": [
+        "Shophouses",
+        "Lieux de culte"
+      ],
+      "text": [
+        "C'était le front de mer, avant que les remblais ne repoussent la côte hors de vue. Thian Hock Keng, le temple hokkien où les marins rendaient grâce pour une traversée sans encombre, se dresse à quelques portes de la mosquée Al-Abrar et du Nagore Dargah, un sanctuaire musulman tamoul. Derrière, les shophouses d'Amoy Street abritent désormais des bureaux à l'étage et de petits restaurants au rez-de-chaussée."
+      ]
+    },
+    {
+      "title": "Ann Siang Hill et Club Street",
+      "meta": [
+        "Ruelles",
+        "Petits parcs"
+      ],
+      "text": [
+        "À une courte montée de Telok Ayer, Ann Siang Hill est l'un des rares endroits de la vieille ville à présenter un dénivelé. Des shophouses restaurées bordent Club Street et Ann Siang Road, qui abritaient autrefois associations de clans et guildes. Un petit parc avec escaliers et passerelles relie la colline à Amoy Street et offre un raccourci ombragé."
+      ]
+    },
+    {
+      "title": "Les temples de South Bridge Road",
+      "image": "chinatown-3",
+      "meta": [
+        "Sri Mariamman Temple",
+        "Buddha Tooth Relic Temple"
+      ],
+      "text": [
+        "Sri Mariamman, le plus ancien temple hindou de Singapour, fut fondé en 1827 par des colons venus du sud de l'Inde ; sa tour gopuram fourmille de divinités peintes. Un pâté de maisons plus loin, le Buddha Tooth Relic Temple est récent (il a ouvert en 2007) mais bâti dans le style de la dynastie Tang, avec un jardin d'orchidées sur le toit. Épaules et genoux couverts dans les deux cas ; chaussures retirées à Sri Mariamman."
+      ]
+    },
+    {
+      "title": "Keong Saik et Duxton",
+      "meta": [
+        "Soirées",
+        "Restaurants"
+      ],
+      "text": [
+        "Keong Saik Road serpente devant certaines des plus jolies façades de la ville, peintes dans les tons pastel que ce site leur emprunte. Ancienne rue chaude, elle est aujourd'hui bordée de restaurants et de petits hôtels. Duxton Hill, juste à côté, est plus calme : un anneau de shophouses autour d'une petite butte verte."
+      ]
+    },
+    {
+      "title": "Chinatown Complex et Smith Street",
+      "meta": [
+        "Hawker centre",
+        "Marché frais"
+      ],
+      "text": [
+        "Le Chinatown Complex Food Centre, au-dessus d'un marché frais de Smith Street, est le plus grand hawker centre de Singapour en nombre d'étals. Béton, ventilateurs et animation : c'est là que Chinatown mange vraiment. Prenez l'escalator, faites un tour complet avant de choisir, et fiez-vous aux files d'habitués plutôt qu'aux diplômes plastifiés."
+      ]
+    }
+  ],
+  "bleed": {
+    "image": "chinatown-2",
+    "kicker": "Balade à l'ombre",
+    "title": "De Telok Ayer à Tanjong Pagar à l'ombre",
+    "text": "Notre itinéraire reste presque entièrement sous les five-foot ways, avec trois hawker centres et deux stations de MRT pour s'abriter en cas d'orage.",
+    "facts": [
+      {
+        "label": "Départ",
+        "value": "MRT Telok Ayer"
+      },
+      {
+        "label": "Arrivée",
+        "value": "MRT Tanjong Pagar"
+      },
+      {
+        "label": "À couvert",
+        "value": "Presque tout le trajet"
+      }
+    ],
+    "cta": "Voir la balade"
+  },
+  "eat": {
+    "title": "Trois hawker centres à moins de dix minutes",
+    "text": [
+      "Peu d'endroits en ville réunissent autant de bons hawker centres aussi près les uns des autres. Chacun a son rythme : l'un pour le petit-déjeuner, l'autre pour le déjeuner, le troisième pour les employés de bureau."
+    ],
+    "items": [
+      {
+        "name": "Maxwell Food Centre",
+        "text": "Chicken rice hainanais, soupe de poisson, et les files d'attente qui vont avec. Idéal avant 11 h ou après 14 h."
+      },
+      {
+        "name": "Chinatown Complex Food Centre",
+        "text": "Le plus grand choix en un seul lieu : riz en marmite de terre, viandes rôties à la hongkongaise, stands de bière artisanale."
+      },
+      {
+        "name": "Amoy Street Food Centre",
+        "text": "Une institution du déjeuner en semaine pour les bureaux alentour. Beaucoup d'étals sont fermés le week-end."
+      }
+    ]
+  },
+  "faq": [
+    {
+      "q": "Les visiteurs peuvent-ils entrer dans les temples ?",
+      "a": [
+        "Oui. Thian Hock Keng, Sri Mariamman et le Buddha Tooth Relic Temple accueillent tous les visiteurs en dehors des offices. Couvrez épaules et genoux, retirez vos chaussures quand on vous le demande, et demandez la permission avant de photographier des personnes en prière."
+      ]
+    },
+    {
+      "q": "Quand Chinatown est-il le plus animé ?",
+      "a": [
+        "Les semaines qui précèdent le Nouvel An chinois (janvier ou février selon le calendrier lunaire), quand le marché de rue et les illuminations attirent des foules considérables. Les matinées de semaine sont le moment le plus calme toute l'année."
+      ]
+    },
+    {
+      "q": "Où attendre la fin d'un orage ?",
+      "a": [
+        "Les five-foot ways vous gardent au sec, sauf par les grains les plus venteux. Pour les orages plus longs, les hawker centres, Chinatown Point et le passage souterrain de la station de MRT Chinatown sont tout proches."
+      ]
+    },
+    {
+      "q": "Est-ce un bon quartier où loger ?",
+      "a": [
+        "Oui, surtout pour un court séjour : il est central, desservi par trois lignes de MRT, et les hôtels installés dans des shophouses restaurées autour de Keong Saik et Duxton comptent parmi les plus pleins de caractère de la ville. Voir [Où dormir](@stays)."
+      ]
+    }
+  ],
+  "related": [
+    "tiong-bahru",
+    "civic-district",
+    "kampong-glam",
+    "little-india"
+  ]
+}

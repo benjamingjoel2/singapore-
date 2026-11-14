@@ -1,0 +1,88 @@
+{
+  "id": "pulau-ubin",
+  "nav": "Pulau Ubin",
+  "meta": {
+    "title": "Pulau Ubin: the last kampong island, by bumboat and bicycle | Five Foot Way",
+    "description": "A ten-minute boat ride from Changi Village to Singapore's last rural island: wooden kampong houses, old quarries, mangroves and the Chek Jawa boardwalk."
+  },
+  "hero": {
+    "kicker": "Kampong island",
+    "title": "Pulau Ubin",
+    "image": "ubin-1",
+    "sub": "Ten minutes by bumboat, sixty years back in time: a village jetty, rented bicycles and the island's mangrove edge."
+  },
+  "info": [
+    { "label": "Boat from", "value": "Changi Point Ferry Terminal" },
+    { "label": "Best hours", "value": "Arrive by 8am; leave before the afternoon storms" },
+    { "label": "Bring", "value": "Cash, water, sun protection" }
+  ],
+  "intro": {
+    "heading": "Singapore before the city",
+    "chips": ["Kampong", "Cycling", "Mangroves"],
+    "text": [
+      "Pulau Ubin is a granite island off Singapore's north-east coast. Its quarries supplied stone for the city's early buildings, and its kampong, a village of wooden houses on stilts, once had thousands of residents. A few dozen remain. The island has no MRT, no high-rises and almost no cars; you get around by bicycle or on foot.",
+      "It is the closest thing left to the Singapore of the 1960s, and it is fragile. Go early, take your rubbish back with you, and remember that the houses you pass are people's homes."
+    ]
+  },
+  "rows": [
+    {
+      "title": "The bumboat crossing",
+      "image": "ubin-1",
+      "meta": ["Changi Point", "Cash only"],
+      "text": [
+        "Bumboats leave from Changi Point Ferry Terminal when they have enough passengers, usually about a dozen, from early morning until early evening. The crossing takes about ten minutes. Bring cash for the fare, which is paid on board; check the current fare and last boat back before you go."
+      ]
+    },
+    {
+      "title": "The village and the bicycle shops",
+      "meta": ["Kampong houses", "Bike hire"],
+      "text": [
+        "The jetty opens into the island's small village, with seafood restaurants, a provision shop and a row of bicycle rental shops. Choose a bike with working brakes, and agree the price and return time before you ride off. The island is hilly in places."
+      ]
+    },
+    {
+      "title": "Chek Jawa Wetlands",
+      "image": "ubin-2",
+      "meta": ["Boardwalk", "Intertidal shore"],
+      "text": [
+        "At the eastern tip, a boardwalk runs through mangroves and out over the sea, with a viewing tower above the canopy. At low tide, the shore reveals sea stars, crabs and seagrass. Leave your bike at the parking area and walk the last stretch."
+      ]
+    },
+    {
+      "title": "Quarries and the western trails",
+      "meta": ["Granite quarries", "Mountain bike park"],
+      "text": [
+        "The old quarries have flooded into deep, green lakes, fenced off for safety but visible from viewpoints. Ketam Mountain Bike Park, on the western side, has graded trails for experienced riders."
+      ]
+    }
+  ],
+  "bleed": {
+    "image": "ubin-2",
+    "kicker": "Island loop",
+    "title": "Jetty to Chek Jawa and back",
+    "text": "Mostly on quiet, tree-lined lanes, with the mangrove boardwalk at the far end. By bicycle it takes a relaxed half day.",
+    "facts": [
+      { "label": "Start", "value": "Ubin jetty" },
+      { "label": "Length", "value": "About 12 km by bike" },
+      { "label": "Leave by", "value": "1pm in storm season" }
+    ],
+    "cta": "See the route"
+  },
+  "eat": {
+    "title": "Nasi lemak before the boat",
+    "text": [
+      "Changi Village Hawker Centre, beside the ferry terminal, is famous for nasi lemak: coconut rice with fried chicken, egg, anchovies and sambal. Eat there before you cross, or after you return."
+    ],
+    "items": [
+      { "name": "Changi Village Hawker Centre", "text": "Nasi lemak, satay bee hoon, fresh juices. Next to the ferry." },
+      { "name": "Ubin village", "text": "A few seafood restaurants near the jetty, and cold drinks at the provision shop." },
+      { "name": "Carry with you", "text": "Water and snacks for the ride: there is little to buy away from the jetty." }
+    ]
+  },
+  "faq": [
+    { "q": "Do I need to book the boat?", "a": ["No. Bumboats run on demand and leave when full. On weekend mornings there can be a queue; on weekdays you may wait for the boat to fill, or pay for the empty seats to leave at once."] },
+    { "q": "Can I visit Chek Jawa at any time?", "a": ["The boardwalk is open daily during daylight hours. The intertidal shore itself is visited only on guided walks at very low tides; check with the National Parks Board."] },
+    { "q": "Is Pulau Ubin good with children?", "a": ["Yes, on a bicycle or a tandem. Many shops rent child seats and smaller bikes. Wear helmets: the downhill lanes are steeper than they look."] }
+  ],
+  "related": ["changi", "katong", "nature-reserves", "mandai"]
+}

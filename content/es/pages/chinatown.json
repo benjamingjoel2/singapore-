@@ -1,0 +1,167 @@
+{
+  "id": "chinatown",
+  "nav": "Chinatown y Tanjong Pagar",
+  "meta": {
+    "title": "Chinatown y Tanjong Pagar a pie | Five Foot Way",
+    "description": "Callejuelas de shophouses, templos y algunos de los mejores hawker centres de Singapur, recorridos bajo los five-foot ways con el fresco de la mañana."
+  },
+  "hero": {
+    "kicker": "Barrio de shophouses",
+    "title": "Chinatown y Tanjong Pagar",
+    "image": "chinatown-1",
+    "sub": "Campanas de templo, kopi a las siete y una trama de calles pensada para la sombra mucho antes de que nadie hablara de adaptación al clima."
+  },
+  "info": [
+    {
+      "label": "MRT más cercano",
+      "value": "Chinatown, Maxwell, Outram Park, Tanjong Pagar"
+    },
+    {
+      "label": "Mejores horas",
+      "value": "7:00–10:00 y, después, a partir de las 17:00"
+    },
+    {
+      "label": "Paseo a la sombra",
+      "value": "Unos 3 km, 1 h 30 min"
+    }
+  ],
+  "intro": {
+    "heading": "Five-foot ways y patios de templos",
+    "chips": [
+      "Shophouses",
+      "Templos",
+      "Hawker centres"
+    ],
+    "text": [
+      "Chinatown es el más visitado de los barrios de shophouses y sigue siendo el lugar más fácil para entender cómo funcionaba la ciudad antigua. El Plan Jackson de 1822 reservó esta orilla del río Singapur para los colonos chinos, y las normas de la década de 1820 que vinieron después obligaron a cada shophouse a ceder un pasaje cubierto en su fachada: el five-foot way, el soportal cubierto que da nombre a esta web.",
+      "Recórrelo temprano. Antes de las 10:00, las callejuelas son de quienes compran el desayuno, de los fieles que van al templo y de los tenderos que suben las persianas. A mediodía, los grupos turísticos y el calor llegan a la vez. Vuelve a partir de las 17:00, cuando se encienden los bares de Tanjong Pagar y los comedores de Keong Saik y el aire, por fin, se mueve."
+    ]
+  },
+  "rows": [
+    {
+      "title": "Telok Ayer y Amoy Street",
+      "image": "chinatown-2",
+      "meta": [
+        "Shophouses",
+        "Lugares de culto"
+      ],
+      "text": [
+        "Esto era el frente marítimo antes de que los rellenos alejaran el mar de la vista. Thian Hock Keng, el templo hokkien donde los marineros daban gracias por una travesía sin percances, está a pocas puertas de la Al-Abrar Mosque y del Nagore Dargah, un santuario musulmán tamil. Detrás, las shophouses de Amoy Street son hoy oficinas arriba y pequeños restaurantes abajo."
+      ]
+    },
+    {
+      "title": "Ann Siang Hill y Club Street",
+      "meta": [
+        "Callejuelas",
+        "Pequeños parques"
+      ],
+      "text": [
+        "A una corta subida desde Telok Ayer, Ann Siang Hill es uno de los pocos lugares del casco antiguo con pendiente. Club Street y Ann Siang Road están flanqueadas por shophouses restauradas que en su día acogieron asociaciones de clanes y gremios. Un pequeño parque con escaleras y pasarelas une la colina con Amoy Street y sirve de atajo a la sombra."
+      ]
+    },
+    {
+      "title": "Los templos de South Bridge Road",
+      "image": "chinatown-3",
+      "meta": [
+        "Sri Mariamman Temple",
+        "Buddha Tooth Relic Temple"
+      ],
+      "text": [
+        "Sri Mariamman, el templo hindú más antiguo de Singapur, lo fundaron en 1827 colonos del sur de la India, y su torre gopuram está repleta de deidades pintadas. A una manzana, el Buddha Tooth Relic Temple es nuevo (abrió en 2007), pero está construido al estilo de la dinastía Tang y tiene un jardín de orquídeas en la azotea. En ambos hay que llevar hombros y rodillas cubiertos; en Sri Mariamman, además, hay que descalzarse."
+      ]
+    },
+    {
+      "title": "Keong Saik y Duxton",
+      "meta": [
+        "Por la noche",
+        "Restaurantes"
+      ],
+      "text": [
+        "Keong Saik Road describe una curva junto a algunas de las fachadas más bonitas de la ciudad, pintadas en los tonos pastel que esta web toma prestados. Antigua calle de burdeles, hoy está llena de restaurantes y pequeños hoteles. Duxton Hill, a la vuelta de la esquina, es más tranquila: un anillo de shophouses alrededor de una pequeña loma verde."
+      ]
+    },
+    {
+      "title": "Chinatown Complex y Smith Street",
+      "meta": [
+        "Hawker centre",
+        "Mercado de abastos"
+      ],
+      "text": [
+        "El Chinatown Complex Food Centre, sobre un mercado de abastos en Smith Street, es el hawker centre más grande de Singapur por número de puestos. Es de hormigón, se refresca con ventiladores, siempre está lleno y es donde come de verdad Chinatown. Sube por la escalera mecánica, da una vuelta completa antes de elegir y fíjate en las colas de gente local más que en los premios plastificados."
+      ]
+    }
+  ],
+  "bleed": {
+    "image": "chinatown-2",
+    "kicker": "Paseo a la sombra",
+    "title": "De Telok Ayer a Tanjong Pagar a la sombra",
+    "text": "Nuestra ruta va bajo los five-foot ways casi todo el recorrido, con tres hawker centres y dos estaciones de MRT como refugio por el camino si llega la tormenta.",
+    "facts": [
+      {
+        "label": "Inicio",
+        "value": "MRT Telok Ayer"
+      },
+      {
+        "label": "Final",
+        "value": "MRT Tanjong Pagar"
+      },
+      {
+        "label": "Cubierto",
+        "value": "Casi todo el recorrido"
+      }
+    ],
+    "cta": "Ver el paseo"
+  },
+  "eat": {
+    "title": "Tres hawker centres a menos de diez minutos",
+    "text": [
+      "Pocos lugares de la ciudad reúnen tantos buenos hawker centres tan cerca unos de otros. Cada uno tiene su ritmo: uno para desayunar, otro para comer, otro para la gente de las oficinas."
+    ],
+    "items": [
+      {
+        "name": "Maxwell Food Centre",
+        "text": "Arroz con pollo hainanés, sopa de pescado y las colas que los acompañan. Mejor antes de las 11:00 o después de las 14:00."
+      },
+      {
+        "name": "Chinatown Complex Food Centre",
+        "text": "La mayor variedad en un solo lugar: arroz en cazuela de barro, asados al estilo de Hong Kong, puestos de cerveza artesanal."
+      },
+      {
+        "name": "Amoy Street Food Centre",
+        "text": "Toda una institución para el almuerzo entre semana de las oficinas de la zona. Muchos puestos cierran los fines de semana."
+      }
+    ]
+  },
+  "faq": [
+    {
+      "q": "¿Se puede entrar en los templos?",
+      "a": [
+        "Sí. Thian Hock Keng, Sri Mariamman y el Buddha Tooth Relic Temple reciben visitantes fuera de los oficios. Cubre hombros y rodillas, descálzate donde te lo pidan y pregunta antes de fotografiar a quien esté rezando."
+      ]
+    },
+    {
+      "q": "¿Cuándo hay más gente en Chinatown?",
+      "a": [
+        "En las semanas previas al Año Nuevo chino (enero o febrero, según el calendario lunar), cuando el bazar callejero y la iluminación atraen a multitudes. Las mañanas entre semana son el momento más tranquilo durante todo el año."
+      ]
+    },
+    {
+      "q": "¿Dónde puedo resguardarme de una tormenta?",
+      "a": [
+        "Los five-foot ways te mantienen seco salvo en las turbonadas con más viento. Para tormentas más largas, tienes cerca los hawker centres, Chinatown Point y el paso subterráneo de la estación de MRT Chinatown."
+      ]
+    },
+    {
+      "q": "¿Es buena zona para alojarse?",
+      "a": [
+        "Sí, sobre todo para estancias cortas: es céntrica, tiene tres líneas de MRT y los hoteles en shophouses restauradas en torno a Keong Saik y Duxton están entre los que más carácter tienen de la ciudad. Consulta [Alojamiento](@stays)."
+      ]
+    }
+  ],
+  "related": [
+    "tiong-bahru",
+    "civic-district",
+    "kampong-glam",
+    "little-india"
+  ]
+}

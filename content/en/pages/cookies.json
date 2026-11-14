@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "title": "Cookie Policy | Five Foot Way",
+    "description": "Five Foot Way does not use tracking or advertising cookies. This page explains what the site stores on your device and why."
+  },
+  "kicker": "Legal",
+  "title": "Cookie Policy",
+  "updated": "Last updated: 14 November 2026",
+  "tocLabel": "Contents",
+  "intro": "Short version: {url} does not use cookies for tracking, analytics or advertising, and so it does not show a cookie banner. This page explains what that means in detail.",
+  "sections": [
+    { "h": "What cookies are", "p": ["Cookies are small text files that a website stores in your browser. Similar technologies include local storage and tracking pixels. They can be essential to make a site work, or used to measure visits, remember preferences or show advertising."] },
+    { "h": "What this site uses", "p": ["This site is a set of static pages. It does not set any cookies of its own. In particular, it does not use:"], "ul": [
+      "analytics or statistics cookies;",
+      "advertising, retargeting or social media cookies or pixels;",
+      "embedded videos, maps or social media widgets that set third-party cookies."
+    ], "p2": ["Fonts and images are served from our own domain, not from third-party services. Your language choice is part of the address of each page (for example /fr/ for French), so nothing needs to be stored to remember it."] },
+    { "h": "Our hosting provider", "p": ["The site is hosted by Vercel Inc. To deliver pages securely and protect against abuse, the hosting platform processes technical data such as your IP address in its server logs. This does not involve placing advertising or analytics cookies on your device. See our [Privacy Policy](@privacy) for how long logs are kept."] },
+    { "h": "The enquiry form", "p": ["When you send the enquiry form, the details you type are sent to us over an encrypted connection to answer your enquiry. The form does not set cookies."] },
+    { "h": "Links to other sites", "p": ["We link to official sites, such as Singapore government agencies and attractions. Those sites have their own cookie policies, which apply once you leave {url}."] },
+    { "h": "Managing cookies", "p": ["You can block or delete cookies in your browser settings at any time. Because this site does not rely on cookies, it will work the same way if you do."] },
+    { "h": "Changes and contact", "p": ["If we ever introduce cookies that are not strictly necessary, we will update this policy and ask for your consent before setting them. Questions: [{email}](mailto:{email}), {brand}, {address}."] }
+  ]
+}

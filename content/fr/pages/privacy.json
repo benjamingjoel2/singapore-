@@ -1,0 +1,46 @@
+{
+  "meta": {
+    "title": "Politique de confidentialité | Five Foot Way",
+    "description": "Comment Five Foot Way collecte, utilise et protège les données personnelles, conformément à la loi singapourienne sur la protection des données (PDPA)."
+  },
+  "kicker": "Mentions légales",
+  "title": "Politique de confidentialité",
+  "updated": "Dernière mise à jour : 14 novembre 2026",
+  "tocLabel": "Sommaire",
+  "intro": "La présente politique explique quelles données personnelles {brand} collecte lorsque vous utilisez {url} ou que vous nous contactez, pourquoi nous les collectons, combien de temps nous les conservons et quels sont vos droits. Nous respectons le Personal Data Protection Act 2012 (PDPA) de Singapour et, pour les visiteurs de l'Union européenne et du Royaume-Uni, les principes du Règlement général sur la protection des données (RGPD).",
+  "sections": [
+    { "h": "Qui sommes-nous", "p": ["{brand} est un service d'organisation de voyages à Singapour. Nous sommes l'organisme responsable du traitement de vos données personnelles.", "Adresse : {address}.", "E-mail : [{email}](mailto:{email}). Cette adresse permet également de joindre notre délégué à la protection des données."] },
+    { "h": "Les données que nous collectons", "p": ["Nous ne collectons que ce dont nous avons besoin pour vous répondre et organiser votre voyage :"], "ul": [
+      "**Les informations relatives à votre demande**, que vous nous transmettez via le formulaire ou par e-mail : votre nom, votre adresse e-mail, votre pays de résidence, vos dates approximatives, le nombre de voyageurs, vos centres d'intérêt et votre message.",
+      "**Les informations de réservation**, si vous donnez suite à un voyage : noms des voyageurs, dates de naissance et données de passeport lorsqu'un hôtel, une compagnie aérienne ou une autorité les exige, horaires de vol, besoins alimentaires ou d'accessibilité que vous choisissez de nous communiquer, et justificatifs de paiement.",
+      "**Les données techniques** que notre hébergeur enregistre automatiquement lors de votre visite sur le site, telles que l'adresse IP, le type de navigateur et les pages demandées, conservées dans les journaux du serveur à des fins de sécurité et de dépannage."
+    ], "p2": ["Nous n'utilisons ni traceurs publicitaires, ni cookies de mesure d'audience, ni pixels de réseaux sociaux. Merci de ne pas nous transmettre d'informations sensibles, telles que des données de santé, sauf si elles sont nécessaires à votre voyage et que vous avez choisi de les partager."] },
+    { "h": "Comment nous les utilisons", "ul": [
+      "Pour répondre à votre demande et préparer une proposition (notre intérêt légitime à vous répondre, et les mesures précontractuelles prises à votre demande).",
+      "Pour réserver et gérer votre voyage auprès des hôtels, guides et autres prestataires (exécution d'un contrat).",
+      "Pour satisfaire à nos obligations légales, comptables et fiscales (obligation légale).",
+      "Pour assurer la sécurité et le bon fonctionnement du site (intérêt légitime)."
+    ], "p2": ["Nous n'envoyons pas d'e-mails marketing, sauf si vous avez demandé à les recevoir, et nous ne vendons jamais de données personnelles."] },
+    { "h": "Avec qui nous les partageons", "p": ["Nous ne partageons des données personnelles qu'en cas de nécessité :"], "ul": [
+      "**Les prestataires de voyage**, tels que les hôtels, les guides et les transporteurs, afin qu'ils puissent fournir les services que vous avez réservés.",
+      "**Les sous-traitants** qui traitent des données pour notre compte : notre hébergeur (Vercel Inc.), notre fournisseur de messagerie et nos outils comptables. Ils ne peuvent utiliser ces données que pour nous fournir leur service.",
+      "**Les autorités**, lorsque la loi l'exige."
+    ] },
+    { "h": "Transferts internationaux", "p": ["Certains de nos sous-traitants stockent des données hors de Singapour, notamment aux États-Unis et dans l'Union européenne. Lorsque des données quittent Singapour, nous prenons des mesures pour qu'elles bénéficient d'un niveau de protection comparable à celui du PDPA, par exemple au moyen de garanties contractuelles."] },
+    { "h": "Durée de conservation", "ul": [
+      "Demandes n'ayant pas abouti à une réservation : jusqu'à 24 mois après notre dernier échange, puis suppression.",
+      "Dossiers de réservation : aussi longtemps que l'exigent les règles fiscales et comptables singapouriennes, soit actuellement cinq ans après la fin de l'exercice comptable du voyage.",
+      "Journaux du serveur : pendant une courte durée fixée par notre hébergeur, généralement 30 jours au maximum."
+    ] },
+    { "h": "Comment nous les protégeons", "p": ["Le site est servi exclusivement via une connexion chiffrée (HTTPS). L'accès aux demandes et aux dossiers de réservation est limité aux personnes qui en ont besoin pour organiser votre voyage. Aucune méthode de transmission ou de stockage n'est parfaitement sûre, mais nous prenons des mesures raisonnables pour protéger vos données, et nous vous informerons, ainsi que les autorités, de toute violation de données lorsque la loi l'exige."] },
+    { "h": "Vos droits", "p": ["Vous pouvez à tout moment nous demander :"], "ul": [
+      "d'accéder aux données personnelles que nous détenons à votre sujet et de savoir comment elles ont été utilisées ;",
+      "de rectifier des données inexactes ou incomplètes ;",
+      "de retirer votre consentement à l'utilisation de vos données (ce qui peut signifier que nous ne pourrons plus organiser votre voyage) ;",
+      "d'effacer vos données lorsque nous n'avons plus besoin de les conserver, ou d'en limiter l'utilisation ;",
+      "de recevoir vos données dans un format portable, le cas échéant."
+    ], "p2": ["Écrivez à [{email}](mailto:{email}). Nous vous répondrons sous 30 jours. Si notre réponse ne vous satisfait pas, vous pouvez vous adresser à la Personal Data Protection Commission de Singapour ou, si vous résidez dans l'UE ou au Royaume-Uni, à votre autorité locale de protection des données."] },
+    { "h": "Enfants", "p": ["Nos services s'adressent à des adultes qui préparent un voyage. Nous ne traitons les données d'enfants que lorsqu'un parent ou un tuteur les fournit dans le cadre d'une réservation familiale."] },
+    { "h": "Modifications de la présente politique", "p": ["Nous pouvons mettre à jour cette politique de temps à autre. La date indiquée en haut de page correspond à sa dernière modification. Les changements importants seront signalés sur cette page."] }
+  ]
+}

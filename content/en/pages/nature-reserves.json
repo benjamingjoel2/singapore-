@@ -1,0 +1,89 @@
+{
+  "id": "nature-reserves",
+  "nav": "The nature reserves",
+  "meta": {
+    "title": "Bukit Timah, MacRitchie and Sungei Buloh: rainforest in the city | Five Foot Way",
+    "description": "Primary rainforest, a treetop suspension bridge and mangrove boardwalks, all reachable by MRT and bus. How and when to walk Singapore's nature reserves."
+  },
+  "hero": {
+    "kicker": "Rainforest and mangrove",
+    "title": "The nature reserves",
+    "image": "nature-1",
+    "sub": "Primary rainforest on a city bus route: Bukit Timah, the MacRitchie forest and the mangroves of Sungei Buloh."
+  },
+  "info": [
+    { "label": "Reached by", "value": "MRT plus a short bus or walk" },
+    { "label": "Best hours", "value": "Start by 7:30am" },
+    { "label": "Bring", "value": "Water, insect repellent, a light rain shell" }
+  ],
+  "intro": {
+    "heading": "The forest that survived the city",
+    "chips": ["Primary rainforest", "Mangroves", "Wildlife"],
+    "text": [
+      "Most of Singapore's original forest was cleared for plantations in the 19th century. What survived, around Bukit Timah hill and the reservoirs at the centre of the island, is now protected, and it holds more tree species in a few hectares than many countries have in total. Long-tailed macaques, colugos, monitor lizards and hornbills live a short bus ride from the shopping malls.",
+      "These are proper walks in hot, humid forest. Start early, carry more water than you think, stay on the marked trails, and never feed the monkeys: it is illegal and it makes them aggressive."
+    ]
+  },
+  "rows": [
+    {
+      "title": "Bukit Timah Nature Reserve",
+      "image": "nature-1",
+      "meta": ["Highest hill, 163 m", "Steep paths"],
+      "text": [
+        "Singapore's highest hill is covered in one of the largest remaining patches of primary rainforest in the city. The main summit path is short but steep, and the side trails are rocky and muddy after rain. Go at dawn, when the forest is noisy with birds and the air is still cool."
+      ]
+    },
+    {
+      "title": "MacRitchie and the TreeTop Walk",
+      "image": "nature-2",
+      "meta": ["Suspension bridge", "Closed some days"],
+      "text": [
+        "A loop of forest trails and boardwalks around MacRitchie Reservoir leads to the TreeTop Walk, a free-standing suspension bridge linking the two highest points in the reserve, high above the forest floor. The full loop is long, about eleven kilometres, so plan for half a day. The bridge has restricted hours and is closed on certain days."
+      ]
+    },
+    {
+      "title": "Sungei Buloh Wetland Reserve",
+      "image": "nature-3",
+      "meta": ["Mangroves", "Migratory birds"],
+      "text": [
+        "In the far north-west, facing Malaysia across the Johor Strait, mangrove boardwalks and mudflats attract migratory shorebirds from about September to March. Estuarine crocodiles and monitor lizards bask on the banks. Check the tide table: low tide brings the birds and the mudskippers out."
+      ]
+    },
+    {
+      "title": "How to behave in the forest",
+      "meta": ["Rules", "Safety"],
+      "text": [
+        "Stay on marked trails, keep food out of sight, and do not feed or approach the macaques. Lightning is a real risk: when a storm comes in, leave exposed ridges and bridges and wait in a shelter. Tell someone where you are going and when you expect to be back."
+      ]
+    }
+  ],
+  "bleed": {
+    "image": "nature-2",
+    "kicker": "Forest walk",
+    "title": "MacRitchie under the canopy",
+    "text": "Boardwalks along the reservoir edge, forest trails to the TreeTop Walk, and back by the same route if a storm builds. Shade almost the whole way.",
+    "facts": [
+      { "label": "Start", "value": "MacRitchie Reservoir Park" },
+      { "label": "Length", "value": "About 11 km loop" },
+      { "label": "Start by", "value": "7:30am" }
+    ],
+    "cta": "See the walk"
+  },
+  "eat": {
+    "title": "Refuel after the trail",
+    "text": [
+      "None of the reserves has much food inside. Eat before, carry snacks, and plan a proper meal afterwards."
+    ],
+    "items": [
+      { "name": "Beauty World", "text": "Near Bukit Timah, a hawker centre at the top of an old market building." },
+      { "name": "Thomson Road", "text": "A short bus ride from MacRitchie, with several old-style coffee shops." },
+      { "name": "Kranji", "text": "For Sungei Buloh, take snacks: the area is rural and food options are few." }
+    ]
+  },
+  "faq": [
+    { "q": "Are the reserves safe?", "a": ["Yes, if you follow the rules: stay on the trails, carry water, respect the wildlife and take lightning seriously. Snakes are present but rarely seen and almost never a problem on the main trails."] },
+    { "q": "Do I need a guide?", "a": ["Not for the main trails, which are well signposted. A naturalist guide makes a real difference if you want to see wildlife; we can arrange one through an [enquiry](@enquire)."] },
+    { "q": "What should I wear?", "a": ["Light, quick-drying clothes, closed shoes with grip, a hat and insect repellent. A light rain shell or a small umbrella fits in a day bag."] }
+  ],
+  "related": ["botanic-gardens", "southern-ridges", "mandai", "pulau-ubin"]
+}

@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "title": "Cookie-Richtlinie | Five Foot Way",
+    "description": "Five Foot Way verwendet keine Tracking- oder Werbe-Cookies. Hier erfahren Sie, was die Website auf Ihrem Gerät speichert und warum."
+  },
+  "kicker": "Rechtliches",
+  "title": "Cookie-Richtlinie",
+  "updated": "Zuletzt aktualisiert: 14. November 2026",
+  "tocLabel": "Inhalt",
+  "intro": "Kurz gesagt: {url} verwendet keine Cookies für Tracking, Analyse oder Werbung und zeigt deshalb auch kein Cookie-Banner an. Was das im Einzelnen bedeutet, erläutert diese Seite.",
+  "sections": [
+    { "h": "Was Cookies sind", "p": ["Cookies sind kleine Textdateien, die eine Website in Ihrem Browser speichert. Zu den vergleichbaren Technologien gehören der lokale Speicher (Local Storage) und Tracking-Pixel. Sie können für den Betrieb einer Website unbedingt erforderlich sein oder dazu dienen, Besuche zu messen, Einstellungen zu speichern oder Werbung anzuzeigen."] },
+    { "h": "Was diese Website verwendet", "p": ["Diese Website besteht aus statischen Seiten. Sie setzt keine eigenen Cookies. Insbesondere verwendet sie keine:"], "ul": [
+      "Analyse- oder Statistik-Cookies;",
+      "Werbe-, Retargeting- oder Social-Media-Cookies oder -Pixel;",
+      "eingebetteten Videos, Karten oder Social-Media-Widgets, die Cookies von Drittanbietern setzen."
+    ], "p2": ["Schriftarten und Bilder werden von unserer eigenen Domain ausgeliefert, nicht über Dienste Dritter. Ihre Sprachwahl ist Teil der Adresse jeder Seite (zum Beispiel /fr/ für Französisch), sodass nichts gespeichert werden muss, um sie sich zu merken."] },
+    { "h": "Unser Hosting-Anbieter", "p": ["Die Website wird von Vercel Inc. gehostet. Um Seiten sicher auszuliefern und vor Missbrauch zu schützen, verarbeitet die Hosting-Plattform in ihren Server-Logs technische Daten wie Ihre IP-Adresse. Dabei werden keine Werbe- oder Analyse-Cookies auf Ihrem Gerät abgelegt. Wie lange die Logs gespeichert werden, erfahren Sie in unserer [Datenschutzerklärung](@privacy)."] },
+    { "h": "Das Anfrageformular", "p": ["Wenn Sie das Anfrageformular absenden, werden Ihre Eingaben über eine verschlüsselte Verbindung an uns übermittelt, damit wir Ihre Anfrage beantworten können. Das Formular setzt keine Cookies."] },
+    { "h": "Links zu anderen Websites", "p": ["Wir verlinken auf offizielle Websites, etwa von Behörden und Sehenswürdigkeiten in Singapur. Diese Websites haben eigene Cookie-Richtlinien, die gelten, sobald Sie {url} verlassen."] },
+    { "h": "Cookies verwalten", "p": ["Sie können Cookies jederzeit in den Einstellungen Ihres Browsers blockieren oder löschen. Da diese Website nicht auf Cookies angewiesen ist, funktioniert sie auch dann unverändert."] },
+    { "h": "Änderungen und Kontakt", "p": ["Sollten wir künftig Cookies einführen, die nicht unbedingt erforderlich sind, werden wir diese Richtlinie aktualisieren und Ihre Einwilligung einholen, bevor wir sie setzen. Fragen richten Sie bitte an: [{email}](mailto:{email}), {brand}, {address}."] }
+  ]
+}

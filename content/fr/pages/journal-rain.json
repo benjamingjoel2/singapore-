@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "title": "Pourquoi il pleut à 16 h | Journal Five Foot Way",
+    "description": "Ce qui explique les orages de l'après-midi à Singapour, le calendrier des moussons et le « Sumatra squall », et comment organiser sa journée en conséquence."
+  },
+  "title": "Pourquoi il pleut à 16 h",
+  "kicker": "Météo",
+  "image": "rain-1",
+  "date": "2026-09-12",
+  "dateLabel": "Septembre 2026",
+  "minutes": 5,
+  "excerpt": "Les orages de Singapour en quelques mots, et un plan pour vivre avec.",
+  "related": ["civic-district", "marina-bay", "botanic-gardens"],
+  "body": [
+    { "p": "Passez quelques jours à Singapour en avril ou en novembre et vous remarquerez un schéma. Le matin est lumineux et sans vent. À l'heure du déjeuner, le ciel a blanchi sous la brume de chaleur. Vers 15 h ou 16 h, les nuages s'empilent en tours, la lumière vire au gris-jaune, puis la pluie tombe d'un coup, assez fort pour rebondir sur la chaussée. Une heure plus tard, c'est fini." },
+    { "h2": "La chaleur fait l'orage" },
+    { "p": "Le responsable, c'est le soleil lui-même. Dès le matin, il chauffe le sol et la mer, et l'air chaud et très humide qui les surplombe s'élève. En montant, il se refroidit, l'humidité se condense et, au milieu de l'après-midi, les nuages ont pris assez de hauteur pour devenir des orages. C'est pourquoi les orages sont plus fréquents après les heures les plus chaudes, et pourquoi les intermoussons, avec peu de vent pour brasser l'air, en comptent le plus." },
+    { "h2": "Les moussons" },
+    { "p": "Deux fois par an, les vents dominants changent de direction dans la région. De décembre à début mars environ, la mousson du nord-est apporte une période humide, souvent avec des pluies plus longues et plus régulières, suivie d'une phase plus sèche et plus ventée. De juin à septembre environ, la mousson du sud-ouest est généralement plus sèche, mais elle amène le « Sumatra squall » : une ligne de grains qui se forme la nuit au-dessus du détroit de Malacca et balaie l'île avant l'aube, avec de fortes rafales." },
+    { "h2": "Comment s'organiser" },
+    { "ul": [
+      "**Marchez le matin.** La plupart des mois, le meilleur moment de la journée se situe entre 7 h et 10 h.",
+      "**Gardez l'après-midi flexible.** Ayez une option à l'abri à portée de main : un musée, un hawker centre, un passage couvert.",
+      "**Prenez la foudre au sérieux.** Singapour connaît l'un des taux de foudroiement les plus élevés au monde. Quittez les espaces dégagés, l'eau et les ponts dès que vous entendez le tonnerre.",
+      "**N'annulez pas sur la foi d'une prévision.** « 70 % de risque d'orage » signifie souvent une heure de forte pluie, quelque part sur l'île."
+    ] },
+    { "p": "Il y a aussi de quoi y prendre plaisir. Abritez-vous sous une five-foot way pendant une averse, avec l'eau qui tombe en rideau des tuiles et la rue soudain déserte, et vous comprendrez pourquoi la ville a été bâtie ainsi." }
+  ]
+}

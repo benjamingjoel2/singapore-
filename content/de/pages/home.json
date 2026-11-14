@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "title": "Five Foot Way | Singapur jenseits des Zwischenstopps",
+    "description": "Singapur jenseits von Zwischenstopp und Skyline: Shophouse-Viertel, Hawker Centres, Pulau Ubin und Regenwald mitten in der Stadt – geplant um Hitze und Regen."
+  },
+  "hero": {
+    "kicker": "Singapur, ganz in Ruhe",
+    "title": "Singapur nach dem Regen",
+    "image": "hero-home",
+    "sub": "Shophouse-Straßen, Hawker-Hallen, die alte Kampong-Insel und der Regenwald, um den die Stadt gewachsen ist. Geplant um Hitze und Regen."
+  },
+  "stripLabel": "Hier beginnen",
+  "strip": [
+    { "id": "hawker-guide", "label": "Hawker-Centre-Guide", "image": "hawker-1" },
+    { "id": "stopover-planner", "label": "Stopover-Planer", "image": "changi-1" },
+    { "id": "shade-walks", "label": "Spaziergänge für Sonne und Regen", "image": "walk-1" },
+    { "id": "pulau-ubin", "label": "Pulau Ubin", "image": "ubin-1" }
+  ],
+  "statement": {
+    "kicker": "Five Foot Way",
+    "text": "Die meisten sehen Singapur durch das Taxifenster zwischen Flughafen und Hotelturm. Wir planen Reisen für die andere Stadt: die unter den Arkaden der Shophouses, am Hawker-Tisch um sieben Uhr morgens, im Bumboat zum letzten Dorf und im Wald, der noch immer mitten auf der Insel wächst."
+  },
+  "collage": {
+    "imageA": "about-1",
+    "imageB": "journeys-1",
+    "title": "Der Five-foot way",
+    "caption": "In den 1820er-Jahren verlangte Singapurs erster Stadtplan, dass jedes Shophouse entlang seiner Front einen überdachten Arkadengang abgibt, etwa fünf Fuß tief. Zweihundert Jahre später halten diese Arkaden noch immer Sonne und Regen von allen fern, die zu Fuß unterwegs sind. Wir haben uns nach ihnen benannt, weil wir möchten, dass Sie die Stadt genau so erleben: zu Fuß, im Schatten, im menschlichen Tempo.",
+    "notes": [
+      "Wir sind ein kleiner Reiseplaner in Singapur. Wir gestalten Reisen rund um Viertel statt Sehenswürdigkeiten und mit dem Wetter statt gegen es.",
+      "Jeder Plan beginnt früh am Morgen, verlegt die heißesten Stunden in Museen und lange Mittagessen und rechnet mit dem Nachmittagsgewitter.",
+      "Wir arbeiten per E-Mail, antworten persönlich und verkaufen Ihnen nie etwas, wonach Sie nicht gefragt haben."
+    ]
+  },
+  "explore": {
+    "title": "Geplant um Hitze und Regen",
+    "text": "Drei Werkzeuge, die wir entwickelt haben, weil die üblichen Ratschläge in einer Stadt auf einem Grad nördlicher Breite nicht funktionierten. Nutzen Sie sie einzeln oder lassen Sie uns daraus eine Reise machen.",
+    "rows": [
+      { "id": "hawker-guide", "title": "Hawker-Centre-Guide", "image": "hawker-2", "meta": "Unser Leit-Guide", "cta": "Zum Guide", "text": "Welches Centre für welches Gericht, wann die Stände öffnen und schließen, warum eine Packung Taschentücher einen besetzten Platz markiert und was der UNESCO-Eintrag eigentlich schützt." },
+      { "id": "stopover-planner", "title": "Stopover-Planer", "image": "changi-2", "meta": "8 Stunden bis 4 Tage", "cta": "Zwischenstopp planen", "text": "Geben Sie die Dauer Ihres Aufenthalts ein und erhalten Sie einen realistischen Plan, in dem Einreise, Transfer und Zeiten in Changi zuerst eingerechnet sind – und ein ehrliches „Bleiben Sie im Transitbereich“, wenn die Zeit zu knapp ist." },
+      { "id": "shade-walks", "title": "Spaziergänge für Sonne und Regen", "image": "walk-2", "meta": "Dreizehn Routen", "cta": "Zu den Spaziergängen", "text": "Spaziergänge durch Viertel und Wald entlang von Five-foot ways, Park Connectors und Blätterdach, zeitlich so gelegt, dass Sie Mittagssonne und Nachmittagsgewitter verpassen." },
+      { "id": "journeys", "title": "Beispielreisen", "image": "journeys-2", "meta": "2 bis 7 Tage", "cta": "Zu den Reisen", "text": "Vier Reiserouten zum Abschauen: ein 48-Stunden-Stopover, eine Shophouse-Woche, eine Naturreise und eine Familienreise, jeweils angepasst an Ihre Reisedaten und die Jahreszeit." }
+    ]
+  },
+  "bands": [
+    { "anchor": "neighbourhoods", "title": "Shophouse", "kicker": "Die Viertel", "kickerRight": "Sechs Viertel zu Fuß", "text": "Pastellfarbene Fassaden, Tempelhöfe und Hawker Centres: die Altstadt, erwandert unter ihren eigenen Arkaden." },
+    { "anchor": "nature", "title": "Regenwald", "kicker": "Grünes Singapur", "kickerRight": "Gärten, Regenwald und Inseln", "text": "Ein UNESCO-Garten, Primärregenwald an der Buslinie, Höhenwege über dem Hafen und die letzte Kampong-Insel." }
+  ],
+  "steps": {
+    "kicker": "So läuft ein Tag",
+    "title": "Geplant um Hitze und Regen",
+    "text": "Singapurs Wetter folgt eher einem Tagesrhythmus als einem jahreszeitlichen. Jeder unserer Pläne folgt ihm ebenfalls.",
+    "items": [
+      { "title": "7 Uhr: losgehen", "image": "botanic-1", "link": "botanic-gardens", "text": "Die Luft ist kühl, das Licht flach. Gärten, Wald und Five-foot ways gehören den Einheimischen und den Joggern." },
+      { "title": "11 Uhr: nach drinnen", "image": "civic-1", "link": "civic-district", "text": "Wenn die Sonne steigt, geht es in ein Museum, ein gekühltes Gewächshaus oder zu einem langen Hawker-Mittagessen." },
+      { "title": "15 Uhr: aufs Gewitter warten", "image": "rain-1", "link": "shade-walks", "text": "In vielen Monaten baut sich am Nachmittag ein Gewitter auf. Es ist heftig und meist kurz. Seien Sie dann unter einem Dach." },
+      { "title": "18 Uhr: draußen essen", "image": "hawker-3", "link": "hawker-guide", "text": "Das Pflaster hat sich abgekühlt, die Brise frischt auf. Satay auf der Straße, ein Spaziergang am Wasser, spät noch ein Imbiss." }
+    ]
+  },
+  "monsoon": {
+    "image": "rain-1",
+    "kicker": "Der Monsunkalender",
+    "title": "Regen gehört zum Plan",
+    "text": "In Singapur gibt es keine Trockenzeit, nur verschiedene Arten von Nässe. Wir planen um sie herum, statt so zu tun, als gäbe es sie nicht.",
+    "facts": [
+      { "label": "Dez. – Anfang März", "value": "Nordostmonsun" },
+      { "label": "März – Mai", "value": "Nachmittagsgewitter" },
+      { "label": "Juni – Sept.", "value": "Südwestmonsun" },
+      { "label": "Okt. – Nov.", "value": "Nachmittagsgewitter" }
+    ]
+  },
+  "journeysTitle": "Beispielreisen"
+}

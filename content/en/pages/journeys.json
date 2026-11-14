@@ -1,0 +1,63 @@
+{
+  "meta": {
+    "title": "Sample Singapore journeys: from 48 hours to a week | Five Foot Way",
+    "description": "Four sample itineraries for Singapore beyond the skyline: a 48-hour stopover, a shophouse week, a nature-first trip and a family trip, all planned around heat and rain."
+  },
+  "hero": {
+    "kicker": "Itineraries",
+    "title": "Sample journeys",
+    "image": "journeys-1",
+    "sub": "Four ways to shape a trip. Borrow one, or tell us what you like and we will build yours."
+  },
+  "intro": {
+    "kicker": "How we plan",
+    "text": "Each journey below follows the same rules: walk early, rest at midday, expect the storm, eat late. One neighbourhood a day is plenty. Every trip is adapted to your dates, the season, your flights and your pace, and quoted on enquiry."
+  },
+  "items": [
+    {
+      "id": "stopover-48", "title": "The 48-hour stopover", "days": 2, "pace": "Brisk", "bestFor": "First visit, long layover", "image": "journeys-2",
+      "summary": ["Two days that show the city beyond the airport and the bay: the shophouse districts, two hawker centres a day, an early walk in the Botanic Gardens and a final evening in Katong, twenty minutes from your flight."],
+      "plan": [
+        { "day": "1", "title": "Chinatown and the Civic District", "text": ["Land, check in, and walk Telok Ayer to Tanjong Pagar in the late afternoon. Dinner at Maxwell. Next morning, if you are staying a second night, the river walk."] },
+        { "day": "1", "title": "Midday in the museums", "text": ["National Gallery or the Asian Civilisations Museum through the hottest hours, lunch at Lau Pa Sat."] },
+        { "day": "2", "title": "Botanic Gardens at dawn, Katong by afternoon", "text": ["The gardens from Tanglin Gate at 6:30am, breakfast at Adam Road, a rest, then Joo Chiat and laksa before a short taxi to Changi."] }
+      ]
+    },
+    {
+      "id": "shophouse-week", "title": "The shophouse week", "days": 6, "pace": "Unhurried", "bestFor": "Architecture, food, culture", "image": "about-1",
+      "summary": ["A week spent in the old neighbourhoods, staying in a shophouse hotel, with one district a day and long hawker lunches in between. Ideal in the Northeast Monsoon's dry phase, from February."],
+      "plan": [
+        { "day": "1", "title": "Arrive, Keong Saik at dusk", "text": ["Settle into a shophouse hotel in Chinatown and walk the lanes once the heat breaks."] },
+        { "day": "2", "title": "Chinatown and Tanjong Pagar", "text": ["Temples and five-foot ways in the morning, Chinatown Complex for lunch, the Peranakan Museum in the afternoon."] },
+        { "day": "3", "title": "Tiong Bahru and the river", "text": ["Breakfast at the market, the pre-war flats, an afternoon on the river and the Asian Civilisations Museum."] },
+        { "day": "4", "title": "Kampong Glam and Little India", "text": ["The mosque and Arab Street in the morning, Tekka for lunch, temples at dusk."] },
+        { "day": "5", "title": "Katong and Joo Chiat", "text": ["The Peranakan terraces, kueh shops, East Coast Park in the late afternoon and satay by the sea."] },
+        { "day": "6", "title": "Depart", "text": ["A last kopi, and Changi Village for nasi lemak on the way to the airport."] }
+      ]
+    },
+    {
+      "id": "nature-first", "title": "Rainforest and island", "days": 5, "pace": "Active", "bestFor": "Walkers, birdwatchers", "image": "nature-3",
+      "summary": ["Early starts and green places: Bukit Timah at dawn, the Southern Ridges, the mangroves of Sungei Buloh, a day by bicycle on Pulau Ubin and an evening at the Night Safari."],
+      "plan": [
+        { "day": "1", "title": "Botanic Gardens", "text": ["Arrive, and walk the gardens in the late afternoon light."] },
+        { "day": "2", "title": "Bukit Timah and MacRitchie", "text": ["The summit at dawn, a rest at midday, the MacRitchie boardwalks the next morning if you still have the legs."] },
+        { "day": "3", "title": "The Southern Ridges", "text": ["Kent Ridge to Mount Faber before ten, lunch at HarbourFront, a quiet afternoon."] },
+        { "day": "4", "title": "Pulau Ubin", "text": ["The first bumboat, bikes to Chek Jawa, back before the storms. Night Safari in the evening."] },
+        { "day": "5", "title": "Sungei Buloh, then depart", "text": ["Mangroves and shorebirds at low tide (in the migratory season), then a late flight."] }
+      ]
+    },
+    {
+      "id": "family", "title": "A family week", "days": 7, "pace": "Gentle", "bestFor": "Children of all ages", "image": "mandai-1",
+      "summary": ["Mornings outdoors, afternoons in the pool or a cool museum, early dinners at hawker centres where children can choose for themselves. Bird Paradise, the zoo, a bicycle day on Pulau Ubin and plenty of rest."],
+      "plan": [
+        { "day": "1", "title": "Arrive and swim", "text": ["A hotel with a pool, and an early dinner at a nearby hawker centre."] },
+        { "day": "2", "title": "Gardens by the Bay", "text": ["The Cloud Forest at midday, the children's garden and the waterfront in the evening."] },
+        { "day": "3", "title": "Mandai", "text": ["The zoo at opening, a rest, then Bird Paradise or the Night Safari."] },
+        { "day": "4", "title": "Botanic Gardens", "text": ["The Jacob Ballas Children's Garden in the morning, a slow afternoon."] },
+        { "day": "5", "title": "Pulau Ubin", "text": ["Bumboat, bikes with child seats, Chek Jawa, nasi lemak at Changi Village."] },
+        { "day": "6", "title": "Chinatown and the river", "text": ["A short walk, a long lunch, the river by boat in the evening."] },
+        { "day": "7", "title": "Depart", "text": ["Jewel's Rain Vortex before the flight."] }
+      ]
+    }
+  ]
+}

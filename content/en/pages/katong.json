@@ -1,0 +1,88 @@
+{
+  "id": "katong",
+  "nav": "Katong & Joo Chiat",
+  "meta": {
+    "title": "Katong and Joo Chiat: Peranakan houses, laksa and the east coast | Five Foot Way",
+    "description": "Tiled Peranakan terrace houses, kueh shops and Katong laksa, twenty minutes from Changi: the best neighbourhood for a short layover."
+  },
+  "hero": {
+    "kicker": "Peranakan neighbourhood",
+    "title": "Katong & Joo Chiat",
+    "image": "katong-1",
+    "sub": "Painted terraces, hand-laid tiles and the best bowl of laksa you will eat on your way to the airport."
+  },
+  "info": [
+    { "label": "Nearest MRT", "value": "Marine Parade, Katong Park, Eunos, Paya Lebar" },
+    { "label": "From Changi", "value": "About 20 minutes by taxi" },
+    { "label": "Shade walk", "value": "About 3 km, 1.5 hours" }
+  ],
+  "intro": {
+    "heading": "Where the Peranakan city still lives",
+    "chips": ["Peranakan", "Terrace houses", "Close to Changi"],
+    "text": [
+      "Katong was once a seaside district of coconut plantations and weekend villas, until land reclamation in the 1960s and 70s moved the shore a kilometre south. Wealthy Peranakan families, the descendants of Chinese traders who married into the Malay world, settled here, and their culture of beadwork, kebaya, nyonya cooking and decorative tiles shaped the neighbourhood.",
+      "It is a residential area first, not a museum, and that is its charm. People live in the terrace houses everyone photographs. Walk quietly, keep off the doorsteps, and spend your money in the kueh shops and kopitiams that make the area what it is."
+    ]
+  },
+  "rows": [
+    {
+      "title": "Koon Seng Road",
+      "image": "katong-1",
+      "meta": ["Terrace houses", "1920s"],
+      "text": [
+        "Two rows of terrace houses in pastel colours, with plaster swags, carved pintu pagar half-doors and glazed tiles around the windows. These are the houses on the postcards. They are private homes: photograph from the pavement and keep your voice down in the morning."
+      ]
+    },
+    {
+      "title": "Joo Chiat Road",
+      "image": "katong-2",
+      "meta": ["Shophouses", "Tiles"],
+      "text": [
+        "The main street runs for about a kilometre between Geylang Road and East Coast Road, lined with two-storey shophouses whose façades are some of the most decorated in Singapore. Look for the tiles: many were made in Europe or Japan and shipped east in the early 20th century."
+      ]
+    },
+    {
+      "title": "East Coast Road",
+      "meta": ["Laksa", "Kueh", "Peranakan shops"],
+      "text": [
+        "The old coast road is where Katong laksa, a coconut curry noodle soup cut short enough to eat with a spoon, became famous. Kueh shops sell the small, bright rice cakes of the Peranakan kitchen, and a few family shops still sell beaded slippers and kebaya."
+      ]
+    },
+    {
+      "title": "East Coast Park",
+      "meta": ["Sea breeze", "Cycling"],
+      "text": [
+        "Fifteen kilometres of beach park along the reclaimed shore, with bike rental, barbecue pits and a hawker centre by the sea. The underpasses from Marine Parade make it an easy walk. In the late afternoon, the sea breeze makes it noticeably cooler than town."
+      ]
+    }
+  ],
+  "bleed": {
+    "image": "katong-2",
+    "kicker": "Shade walk",
+    "title": "Joo Chiat end to end",
+    "text": "From the shophouse arcades of Joo Chiat Road to the terraces of Koon Seng Road and down to East Coast Road for laksa. A short taxi from Changi at either end.",
+    "facts": [
+      { "label": "Start", "value": "Paya Lebar MRT" },
+      { "label": "Finish", "value": "Marine Parade MRT" },
+      { "label": "Best", "value": "8am, or after 4:30pm" }
+    ],
+    "cta": "See the walk"
+  },
+  "eat": {
+    "title": "Laksa, kueh and nyonya cooking",
+    "text": [
+      "Peranakan cooking blends Chinese techniques with Malay spice: think ayam buah keluak, a chicken stew made with a black, bitter nut that takes days to prepare. Katong is the place to try it, alongside laksa and kueh."
+    ],
+    "items": [
+      { "name": "East Coast Road laksa shops", "text": "Several long-running shops compete for the title. Order a small bowl at more than one." },
+      { "name": "East Coast Lagoon Food Village", "text": "Satay and seafood by the beach. Best at sunset." },
+      { "name": "Marine Parade Central", "text": "A neighbourhood hawker centre used by residents rather than visitors." }
+    ]
+  },
+  "faq": [
+    { "q": "Is Katong good for a layover?", "a": ["It is the best choice for a short one. It is about twenty minutes from Changi by taxi, much closer than the city centre, so even a ten-hour layover can include a walk and a bowl of laksa. Try the [stopover planner](@stopover-planner)."] },
+    { "q": "Can I go inside a Peranakan house?", "a": ["Most are private homes. The Peranakan Museum in the Civic District has the richest collection, and a few small private galleries in Katong open by appointment."] },
+    { "q": "What does Peranakan mean?", "a": ["Locally born. In Singapore it usually refers to the Straits Chinese, whose families have lived in the region for centuries and whose culture mixes Chinese, Malay and European influences."] }
+  ],
+  "related": ["changi", "pulau-ubin", "kampong-glam", "little-india"]
+}

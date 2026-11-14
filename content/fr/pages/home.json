@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "title": "Five Foot Way | Singapour au-delà de l'escale",
+    "description": "Singapour au-delà de l'escale et des gratte-ciel : quartiers de shophouses, hawker centres, Pulau Ubin et forêt tropicale, au rythme de la chaleur et de la pluie."
+  },
+  "hero": {
+    "kicker": "Singapour, sans se presser",
+    "title": "Singapour après la pluie",
+    "image": "hero-home",
+    "sub": "Rues de shophouses, halles de hawker centres, la vieille île des kampongs et la forêt tropicale autour de laquelle la ville a grandi. Au rythme de la chaleur et de la pluie."
+  },
+  "stripLabel": "Par où commencer",
+  "strip": [
+    { "id": "hawker-guide", "label": "Guide des hawker centres", "image": "hawker-1" },
+    { "id": "stopover-planner", "label": "Planificateur d'escale", "image": "changi-1" },
+    { "id": "shade-walks", "label": "Balades à l'ombre et sous la pluie", "image": "walk-1" },
+    { "id": "pulau-ubin", "label": "Pulau Ubin", "image": "ubin-1" }
+  ],
+  "statement": {
+    "kicker": "Five Foot Way",
+    "text": "La plupart des gens voient Singapour à travers la vitre d'un taxi, entre l'aéroport et une tour d'hôtel. Nous organisons des voyages pour l'autre ville : celle des arcades de shophouses, de la table de hawker centre à sept heures du matin, du bumboat vers le dernier village, et de la forêt qui pousse encore au cœur de l'île."
+  },
+  "collage": {
+    "imageA": "about-1",
+    "imageB": "journeys-1",
+    "title": "La five-foot way",
+    "caption": "Dans les années 1820, le premier plan d'urbanisme de Singapour imposa à chaque shophouse de céder, sur sa façade, une galerie couverte d'environ cinq pieds de profondeur. Deux siècles plus tard, ces arcades protègent toujours les piétons du soleil et de la pluie. Nous leur avons emprunté notre nom parce que c'est ainsi que nous voulons vous faire découvrir la ville : à pied, à l'ombre, à hauteur d'homme.",
+    "notes": [
+      "Nous sommes une petite agence de voyages spécialisée sur Singapour. Nous construisons nos voyages autour des quartiers plutôt que des attractions, et avec la météo plutôt que contre elle.",
+      "Chaque programme commence tôt le matin, réserve les heures les plus chaudes aux musées et aux longs déjeuners, et prévoit l'orage de l'après-midi.",
+      "Nous travaillons par e-mail, répondons personnellement et ne vous vendons jamais rien que vous n'ayez demandé."
+    ]
+  },
+  "explore": {
+    "title": "Au rythme de la chaleur et de la pluie",
+    "text": "Trois outils que nous avons créés parce que les conseils habituels ne fonctionnent pas dans une ville située à un degré au nord de l'équateur. Utilisez-les seuls, ou laissez-nous les assembler en un voyage.",
+    "rows": [
+      { "id": "hawker-guide", "title": "Guide des hawker centres", "image": "hawker-2", "meta": "Notre guide phare", "cta": "Ouvrir le guide", "text": "Quel centre pour quel plat, à quelle heure les stands ouvrent et ferment, pourquoi un paquet de mouchoirs signifie qu'une place est prise, et ce que protège réellement l'inscription à l'UNESCO." },
+      { "id": "stopover-planner", "title": "Planificateur d'escale", "image": "changi-2", "meta": "De 8 heures à 4 jours", "cta": "Préparer une escale", "text": "Indiquez la durée de votre escale et obtenez un programme réaliste, qui tient compte d'abord de l'immigration, des trajets et des délais à Changi, avec un « restez en zone de transit » honnête quand le temps manque." },
+      { "id": "shade-walks", "title": "Balades à l'ombre et sous la pluie", "image": "walk-2", "meta": "Treize itinéraires", "cta": "Voir les balades", "text": "Des balades en ville et en forêt qui suivent les five-foot ways, les park connectors et le couvert des arbres, calées pour éviter le soleil de midi et l'orage de l'après-midi." },
+      { "id": "journeys", "title": "Exemples de voyages", "image": "journeys-2", "meta": "De 2 à 7 jours", "cta": "Voir les voyages", "text": "Quatre itinéraires dont vous inspirer : une escale de 48 heures, une semaine côté shophouses, un voyage axé nature et un voyage en famille, chacun adapté à vos dates et à la saison." }
+    ]
+  },
+  "bands": [
+    { "anchor": "neighbourhoods", "title": "Shophouses", "kicker": "Les quartiers", "kickerRight": "Six quartiers à pied", "text": "Façades pastel, cours de temples et hawker centres : la vieille ville, parcourue sous ses propres arcades." },
+    { "anchor": "nature", "title": "Forêt tropicale", "kicker": "Singapour côté nature", "kickerRight": "Jardins, forêt et îles", "text": "Un jardin classé par l'UNESCO, une forêt primaire desservie par le bus, des balades sur les crêtes au-dessus du port et la dernière île des kampongs." }
+  ],
+  "steps": {
+    "kicker": "Le déroulé d'une journée",
+    "title": "Au rythme de la chaleur et de la pluie",
+    "text": "La météo de Singapour suit un rythme quotidien plus que saisonnier. Tous nos programmes le suivent aussi.",
+    "items": [
+      { "title": "7 h : marcher", "image": "botanic-1", "link": "botanic-gardens", "text": "L'air est frais et la lumière rasante. Les jardins, la forêt et les five-foot ways appartiennent aux habitants et aux joggeurs." },
+      { "title": "11 h : se mettre à l'abri", "image": "civic-1", "link": "civic-district", "text": "Quand le soleil monte, réfugiez-vous dans un musée, une serre climatisée ou un long déjeuner au hawker centre." },
+      { "title": "15 h : attendre l'orage", "image": "rain-1", "link": "shade-walks", "text": "Une bonne partie de l'année, un orage se forme l'après-midi. Il est violent et généralement bref. Soyez à couvert." },
+      { "title": "18 h : dîner dehors", "image": "hawker-3", "link": "hawker-guide", "text": "Les pavés ont refroidi et la brise se lève. Satay dans la rue, promenade au bord de l'eau, souper tardif." }
+    ]
+  },
+  "monsoon": {
+    "image": "rain-1",
+    "kicker": "Le calendrier des moussons",
+    "title": "La pluie fait partie du programme",
+    "text": "Il n'y a pas de saison sèche à Singapour, seulement différentes façons d'être mouillé. Nous composons avec elles plutôt que de faire comme si elles n'existaient pas.",
+    "facts": [
+      { "label": "Déc. – début mars", "value": "Mousson du nord-est" },
+      { "label": "Mars – mai", "value": "Orages l'après-midi" },
+      { "label": "Juin – sept.", "value": "Mousson du sud-ouest" },
+      { "label": "Oct. – nov.", "value": "Orages l'après-midi" }
+    ]
+  },
+  "journeysTitle": "Exemples de voyages"
+}

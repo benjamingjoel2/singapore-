@@ -1,0 +1,46 @@
+{
+  "meta": {
+    "title": "Quiénes somos | Five Foot Way, viajes a Singapur",
+    "description": "Por qué organizamos los viajes a Singapur en torno a los barrios, los hawker centres y el clima, y cómo trabajamos contigo."
+  },
+  "hero": {
+    "kicker": "Quiénes somos",
+    "title": "La ciudad a la sombra",
+    "image": "about-1",
+    "sub": "Por qué tomamos el nombre de un soportal."
+  },
+  "statement": {
+    "kicker": "Qué hacemos",
+    "text": "Five Foot Way planifica viajes a Singapur para quienes quieren algo más que un skyline y una calle de tiendas. Diseñamos días a pie, por los barrios antiguos y los espacios verdes, en torno a la comida y teniendo en cuenta el calor y la lluvia de la ciudad."
+  },
+  "collage": {
+    "imageA": "katong-1",
+    "imageB": "walk-1",
+    "title": "Singapur a escala humana",
+    "caption": "Singapur es famosa por sus rascacielos. Nosotros preferimos la ciudad de dos plantas: las hileras de shophouses, los hawker centres, el pueblo de Pulau Ubin y los senderos que cruzan la selva. Es ahí donde la ciudad es más generosa con quien va a pie.",
+    "notes": [
+      "Creamos Five Foot Way porque los viajes que les vendían a nuestros amigos se dejaban fuera justo lo que más nos gusta de la ciudad.",
+      "No somos un hotel, ni una aerolínea, ni un autobús turístico. Planificamos, reservamos y cuidamos de cada viaje, y cobramos por ese trabajo, no por comisiones que te lleven al sitio equivocado."
+    ]
+  },
+  "principlesTitle": "En qué creemos",
+  "principles": [
+    { "title": "Barrios antes que atracciones", "text": ["Un barrio al día, recorrido como es debido, vale más que cinco monumentos vistos desde un autocar."] },
+    { "title": "Contar con el clima", "text": ["Madrugar, rutas a la sombra, comidas largas y un plan para la tormenta. La comodidad forma parte de viajar bien; no es un lujo."] },
+    { "title": "Comer donde come Singapur", "text": ["Primero, los hawker centres. Son el corazón de la cocina de la ciudad y necesitan visitantes que se comporten como clientes habituales."] },
+    { "title": "Consejos honestos", "text": ["Si tu escala es demasiado corta, te diremos que te quedes en la zona de tránsito. Si un lugar está abarrotado o sobrevalorado en el momento en que piensas ir, te lo diremos."] }
+  ],
+  "howTitle": "Cómo trabajamos",
+  "how": [
+    { "title": "Nos escribes", "text": "A través del [formulario de consulta](@enquire) o por correo electrónico. Cuéntanos tus fechas, quién viaja y qué te gusta." },
+    { "title": "Te respondemos personalmente", "text": "En un plazo de dos días laborables, por correo electrónico, con preguntas y primeras ideas." },
+    { "title": "Te enviamos un plan", "text": "Un plan día a día con barrios, paseos, hawker centres y hoteles, junto con un presupuesto." },
+    { "title": "Reservamos y nos ocupamos de todo", "text": "En cuanto lo confirmas, hacemos las reservas y te enviamos una guía final antes del viaje." }
+  ],
+  "bleed": {
+    "image": "rain-1",
+    "kicker": "Contacto",
+    "title": "Cuéntanos tu viaje",
+    "text": "Fechas, escala, intereses, quién viene. Te responderemos por correo electrónico."
+  }
+}

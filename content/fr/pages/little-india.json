@@ -1,0 +1,151 @@
+{
+  "id": "little-india",
+  "nav": "Little India",
+  "meta": {
+    "title": "Little India : Serangoon Road, Tekka Centre et temples | Five Foot Way",
+    "description": "Guirlandes de fleurs, épiceries et les shophouses les plus colorées de Singapour, avec Tekka Centre au petit-déjeuner et les five-foot ways pour l'ombre."
+  },
+  "hero": {
+    "kicker": "Quartier de shophouses",
+    "title": "Little India",
+    "image": "little-india-1",
+    "sub": "Guirlandes de jasmin, sacs d'épices, tambours des temples et les façades les plus vives de la ville."
+  },
+  "info": [
+    {
+      "label": "MRT les plus proches",
+      "value": "Little India, Rochor, Farrer Park"
+    },
+    {
+      "label": "Meilleurs horaires",
+      "value": "7 h – 10 h, puis après 17 h"
+    },
+    {
+      "label": "Balade à l'ombre",
+      "value": "Environ 2,5 km, 1 h 30"
+    }
+  ],
+  "intro": {
+    "heading": "Serangoon Road, tous les sens en éveil",
+    "chips": [
+      "Temples",
+      "Marché frais",
+      "Épiceries"
+    ],
+    "text": [
+      "Au XIXe siècle, c'était une terre d'élevage : fours à briques et fosses à chaux le long du Rochor Canal, exploités en grande partie par des ouvriers et des marchands indiens. Le bétail a disparu depuis longtemps, mais le caractère tamoul du quartier n'a fait que s'affirmer, et le dimanche il devient le lieu de rendez-vous des travailleurs sud-asiatiques de toute l'île.",
+      "Little India est le moins lissé des quartiers de shophouses, et le plus vivant. Les five-foot ways sont encombrées de marchandises, ce qui les rend ombragées mais lentes à parcourir. Marchez tôt, mangez à Tekka, et gardez les temples pour les heures où la lumière est douce."
+    ]
+  },
+  "rows": [
+    {
+      "title": "Tekka Centre",
+      "meta": [
+        "Hawker centre",
+        "Marché frais"
+      ],
+      "text": [
+        "Le rez-de-chaussée entoure un marché frais d'un anneau de stands : biryani, thosai, appam, soupe de mouton et, pour les curieux, rojak indien. À l'étage, tailleurs et boutiques de saris. Arrivez avant 9 h pour voir le marché à plein régime."
+      ]
+    },
+    {
+      "title": "Sri Veeramakaliamman Temple",
+      "image": "little-india-2",
+      "meta": [
+        "Temple hindou",
+        "Serangoon Road"
+      ],
+      "text": [
+        "Dédié à la déesse Kali, le temple fut fondé dans les années 1850 par les ouvriers des fours voisins. Sa tour est une masse dense de figures peintes. Venez pendant la puja du soir pour entendre tambours et cloches, en tenue correcte et pieds nus."
+      ]
+    },
+    {
+      "title": "La maison de Tan Teng Niah",
+      "meta": [
+        "Villa",
+        "Photographie"
+      ],
+      "text": [
+        "Une villa chinoise de 1900, peinte de toutes les couleurs possibles, isolée à quelques pas de l'artère principale. C'est un bâtiment privé, à admirer de l'extérieur, de préférence tôt, avant l'arrivée des foules armées d'appareils photo."
+      ]
+    },
+    {
+      "title": "Campbell Lane et Dunlop Street",
+      "image": null,
+      "meta": [
+        "Guirlandes de fleurs",
+        "Épiceries"
+      ],
+      "text": [
+        "C'est dans les ruelles donnant sur Serangoon Road que les fabricants de guirlandes enfilent jasmin et œillets d'Inde, que les épiciers vendent des masalas moulus à la demande, et que l'Indian Heritage Centre raconte l'histoire de la communauté dans un bâtiment qui rayonne la nuit."
+      ]
+    }
+  ],
+  "bleed": {
+    "image": "little-india-1",
+    "kicker": "Balade à l'ombre",
+    "title": "De Tekka à Farrer Park par les five-foot ways",
+    "text": "Petit-déjeuner à Tekka, puis cap au nord sous les arcades de Serangoon Road jusqu'aux temples et aux vieilles villas, pour finir à une station de MRT accessible par un passage couvert.",
+    "facts": [
+      {
+        "label": "Départ",
+        "value": "MRT Little India"
+      },
+      {
+        "label": "Longueur",
+        "value": "Environ 2,5 km"
+      },
+      {
+        "label": "Idéal",
+        "value": "Départ à 7 h 30"
+      }
+    ],
+    "cta": "Voir la balade"
+  },
+  "eat": {
+    "title": "Biryani au petit-déjeuner, thosai au souper",
+    "text": [
+      "Restaurants végétariens du sud de l'Inde, cuisines tandoori du nord et commerces ouverts 24 h/24 de Syed Alwi Road nourrissent le quartier à toute heure. Beaucoup de restaurants servent sur feuille de bananier ; mangez de la main droite si le cœur vous en dit, mais on vous donnera toujours des couverts."
+    ],
+    "items": [
+      {
+        "name": "Tekka Centre",
+        "text": "Biryani, thosai, soupe de mouton, jus frais. Idéal le matin."
+      },
+      {
+        "name": "Race Course Road",
+        "text": "Réputée pour ses restaurants de curry de tête de poisson. Un déjeuner attablé plutôt qu'un repas de hawker centre."
+      },
+      {
+        "name": "Syed Alwi Road",
+        "text": "Souper tardif près du grand magasin qui ne ferme jamais."
+      }
+    ]
+  },
+  "faq": [
+    {
+      "q": "Quand Little India est-il le plus festif ?",
+      "a": [
+        "Pendant Deepavali (octobre ou novembre, selon le calendrier hindou), quand Serangoon Road reste illuminée des semaines durant et que des bazars envahissent les rues adjacentes. Thaipusam (janvier ou février) donne lieu à une longue procession de fidèles de Serangoon Road vers Tank Road."
+      ]
+    },
+    {
+      "q": "Y a-t-il des restrictions sur l'alcool ?",
+      "a": [
+        "Oui. Little India est une Liquor Control Zone, avec des règles plus strictes qu'ailleurs sur la consommation d'alcool dans les lieux publics, surtout le week-end et les jours fériés. Les détails figurent dans nos [points à vérifier](@stopover-planner#rules)."
+      ]
+    },
+    {
+      "q": "Y a-t-il du monde le dimanche ?",
+      "a": [
+        "Énormément. Le dimanche est le jour de repos de nombreux travailleurs immigrés, et le quartier est bondé dès le milieu de l'après-midi. L'ambiance est bon enfant, mais si vous préférez l'espace, venez en semaine."
+      ]
+    }
+  ],
+  "related": [
+    "kampong-glam",
+    "chinatown",
+    "katong",
+    "botanic-gardens"
+  ]
+}

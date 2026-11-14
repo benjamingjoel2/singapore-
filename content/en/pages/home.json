@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "title": "Five Foot Way | Singapore beyond the stopover",
+    "description": "Singapore beyond the stopover and the skyline: shophouse neighbourhoods, hawker centres, Pulau Ubin and the rainforest inside the city, planned around the heat and the rain."
+  },
+  "hero": {
+    "kicker": "Singapore, slowly",
+    "title": "Singapore after the rain",
+    "image": "hero-home",
+    "sub": "Shophouse streets, hawker halls, the old kampong island and the rainforest the city grew around. Planned around the heat and the rain."
+  },
+  "stripLabel": "Start here",
+  "strip": [
+    { "id": "hawker-guide", "label": "Hawker centre guide", "image": "hawker-1" },
+    { "id": "stopover-planner", "label": "Stopover planner", "image": "changi-1" },
+    { "id": "shade-walks", "label": "Shade and rain walks", "image": "walk-1" },
+    { "id": "pulau-ubin", "label": "Pulau Ubin", "image": "ubin-1" }
+  ],
+  "statement": {
+    "kicker": "Five Foot Way",
+    "text": "Most people see Singapore through a taxi window between the airport and a hotel tower. We plan trips for the other city: the one under the shophouse arcades, at the hawker table at seven in the morning, on the bumboat to the last village, and in the forest that still grows at the centre of the island."
+  },
+  "collage": {
+    "imageA": "about-1",
+    "imageB": "journeys-1",
+    "title": "The five-foot way",
+    "caption": "In the 1820s, Singapore's first town plan asked every shophouse to give up a covered walkway, about five feet deep, along its front. Two hundred years later those arcades still keep the sun and the rain off anyone on foot. We named ourselves after them because that is how we want you to see the city: on foot, in the shade, at a human pace.",
+    "notes": [
+      "We are a small Singapore travel planner. We design trips around neighbourhoods rather than attractions, and around the weather rather than against it.",
+      "Every plan starts early in the morning, keeps the hottest hours for museums and long lunches, and expects the afternoon storm.",
+      "We work by email, reply personally, and never sell you anything you did not ask for."
+    ]
+  },
+  "explore": {
+    "title": "Planned around heat and rain",
+    "text": "Three tools we built because the usual advice did not work in a city at one degree north. Use them on their own, or let us put them together into a trip.",
+    "rows": [
+      { "id": "hawker-guide", "title": "Hawker centre guide", "image": "hawker-2", "meta": "Signature guide", "cta": "Open the guide", "text": "Which centre for which dish, when the stalls open and close, why a packet of tissues means a seat is taken, and what the UNESCO listing actually protects." },
+      { "id": "stopover-planner", "title": "Stopover planner", "image": "changi-2", "meta": "8 hours to 4 days", "cta": "Plan a layover", "text": "Enter your layover length and get a realistic plan with immigration, transit and Changi timings counted first, and an honest 'stay airside' when the time is too short." },
+      { "id": "shade-walks", "title": "Shade and rain walks", "image": "walk-2", "meta": "Thirteen routes", "cta": "See the walks", "text": "Neighbourhood and forest walks routed along five-foot ways, park connectors and canopy, timed to miss the midday sun and the afternoon storm." },
+      { "id": "journeys", "title": "Sample journeys", "image": "journeys-2", "meta": "2 to 7 days", "cta": "See the journeys", "text": "Four itineraries to borrow from: a 48-hour stopover, a shophouse week, a nature-first trip and a family trip, each adapted to your dates and the season." }
+    ]
+  },
+  "bands": [
+    { "anchor": "neighbourhoods", "title": "Shophouse", "kicker": "The neighbourhoods", "kickerRight": "Six districts on foot", "text": "Pastel façades, temple courtyards and hawker centres: the old city, walked under its own arcades." },
+    { "anchor": "nature", "title": "Rainforest", "kicker": "Green Singapore", "kickerRight": "Gardens, forest and islands", "text": "A UNESCO garden, primary rainforest on a bus route, ridge walks above the port and the last kampong island." }
+  ],
+  "steps": {
+    "kicker": "How a day works",
+    "title": "Planned around the heat and the rain",
+    "text": "Singapore's weather follows a daily rhythm more than a seasonal one. Every plan we make follows it too.",
+    "items": [
+      { "title": "7am: walk", "image": "botanic-1", "link": "botanic-gardens", "text": "The air is cool and the light is low. Gardens, forest and the five-foot ways belong to locals and joggers." },
+      { "title": "11am: go indoors", "image": "civic-1", "link": "civic-district", "text": "When the sun climbs, move into a museum, a cooled conservatory or a long hawker lunch." },
+      { "title": "3pm: wait for the storm", "image": "rain-1", "link": "shade-walks", "text": "In many months a thunderstorm builds in the afternoon. It is heavy and usually short. Be under cover." },
+      { "title": "6pm: eat outside", "image": "hawker-3", "link": "hawker-guide", "text": "The paving has cooled and the breeze is up. Satay on the street, a walk by the water, supper late." }
+    ]
+  },
+  "monsoon": {
+    "image": "rain-1",
+    "kicker": "The monsoon calendar",
+    "title": "Rain is part of the plan",
+    "text": "There is no dry season in Singapore, only different kinds of wet. We plan around them rather than pretending they won't happen.",
+    "facts": [
+      { "label": "Dec – early Mar", "value": "Northeast Monsoon" },
+      { "label": "Mar – May", "value": "Afternoon storms" },
+      { "label": "Jun – Sep", "value": "Southwest Monsoon" },
+      { "label": "Oct – Nov", "value": "Afternoon storms" }
+    ]
+  },
+  "journeysTitle": "Sample journeys"
+}

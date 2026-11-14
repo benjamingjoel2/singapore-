@@ -1,0 +1,46 @@
+{
+  "meta": {
+    "title": "Privacy Policy | Five Foot Way",
+    "description": "How Five Foot Way collects, uses and protects personal data, in line with Singapore's Personal Data Protection Act."
+  },
+  "kicker": "Legal",
+  "title": "Privacy Policy",
+  "updated": "Last updated: 14 November 2026",
+  "tocLabel": "Contents",
+  "intro": "This policy explains what personal data {brand} collects when you use {url} or contact us, why we collect it, how long we keep it and what rights you have. We follow Singapore's Personal Data Protection Act 2012 (PDPA) and, for visitors from the European Union and the United Kingdom, the principles of the General Data Protection Regulation (GDPR).",
+  "sections": [
+    { "h": "Who we are", "p": ["{brand} is a travel planning service for trips to Singapore. We are the organisation responsible for your personal data.", "Address: {address}.", "Email: [{email}](mailto:{email}). This is also the contact for our Data Protection Officer."] },
+    { "h": "What we collect", "p": ["We only collect what we need to answer you and plan your trip:"], "ul": [
+      "**Enquiry details** you give us through the form or by email: your name, email address, country of residence, approximate dates, number of travellers, interests and your message.",
+      "**Booking details**, if you go ahead with a trip: names of travellers, dates of birth and passport details where a hotel, airline or authority requires them, flight times, dietary or accessibility needs that you choose to share, and payment records.",
+      "**Technical data** that our hosting provider records automatically when you visit the site, such as IP address, browser type and the pages requested, kept in server logs for security and troubleshooting."
+    ], "p2": ["We do not use advertising trackers, analytics cookies or social media pixels. Please do not send us sensitive information, such as health details, unless it is needed for your trip and you have chosen to share it."] },
+    { "h": "How we use it", "ul": [
+      "To reply to your enquiry and prepare a proposal (our legitimate interest in answering you, and steps you ask us to take before a contract).",
+      "To book and manage your trip with hotels, guides and other suppliers (performance of a contract).",
+      "To meet legal, accounting and tax obligations (legal obligation).",
+      "To keep the website secure and working (legitimate interest)."
+    ], "p2": ["We do not send marketing emails unless you have asked to receive them, and we never sell personal data."] },
+    { "h": "Who we share it with", "p": ["We share personal data only where needed:"], "ul": [
+      "**Travel suppliers** such as hotels, guides and transport providers, so they can deliver the services you booked.",
+      "**Service providers** who process data on our behalf: our website host (Vercel Inc.), our email provider and our accounting tools. They may only use the data to provide their service to us.",
+      "**Authorities**, where the law requires it."
+    ] },
+    { "h": "International transfers", "p": ["Some of our service providers store data outside Singapore, including in the United States and the European Union. Where data leaves Singapore, we take steps to make sure it receives a standard of protection comparable to the PDPA, for example through contractual safeguards."] },
+    { "h": "How long we keep it", "ul": [
+      "Enquiries that do not lead to a booking: up to 24 months after our last contact, then deleted.",
+      "Booking records: for as long as required by Singapore's tax and accounting rules, currently five years after the end of the financial year of the trip.",
+      "Server logs: for a short period set by our hosting provider, typically no more than 30 days."
+    ] },
+    { "h": "How we protect it", "p": ["The site is served only over an encrypted connection (HTTPS). Access to enquiries and booking records is limited to the people who need it to plan your trip. No method of transmission or storage is perfectly secure, but we take reasonable measures to protect your data, and we will notify you and the authorities of a data breach where the law requires it."] },
+    { "h": "Your rights", "p": ["You may ask us at any time to:"], "ul": [
+      "access the personal data we hold about you and learn how it has been used;",
+      "correct data that is inaccurate or incomplete;",
+      "withdraw your consent to our use of your data (this may mean we can no longer plan your trip);",
+      "delete your data where we no longer need to keep it, or restrict how we use it;",
+      "receive your data in a portable format, where applicable."
+    ], "p2": ["Write to [{email}](mailto:{email}). We will reply within 30 days. If you are not satisfied with our answer, you may contact Singapore's Personal Data Protection Commission, or, if you live in the EU or UK, your local data protection authority."] },
+    { "h": "Children", "p": ["Our services are for adults planning travel. We only process children's data when a parent or guardian provides it as part of a family booking."] },
+    { "h": "Changes to this policy", "p": ["We may update this policy from time to time. The date at the top shows when it last changed. Significant changes will be highlighted on this page."] }
+  ]
+}

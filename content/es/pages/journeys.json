@@ -1,0 +1,63 @@
+{
+  "meta": {
+    "title": "Viajes de ejemplo a Singapur: de 48 horas a una semana | Five Foot Way",
+    "description": "Cuatro itinerarios por Singapur más allá del skyline: escala de 48 horas, semana de shophouses, viaje de naturaleza y viaje en familia, contando con el calor y la lluvia."
+  },
+  "hero": {
+    "kicker": "Itinerarios",
+    "title": "Viajes de ejemplo",
+    "image": "journeys-1",
+    "sub": "Cuatro maneras de dar forma a un viaje. Toma una prestada o cuéntanos qué te gusta y diseñaremos la tuya."
+  },
+  "intro": {
+    "kicker": "Cómo planificamos",
+    "text": "Todos los viajes que verás a continuación siguen las mismas reglas: caminar temprano, descansar a mediodía, contar con la tormenta y cenar tarde. Un barrio al día es más que suficiente. Cada viaje se adapta a tus fechas, a la temporada, a tus vuelos y a tu ritmo, y se presupuesta bajo consulta."
+  },
+  "items": [
+    {
+      "id": "stopover-48", "title": "La escala de 48 horas", "days": 2, "pace": "Dinámico", "bestFor": "Primera visita, escala larga", "image": "journeys-2",
+      "summary": ["Dos días que muestran la ciudad más allá del aeropuerto y de la bahía: los barrios de shophouses, dos hawker centres al día, un paseo temprano por el Botanic Gardens y una última tarde en Katong, a veinte minutos de tu vuelo."],
+      "plan": [
+        { "day": "1", "title": "Chinatown y el Civic District", "text": ["Aterriza, haz el check-in y recorre a pie de Telok Ayer a Tanjong Pagar a última hora de la tarde. Cena en Maxwell. A la mañana siguiente, si te quedas una segunda noche, el paseo por el río."] },
+        { "day": "1", "title": "Mediodía en los museos", "text": ["La National Gallery o el Asian Civilisations Museum durante las horas de más calor, y comida en Lau Pa Sat."] },
+        { "day": "2", "title": "El Botanic Gardens al amanecer, Katong por la tarde", "text": ["El jardín desde Tanglin Gate a las 6:30, desayuno en Adam Road, un descanso y, después, Joo Chiat y una laksa antes de un breve trayecto en taxi a Changi."] }
+      ]
+    },
+    {
+      "id": "shophouse-week", "title": "La semana de las shophouses", "days": 6, "pace": "Sin prisas", "bestFor": "Arquitectura, comida, cultura", "image": "about-1",
+      "summary": ["Una semana en los barrios antiguos, alojado en un hotel en una shophouse, con un barrio al día y largas comidas en hawker centres entre medias. Ideal en la fase seca del monzón del nordeste, a partir de febrero."],
+      "plan": [
+        { "day": "1", "title": "Llegada y Keong Saik al anochecer", "text": ["Instálate en un hotel en una shophouse de Chinatown y recorre las callejuelas cuando afloje el calor."] },
+        { "day": "2", "title": "Chinatown y Tanjong Pagar", "text": ["Templos y five-foot ways por la mañana, comida en el Chinatown Complex y el Peranakan Museum por la tarde."] },
+        { "day": "3", "title": "Tiong Bahru y el río", "text": ["Desayuno en el mercado, los bloques de antes de la guerra, una tarde junto al río y el Asian Civilisations Museum."] },
+        { "day": "4", "title": "Kampong Glam y Little India", "text": ["La mezquita y Arab Street por la mañana, comida en Tekka y templos al anochecer."] },
+        { "day": "5", "title": "Katong y Joo Chiat", "text": ["Las casas adosadas peranakan, las tiendas de kueh, East Coast Park a última hora de la tarde y satay junto al mar."] },
+        { "day": "6", "title": "Salida", "text": ["Un último kopi y Changi Village para tomar un nasi lemak camino del aeropuerto."] }
+      ]
+    },
+    {
+      "id": "nature-first", "title": "Selva e isla", "days": 5, "pace": "Activo", "bestFor": "Senderistas, aficionados a las aves", "image": "nature-3",
+      "summary": ["Madrugones y espacios verdes: Bukit Timah al amanecer, las Southern Ridges, los manglares de Sungei Buloh, un día en bicicleta por Pulau Ubin y una noche en el Night Safari."],
+      "plan": [
+        { "day": "1", "title": "Botanic Gardens", "text": ["Llegada y paseo por el jardín con la luz de última hora de la tarde."] },
+        { "day": "2", "title": "Bukit Timah y MacRitchie", "text": ["La cima al amanecer, descanso a mediodía y las pasarelas de MacRitchie a la mañana siguiente si aún te responden las piernas."] },
+        { "day": "3", "title": "Las Southern Ridges", "text": ["De Kent Ridge a Mount Faber antes de las 10:00, comida en HarbourFront y una tarde tranquila."] },
+        { "day": "4", "title": "Pulau Ubin", "text": ["El primer bumboat, en bici hasta Chek Jawa y de vuelta antes de las tormentas. Night Safari por la noche."] },
+        { "day": "5", "title": "Sungei Buloh y salida", "text": ["Manglares y aves limícolas con la marea baja (en la temporada migratoria) y, después, un vuelo de última hora."] }
+      ]
+    },
+    {
+      "id": "family", "title": "Una semana en familia", "days": 7, "pace": "Tranquilo", "bestFor": "Niños de todas las edades", "image": "mandai-1",
+      "summary": ["Mañanas al aire libre, tardes en la piscina o en un museo fresquito y cenas tempranas en hawker centres donde los niños pueden elegir por sí mismos. Bird Paradise, el zoo, un día en bici por Pulau Ubin y mucho descanso."],
+      "plan": [
+        { "day": "1", "title": "Llegada y piscina", "text": ["Un hotel con piscina y una cena temprana en un hawker centre cercano."] },
+        { "day": "2", "title": "Gardens by the Bay", "text": ["El Cloud Forest a mediodía y el jardín infantil y el paseo marítimo por la tarde."] },
+        { "day": "3", "title": "Mandai", "text": ["El zoo a la hora de apertura, un descanso y, después, Bird Paradise o el Night Safari."] },
+        { "day": "4", "title": "Botanic Gardens", "text": ["El Jacob Ballas Children's Garden por la mañana y una tarde sin prisas."] },
+        { "day": "5", "title": "Pulau Ubin", "text": ["Bumboat, bicis con sillita infantil, Chek Jawa y nasi lemak en Changi Village."] },
+        { "day": "6", "title": "Chinatown y el río", "text": ["Un paseo corto, una comida larga y el río en barco por la tarde."] },
+        { "day": "7", "title": "Salida", "text": ["El Rain Vortex de Jewel antes del vuelo."] }
+      ]
+    }
+  ]
+}

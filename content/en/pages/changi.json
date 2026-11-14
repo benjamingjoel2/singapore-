@@ -1,0 +1,151 @@
+{
+  "id": "changi",
+  "nav": "Changi & Jewel",
+  "meta": {
+    "title": "Changi Airport and Jewel: the airport, the waterfall and Changi Village | Five Foot Way",
+    "description": "What you can do airside and landside at Changi, the Rain Vortex inside Jewel, and Changi Village and the coastal walk ten minutes away."
+  },
+  "hero": {
+    "kicker": "Gateway",
+    "title": "Changi & Jewel",
+    "image": "changi-1",
+    "sub": "An indoor waterfall falling through a glass dome, gardens between the gates, and an old village by the sea ten minutes away."
+  },
+  "info": [
+    {
+      "label": "To the city",
+      "value": "About 30–45 minutes by MRT or taxi"
+    },
+    {
+      "label": "Jewel",
+      "value": "Landside, linked to Terminal 1"
+    },
+    {
+      "label": "Plan",
+      "value": "Use the stopover planner"
+    }
+  ],
+  "intro": {
+    "heading": "The airport worth arriving early for",
+    "chips": [
+      "Jewel",
+      "Airside gardens",
+      "Changi Village"
+    ],
+    "text": [
+      "Changi is often the first thing people see of Singapore, and for many travellers it is the only thing. It is worth knowing well. The terminals are linked airside by a train, and each has its own gardens, rest areas and quiet corners. Jewel, opened in 2019, sits on the public side of Terminal 1, so you must clear immigration to visit it.",
+      "Ten minutes from the terminals, Changi Village is a different world: a hawker centre famous for nasi lemak, the ferry terminal for Pulau Ubin, and a coastal boardwalk under casuarina trees."
+    ]
+  },
+  "rows": [
+    {
+      "title": "Jewel and the Rain Vortex",
+      "image": "changi-1",
+      "meta": [
+        "Landside",
+        "Light and sound show at night"
+      ],
+      "text": [
+        "The Rain Vortex falls about forty metres from an opening in the glass roof into a pool, surrounded by a terraced indoor forest. In the evenings, a light and sound show is projected onto the falling water. The Canopy Park on the top level is ticketed."
+      ]
+    },
+    {
+      "title": "Airside gardens and rest",
+      "image": "changi-2",
+      "meta": [
+        "Airside",
+        "Transit"
+      ],
+      "text": [
+        "The terminals have gardens on the airside, including a butterfly garden in Terminal 3, as well as rest areas, transit hotels and a rooftop pool. These change with renovations, so check which are open in your terminal on the day."
+      ]
+    },
+    {
+      "title": "Changi Village and the coastal walk",
+      "meta": [
+        "Hawker centre",
+        "Boardwalk"
+      ],
+      "text": [
+        "At the north-eastern tip of the island, Changi Village has a laid-back seaside feel, a famous hawker centre and the Changi Point Coastal Walk, a boardwalk along the shore with views to Pulau Ubin and Malaysia."
+      ]
+    },
+    {
+      "title": "Changi Chapel and Museum",
+      "meta": [
+        "Wartime history",
+        "Museum"
+      ],
+      "text": [
+        "A small, moving museum on the history of the prisoners of war and civilians interned at Changi during the Japanese occupation, with a replica of the chapel the prisoners built."
+      ]
+    }
+  ],
+  "bleed": {
+    "image": null,
+    "kicker": "Coastal walk",
+    "title": "Changi Point by the sea",
+    "text": "A boardwalk along the shore at Changi Point, shaded by casuarinas, with a hawker centre and the Ubin ferry at the start. A good few hours for a long layover.",
+    "facts": [
+      {
+        "label": "Start",
+        "value": "Changi Village"
+      },
+      {
+        "label": "Length",
+        "value": "About 2.2 km"
+      },
+      {
+        "label": "Best",
+        "value": "Morning or late afternoon"
+      }
+    ],
+    "cta": "See the walk"
+  },
+  "eat": {
+    "title": "Eat before you fly",
+    "text": [
+      "Airport food is better than average at Changi, with local food courts in every terminal and in Jewel's basement. But if you have time, a taxi to Changi Village gives you a proper hawker meal."
+    ],
+    "items": [
+      {
+        "name": "Changi Village Hawker Centre",
+        "text": "Nasi lemak, satay bee hoon, mee rebus. About ten minutes from the terminals."
+      },
+      {
+        "name": "Terminal food courts",
+        "text": "Local dishes at food courts on the public and transit sides."
+      },
+      {
+        "name": "Jewel",
+        "text": "Restaurants and food halls on several levels."
+      }
+    ]
+  },
+  "faq": [
+    {
+      "q": "Can I visit Jewel during a transit?",
+      "a": [
+        "Only if you clear immigration, because Jewel is on the public side of Terminal 1. Whether you can enter Singapore depends on your nationality: check the rules before you travel, and allow time to return through security."
+      ]
+    },
+    {
+      "q": "How long is the trip into the city?",
+      "a": [
+        "About thirty to forty-five minutes by MRT (with a change at Tanah Merah or Expo, depending on the line) or by taxi, longer at rush hour."
+      ]
+    },
+    {
+      "q": "Is there a left-luggage service?",
+      "a": [
+        "Yes, there are baggage storage counters in the terminals. Check locations and hours before you plan to leave the airport with bags."
+      ]
+    }
+  ],
+  "related": [
+    "katong",
+    "pulau-ubin",
+    "marina-bay",
+    "civic-district"
+  ]
+}

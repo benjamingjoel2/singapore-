@@ -1,0 +1,86 @@
+{
+  "meta": {
+    "title": "Hawker centre guide: which centre for which dish, and how to behave | Five Foot Way",
+    "description": "Where to eat chicken rice, laksa, satay and nasi lemak, when the stalls open and close, the tissue-packet rule, returning your tray, and what the UNESCO listing actually means."
+  },
+  "hero": {
+    "kicker": "Signature guide",
+    "title": "The hawker centre guide",
+    "image": "hawker-1",
+    "sub": "Which centre for which dish, when to go, and the small courtesies that make you look like you belong."
+  },
+  "statement": {
+    "kicker": "Why it matters",
+    "text": "Hawker centres are Singapore's shared dining rooms: covered, open-sided halls where dozens of small family stalls cook one or two dishes each, and where a judge and a delivery rider might share the same table. They are cheap, fast, fan-cooled and, at their best, as good as anything in the city."
+  },
+  "unesco": {
+    "title": "What the UNESCO listing means",
+    "image": "hawker-2",
+    "facts": [
+      { "label": "Inscribed", "value": "December 2020" },
+      { "label": "List", "value": "Intangible Cultural Heritage" },
+      { "label": "Hawker centres", "value": "More than 100" }
+    ],
+    "text": [
+      "In December 2020, UNESCO added **Hawker Culture in Singapore** to its Representative List of the Intangible Cultural Heritage of Humanity. That is a list of living practices, such as crafts, festivals and food traditions, not of buildings. What was recognised is not a particular hall or a particular dish, but the whole culture: the hawkers and their skills, the recipes passed between generations, and the habit of eating together across every community in the city.",
+      "The story behind it is practical. Street hawkers once cooked on the pavements of the old town. From the late 1960s to the 1980s, the government moved them into purpose-built centres with running water, drainage and licences, close to public housing. That decision kept cooked food cheap and close to home for most Singaporeans.",
+      "The listing comes with a worry: many hawkers are now in their sixties and seventies, the work is long and hot, and fewer children want to take over. Choosing a family stall, being patient in the queue and returning your tray are small ways to support a culture that is being actively protected."
+    ]
+  },
+  "centres": {
+    "title": "Which centre for which dish",
+    "text": "Our short list, by neighbourhood. Hours below describe the centre as a whole; every stall keeps its own hours and rest days, and popular stalls sell out. Use it as a starting point, not a timetable.",
+    "filterLabel": "Filter by time of day",
+    "filters": [
+      { "key": "breakfast", "label": "Breakfast" },
+      { "key": "lunch", "label": "Lunch" },
+      { "key": "dinner", "label": "Dinner" },
+      { "key": "late", "label": "Late" }
+    ],
+    "items": [
+      { "name": "Maxwell Food Centre", "area": "Chinatown / Tanjong Pagar", "near": "chinatown", "tags": ["breakfast", "lunch", "dinner"], "knownFor": "Hainanese chicken rice, fish soup, rojak", "hours": "Busiest 11:30am–2pm; most stalls from morning to evening", "closed": "Some stalls close one day a week; periodic cleaning closures", "text": ["The obvious first stop, a short walk from Chinatown MRT. The famous chicken rice stalls have queues at lunch; go at 10:30am or after 2pm."] },
+      { "name": "Chinatown Complex Food Centre", "area": "Chinatown", "near": "chinatown", "tags": ["breakfast", "lunch", "dinner"], "knownFor": "Claypot rice, roast meats, dim sum, craft beer", "hours": "Morning to late evening, stall by stall", "closed": "Periodic cleaning closures for the whole centre", "text": ["The largest hawker centre in Singapore, above the wet market. Walk a full lap before choosing."] },
+      { "name": "Amoy Street Food Centre", "area": "Telok Ayer", "near": "chinatown", "tags": ["breakfast", "lunch"], "knownFor": "Noodles, curry rice, prawn mee", "hours": "Weekday breakfast and lunch", "closed": "Many stalls closed at weekends", "text": ["Fills with office workers from noon. Come at 11:30am or after 1:30pm."] },
+      { "name": "Tiong Bahru Market", "area": "Tiong Bahru", "near": "tiong-bahru", "tags": ["breakfast", "lunch"], "knownFor": "Chwee kueh, lor mee, pau, kopi", "hours": "Best from early morning to late morning", "closed": "Some stalls rest on Mondays; periodic cleaning closures", "text": ["The breakfast centre. Many stalls sell out or close by early afternoon."] },
+      { "name": "Tekka Centre", "area": "Little India", "near": "little-india", "tags": ["breakfast", "lunch"], "knownFor": "Biryani, thosai, mutton soup, fresh juice", "hours": "Morning to evening, busiest late morning", "closed": "Stall rest days vary; periodic cleaning closures", "text": ["Food stalls wrap the ground-floor wet market. The biryani queues tell you where to go."] },
+      { "name": "Lau Pa Sat", "area": "Raffles Place", "near": "civic-district", "tags": ["lunch", "dinner", "late"], "knownFor": "Satay (evenings, on the street outside), Hokkien mee", "hours": "Long hours; satay street from the evening", "closed": "Rarely closed; satay street depends on the day", "text": ["A Victorian cast-iron market hall in the financial district. The satay grills set up on Boon Tat Street in the evening, earlier at weekends."] },
+      { "name": "Old Airport Road Food Centre", "area": "Dakota", "near": "katong", "tags": ["lunch", "dinner"], "knownFor": "Char kway teow, lor mee, satay bee hoon, rojak", "hours": "Late morning to night", "closed": "Stall rest days vary", "text": ["A favourite with locals and a short ride from Katong. Many of its stalls are considered among the best for their dish."] },
+      { "name": "East Coast Lagoon Food Village", "area": "East Coast Park", "near": "katong", "tags": ["dinner", "late"], "knownFor": "Satay, seafood, barbecued stingray", "hours": "Afternoon to late evening", "closed": "Stall rest days vary", "text": ["Open-air, by the beach, with a sea breeze. Best for an early dinner at sunset."] },
+      { "name": "Adam Road Food Centre", "area": "Botanic Gardens", "near": "botanic-gardens", "tags": ["breakfast", "lunch", "late"], "knownFor": "Nasi lemak, prata, mee rebus", "hours": "Early morning to late night", "closed": "Stall rest days vary", "text": ["Ten minutes from the Botanic Gardens. A good breakfast after a dawn walk."] },
+      { "name": "Changi Village Hawker Centre", "area": "Changi Village", "near": "pulau-ubin", "tags": ["breakfast", "lunch", "dinner"], "knownFor": "Nasi lemak, satay bee hoon, fresh juices", "hours": "Morning to evening", "closed": "Periodic cleaning closures", "text": ["Beside the Pulau Ubin ferry and ten minutes from the airport."] },
+      { "name": "Golden Mile Food Centre", "area": "Beach Road", "near": "kampong-glam", "tags": ["lunch", "dinner"], "knownFor": "Army stew, Malay and Thai stalls, ondeh ondeh", "hours": "Late morning to evening", "closed": "Stall rest days vary", "text": ["A short walk from Kampong Glam, less visited by tourists."] },
+      { "name": "Newton Food Centre", "area": "Newton", "near": "botanic-gardens", "tags": ["dinner", "late"], "knownFor": "Seafood, satay, carrot cake", "hours": "Evenings into the night", "closed": "Stall rest days vary", "text": ["Famous and photogenic, and the one place where we suggest checking prices before you order seafood sold by weight."] }
+    ],
+    "note": "**Cleaning closures:** every hawker centre closes for a few days of cleaning several times a year, and some for longer renovations. The National Environment Agency publishes the schedule. Stall hours change, and hawkers take holidays, especially around Chinese New Year and Hari Raya. Check before you cross town for a single stall."
+  },
+  "manners": {
+    "kicker": "Local manners",
+    "title": "Four habits that make you look like a regular",
+    "text": "Nobody will mind if you get these wrong. But they are part of the culture UNESCO recognised, and doing them right makes the hall work better for everyone.",
+    "items": [
+      { "title": "Chope a seat", "image": "hawker-2", "text": "A packet of tissues on a table means it is taken: someone has 'choped' it and gone to order. Do not move it. If you are a group, one person holds the table while the others queue; if you are alone, share a table with a nod." },
+      { "title": "Queue for one dish", "image": "hawker-3", "text": "Each stall does one thing well. Order at several stalls, tell them your table number if there is one, and pay at each. Many take cards and QR payments now, but carry some cash for older stalls." },
+      { "title": "Return your tray", "image": "journal-2", "text": "Since 2021, returning trays and crockery to the tray-return points has been the rule, not a courtesy. Halal and non-halal return points are separate: use the one matching the stall you bought from." },
+      { "title": "Speak the order", "image": "hawker-1", "text": "Learn the coffee code: kopi is coffee with condensed milk, kopi-o is black with sugar, kopi-c is with evaporated milk, and kosong means no sugar. Peng means iced. 'Kopi-o kosong peng' is iced black coffee without sugar." }
+    ]
+  },
+  "dishesTitle": "Ten dishes to start with",
+  "dishes": [
+    { "name": "Hainanese chicken rice", "text": ["Poached chicken, rice cooked in chicken stock with ginger and pandan, chilli sauce and dark soy. The unofficial national dish."] },
+    { "name": "Laksa", "text": ["Rice noodles in a spiced coconut curry broth with prawns and cockles. Katong laksa is cut short so you can eat it with a spoon."] },
+    { "name": "Char kway teow", "text": ["Flat rice noodles fried over high heat with dark soy, lard, cockles, Chinese sausage and egg. Smoky, rich, not light."] },
+    { "name": "Nasi lemak", "text": ["Coconut rice with sambal, fried anchovies, peanuts, egg and usually fried chicken. A Malay breakfast that is good at any hour."] },
+    { "name": "Satay", "text": ["Skewers of marinated chicken, mutton or beef grilled over charcoal and served with peanut sauce, cucumber and rice cakes."] },
+    { "name": "Roti prata", "text": ["Flaky griddled flatbread, plain or with egg, with curry for dipping. The late-night snack of choice."] },
+    { "name": "Chwee kueh", "text": ["Soft steamed rice cakes topped with fried preserved radish and chilli. A Tiong Bahru breakfast."] },
+    { "name": "Hokkien mee", "text": ["Yellow noodles and rice vermicelli braised in a rich prawn stock, with a squeeze of lime and sambal."] },
+    { "name": "Biryani", "text": ["Fragrant rice layered with spiced chicken or mutton, best at Tekka Centre in the morning."] },
+    { "name": "Ice kachang", "text": ["Shaved ice over beans, jelly and sweetcorn, drenched in syrups and evaporated milk. The cure for a hot afternoon."] }
+  ],
+  "faq": [
+    { "q": "Is hawker food safe?", "a": ["Hawker stalls are licensed and inspected, and each displays a hygiene grade. As anywhere, popular stalls with high turnover are a good sign."] },
+    { "q": "What about vegetarians?", "a": ["Look for stalls marked vegetarian (often Buddhist vegetarian, which also excludes onion and garlic) and the South Indian stalls at Tekka. Ask about fish sauce and lard, which appear in many dishes."] },
+    { "q": "Halal food?", "a": ["Halal-certified stalls display a certificate. Many Malay and Indian-Muslim stalls are halal; Chinese stalls generally are not unless certified."] },
+    { "q": "Is it all air-conditioned?", "a": ["No. Most hawker centres are open-sided and cooled by ceiling fans. In the hottest hours, go to centres with good cross-ventilation, or pick a cooler time of day."] }
+  ]
+}

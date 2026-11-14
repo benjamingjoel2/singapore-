@@ -1,0 +1,88 @@
+{
+  "id": "botanic-gardens",
+  "nav": "Singapore Botanic Gardens",
+  "meta": {
+    "title": "Singapore Botanic Gardens: der UNESCO-Garten bei Tagesanbruch | Five Foot Way",
+    "description": "Singapurs erste UNESCO-Welterbestätte: ein 160 Jahre alter Garten mit einem Stück ursprünglichem Regenwald, dem National Orchid Garden und Morgenspaziergängen."
+  },
+  "hero": {
+    "kicker": "UNESCO-Welterbe",
+    "title": "Singapore Botanic Gardens",
+    "image": "botanic-1",
+    "sub": "Ein viktorianischer Garten mit einem Regenwald darin, geöffnet ab fünf Uhr morgens und am schönsten vor acht."
+  },
+  "info": [
+    { "label": "Nächste MRT", "value": "Botanic Gardens, Napier" },
+    { "label": "Beste Zeit", "value": "6:30–9:30 Uhr" },
+    { "label": "Gartenspaziergang", "value": "Etwa 3–4 km, 2 Stunden" }
+  ],
+  "intro": {
+    "heading": "Der Garten, der eine Wirtschaft veränderte",
+    "chips": ["UNESCO 2015", "Orchideen", "Regenwald"],
+    "text": [
+      "Die 1859 gegründeten Botanic Gardens wurden 2015 als erste Welterbestätte Singapurs in die UNESCO-Liste aufgenommen – als herausragendes Beispiel eines britischen botanischen Gartens aus der tropischen Kolonialzeit. Hier entwickelte der Direktor Henry Ridley im späten 19. Jahrhundert die Methode zum Anzapfen von Kautschukbäumen, die die Wirtschaft der ganzen Region veränderte.",
+      "Heute ist er der Lieblingspark der Stadt: Jogger im Morgengrauen, Tai-Chi-Gruppen auf den Rasenflächen, Familien am Sonntag. Der Eintritt in den Garten ist frei. Kommen Sie früh, wenn das Licht flach steht und die Wege im Schatten liegen, und planen Sie, vor zehn zu gehen."
+    ]
+  },
+  "rows": [
+    {
+      "title": "Der Regenwald",
+      "meta": ["Ursprünglicher Wald", "Bohlenweg"],
+      "text": [
+        "Nahe dem Tanglin-Eingang haben einige Hektar Primärregenwald überdauert, älter als der Garten selbst. Ein Bohlenweg führt Sie unter Bäumen hindurch, die schon vor der Kolonie hier standen. Nirgendwo in der Stadt kommen Sie einfacher in echten Regenwald."
+      ]
+    },
+    {
+      "title": "National Orchid Garden",
+      "image": "botanic-2",
+      "meta": ["Ticket erforderlich", "Kühlhaus"],
+      "text": [
+        "Die größte Sammlung tropischer Orchideen der Welt, darunter Hybriden, die nach Staatsgästen benannt sind. Ein kleines gekühltes Gewächshaus beherbergt die Arten aus Hochlagen. Dies ist der einzige Teil des Gartens, der Eintritt kostet."
+      ]
+    },
+    {
+      "title": "Swan Lake und der Bandstand",
+      "image": "botanic-1",
+      "meta": ["Historische Landschaft", "Morgenlicht"],
+      "text": [
+        "Das historische Herz des Gartens: der Swan Lake mit seinen Höckerschwänen, der achteckige Musikpavillon auf seiner Anhöhe und Rasenflächen im Stil des englischen Landschaftsgartens. Am frühen Morgen liegt manchmal Nebel über dem Wasser."
+      ]
+    },
+    {
+      "title": "The Learning Forest",
+      "meta": ["Hochweg", "Feuchtgebiet"],
+      "text": [
+        "Ein neuerer Bereich am Bukit-Timah-Ende mit einem Bohlenweg durch Süßwasser-Sumpfwald und einem Hochweg zwischen den Baumkronen. Er wird weniger besucht und ist morgens herrlich ruhig."
+      ]
+    }
+  ],
+  "bleed": {
+    "image": "botanic-1",
+    "kicker": "Schattenspaziergang",
+    "title": "Vom Tanglin Gate zum Bukit Timah Gate",
+    "text": "Einmal der Länge nach durch den Garten von Süden nach Norden, durch den Regenwald, vorbei am Swan Lake und am Orchid Garden, bis zur MRT-Station. Fast durchgehend unter Bäumen.",
+    "facts": [
+      { "label": "Start", "value": "MRT Napier, Tanglin Gate" },
+      { "label": "Ziel", "value": "MRT Botanic Gardens" },
+      { "label": "Beste Zeit", "value": "6:30 Uhr" }
+    ],
+    "cta": "Zum Spaziergang"
+  },
+  "eat": {
+    "title": "Frühstück am Rand des Gartens",
+    "text": [
+      "Im Garten gibt es Cafés, das beste Frühstück aber bekommen Sie ein paar Schritte entfernt in einem Hawker Centre der Nachbarschaft."
+    ],
+    "items": [
+      { "name": "Adam Road Food Centre", "text": "Nasi lemak und prata, zehn Minuten vom Bukit Timah Gate." },
+      { "name": "Dempsey Hill", "text": "Ehemalige Kasernen, heute Restaurants und Galerien, ein kurzer Spaziergang vom Tanglin Gate." },
+      { "name": "Im Garten", "text": "Einige Cafés nahe den Haupteingängen für einen Kaffee oder ein kaltes Getränk." }
+    ]
+  },
+  "faq": [
+    { "q": "Wie sind die Öffnungszeiten?", "a": ["Der Garten öffnet täglich sehr früh am Morgen und schließt spät in der Nacht; der National Orchid Garden hat kürzere Öffnungszeiten. Prüfen Sie die Zeiten vor dem Besuch auf der Website des Gartens."] },
+    { "q": "Ist der Garten für Kinder geeignet?", "a": ["Ja. Der Jacob Ballas Children's Garden am nördlichen Ende hat Wasserspiele, Baumhäuser und einen kleinen Bauernhof. Er hat eigene Öffnungszeiten und ist an manchen Tagen geschlossen."] },
+    { "q": "Was tun bei Gewitter?", "a": ["Im ganzen Garten verteilt gibt es Unterstände. Wenn Blitze in der Nähe sind, meiden Sie offene Rasenflächen und einzeln stehende Bäume und warten Sie das Gewitter unter einem Unterstand oder im Besucherzentrum ab."] }
+  ],
+  "related": ["nature-reserves", "tiong-bahru", "southern-ridges", "marina-bay"]
+}

@@ -1,0 +1,46 @@
+{
+  "meta": {
+    "title": "Datenschutzerklärung | Five Foot Way",
+    "description": "Wie Five Foot Way personenbezogene Daten erhebt, verwendet und schützt – im Einklang mit Singapurs Personal Data Protection Act."
+  },
+  "kicker": "Rechtliches",
+  "title": "Datenschutzerklärung",
+  "updated": "Zuletzt aktualisiert: 14. November 2026",
+  "tocLabel": "Inhalt",
+  "intro": "Diese Erklärung beschreibt, welche personenbezogenen Daten {brand} erhebt, wenn Sie {url} nutzen oder mit uns Kontakt aufnehmen, warum wir sie erheben, wie lange wir sie speichern und welche Rechte Sie haben. Wir halten uns an Singapurs Personal Data Protection Act 2012 (PDPA) und, für Besucher aus der Europäischen Union und dem Vereinigten Königreich, an die Grundsätze der Datenschutz-Grundverordnung (DSGVO).",
+  "sections": [
+    { "h": "Wer wir sind", "p": ["{brand} ist ein Reiseplanungsdienst für Reisen nach Singapur. Wir sind die für Ihre personenbezogenen Daten verantwortliche Stelle.", "Anschrift: {address}.", "E-Mail: [{email}](mailto:{email}). Unter dieser Adresse erreichen Sie auch unseren Datenschutzbeauftragten."] },
+    { "h": "Welche Daten wir erheben", "p": ["Wir erheben nur, was wir benötigen, um Ihnen zu antworten und Ihre Reise zu planen:"], "ul": [
+      "**Angaben zur Anfrage**, die Sie uns über das Formular oder per E-Mail mitteilen: Ihr Name, Ihre E-Mail-Adresse, Ihr Wohnsitzland, der ungefähre Reisezeitraum, die Anzahl der Reisenden, Ihre Interessen und Ihre Nachricht.",
+      "**Buchungsdaten**, falls Sie eine Reise buchen: Namen der Reisenden, Geburtsdaten und Passdaten, soweit ein Hotel, eine Fluggesellschaft oder eine Behörde sie verlangt, Flugzeiten, Ernährungs- oder Barrierefreiheitsbedürfnisse, die Sie uns freiwillig mitteilen, sowie Zahlungsbelege.",
+      "**Technische Daten**, die unser Hosting-Anbieter beim Besuch der Website automatisch erfasst, etwa IP-Adresse, Browsertyp und aufgerufene Seiten; sie werden zu Sicherheits- und Fehlerbehebungszwecken in Server-Logs gespeichert."
+    ], "p2": ["Wir verwenden keine Werbe-Tracker, Analyse-Cookies oder Social-Media-Pixel. Bitte senden Sie uns keine sensiblen Informationen wie Gesundheitsdaten, es sei denn, sie sind für Ihre Reise erforderlich und Sie haben sich entschieden, sie mitzuteilen."] },
+    { "h": "Wofür wir die Daten verwenden", "ul": [
+      "Um Ihre Anfrage zu beantworten und einen Vorschlag zu erstellen (unser berechtigtes Interesse, Ihnen zu antworten, sowie vorvertragliche Maßnahmen auf Ihre Anfrage hin).",
+      "Um Ihre Reise bei Hotels, Guides und anderen Leistungsträgern zu buchen und zu verwalten (Vertragserfüllung).",
+      "Um gesetzliche, buchhalterische und steuerliche Pflichten zu erfüllen (rechtliche Verpflichtung).",
+      "Um die Sicherheit und Funktionsfähigkeit der Website zu gewährleisten (berechtigtes Interesse)."
+    ], "p2": ["Wir versenden keine Werbe-E-Mails, sofern Sie diese nicht ausdrücklich angefordert haben, und wir verkaufen niemals personenbezogene Daten."] },
+    { "h": "An wen wir Daten weitergeben", "p": ["Wir geben personenbezogene Daten nur weiter, wenn dies erforderlich ist:"], "ul": [
+      "**Reiseleistungsträger** wie Hotels, Guides und Transportunternehmen, damit sie die von Ihnen gebuchten Leistungen erbringen können.",
+      "**Dienstleister**, die Daten in unserem Auftrag verarbeiten: unser Website-Host (Vercel Inc.), unser E-Mail-Anbieter und unsere Buchhaltungssoftware. Sie dürfen die Daten ausschließlich zur Erbringung ihrer Leistung für uns verwenden.",
+      "**Behörden**, soweit dies gesetzlich vorgeschrieben ist."
+    ] },
+    { "h": "Internationale Datenübermittlungen", "p": ["Einige unserer Dienstleister speichern Daten außerhalb Singapurs, unter anderem in den Vereinigten Staaten und der Europäischen Union. Werden Daten aus Singapur übermittelt, treffen wir Maßnahmen, um ein mit dem PDPA vergleichbares Schutzniveau sicherzustellen, etwa durch vertragliche Garantien."] },
+    { "h": "Wie lange wir Daten speichern", "ul": [
+      "Anfragen, die nicht zu einer Buchung führen: bis zu 24 Monate nach unserem letzten Kontakt, danach werden sie gelöscht.",
+      "Buchungsunterlagen: so lange, wie es die steuer- und handelsrechtlichen Vorschriften Singapurs verlangen, derzeit fünf Jahre nach Ende des Geschäftsjahres der Reise.",
+      "Server-Logs: für einen kurzen, von unserem Hosting-Anbieter festgelegten Zeitraum, in der Regel nicht länger als 30 Tage."
+    ] },
+    { "h": "Wie wir Ihre Daten schützen", "p": ["Die Website wird ausschließlich über eine verschlüsselte Verbindung (HTTPS) ausgeliefert. Der Zugriff auf Anfragen und Buchungsunterlagen ist auf die Personen beschränkt, die ihn für die Planung Ihrer Reise benötigen. Keine Übertragungs- oder Speichermethode ist vollkommen sicher, wir treffen jedoch angemessene Maßnahmen zum Schutz Ihrer Daten und benachrichtigen Sie und die Behörden über eine Datenschutzverletzung, soweit dies gesetzlich vorgeschrieben ist."] },
+    { "h": "Ihre Rechte", "p": ["Sie können uns jederzeit auffordern:"], "ul": [
+      "Ihnen Auskunft über die von uns gespeicherten personenbezogenen Daten zu erteilen und darüber, wie sie verwendet wurden;",
+      "unrichtige oder unvollständige Daten zu berichtigen;",
+      "Ihre Einwilligung in die Verwendung Ihrer Daten zu widerrufen (dies kann bedeuten, dass wir Ihre Reise nicht mehr planen können);",
+      "Ihre Daten zu löschen, wenn wir sie nicht mehr aufbewahren müssen, oder ihre Verwendung einzuschränken;",
+      "Ihnen Ihre Daten in einem übertragbaren Format bereitzustellen, soweit anwendbar."
+    ], "p2": ["Schreiben Sie an [{email}](mailto:{email}). Wir antworten innerhalb von 30 Tagen. Wenn Sie mit unserer Antwort nicht zufrieden sind, können Sie sich an die Personal Data Protection Commission in Singapur oder, wenn Sie in der EU oder im Vereinigten Königreich wohnen, an Ihre zuständige Datenschutzaufsichtsbehörde wenden."] },
+    { "h": "Kinder", "p": ["Unsere Leistungen richten sich an Erwachsene, die eine Reise planen. Daten von Kindern verarbeiten wir nur, wenn ein Elternteil oder Erziehungsberechtigter sie im Rahmen einer Familienbuchung angibt."] },
+    { "h": "Änderungen dieser Erklärung", "p": ["Wir können diese Erklärung von Zeit zu Zeit aktualisieren. Das Datum oben zeigt, wann sie zuletzt geändert wurde. Wesentliche Änderungen werden auf dieser Seite hervorgehoben."] }
+  ]
+}

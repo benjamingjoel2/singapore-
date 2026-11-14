@@ -1,0 +1,68 @@
+{
+  "meta": {
+    "title": "Dónde dormir en Singapur: hoteles en shophouses | Five Foot Way",
+    "description": "Los barrios que elegimos para nuestros viajeros, desde hoteles en shophouses de Chinatown hasta calles tranquilas junto al Botanic Gardens y la costa este."
+  },
+  "hero": {
+    "kicker": "Alojamiento",
+    "title": "Dónde dormir",
+    "image": "stays-1",
+    "sub": "Elige primero el barrio y después el hotel. Dónde duermes decide lo temprano que puedes salir a caminar."
+  },
+  "intro": {
+    "kicker": "Nuestro enfoque",
+    "text": "Alojamos a nuestros viajeros en hoteles pequeños de los barrios antiguos, cerca de una estación de MRT y de un hawker centre, para que el paseo matinal empiece en la puerta y el descanso de mediodía quede a diez minutos. Los hoteles que aparecen a continuación son provisionales mientras cerramos nuestra lista de colaboradores; los barrios y el razonamiento son reales."
+  },
+  "note": "**Son nombres provisionales.** Todavía no hemos publicado nuestros hoteles colaboradores. Cada ficha describe el tipo de alojamiento que reservamos en ese barrio. Pídenos recomendaciones actualizadas a través del [formulario de consulta](@enquire).",
+  "listTitle": "Cinco tipos de alojamiento",
+  "listText": [
+    "Cada uno está pensado para un barrio y un tipo de viaje. Te propondremos hoteles concretos, con tarifas actualizadas, en cuanto conozcamos tus fechas."
+  ],
+  "items": [
+    {
+      "name": "Hotel en shophouse A",
+      "area": "Chinatown",
+      "type": "Hotel en shophouse",
+      "image": "chinatown-1",
+      "text": [
+        "Una hilera restaurada de shophouses con habitaciones pequeñas, techos altos y un five-foot way en la puerta. Tres hawker centres a menos de diez minutos y tres líneas de MRT cerca. Para primeras visitas y estancias cortas."
+      ]
+    },
+    {
+      "name": "Hotel de casas adosadas B",
+      "area": "Emerald Hill / Orchard",
+      "type": "Hotel en casas adosadas",
+      "image": "stays-1",
+      "text": [
+        "Casas adosadas peranakan en una colina tranquila a pocos minutos de Orchard Road. Muy práctico para ir al Botanic Gardens al amanecer."
+      ]
+    },
+    {
+      "name": "Hotel boutique C",
+      "area": "Katong / Joo Chiat",
+      "type": "Hotel boutique",
+      "image": "stays-2",
+      "text": [
+        "Un hotel pequeño en una shophouse reconvertida entre las calles peranakan, a veinte minutos de Changi. Para escalas, vuelos nocturnos y para quien disfruta comiendo."
+      ]
+    },
+    {
+      "name": "Hotel jardín D",
+      "area": "Tanglin / Dempsey",
+      "type": "Hotel jardín",
+      "image": "stays-3",
+      "text": [
+        "Habitaciones en edificios bajos entre árboles centenarios cerca del Botanic Gardens, tranquilas por la noche. Para caminantes y familias que buscan espacio y piscina."
+      ]
+    },
+    {
+      "name": "Hotel junto al río E",
+      "area": "Robertson Quay",
+      "type": "Hotel en almacén",
+      "image": null,
+      "text": [
+        "Un antiguo almacén reconvertido en la parte alta y tranquila del río, cerca del paseo fluvial y del Civic District. Para estancias largas en la ciudad."
+      ]
+    }
+  ]
+}

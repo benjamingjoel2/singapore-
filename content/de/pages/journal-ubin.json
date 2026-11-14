@@ -1,0 +1,31 @@
+{
+  "meta": {
+    "title": "Ein Morgen auf Pulau Ubin | Five Foot Way Journal",
+    "description": "Das erste Bumboat ab Changi, ein Leihfahrrad, der Steg von Chek Jawa und nasi lemak auf dem Heimweg: ein Morgen auf Singapurs Kampong-Insel."
+  },
+  "title": "Ein Morgen auf Pulau Ubin",
+  "kicker": "Inseln",
+  "image": "ubin-2",
+  "date": "2026-08-20",
+  "dateLabel": "August 2026",
+  "minutes": 5,
+  "excerpt": "Das erste Boot, ein Fahrrad mit einem Gang zu wenig und der stillste Morgen Singapurs.",
+  "related": ["pulau-ubin", "changi", "katong"],
+  "body": [
+    { "p": "Pulau Ubin erlebt man am besten, wenn man das erste Boot nimmt. Das Changi Point Ferry Terminal ist ein kleiner, offener Unterstand neben dem Hawker Centre, und an Wochentagen sind die Fahrgäste morgens eine bunte Mischung: Inselbewohner mit Einkaufstaschen, Radfahrer, Vogelbeobachter mit langen Objektiven und ein paar Besucher. Das Boot legt ab, sobald genug Leute an Bord sind. Das Warten scheint niemanden zu stören." },
+    { "h2": "Die Überfahrt" },
+    { "p": "Sie dauert etwa zehn Minuten. Das Bumboat, ein hölzernes Motorboot mit Sitzbänken und Sonnendach, quert eine Meerenge voller ankernder Schiffe, und plötzlich liegt die Stadt hinter Ihnen. Vor Ihnen eine flache, grüne Insel mit einem Anleger, ein paar Dächern und keinem einzigen Hochhaus." },
+    { "h2": "Das Dorf" },
+    { "p": "Im Dorf am Anleger gibt es eine Handvoll Fahrradverleihe, einen kleinen Lebensmittelladen, ein paar Seafood-Restaurants und einen Schrein. Leihen Sie sich ein Rad, prüfen Sie die Bremsen und vereinbaren Sie, wann Sie es zurückbringen. Die Wege sind ruhig, aber stellenweise hügelig, und sobald Sie den Schatten verlassen, wird es schnell heiß." },
+    { "h2": "Chek Jawa" },
+    { "p": "An der Ostspitze führt der Steg von Chek Jawa durch die Mangroven und hinaus übers Meer. Bei Ebbe wimmelt es am Ufer darunter vor Leben: Krabben, Schlammspringer, Seesterne. Vom Aussichtsturm blicken Sie über das Blätterdach bis nach Malaysia. Am frühen Morgen haben Sie ihn womöglich fast für sich allein." },
+    { "h2": "Zurück vor dem Gewitter" },
+    { "p": "In den Monaten des Zwischenmonsuns sollten Sie bis zum frühen Nachmittag wieder auf der Hauptinsel sein. Geben Sie das Rad zurück, nehmen Sie das Boot und enden Sie dort, wo Sie begonnen haben: im Changi Village Hawker Centre, mit einem Teller nasi lemak und einem kalten Limettensaft, zehn Minuten vom Flughafen entfernt." },
+    { "ul": [
+      "**Nehmen Sie Bargeld mit** für das Boot und den Fahrradverleih.",
+      "**Haben Sie Wasser dabei** und Sonnenschutz; auf den Wegen gibt es nur stellenweise Schatten.",
+      "**Respektieren Sie die Bewohner**: Die Kampong-Häuser sind Wohnhäuser, keine Ausstellungsstücke.",
+      "**Nehmen Sie Ihren Müll wieder mit**."
+    ] }
+  ]
+}
