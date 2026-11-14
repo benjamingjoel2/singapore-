@@ -32,10 +32,11 @@ export default {
 
   // Palette: Shophouse and Monsoon. All text/background pairs used on the site pass WCAG AA.
   palette: {
-    ink: '#1C2326',          // body text
-    cream: '#F8F1E3',        // frangipani cream (page background)
-    mint: '#CFE8DA',         // shophouse mint
-    mintDeep: '#9FCFB6',
+    ink: '#1D2325',          // body text
+    cream: '#F5F0E7',        // frangipani cream (page background)
+    mint: '#DCEBE2',         // shophouse mint
+    mintDeep: '#A9CDB9',
+    sand: '#EBE4D7',         // warm sand for alternate sections
     cobalt: '#1F3C9C',       // Peranakan cobalt (accent)
     terracotta: '#A3442A',   // roof-tile terracotta
     terracottaSoft: '#E9C6B5',

@@ -100,7 +100,7 @@ ${ctx.headExtra ?? ''}
 <script type="application/ld+json">${JSON.stringify(jsonld(ctx, canonical))}</script>
 ${scripts}
 </head>
-<body class="t-${pg.type}">
+<body class="t-${pg.type}${['legal', 'credits'].includes(pg.type) ? ' no-hero' : ''}">
 <a class="skip" href="#main">${esc(ui.skip)}</a>
 ${header(ctx)}
 ${menu(ctx)}
@@ -210,14 +210,14 @@ ${after}
 
 const louvre = (light = false) => `<hr class="louvre${light ? ' louvre--light' : ''}" aria-hidden="true">`;
 
-function placeCard(ctx, id, sizes = '(min-width:760px) 50vw, 100vw') {
+function placeCard(ctx, id, sizes = '(min-width:760px) 33vw, 100vw') {
   const d = placeData(ctx, id);
-  return `<a class="card rv" href="${ctx.url(id)}">${ctx.img(d.hero.image, { sizes })}<span class="card__label"><span class="bx">${d.nav.split(/\s+/).map((w) => `<span>${esc(w)}</span>`).join(' ')}</span><span class="mono">${esc(d.hero.kicker)}</span></span></a>`;
+  return `<a class="card rv" href="${ctx.url(id)}"><span class="card__img">${ctx.img(d.hero.image, { sizes })}</span><span class="card__label"><span class="kicker">${esc(d.hero.kicker)}</span><span class="card__title">${esc(d.nav)}</span></span></a>`;
 }
 
 function tile(ctx, { href, image, tag, title, meta = [], cta }) {
-  return `<a class="tile" href="${href}"><span class="tile__img">${ctx.img(image, { sizes: '(min-width:900px) 380px, 78vw' })}${tag ? `<span class="tile__tag">${esc(tag)}</span>` : ''}</span>
-<span class="tile__body"><h3>${esc(title)}</h3>${meta.length ? `<span class="tile__meta">${meta.map((m) => `<span>${esc(m)}</span>`).join('')}</span>` : ''}<span class="btns"><span class="btn">${esc(cta ?? ctx.ui.explore)}</span><span class="btn-c">${ARROW}</span></span></span></a>`;
+  return `<a class="tile" href="${href}"><span class="tile__img">${ctx.img(image, { sizes: '(min-width:900px) 380px, 78vw' })}</span>
+<span class="tile__body">${tag ? `<span class="kicker muted">${esc(tag)}</span>` : ''}<h3>${esc(title)}</h3>${meta.length ? `<span class="tile__meta">${meta.map((m) => `<span>${esc(m)}</span>`).join('')}</span>` : ''}<span class="btns"><span class="btn">${esc(cta ?? ctx.ui.explore)}</span><span class="btn-c">${ARROW}</span></span></span></a>`;
 }
 
 function rail(ctx, { title, link, linkLabel, items, bg }) {
@@ -260,7 +260,7 @@ ${cta ? `<div class="on-dark">${cta}</div>` : ''}</div></section>`;
 /* ─────────── HOME ─────────── */
 function home(ctx) {
   const { data: d, ui, url, img, md, placeIds } = ctx;
-  const stripItems = d.strip.map((s, i) => `<a href="${url(s.id)}">${img(s.image, { sizes: '96px' })}<span><span class="mono">0${i + 1}</span><b>${esc(s.label)}</b></span></a>`).join('');
+  const stripItems = d.strip.map((s, i) => `<a href="${url(s.id)}"><span class="mono">0${i + 1}</span><b>${esc(s.label)}</b></a>`).join('');
   const rows = d.explore.rows.map((r) => `<a class="row rv" href="${url(r.id)}">
 <div class="row__head"><h3>${boxed(r.title, 'bx--plain')}</h3>${r.meta ? `<p class="mono muted">${esc(r.meta)}</p>` : ''}</div>
 <div class="row__media">${img(r.image, { sizes: '(min-width:900px) 28vw, 100vw' })}</div>
@@ -453,7 +453,7 @@ function journal(ctx) {
   const { data: d, ui, url, md } = ctx;
   return `${hero(ctx, d.hero)}
 <section class="sec"><div class="sec__head"><p class="lead" style="max-width:56ch">${md(d.intro)}</p></div>
-<div class="cards cards--3">${articleIds.map((id) => { const a = placeData(ctx, id); return `<a class="tile rv" href="${url(id)}" style="background:#EFE7D6"><span class="tile__img">${ctx.img(a.image, { sizes: '(min-width:760px) 33vw, 100vw' })}<span class="tile__tag">${esc(a.kicker)}</span></span><span class="tile__body"><h3>${esc(a.title)}</h3><span class="small">${esc(a.excerpt)}</span><span class="tile__meta"><span>${esc(a.dateLabel)}</span><span>${a.minutes} ${esc(ui.journal.minRead)}</span></span><span class="btns"><span class="btn">${esc(ui.readMore)}</span><span class="btn-c">${ARROW}</span></span></span></a>`; }).join('')}</div></section>`;
+<div class="cards cards--3">${articleIds.map((id) => { const a = placeData(ctx, id); return `<a class="tile rv" href="${url(id)}"><span class="tile__img">${ctx.img(a.image, { sizes: '(min-width:760px) 33vw, 100vw' })}</span><span class="tile__body"><span class="kicker muted">${esc(a.kicker)}</span><h3>${esc(a.title)}</h3><span class="small">${esc(a.excerpt)}</span><span class="tile__meta"><span>${esc(a.dateLabel)}</span><span>${a.minutes} ${esc(ui.journal.minRead)}</span></span><span class="btns"><span class="btn">${esc(ui.readMore)}</span><span class="btn-c">${ARROW}</span></span></span></a>`; }).join('')}</div></section>`;
 }
 
 function article(ctx) {

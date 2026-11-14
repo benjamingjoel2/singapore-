@@ -9,6 +9,7 @@
     requestAnimationFrame(() => {
       const y = scrollY;
       hdr.classList.toggle('is-hidden', y > 240 && y > lastY && !d.body.classList.contains('menu-open'));
+      hdr.classList.toggle('is-solid', y > 40);
       lastY = y; ticking = false;
     });
   }, { passive: true });
