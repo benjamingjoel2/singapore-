@@ -15,7 +15,7 @@ export default {
   // The live site URL (no trailing slash). Used for canonical, hreflang, sitemap and JSON-LD.
   siteUrl: 'https://fivefootway.tourground.com',
   // Vercel production URL (updated after deployment).
-  liveUrl: 'https://fivefootway.vercel.app',
+  liveUrl: 'https://fivefootway.tourground.com',
 
   contact: {
     email: 'fivefootway@tourground.com',

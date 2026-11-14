@@ -2,7 +2,7 @@
 
 A static, four-language travel website for Singapore beyond the stopover: shophouse neighbourhoods, hawker centres, Pulau Ubin and the rainforest inside the city, planned around the heat and the rain.
 
-- **Live site:** https://fivefootway.vercel.app (production domain format: `fivefootway.tourground.com`)
+- **Live site:** https://fivefootway.tourground.com (also at https://fivefootway.vercel.app)
 - **Languages:** English (root), French `/fr/`, German `/de/`, Spanish `/es/`. Every page exists in all four, pre-rendered.
 - **Stack:** plain Node.js build script (no framework, no runtime dependencies), hand-written CSS, ~4 KB of vanilla JS, one Vercel serverless function for the enquiry form.
 
@@ -82,7 +82,7 @@ Without `RESEND_API_KEY`, enquiries are written to the Vercel function logs (Pro
 
 ## Deploying
 
-The repository is connected to Vercel (team "Benjamin - Sevo"); every push to `main` deploys to production. `vercel.json` sets the build command (`node build.mjs`), the output folder (`dist`), clean URLs and cache headers. To point the production domain at the site, add `fivefootway.tourground.com` under Project → Settings → Domains and create the CNAME record it shows at your DNS provider.
+The repository is connected to Vercel (team "Benjamin - Sevo"); every push to `main` deploys to production. `vercel.json` sets the build command (`node build.mjs`), the output folder (`dist`), clean URLs and cache headers. The custom domain `fivefootway.tourground.com` is connected (CNAME on Cloudflare pointing to Vercel).
 
 ## Before launch
 
