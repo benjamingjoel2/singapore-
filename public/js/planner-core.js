@@ -95,7 +95,8 @@ const dayOf = (t) => Math.floor(Math.round(t * 4) / 96) + 1;
 export function renderPlan(input, acts, ui) {
   const r = plan(input, acts);
   const v = { air: [ui.verdictAir, ui.airsideWhy, 'air'], jewel: [ui.verdictJewel, ui.jewelWhy, 'air'], city: [ui.verdictCity, ui.cityWhy, 'city'], stay: [ui.verdictStay, ui.stayWhy, 'city'] }[r.verdict];
-  const ct = r.verdict === 'air' ? '0' : `${Math.floor(r.cityTime)}${ui.hoursShort}${r.cityTime % 1 >= 0.5 ? '30' : ''}`;
+  const sep = ui.hoursShort.length > 1 ? " " : "";
+  const ct = r.verdict === "air" ? "0" : `${Math.floor(r.cityTime)}${sep}${ui.hoursShort}${r.cityTime % 1 >= 0.5 ? " 30" : ""}`;
   const multi = r.A + r.H >= 24;
   let lastDay = 0;
   const rows = r.items.map((it) => {

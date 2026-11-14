@@ -12,13 +12,26 @@
     "sub": "Ein Wasserfall, der durch eine Glaskuppel stürzt, Gärten zwischen den Gates und ein altes Dorf am Meer, zehn Minuten entfernt."
   },
   "info": [
-    { "label": "In die Stadt", "value": "Etwa 30–45 Minuten mit MRT oder Taxi" },
-    { "label": "Jewel", "value": "Öffentlicher Bereich, mit Terminal 1 verbunden" },
-    { "label": "Planen", "value": "Nutzen Sie den Stopover-Planer" }
+    {
+      "label": "In die Stadt",
+      "value": "Etwa 30–45 Minuten mit MRT oder Taxi"
+    },
+    {
+      "label": "Jewel",
+      "value": "Öffentlicher Bereich, mit Terminal 1 verbunden"
+    },
+    {
+      "label": "Planen",
+      "value": "Nutzen Sie den Stopover-Planer"
+    }
   ],
   "intro": {
     "heading": "Der Flughafen, für den sich frühes Kommen lohnt",
-    "chips": ["Jewel", "Gärten im Transit", "Changi Village"],
+    "chips": [
+      "Jewel",
+      "Gärten im Transit",
+      "Changi Village"
+    ],
     "text": [
       "Changi ist oft das Erste, was man von Singapur sieht, und für viele Reisende das Einzige. Es lohnt sich, den Flughafen gut zu kennen. Die Terminals sind im Transitbereich durch eine Bahn verbunden, und jedes hat eigene Gärten, Ruhezonen und stille Ecken. Das 2019 eröffnete Jewel liegt auf der öffentlichen Seite von Terminal 1; für einen Besuch müssen Sie also durch die Einreisekontrolle.",
       "Zehn Minuten von den Terminals entfernt ist Changi Village eine andere Welt: ein Hawker Centre, berühmt für nasi lemak, das Fährterminal nach Pulau Ubin und ein Bohlenweg an der Küste unter Kasuarinen."
@@ -28,7 +41,10 @@
     {
       "title": "Jewel und der Rain Vortex",
       "image": "changi-1",
-      "meta": ["Öffentlicher Bereich", "Licht- und Tonshow am Abend"],
+      "meta": [
+        "Öffentlicher Bereich",
+        "Licht- und Tonshow am Abend"
+      ],
       "text": [
         "Der Rain Vortex stürzt aus einer Öffnung im Glasdach rund vierzig Meter tief in ein Becken, umgeben von einem terrassierten Indoor-Wald. Abends wird eine Licht- und Tonshow auf das fallende Wasser projiziert. Für den Canopy Park auf der obersten Ebene braucht man ein Ticket."
       ]
@@ -36,35 +52,53 @@
     {
       "title": "Gärten und Ruhezonen im Transit",
       "image": "changi-2",
-      "meta": ["Transitbereich", "Transit"],
+      "meta": [
+        "Transitbereich",
+        "Transit"
+      ],
       "text": [
         "Die Terminals haben Gärten im Transitbereich, darunter einen Schmetterlingsgarten in Terminal 3, dazu Ruhezonen, Transithotels und einen Pool auf dem Dach. Durch Renovierungen ändert sich das Angebot; prüfen Sie am Reisetag, was in Ihrem Terminal geöffnet ist."
       ]
     },
     {
       "title": "Changi Village und der Küstenweg",
-      "meta": ["Hawker Centre", "Bohlenweg"],
+      "meta": [
+        "Hawker Centre",
+        "Bohlenweg"
+      ],
       "text": [
         "An der Nordostspitze der Insel hat Changi Village eine entspannte Strandatmosphäre, ein berühmtes Hawker Centre und den Changi Point Coastal Walk, einen Bohlenweg am Ufer mit Blick auf Pulau Ubin und Malaysia."
       ]
     },
     {
       "title": "Changi Chapel and Museum",
-      "meta": ["Kriegsgeschichte", "Museum"],
+      "meta": [
+        "Kriegsgeschichte",
+        "Museum"
+      ],
       "text": [
         "Ein kleines, bewegendes Museum über die Geschichte der Kriegsgefangenen und Zivilisten, die während der japanischen Besatzung in Changi interniert waren, mit einem Nachbau der Kapelle, die die Gefangenen errichteten."
       ]
     }
   ],
   "bleed": {
-    "image": "changi-2",
+    "image": null,
     "kicker": "Küstenweg",
     "title": "Changi Point am Meer",
     "text": "Ein Bohlenweg am Ufer von Changi Point, im Schatten von Kasuarinen, mit Hawker Centre und Ubin-Fähre am Start. Gut für ein paar Stunden bei einem langen Zwischenstopp.",
     "facts": [
-      { "label": "Start", "value": "Changi Village" },
-      { "label": "Länge", "value": "Etwa 2,2 km" },
-      { "label": "Beste Zeit", "value": "Morgens oder am späten Nachmittag" }
+      {
+        "label": "Start",
+        "value": "Changi Village"
+      },
+      {
+        "label": "Länge",
+        "value": "Etwa 2,2 km"
+      },
+      {
+        "label": "Beste Zeit",
+        "value": "Morgens oder am späten Nachmittag"
+      }
     ],
     "cta": "Zum Spaziergang"
   },
@@ -74,15 +108,44 @@
       "Das Flughafenessen in Changi ist besser als anderswo, mit lokalen Food Courts in jedem Terminal und im Untergeschoss des Jewel. Wenn Sie aber Zeit haben, bringt Sie ein Taxi nach Changi Village zu einer richtigen Hawker-Mahlzeit."
     ],
     "items": [
-      { "name": "Changi Village Hawker Centre", "text": "Nasi lemak, satay bee hoon, mee rebus. Etwa zehn Minuten von den Terminals." },
-      { "name": "Food Courts in den Terminals", "text": "Lokale Gerichte in Food Courts im öffentlichen und im Transitbereich." },
-      { "name": "Jewel", "text": "Restaurants und Food Halls auf mehreren Ebenen." }
+      {
+        "name": "Changi Village Hawker Centre",
+        "text": "Nasi lemak, satay bee hoon, mee rebus. Etwa zehn Minuten von den Terminals."
+      },
+      {
+        "name": "Food Courts in den Terminals",
+        "text": "Lokale Gerichte in Food Courts im öffentlichen und im Transitbereich."
+      },
+      {
+        "name": "Jewel",
+        "text": "Restaurants und Food Halls auf mehreren Ebenen."
+      }
     ]
   },
   "faq": [
-    { "q": "Kann ich das Jewel während eines Transits besuchen?", "a": ["Nur wenn Sie durch die Einreisekontrolle gehen, denn das Jewel liegt auf der öffentlichen Seite von Terminal 1. Ob Sie nach Singapur einreisen dürfen, hängt von Ihrer Staatsangehörigkeit ab: Prüfen Sie die Regeln vor der Reise und planen Sie Zeit für die erneute Sicherheitskontrolle ein."] },
-    { "q": "Wie lange dauert die Fahrt in die Stadt?", "a": ["Etwa dreißig bis fünfundvierzig Minuten mit der MRT (je nach Linie mit Umstieg in Tanah Merah oder Expo) oder mit dem Taxi, zur Rushhour länger."] },
-    { "q": "Gibt es eine Gepäckaufbewahrung?", "a": ["Ja, in den Terminals gibt es Gepäckaufbewahrungsschalter. Prüfen Sie Standorte und Öffnungszeiten, bevor Sie den Flughafen mit Gepäck verlassen."] }
+    {
+      "q": "Kann ich das Jewel während eines Transits besuchen?",
+      "a": [
+        "Nur wenn Sie durch die Einreisekontrolle gehen, denn das Jewel liegt auf der öffentlichen Seite von Terminal 1. Ob Sie nach Singapur einreisen dürfen, hängt von Ihrer Staatsangehörigkeit ab: Prüfen Sie die Regeln vor der Reise und planen Sie Zeit für die erneute Sicherheitskontrolle ein."
+      ]
+    },
+    {
+      "q": "Wie lange dauert die Fahrt in die Stadt?",
+      "a": [
+        "Etwa dreißig bis fünfundvierzig Minuten mit der MRT (je nach Linie mit Umstieg in Tanah Merah oder Expo) oder mit dem Taxi, zur Rushhour länger."
+      ]
+    },
+    {
+      "q": "Gibt es eine Gepäckaufbewahrung?",
+      "a": [
+        "Ja, in den Terminals gibt es Gepäckaufbewahrungsschalter. Prüfen Sie Standorte und Öffnungszeiten, bevor Sie den Flughafen mit Gepäck verlassen."
+      ]
+    }
   ],
-  "related": ["katong", "pulau-ubin", "marina-bay", "civic-district"]
+  "related": [
+    "katong",
+    "pulau-ubin",
+    "marina-bay",
+    "civic-district"
+  ]
 }
