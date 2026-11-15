@@ -100,7 +100,7 @@ ${ctx.headExtra ?? ''}
 <script type="application/ld+json">${JSON.stringify(jsonld(ctx, canonical))}</script>
 ${scripts}
 </head>
-<body class="t-${pg.type}${['legal', 'credits'].includes(pg.type) ? ' no-hero' : ''}">
+<body class="t-${pg.type}${['legal', 'credits'].includes(pg.type) ? ' no-hero' : ' has-hero'}">
 <a class="skip" href="#main">${esc(ui.skip)}</a>
 ${header(ctx)}
 ${menu(ctx)}
@@ -190,22 +190,20 @@ function jsonld(ctx, canonical) {
 }
 
 /* ─────────── shared blocks ─────────── */
-function hero(ctx, h, { inner = true, after = '', image2 = null, links = '' } = {}) {
-  const sizes = '(min-width:900px) 40vw, calc(100vw - 32px)';
-  ctx.headExtra = (ctx.headExtra ?? '') + ctx.preloadHero(h.image, sizes);
-  // Collage hero: title and links on paper to the left, a tall captioned photograph to the right,
-  // with an optional second photograph overlapping its lower-left corner.
+function hero(ctx, h, { inner = true, after = '', links = '' } = {}) {
+  ctx.headExtra = (ctx.headExtra ?? '') + ctx.preloadHero(h.image, '100vw');
+  // Cover plate: full-bleed photograph under a transparent header; the title sits on a paper panel.
   return `<section class="hero${inner ? ' hero--inner' : ''}">
-<div class="hero__body">
+<div class="hero__media">${ctx.img(h.image, { eager: true, sizes: '100vw' })}</div>
+<div class="rain" aria-hidden="true"></div>
+<div class="hero__panel">
 ${h.kicker ? `<p class="kicker muted hero__kicker">${esc(h.kicker)}</p>` : ''}
 <h1>${boxed(h.title)}</h1>
 ${h.sub ? `<p class="hero__sub">${ctx.md(h.sub)}</p>` : ''}
 ${links ? `<div class="hero__links">${links}</div>` : ''}
 </div>
-<figure class="hero__media">${ctx.img(h.image, { eager: true, sizes })}<figcaption>${esc(ctx.alt(h.image))}</figcaption>
-${image2 ? `<span class="hero__inset">${ctx.img(image2, { sizes: '(min-width:900px) 18vw, 40vw' })}</span>` : ''}</figure>
-${after}
-</section>`;
+<p class="hero__caption">${esc(ctx.alt(h.image))}</p>
+</section>${after}`;
 }
 
 const louvre = (light = false) => `<hr class="louvre${light ? ' louvre--light' : ''}" aria-hidden="true">`;
@@ -271,7 +269,7 @@ function home(ctx) {
 <div class="cards">${ids.map((id) => placeCard(ctx, id)).join('')}</div></section>`;
   const journeysData = placeData(ctx, 'journeys');
   const heroLinks = btn(url('enquire'), ui.planTrip) + btn(url(d.strip[1].id), d.strip[1].label, 'muted');
-  return `${hero(ctx, d.hero, { inner: false, image2: d.hero.image2 ?? 'katong-1', links: heroLinks })}
+  return `${hero(ctx, d.hero, { inner: false, links: heroLinks })}
 <section class="statement"><p class="kicker">${esc(d.statement.kicker)}</p><p class="rv">${md(d.statement.text)}</p></section>
 <section class="collage">
 <figure class="collage__a rv" style="margin:0">${img(d.collage.imageA, { sizes: '(min-width:900px) 66vw, 100vw' })}<figcaption><h2>${esc(d.collage.title)}</h2><p class="small" style="margin:0;max-width:60ch">${md(d.collage.caption)}</p></figcaption></figure>
@@ -300,8 +298,7 @@ function place(ctx) {
 ${r.image ? `<div class="row__media">${img(r.image, { sizes: '(min-width:900px) 28vw, 100vw' })}</div>` : ''}
 <div class="row__foot"><div class="row__text">${paras(r.text)}</div></div></article>`).join('');
   const related = d.related.map((id) => { const p = placeData(ctx, id); return tile(ctx, { href: url(id), image: p.hero.image, tag: p.hero.kicker, title: p.nav }); });
-  const inset = d.rows.map((r) => r.image).find((k) => k && k !== d.hero.image);
-  return `${hero(ctx, d.hero, { after: info, image2: inset })}
+  return `${hero(ctx, d.hero, { after: info })}
 <section class="split" aria-labelledby="intro-h">
 <div class="split__l"><div><h2 id="intro-h">${boxed(d.intro.heading)}</h2>${d.intro.chips ? `<div class="chips" style="margin-top:18px">${d.intro.chips.map((c) => `<span class="chip">${esc(c)}</span>`).join('')}</div>` : ''}</div>${MOTIF}<div style="max-width:52ch">${paras(d.intro.text)}</div></div>
 <div class="split__r"><p class="kicker" style="padding:8px 0 4px">${esc(ui.place.inThisArea)}</p>${rows}</div>

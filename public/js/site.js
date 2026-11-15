@@ -4,6 +4,7 @@
   // header: hide on scroll down, show on scroll up
   const hdr = d.getElementById('hdr');
   let lastY = scrollY, ticking = false;
+  hdr.classList.toggle('is-solid', scrollY > 40);
   addEventListener('scroll', () => {
     if (ticking) return; ticking = true;
     requestAnimationFrame(() => {

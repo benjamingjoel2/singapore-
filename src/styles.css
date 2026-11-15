@@ -113,30 +113,35 @@ a.cell:hover{color:var(--cobalt)}
 .menu .lang{display:flex;font-size:var(--fs-s)}
 @media (min-width:860px){.menu__grid{grid-template-columns:repeat(3,1fr)}}
 
-/* ── hero: collage — title on paper left, tall photo right, inset photo overlapping ── */
-.hero{position:relative;padding:clamp(32px,6vw,96px) var(--g) 0;display:grid;grid-template-columns:minmax(0,1fr);gap:36px}
-.hero__body{display:grid;gap:24px;align-content:start}
+/* ── hero: cover plate — full-bleed photo, title on a paper panel ── */
+.hero{position:relative;display:flex;flex-direction:column;isolation:isolate;background:var(--monsoonDark)}
+.hero__media{position:relative;height:72svh;min-height:420px}
+.hero__media picture{display:block;height:100%}
+.hero__media img{width:100%;height:100%;object-fit:cover}
+.hero__media::after{content:"";position:absolute;inset:0;background:linear-gradient(180deg,rgba(20,26,28,.5) 0,rgba(20,26,28,0) 26%,rgba(20,26,28,0) 70%,rgba(20,26,28,.25) 100%)}
+.hero .rain{z-index:1;height:72svh;bottom:auto}
+.hero__panel{position:relative;z-index:2;margin:-96px var(--g) 0;background:var(--paper);padding:28px 24px 28px;display:grid;gap:18px}
 .hero__kicker{margin:0}
-.hero h1{font-size:var(--fs-h1);max-width:12ch}
-.hero__sub{max-width:46ch;margin:0;font-size:var(--fs-l);line-height:1.6;color:#3C4549}
-.hero__links{display:flex;flex-wrap:wrap;gap:12px 32px;margin-top:4px}
+.hero h1{font-size:clamp(2.6rem,1.9rem + 3.2vw,5.25rem);line-height:.98}
+.hero__sub{margin:0;font-size:var(--fs-l);line-height:1.6;color:#3C4549}
+.hero__links{display:flex;flex-wrap:wrap;gap:12px 28px}
 .hero__links .muted .btn{color:var(--monsoon)}
-.hero__media{position:relative;margin:0}
-.hero__media img{width:100%;aspect-ratio:4/5;max-height:78svh;object-fit:cover}
-.hero__media figcaption,.plate figcaption{margin-top:12px;font-size:var(--fs-xs);color:var(--monsoon);max-width:60ch}
-.hero__inset{display:none}
-.hero .infobar,.hero .strip{grid-column:1/-1;margin-inline:0}
+.hero__caption{display:none}
+.hero+.infobar{margin-top:0;padding-top:8px}
+.has-hero .hero{background:var(--paper)}
 @media (min-width:900px){
- .hero{grid-template-columns:repeat(12,minmax(0,1fr));column-gap:20px;row-gap:40px;align-items:start}
- .hero__body{grid-column:1/span 5;padding-top:clamp(24px,5vw,96px)}
- .hero__sub{max-width:40ch}
- .hero__media{grid-column:8/span 5}
- .hero__media img{height:min(80svh,780px);aspect-ratio:auto}
- .hero--inner .hero__media img{height:min(72svh,700px)}
- .hero__inset{display:block;position:absolute;left:-40%;bottom:56px;width:38%;border:10px solid var(--paper);background:var(--paper)}
- .hero .hero__media .hero__inset img{aspect-ratio:4/5;height:auto;max-height:none}
- .hero h1{max-width:13ch}
+ .hero{height:100svh;min-height:640px;justify-content:flex-end}
+ .hero--inner{height:88svh}
+ .hero__media{position:absolute;inset:0;height:auto}
+ .hero .rain{height:auto;bottom:0}
+ .hero__panel{position:absolute;left:var(--g);bottom:var(--g);margin:0;width:min(640px,calc(100% - 2 * var(--g)));padding:40px 40px 36px}
+ .hero__caption{display:block;position:absolute;z-index:2;right:var(--g);bottom:var(--g);margin:0;max-width:34ch;text-align:right;font-size:var(--fs-xs);color:var(--paper);text-shadow:0 1px 10px rgba(0,0,0,.45)}
 }
+/* header over the photo: light text until the page scrolls */
+.js .has-hero .hdr{position:fixed;left:0;right:0;background:transparent;-webkit-backdrop-filter:none;backdrop-filter:none;transition:transform .45s var(--ease),background .3s,color .3s,box-shadow .3s}
+.js .has-hero .hdr:not(.is-solid) .cell,.js .has-hero .hdr:not(.is-solid) .logo,.js .has-hero .hdr:not(.is-solid) .lang,.js .has-hero .hdr:not(.is-solid) .lang a[aria-current="true"]{color:var(--paper)}
+.js .has-hero .hdr:not(.is-solid) a.cell:hover,.js .has-hero .hdr:not(.is-solid) .lang a:hover{color:var(--mint)}
+.js .has-hero .hdr.is-solid{background:var(--paper);background:color-mix(in srgb,var(--paper) 96%,transparent);-webkit-backdrop-filter:blur(10px);backdrop-filter:blur(10px)}
 /* rain streaks on glass (used on full-bleed photo sections) */
 .rain{position:absolute;inset:0;z-index:-1;pointer-events:none;opacity:.22;background-image:
  repeating-linear-gradient(100deg,transparent 0 46px,rgba(255,255,255,.16) 46px 47px,transparent 47px 120px),
